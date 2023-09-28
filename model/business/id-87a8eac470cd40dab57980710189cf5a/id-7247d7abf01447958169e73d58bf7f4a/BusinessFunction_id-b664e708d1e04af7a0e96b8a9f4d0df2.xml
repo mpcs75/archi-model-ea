@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridische ondersteuning"
+    id="id-b664e708d1e04af7a0e96b8a9f4d0df2"
+    documentation="Dit domein bevat de activiteiten ten behoeve van juridisch advies, ondersteuning en beleid.">
+  <properties
+      key="Raamwerk"
+      value="RDG"/>
+</archimate:BusinessFunction>

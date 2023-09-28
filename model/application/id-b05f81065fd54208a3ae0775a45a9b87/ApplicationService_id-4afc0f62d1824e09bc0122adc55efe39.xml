@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBV-Z"
+    id="id-4afc0f62d1824e09bc0122adc55efe39"
+    documentation="Sectorale berichtenvoorziening voor de zorg&#xD;&#xA;BSN opvragen, BSN verifiëren, Opvragen persoonsgegevens, Controle identiteitsdocument&#xD;&#xA;&#xD;&#xA;https://www.sbv-z.nl/"/>

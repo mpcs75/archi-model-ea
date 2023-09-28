@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestandaardiseerde uitwisseling"
+    id="id-51009eb364c24cae96f9d52733c155a0"
+    documentation="De data wordt in gestandaardiseerd formaat uitgewisseld met kennis over de context waarin deze is ontstaan. Zo kan de data zonder interpretatiefouten geautomatiseerd worden gebruikt voor andere doeleinden of worden vertaald in begrijpelijke informatie voor de gebruiker."/>

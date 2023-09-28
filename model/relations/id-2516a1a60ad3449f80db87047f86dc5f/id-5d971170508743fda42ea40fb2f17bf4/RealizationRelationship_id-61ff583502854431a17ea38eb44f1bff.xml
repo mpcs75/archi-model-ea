@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geven richting aan ontwerp en realisatie van"
+    id="id-61ff583502854431a17ea38eb44f1bff">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1e78daf074a744b2ade967c98018dc91.xml#id-1e78daf074a744b2ade967c98018dc91"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-a2e690673e9c4270badf623cc608ad53.xml#id-a2e690673e9c4270badf623cc608ad53"/>
+</archimate:RealizationRelationship>

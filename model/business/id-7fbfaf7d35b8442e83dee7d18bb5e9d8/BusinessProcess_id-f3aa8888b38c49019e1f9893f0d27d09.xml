@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen zorghandeling"
+    id="id-f3aa8888b38c49019e1f9893f0d27d09"
+    documentation="Vastleggen van datum/tijd/plaats en benodigde resources (bijv. mensen/ruimte/overige benodigdheden) nodig voor het uitvoeren van een zorghandeling (zoals opname, therapie of andere activiteit). Hierbij hoort ook het vastleggen van afspraken met patiënten."/>

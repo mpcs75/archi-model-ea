@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning &amp; control"
+    id="id-48f412fbd19b4f0da515d56be50f4122"
+    documentation="Dit domein bevat de activiteiten ten behoeve van het ondersteunen van de periodieke interne verantwoording.">
+  <properties
+      key="Raamwerk"
+      value="RDG"/>
+</archimate:BusinessFunction>

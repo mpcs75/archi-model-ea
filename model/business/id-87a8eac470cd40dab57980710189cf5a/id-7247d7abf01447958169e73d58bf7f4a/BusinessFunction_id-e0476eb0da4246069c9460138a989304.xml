@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële afhandeling"
+    id="id-e0476eb0da4246069c9460138a989304"
+    documentation="Dit domein bevat de activiteiten op het gebied van het registreren van behandelactiviteiten (DBC's) en zorgverlening, ten behoeve van de facturering van de zorg.">
+  <properties
+      key="Raamwerk"
+      value="RDG"/>
+</archimate:BusinessFunction>

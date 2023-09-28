@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële administratie"
+    id="id-3cabf797d0214816958fb2c1a78d59e9"
+    documentation="Dit domein bevat de activiteiten ten behoeve van de financiële administratie van de organisatie.">
+  <properties
+      key="Raamwerk"
+      value="RDG"/>
+</archimate:BusinessFunction>

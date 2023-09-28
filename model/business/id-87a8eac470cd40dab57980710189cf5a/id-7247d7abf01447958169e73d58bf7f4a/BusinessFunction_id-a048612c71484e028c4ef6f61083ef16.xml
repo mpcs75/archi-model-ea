@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatie"
+    id="id-a048612c71484e028c4ef6f61083ef16"
+    documentation="Dit domein bevat de activiteiten die nodig zijn voor de participatie van de patiënt bij zijn eigen zorgproces.">
+  <properties
+      key="Raamwerk"
+      value="RDG"/>
+</archimate:BusinessFunction>

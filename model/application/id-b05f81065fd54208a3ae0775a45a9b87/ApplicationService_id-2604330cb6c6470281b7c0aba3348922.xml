@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COV"
+    id="id-2604330cb6c6470281b7c0aba3348922"
+    documentation="Controle op verzekeringsgegevens&#xD;&#xA;&#xD;&#xA;Controleren hoe en bij welke zorgverzekeraar een verzekerde verzekerd is, ten behoeve van de declaratie.&#xD;&#xA;&#xD;&#xA;https://www.vecozo.nl/diensten/controle-op-verzekeringsgegevens/"/>

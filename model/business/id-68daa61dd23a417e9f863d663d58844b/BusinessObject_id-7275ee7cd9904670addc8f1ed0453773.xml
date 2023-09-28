@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medicatie aflevering"
+    id="id-7275ee7cd9904670addc8f1ed0453773"
+    documentation="&quot;Afgifte door een apotheek van een specifiek medicijn aan een persoon voor wie de medicatie is bedoeld.&#xD;&#xA;Komt in klinische setting niet voor.&#xD;&#xA;synoniem: verstrekking&quot;"/>

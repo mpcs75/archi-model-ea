@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koppeltaal (voorziening)"
+    id="id-8b59d2c676a04dabadc5bc61f0996481"
+    documentation="Koppeltaal is een landelijke integratie- en informatiestandaard voor betere blended en digitale behandelingen van zorgaanbieders en hun patiënten. Het is een 'stekkerdoos' die zorgt dat verschillende talen van systemen samen één taal spreken: Koppeltaal. Daarnaast biedt Koppeltaal een infrastructuur waarop veilig en gericht berichten en gegevens tussen EPD-, eHealth- en ROM-systemen kunnen worden uitgewisseld binnen de muren van een organisatie.&#xD;&#xA;&#xD;&#xA;- Website: https://www.koppeltaal.nl/&#xD;&#xA;&#xD;&#xA;- Architectuur &amp; standaard specificatie: https://vzvz.atlassian.net/wiki/spaces/KTSA/overview"/>

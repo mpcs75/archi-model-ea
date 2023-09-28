@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="missie &amp; visie"
+    id="id-6082aa03190c47428f675a52c2d085b0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-dbe25036cd1a4b588fde581c3ff098d9.xml#id-dbe25036cd1a4b588fde581c3ff098d9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5e054214a1cf44058c3d7534649974c3.xml#id-5e054214a1cf44058c3d7534649974c3"/>
+</archimate:FlowRelationship>

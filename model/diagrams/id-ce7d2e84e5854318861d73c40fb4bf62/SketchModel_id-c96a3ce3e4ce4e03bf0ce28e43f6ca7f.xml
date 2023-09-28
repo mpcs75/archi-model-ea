@@ -1,0 +1,725 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Start"
+    id="id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f"
+    documentation="- Dit model met architectuur views is in de eerste plaats een manier om voor mijzelf wat meer de bomen door het complexe bos te zien.&#xD;&#xA;- Dit model maak ik grotendeels in eigen tijd omdat de onderwerpen mij erg interesseren - een klein deel pas ik toe bij mijn werkzaamheden vanuit VZVZ.&#xD;&#xA;- Veel van wat ik hier uitwerk is het resultaat van hoe ik zelf iets interpreteer - dat hoeft niet persé juist te zijn.&#xD;&#xA;"
+    background="0">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a5fefbb1df9f498a975f59f95d992e1c"
+      name="Organisatie (eenheid)"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#d2d7d7"
+      textPosition="2"
+      borderType="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="276"
+        y="36"
+        width="373"
+        height="541"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-ba3a4802e9f54b02a273a9f783c44428"
+        name="Motivatie &amp; Strategie"
+        targetConnections="id-dbd957b3ab234061999c960bb3f89172"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#c724b1"
+        documentation="- Alles wat een organisatie (eenheid) motiveert om te komen tot een optimale dienstverlening."
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Motivatie &amp; Strategie"/>
+      <bounds
+          x="24"
+          y="12"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-6e624b056c884e3d87981ffdaaf5f530"
+        name="(Zorg)processen"
+        targetConnections="id-7fe9210ce2e44a92b26bd34d2513c49f"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#44bfea"
+        documentation="- De dingen die gedaan worden door de mensen binnen een organisatie(eenheid)"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="(Zorg)processen"/>
+      <bounds
+          x="24"
+          y="108"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-75166f7ea4904fd090c21bf5642745d4"
+        name="Informatieverwerking"
+        targetConnections="id-4ca0873afca343cba2109f3517794c12"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        documentation="- De informatie die nodig is om de processen op gang te houden binnen een organisatie(eenheid). "
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Informatie"/>
+      <bounds
+          x="24"
+          y="204"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-a42223002b444a838c523fe1a7913f1f"
+        name="Applicatie"
+        targetConnections="id-6fd3cdd15efb436ea4b5341db1b851f8"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#97be0d"
+        documentation="- De applicaties die gebruikt worden door een organisatie(eenheid) ter ondersteuning van de zorg(processen)&#xD;&#xA;- De gegevens die daarbij verwerkt worden"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Applicaties"/>
+      <bounds
+          x="24"
+          y="300"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-49b645124c734167a9509696e844deaf"
+        name="IT-Infrastructuur"
+        targetConnections="id-56b59ef9d5564f899e4b4ea81df42890"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#00b140"
+        documentation="- Alle geïmplementeerde technische middelen die nodig zijn om gegevens te kunnen verwerken in applicaties door de gebruiker."
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="IT-Infrastructuur"/>
+      <bounds
+          x="24"
+          y="396"
+          width="325"
+          height="85"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-93fa1e634b084f0a92f0b37cf6d72aa9"
+      name="Interoperabiliteit (binnen en tussen organisaties)"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#444444"
+      lineColor="#c724b1"
+      fillColor="#f2f4f4"
+      textPosition="2"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="Interoperabiliteit &#xD;&#xA;(tussen en binnen organisaties)"/>
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="660"
+        y="36"
+        width="277"
+        height="541"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-a4b2d17f526945318229720bcf1a193d"
+        name="Afspraken"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#c724b1"
+        fillColor="#ffffff"
+        documentation="- Afspraken die gemaakt worden over samenwerken tussen en binnen organisaties&#xD;&#xA;- Landelijke afspraken die gemaakt worden over samenwerken"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-dbd957b3ab234061999c960bb3f89172"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#c724b1"
+          source="id-a4b2d17f526945318229720bcf1a193d"
+          target="id-ba3a4802e9f54b02a273a9f783c44428"
+          type="11">
+        <features
+            name="nameVisible"
+            value="false"/>
+      </sourceConnections>
+      <sourceConnections
+          id="id-782d2561d61045f9a3fcda81dab485a8"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#c724b1"
+          source="id-a4b2d17f526945318229720bcf1a193d"
+          target="id-c94f3f3302fc4ddf8f9ae0ccef6a97fb"
+          type="11"/>
+      <bounds
+          x="24"
+          y="12"
+          width="229"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-1bd52a0d6666470698e2c5930a57fc0f"
+        name="Samenwerking"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#44bfea"
+        fillColor="#ffffff"
+        documentation="- De samenwerking tussen organisatie(eenheden)"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-7fe9210ce2e44a92b26bd34d2513c49f"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#44bfea"
+          source="id-1bd52a0d6666470698e2c5930a57fc0f"
+          target="id-6e624b056c884e3d87981ffdaaf5f530"
+          type="11"/>
+      <sourceConnections
+          id="id-e1886220720e4a6aa9ea427c10641539"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#44bfea"
+          source="id-1bd52a0d6666470698e2c5930a57fc0f"
+          target="id-3852416350d54454951694c7cd8363d7"
+          type="11"/>
+      <bounds
+          x="24"
+          y="108"
+          width="229"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-126a99e458ce4dfeb17d5dcc84ed0873"
+        name="Structuur en inhoud"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#e16e22"
+        fillColor="#ffffff"
+        documentation="- De informatie die uitgewisseld moet worden tussen organisatie(eenheden) om de (zorg)processen op gang te houden."
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-4ca0873afca343cba2109f3517794c12"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#ff6e23"
+          source="id-126a99e458ce4dfeb17d5dcc84ed0873"
+          target="id-75166f7ea4904fd090c21bf5642745d4"
+          type="11"/>
+      <sourceConnections
+          id="id-0640eb03d8644805b9fb0eeb4faeee04"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#ff6e23"
+          source="id-126a99e458ce4dfeb17d5dcc84ed0873"
+          target="id-124051171c2946c38b0d5dbeb911441f"
+          type="11"/>
+      <bounds
+          x="24"
+          y="204"
+          width="229"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-bdfd32e90b604f2a9e7889a7b46ed658"
+        name="Koppelen van systemen"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#97be0d"
+        fillColor="#ffffff"
+        documentation="- De gegevens die gedeeld worden tussen organisatie(eenheden)&#xD;&#xA;- De gemeenschappelijke voorzieningen die het delen faciliteren"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-6fd3cdd15efb436ea4b5341db1b851f8"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#97be0d"
+          source="id-bdfd32e90b604f2a9e7889a7b46ed658"
+          target="id-a42223002b444a838c523fe1a7913f1f"
+          type="11"/>
+      <sourceConnections
+          id="id-c69d36ee64cd419e8b3befb7192dcd93"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#97be0d"
+          source="id-bdfd32e90b604f2a9e7889a7b46ed658"
+          target="id-726970224f1d4e68a8ec2755b8ef0732"
+          type="11"/>
+      <bounds
+          x="24"
+          y="300"
+          width="229"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-1ba7720af15c45d48ef925658e3c2907"
+        name="Infrastructuur"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#00b140"
+        fillColor="#ffffff"
+        documentation="- Alle geïmplementeerde technische middelen die nodig zijn om gegevens te kunnen delen tussen applicaties."
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-56b59ef9d5564f899e4b4ea81df42890"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#00b140"
+          source="id-1ba7720af15c45d48ef925658e3c2907"
+          target="id-49b645124c734167a9509696e844deaf"
+          type="11"/>
+      <sourceConnections
+          id="id-49367cc89cef4f048f9ff387bf1207d9"
+          font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          lineColor="#00b140"
+          source="id-1ba7720af15c45d48ef925658e3c2907"
+          target="id-ae954afb86ee45a6837e8194e9b42b2d"
+          type="11"/>
+      <bounds
+          x="24"
+          y="396"
+          width="229"
+          height="85"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a46f3fb9afd34c2eaca551ed97c2a883"
+      name="Organisatie (eenheid)"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#d2d7d7"
+      textPosition="2"
+      borderType="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="948"
+        y="36"
+        width="373"
+        height="541"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-c94f3f3302fc4ddf8f9ae0ccef6a97fb"
+        name="Doelstellingen"
+        targetConnections="id-782d2561d61045f9a3fcda81dab485a8"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#c724b1"
+        documentation="- Alles wat een organisatie (eenheid) motiveert om te komen tot een optimale dienstverlening."
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Motivatie &amp; Strategie"/>
+      <bounds
+          x="24"
+          y="12"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-3852416350d54454951694c7cd8363d7"
+        name="(Zorg)processen"
+        targetConnections="id-e1886220720e4a6aa9ea427c10641539"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#44bfea"
+        documentation="- De dingen die gedaan worden door de mensen binnen een organisatie(eenheid)"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="(Zorg)processen"/>
+      <bounds
+          x="24"
+          y="108"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-124051171c2946c38b0d5dbeb911441f"
+        name="Informatie"
+        targetConnections="id-0640eb03d8644805b9fb0eeb4faeee04"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#e16e22"
+        documentation="- De informatie die nodig is om de processen op gang te houden binnen een organisatie(eenheid). "
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Informatie"/>
+      <bounds
+          x="24"
+          y="204"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-726970224f1d4e68a8ec2755b8ef0732"
+        name="Applicatie"
+        targetConnections="id-c69d36ee64cd419e8b3befb7192dcd93"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#97be0d"
+        documentation="- De applicaties die gebruikt worden door een organisatie(eenheid) ter ondersteuning van de zorg(processen)&#xD;&#xA;- De gegevens die daarbij verwerkt worden"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Applicaties"/>
+      <bounds
+          x="24"
+          y="300"
+          width="325"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-ae954afb86ee45a6837e8194e9b42b2d"
+        name="IT-Infrastructuur"
+        targetConnections="id-49367cc89cef4f048f9ff387bf1207d9"
+        font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#00b140"
+        documentation="- Alle geïmplementeerde technische middelen die nodig zijn om gegevens te kunnen verwerken in applicaties door de gebruiker."
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="IT-Infrastructuur"/>
+      <bounds
+          x="24"
+          y="396"
+          width="325"
+          height="85"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-34771e6bdddb4bad91356b5553ad9c57"
+      name="Wet- en regelgeving"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="1332"
+        y="48"
+        width="121"
+        height="469"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d183f57c8fde40ada7890203241ab24f"
+      name="Beveiliging"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="1464"
+        y="48"
+        width="121"
+        height="469"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-00eee7d8d9e144f090187226b9a01130"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <bounds
+        x="144"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-0f12c531fab34b32bb6a924007c871e7.xml#id-0f12c531fab34b32bb6a924007c871e7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f9ab320b3cac427fb26efd91ab4451fb"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Beveiliging"/>
+    <bounds
+        x="12"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-5f4738a6b5ec4fe0b45b78eb78ffab18.xml#id-5f4738a6b5ec4fe0b45b78eb78ffab18"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-d7032f53773640e785cf06a86bc1a3d5"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#c724b1"
+      textPosition="1">
+    <bounds
+        x="276"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6b957cfe2836402ea96e91138fe21403.xml#id-6b957cfe2836402ea96e91138fe21403"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-67fc363f41d349809a2e931dbae67d25"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#44bfea"
+      textPosition="1">
+    <bounds
+        x="408"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-cb463c4e1bb74bd4a560806113980f8e.xml#id-cb463c4e1bb74bd4a560806113980f8e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-dfd2434c86164d63ae3ccee2ce82d229"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#e16e22"
+      textPosition="1">
+    <bounds
+        x="540"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-487be9b37a2a4de7bca1502b1635bf59.xml#id-487be9b37a2a4de7bca1502b1635bf59"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-381006e5e7214452ad6d451533bf4b87"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#97be0d"
+      textPosition="1">
+    <bounds
+        x="672"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-1e6d3d237f614c88bd7e33e057640d94.xml#id-1e6d3d237f614c88bd7e33e057640d94"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-7ceefb5a06154421ac3f6ede01403f33"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#00b140"
+      textPosition="1">
+    <bounds
+        x="804"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-3ddc4bba0c6e4a1cb5e9ea7577b73c34.xml#id-3ddc4bba0c6e4a1cb5e9ea7577b73c34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b802edb7ed7c4e30a70ad04e15f58e61"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#c724b1"
+      fillColor="#ffffff"
+      textPosition="1">
+    <bounds
+        x="936"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-9d2211cb45a04f3687b3c73864267cd3.xml#id-9d2211cb45a04f3687b3c73864267cd3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9acb095378784b74bbb857ddbcc3f683"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#44bfea"
+      fillColor="#ffffff"
+      textPosition="1">
+    <bounds
+        x="1068"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-0ea24f24e4b745928250c7044f0e60ed.xml#id-0ea24f24e4b745928250c7044f0e60ed"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a3442090781a459281ed98b1ba5ff4c5"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#e16e22"
+      fillColor="#ffffff"
+      textPosition="1">
+    <bounds
+        x="1200"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-e175f900db9645f88cf0a7e127ab8263.xml#id-e175f900db9645f88cf0a7e127ab8263"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-66e1a65ca8df4e0a9118ce25c7c0b5e1"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#97be0d"
+      fillColor="#ffffff"
+      textPosition="1">
+    <bounds
+        x="1332"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-7334362d3cdc4061a161af00bae63ada.xml#id-7334362d3cdc4061a161af00bae63ada"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a0a4cd6cd6c44857bc1684c49c940505"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#00b140"
+      fillColor="#ffffff"
+      textPosition="1">
+    <bounds
+        x="1464"
+        y="-72"
+        width="121"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-7bf14fa5aa844ce98f3c41787d8cbce2.xml#id-7bf14fa5aa844ce98f3c41787d8cbce2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-d69956ed9c4d4b8493bdc672b33b7032"
+      textPosition="1"
+      referencedModel="id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f">
+    <bounds
+        x="12"
+        y="-108"
+        width="121"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a330f046d02a42ad87a9ea9d0124f631"
+      name="Wet- en regelgeving"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      documentation="Afspraken op de vijf lagen van het Lagenmodel moeten in lijn zijn met wet- en regelgeving op landelijk en/of internationaal niveau.&#xD;&#xA;&#xD;&#xA;Op dit moment zijn met name van belang:&#xD;&#xA;&#xD;&#xA;- De Algemene Verordening Gegevensbescherming (AVG); deze stelt regels om zorgvuldig omte gaan met privacygevoelige informatie van burgers.&#xD;&#xA;- De Wet op de geneeskundige behandelingsovereenkomst (WGBO); deze regelt o.a. de dossierplicht en stelt regels over de geheimhouding van het dossier.&#xD;&#xA;- De Wet gebruik burgerservicenummer in de zorg (Wbsn-z); deze wet regelt het gebruik van het burgerservicenummer bij berichtgeving tussen zorgaanbieders onderling."
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="144"
+        y="48"
+        width="121"
+        height="469"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0254cce30006427b9890ae9e4f8b0f38"
+      name="Beveiliging"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      documentation="Een tweede aspect om op alle lagen rekening mee te houden is beveiliging. Hierbij gaat het om afspraken over de beschikbaarheid, exclusiviteit en integriteit van alle vormen van informatie.&#xD;&#xA;&#xD;&#xA;Betrokken zorgorganisaties moeten ‘in eigen huis’ de zaken op orde hebben. Dat betekent onder meer dat beide partijen de interne organisatie en processen, he​t vastleggen van informatie, de toegang tot de informatie en het beheer van gebruikte systemen en de infrastructuur goed geregeld moet hebben. Dit is een noodzakelijke voorwaarde voor veilige interoperabiliteit tussen zorgverleners en zorginstellingen."
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="12"
+        y="48"
+        width="121"
+        height="469"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6e463511b6fc427ea078eab78cfd3a2f"
+      name="!! BELANGRIJK !!"
+      font="1|Calibri|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5"
+      documentation="- Dit model met architectuur views is in de eerste plaats een manier om voor mijzelf wat meer de bomen door het complexe bos te zien.&#xD;&#xA;- Dit model maak ik grotendeels in eigen tijd omdat de onderwerpen mij erg interesseren - een klein deel pas ik toe bij mijn werkzaamheden vanuit VZVZ.&#xD;&#xA;- Veel van wat ik hier uitwerk is het resultaat van hoe ik zelf iets interpreteer - dat hoeft niet persé juist te zijn.&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="144"
+        y="-108"
+        width="121"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-4c3d9208bb15424f81ebdf5bf14647bd"
+      name="Sticky"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="1596"
+        y="-72"
+        width="121"
+        height="55"/>
+  </children>
+</archimate:SketchModel>

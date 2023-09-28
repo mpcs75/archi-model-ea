@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie voorziening"
+    id="id-13b024a193184568a480df40c09d88d1"
+    documentation="Dit domein bevat de activiteiten op het gebied van het beheren van de informatiehuishouding van de organisatie, inclusief ICT voorzieningen.">
+  <properties
+      key="Raamwerk"
+      value="RDG"/>
+</archimate:BusinessFunction>

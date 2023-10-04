@@ -1,0 +1,24 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02. Toepassing van Archimate"
+    id="id-8c325b6f051946019366ee7a29c1adb6"
+    documentation="Bij de toepassing van archimate gebruik ik de elementen en lagen zoals ik ze interpreteer en zoals ik denk dat ik binnen de lijntjes blijf van hoe het bedoeld is. Bij alle modellen gebruik ik alle metamodellen van Archimate maar ik maak daarbij veel gebruik van Abstractions (Het bewust weglaten van detail). Een reden hiervoor is dat ik het geheel eenvoudig wil houden. Een andere reden is dat ik van niet alles weet hoe het onder de motorkap uitzoet.&#xD;&#xA;&#xD;&#xA;Binnen dit canvas schets ik een voorbeeld van hoe dat er uit kan zien binnen een aantal lagen van het 5-lagenmodel. Het Motivatie &amp; Strategie heb ik hier niet in verwerkt.">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-88bb6b7ba60246a1acea2050cd70e63b"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Home"/>
+    <bounds
+        x="12"
+        y="12"
+        width="120"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-7baa2e9bbeeb44e587ed02251e5b4d3e.xml#id-7baa2e9bbeeb44e587ed02251e5b4d3e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

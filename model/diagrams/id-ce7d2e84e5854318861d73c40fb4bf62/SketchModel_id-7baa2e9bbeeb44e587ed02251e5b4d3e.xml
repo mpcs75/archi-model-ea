@@ -1,0 +1,106 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="00. Welkom"
+    id="id-7baa2e9bbeeb44e587ed02251e5b4d3e"
+    documentation="Welkom in deze  publicatie waarin ik een voorbeeld schets van hoe een Enterprise Architectuur er uit zou kunnen zien wanneer je die uitwerkt in Archimate.&#xD;&#xA;&#xD;&#xA;- Dit model met diverse architectuur weergaven is in de eerste plaats een manier om voor mijzelf wat meer de bomen door het complexe bos te zien.&#xD;&#xA;- Dit model maak ik grotendeels in eigen tijd omdat de onderwerpen mij erg interesseren - een klein deel pas ik toe bij mijn werkzaamheden vanuit VZVZ.&#xD;&#xA;- Veel van wat ik hier uitwerk is het resultaat van hoe ik zelf iets interpreteer - dat hoeft niet persé juist te zijn.&#xD;&#xA;"
+    background="0">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-53679f479f894c6db4c0084643f4d7f0"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Het&#xD;&#xA;5-lagenmodel&#xD;&#xA;als canvas"/>
+    <bounds
+        x="288"
+        y="60"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f.xml#id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-500b0223c6694bdca56dafb02492c07b"
+      name="Sticky"
+      font="1|Calibri|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Over deze publicatie">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="12"
+        width="262"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-26bf922092d54962928b65ef20bab1dd"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="De toepassing &#xD;&#xA;van Archimate"/>
+    <bounds
+        x="420"
+        y="60"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-8c325b6f051946019366ee7a29c1adb6.xml#id-8c325b6f051946019366ee7a29c1adb6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-264dfdc81db341dcaa9b1250639d672e"
+      name="Alles draait om dienstverlening"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      documentation="Iedere organisatie(een)heid is continu bezig met owel het verlenen van diensten, ofwel het afnemen van diensten. Dienstverlening is de rode draad door deze architectuur."
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="60"
+        width="120"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-bfbe0b593d9a45efb44477ae03e7867c"
+      name="Ik bedenk zo min mogelijk zelf"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      documentation="Alles binnen deze publicatie doe ik middels hergebruik van raamwerken, methodes, en practices. Wat deze publicatie wellicht bijzonder maakt is het combineren van alles zodat er één overzichtelijk systeem ontstaat."
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="156"
+        y="60"
+        width="120"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-7a2e5860887442dab2e63d3101d84cc0"
+      name="Scherp of wazig?"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      documentation="Als je deze publicatie nu bekijkt en denkt; &quot;Had je hem niet wat scherper kunnen maken?&quot; dan ligt dat waarschijnlijk aan de instellingen van je beeldscherm. Wanneer de schaal anders is ingesteld dan 100% dan zorg dat voor een wazige weergave. Wanneer de schaal op 100% staat is deze publicatie haarscherp."
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="552"
+        y="60"
+        width="120"
+        height="109"/>
+  </children>
+</archimate:SketchModel>

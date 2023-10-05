@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen en onderhouden productieplanning"
     id="id-f994c57113a54192a98e6de7334ed06a"
-    documentation="Vaststellen, bewaken en bijstellen van de productieplanning."/>
+    documentation="Vaststellen, bewaken en bijstellen van de productieplanning.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

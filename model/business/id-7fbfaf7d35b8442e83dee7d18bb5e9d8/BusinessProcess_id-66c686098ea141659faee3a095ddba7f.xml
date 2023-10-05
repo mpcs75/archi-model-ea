@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registreren verrichting"
     id="id-66c686098ea141659faee3a095ddba7f"
-    documentation="Toekennen en vastleggen van één of meer verrichtingen n.a.v. een patiëntcontact/behandeling."/>
+    documentation="Toekennen en vastleggen van één of meer verrichtingen n.a.v. een patiëntcontact/behandeling.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

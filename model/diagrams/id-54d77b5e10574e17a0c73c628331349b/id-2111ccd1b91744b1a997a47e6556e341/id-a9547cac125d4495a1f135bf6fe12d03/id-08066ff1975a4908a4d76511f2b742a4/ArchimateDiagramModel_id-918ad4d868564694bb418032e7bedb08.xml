@@ -236,7 +236,4 @@
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f.xml#id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f"/>
   </children>
-  <properties
-      key="Raamwerk"
-      value="RDG"/>
 </archimate:ArchimateDiagramModel>

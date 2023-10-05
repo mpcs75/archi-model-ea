@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="In lijn met Europese standaarden (1)"
-    id="id-f3fff48382a54f8abcba4756bc217f2b"/>
+    id="id-f3fff48382a54f8abcba4756bc217f2b">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Grootboek"
     id="id-a9129451d6d94a94a30b40e96d3025d8"
-    documentation="De verzameling van alle grootboekrekeningen met de wijzigingen die zich gedurende een bepaalde periode voordoen."/>
+    documentation="De verzameling van alle grootboekrekeningen met de wijzigingen die zich gedurende een bepaalde periode voordoen.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

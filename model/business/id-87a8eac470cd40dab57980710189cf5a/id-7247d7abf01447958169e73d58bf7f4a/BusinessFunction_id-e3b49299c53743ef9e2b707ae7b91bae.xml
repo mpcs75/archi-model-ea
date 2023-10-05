@@ -4,6 +4,6 @@
     id="id-e3b49299c53743ef9e2b707ae7b91bae"
     documentation="Dit domein bevat de activiteiten ten behoeve van inkoop, contractuele afspraken en goederenlogistiek.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

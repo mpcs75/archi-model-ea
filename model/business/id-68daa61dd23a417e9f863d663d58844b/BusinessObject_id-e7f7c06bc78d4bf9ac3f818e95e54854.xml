@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeksverslag"
     id="id-e7f7c06bc78d4bf9ac3f818e95e54854"
-    documentation="Met elkaar samenhangende tekst en/of data en/of beelden bestaande uit een combinatie van aanvraaggegevens, beschrijving van het onderzoeksproces, ruwe onderzoeksgegevens en beoordeling van deze gegevens met bijbehorende motivatie."/>
+    documentation="Met elkaar samenhangende tekst en/of data en/of beelden bestaande uit een combinatie van aanvraaggegevens, beschrijving van het onderzoeksproces, ruwe onderzoeksgegevens en beoordeling van deze gegevens met bijbehorende motivatie.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertrouwen o.b.v. hoge drempels o.b.v. wet- en regelgeving"
-    id="id-6bcb3956169f4c1a89430e52c0b527c7"/>
+    id="id-6bcb3956169f4c1a89430e52c0b527c7">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

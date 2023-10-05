@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bereiden medicatie"
     id="id-e6a431a4de174be9b59b4c229157ec04"
-    documentation="Het geheel of gedeeltelijk vervaardigen van geneesmiddelen dan wel het verpakken of etiketteren daarvan."/>
+    documentation="Het geheel of gedeeltelijk vervaardigen van geneesmiddelen dan wel het verpakken of etiketteren daarvan.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

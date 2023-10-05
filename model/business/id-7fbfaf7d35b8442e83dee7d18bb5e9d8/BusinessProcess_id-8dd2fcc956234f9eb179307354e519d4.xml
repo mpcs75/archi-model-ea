@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitwisselen van zorginformatie met externe zorgverleners"
     id="id-8dd2fcc956234f9eb179307354e519d4"
-    documentation="Het uitwisselen van zorginformatie met andere zorgverleners."/>
+    documentation="Het uitwisselen van zorginformatie met andere zorgverleners.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

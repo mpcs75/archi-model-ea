@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen verslag"
     id="id-1d0b74599d3b412cb8d6c4e3b628cd09"
-    documentation="Vastleggen en vrijgeven van het resultaat van (aanvullend) onderzoek."/>
+    documentation="Vastleggen en vrijgeven van het resultaat van (aanvullend) onderzoek.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

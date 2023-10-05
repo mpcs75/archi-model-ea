@@ -4,6 +4,6 @@
     id="id-7d251e54584d4758abdfe0537f9a4d96"
     documentation="Dit domein bevat de activiteiten op het gebied van het identificeren, vastleggen en onderhouden van zorgrelaties, inclusief zorgverleners en financiers.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

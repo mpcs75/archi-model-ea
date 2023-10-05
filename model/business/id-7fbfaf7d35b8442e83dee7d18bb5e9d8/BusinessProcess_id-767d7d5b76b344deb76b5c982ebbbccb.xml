@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren bemoeizorg"
     id="id-767d7d5b76b344deb76b5c982ebbbccb"
-    documentation="Ambulante zorg voor mensen in psychische of sociale nood die hulp nodig hebben maar dat zelf niet willen, kunnen of durven vragen; vaak is er sprake van meerdere problemen zoals psychiatrische problemen, ernstige zelfverwaarlozing en vervuiling, drugs- of alcoholverslaving, overlast, dakloosheid, schulden en/of dreigende huisuitzetting; de patiënten worden actief opgespoord door de hulpverleners en worden aangespoord om hulp te accepteren."/>
+    documentation="Ambulante zorg voor mensen in psychische of sociale nood die hulp nodig hebben maar dat zelf niet willen, kunnen of durven vragen; vaak is er sprake van meerdere problemen zoals psychiatrische problemen, ernstige zelfverwaarlozing en vervuiling, drugs- of alcoholverslaving, overlast, dakloosheid, schulden en/of dreigende huisuitzetting; de patiënten worden actief opgespoord door de hulpverleners en worden aangespoord om hulp te accepteren.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

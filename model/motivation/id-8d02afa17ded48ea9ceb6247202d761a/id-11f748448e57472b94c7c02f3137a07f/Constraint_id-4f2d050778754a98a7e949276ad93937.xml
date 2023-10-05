@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet langdurige zorg (Wlz)"
     id="id-4f2d050778754a98a7e949276ad93937"
-    documentation="- Blijvende 24 uurszorg en permanent toezicht&#xD;&#xA;- Zorg met een incicatie van centrum indicatiestelling&#xD;&#xA;- Zorg aan huis of in een instelling&#xD;&#xA;- Verplichte zorginkoop van regionale zorg door zorgkantoren en verstekken van pgb's&#xD;&#xA;&#xD;&#xA;Publicatie: https://wetten.overheid.nl/BWBR0035917"/>
+    documentation="- Blijvende 24 uurszorg en permanent toezicht&#xD;&#xA;- Zorg met een incicatie van centrum indicatiestelling&#xD;&#xA;- Zorg aan huis of in een instelling&#xD;&#xA;- Verplichte zorginkoop van regionale zorg door zorgkantoren en verstekken van pgb's&#xD;&#xA;&#xD;&#xA;Publicatie: https://wetten.overheid.nl/BWBR0035917">
+  <properties
+      key="Categorie"
+      value="Wetten"/>
+</archimate:Constraint>

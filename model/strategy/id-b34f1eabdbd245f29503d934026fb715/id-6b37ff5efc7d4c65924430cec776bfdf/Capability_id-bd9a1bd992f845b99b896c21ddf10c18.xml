@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Op basis van een uniform vertrouwensmodel"
-    id="id-bd9a1bd992f845b99b896c21ddf10c18"/>
+    id="id-bd9a1bd992f845b99b896c21ddf10c18">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

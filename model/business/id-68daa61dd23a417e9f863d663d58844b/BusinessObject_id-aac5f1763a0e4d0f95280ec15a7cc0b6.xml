@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leverancier"
     id="id-aac5f1763a0e4d0f95280ec15a7cc0b6"
-    documentation="De natuurlijke of rechtspersoon die goederen of diensten levert."/>
+    documentation="De natuurlijke of rechtspersoon die goederen of diensten levert.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

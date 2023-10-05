@@ -38,4 +38,20 @@
         width="576"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-530f11a8beaa4c0a90fe1067b7e4beba"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="48"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-d140aefda03440fcb693c44db25049a5.xml#id-d140aefda03440fcb693c44db25049a5"/>
+  </children>
 </archimate:SketchModel>

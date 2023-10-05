@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bestek"
     id="id-4e7d07d9b955478585b42b0364796c98"
-    documentation="Beschrijving van een werk, bouwplan"/>
+    documentation="Beschrijving van een werk, bouwplan">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

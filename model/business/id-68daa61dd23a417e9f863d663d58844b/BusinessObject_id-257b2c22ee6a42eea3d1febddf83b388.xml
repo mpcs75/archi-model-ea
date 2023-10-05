@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medicatie opdracht"
     id="id-257b2c22ee6a42eea3d1febddf83b388"
-    documentation="Een medicatieopdracht komt voort uit een door de apotheek verwerkt recept. Verwerking kan bestaan uit het substitueren van de medicatie, toepassen van medicatiebewaking etc."/>
+    documentation="Een medicatieopdracht komt voort uit een door de apotheek verwerkt recept. Verwerking kan bestaan uit het substitueren van de medicatie, toepassen van medicatiebewaking etc.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

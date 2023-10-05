@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren controles"
     id="id-8a4e59d85b0e499299a29313be4af111"
-    documentation="Uitvoeren van zorggerelateerde en financiële controles."/>
+    documentation="Uitvoeren van zorggerelateerde en financiële controles.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

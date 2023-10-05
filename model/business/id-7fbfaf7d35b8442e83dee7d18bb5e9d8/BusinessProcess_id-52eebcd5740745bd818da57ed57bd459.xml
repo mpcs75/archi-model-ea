@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwikkelen producten en diensten"
     id="id-52eebcd5740745bd818da57ed57bd459"
-    documentation="Ontwikkelen van (nieuwe) zorgproducten en diensten, inclusief productmanagement."/>
+    documentation="Ontwikkelen van (nieuwe) zorgproducten en diensten, inclusief productmanagement.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

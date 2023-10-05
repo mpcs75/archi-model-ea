@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens relatie onderwijs en zorgproces"
     id="id-6b38f9beb310481f8f9875f839dbe737"
-    documentation="De vastgelegde relatie tussen onderwijs en zorgproces, bijvoorbeeld supervisie van zorgprofessional voor arts in opleiding."/>
+    documentation="De vastgelegde relatie tussen onderwijs en zorgproces, bijvoorbeeld supervisie van zorgprofessional voor arts in opleiding.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

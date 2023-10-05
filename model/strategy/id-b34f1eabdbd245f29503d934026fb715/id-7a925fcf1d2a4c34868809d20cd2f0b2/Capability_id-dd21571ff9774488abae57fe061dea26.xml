@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mix van verbonden vertrouwensmodellen"
-    id="id-dd21571ff9774488abae57fe061dea26"/>
+    id="id-dd21571ff9774488abae57fe061dea26">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

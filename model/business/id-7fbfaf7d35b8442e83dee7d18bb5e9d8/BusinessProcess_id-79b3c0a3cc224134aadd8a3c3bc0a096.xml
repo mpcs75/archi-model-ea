@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verantwoording KPI's en productieafspraken"
     id="id-79b3c0a3cc224134aadd8a3c3bc0a096"
-    documentation="Verantwoording afleggen over de mate waarin voldaan wordt aan de opgelegde prestaties."/>
+    documentation="Verantwoording afleggen over de mate waarin voldaan wordt aan de opgelegde prestaties.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

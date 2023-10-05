@@ -4,6 +4,6 @@
     id="id-6724f35d0bec48bfa770f610e7d6d78a"
     documentation="Dit domein bevat de activiteiten op het gebied van het uitvoeren, meten en bijstellen van de behandeling(en) en begeleiding van de patiënt daarbij.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

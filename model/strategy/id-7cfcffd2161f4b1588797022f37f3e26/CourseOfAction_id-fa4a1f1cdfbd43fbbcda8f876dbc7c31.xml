@@ -1,4 +1,8 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie voor realsatie van het gezondheidsinformatiestelsel"
-    id="id-fa4a1f1cdfbd43fbbcda8f876dbc7c31"/>
+    id="id-fa4a1f1cdfbd43fbbcda8f876dbc7c31">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:CourseOfAction>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Netwerk"
-    id="id-5d56d8a9c49041b295f04c4102c959c7"/>
+    id="id-5d56d8a9c49041b295f04c4102c959c7">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

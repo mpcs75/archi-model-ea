@@ -39,4 +39,23 @@
         width="576"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-31967c21e2254272aa83b5a22aacf048"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#44bfea"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Referentie &#xD;&#xA;Domeinmodel &#xD;&#xA;GGZ (RDG)"/>
+    <bounds
+        x="24"
+        y="108"
+        width="120"
+        height="97"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-62bd915b157c470eb2984ce8cbac2800.xml#id-62bd915b157c470eb2984ce8cbac2800"/>
+  </children>
 </archimate:SketchModel>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="a. Eenmalige registratie"
     id="id-679d75cc199642c3bf7bd68a02f0c0a4"
-    documentation="Gegevens worden eenmalig geregistreerd en sectoroverstijgend meervoudig gebruikt om administratieve lasten te verminderen. Dit vereist een verandering in de werkprocessen van zorgprofessionals en ondersteunende systemen."/>
+    documentation="Gegevens worden eenmalig geregistreerd en sectoroverstijgend meervoudig gebruikt om administratieve lasten te verminderen. Dit vereist een verandering in de werkprocessen van zorgprofessionals en ondersteunende systemen.">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

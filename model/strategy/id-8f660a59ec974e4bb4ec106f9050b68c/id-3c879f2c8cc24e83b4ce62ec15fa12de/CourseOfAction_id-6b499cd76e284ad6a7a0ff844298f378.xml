@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="b. Onderwijs"
     id="id-6b499cd76e284ad6a7a0ff844298f378"
-    documentation="Per 2025 vormen veranderkundige en digitale vaardigheden een integraal onderdeel van het onderwijs voor zorg en welzijn en zorgen werkgevers ervoor dat deze een integraal onderdeel van een leven lang ontwikkelen van medewerkers zijn. Het verhogen van de digitale vaardigheden kan gefinancierd worden uit de algemene transitiemiddelen."/>
+    documentation="Per 2025 vormen veranderkundige en digitale vaardigheden een integraal onderdeel van het onderwijs voor zorg en welzijn en zorgen werkgevers ervoor dat deze een integraal onderdeel van een leven lang ontwikkelen van medewerkers zijn. Het verhogen van de digitale vaardigheden kan gefinancierd worden uit de algemene transitiemiddelen.">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

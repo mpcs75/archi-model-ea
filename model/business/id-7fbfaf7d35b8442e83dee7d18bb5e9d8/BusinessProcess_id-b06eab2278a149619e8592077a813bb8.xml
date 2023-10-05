@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderhouden financiers"
     id="id-b06eab2278a149619e8592077a813bb8"
-    documentation="Registreren en up-to-date houden van gegevens van financiers."/>
+    documentation="Registreren en up-to-date houden van gegevens van financiers.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

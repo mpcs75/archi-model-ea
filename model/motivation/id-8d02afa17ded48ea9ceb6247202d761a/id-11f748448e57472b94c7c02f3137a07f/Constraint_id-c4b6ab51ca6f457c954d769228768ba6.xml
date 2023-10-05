@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet publieke gezondheid (Wpg)"
     id="id-c4b6ab51ca6f457c954d769228768ba6"
-    documentation="- Organisatie van publieke gezondheidszorg&#xD;&#xA;- Bestrijding van infectieziekten&#xD;&#xA;- Opsporing van ziekten door bevolkingsonderzoek&#xD;&#xA;- Verantwoordelijkheid van gemeenten voor gezondheidsbevordering en jeugdgezondheidszorg &#xD;&#xA;&#xD;&#xA;Publicatie: https://wetten.overheid.nl/BWBR0024705"/>
+    documentation="- Organisatie van publieke gezondheidszorg&#xD;&#xA;- Bestrijding van infectieziekten&#xD;&#xA;- Opsporing van ziekten door bevolkingsonderzoek&#xD;&#xA;- Verantwoordelijkheid van gemeenten voor gezondheidsbevordering en jeugdgezondheidszorg &#xD;&#xA;&#xD;&#xA;Publicatie: https://wetten.overheid.nl/BWBR0024705">
+  <properties
+      key="Categorie"
+      value="Wetten"/>
+</archimate:Constraint>

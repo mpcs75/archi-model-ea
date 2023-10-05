@@ -1,4 +1,8 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Algemeen (hybride zorg)"
-    id="id-a0accf02a2b74a5aa4c9f523301e400d"/>
+    id="id-a0accf02a2b74a5aa4c9f523301e400d">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

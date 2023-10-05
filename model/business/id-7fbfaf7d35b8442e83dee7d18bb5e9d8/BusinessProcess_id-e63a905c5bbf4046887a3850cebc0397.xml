@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren facilitaire hulpmiddelen"
     id="id-e63a905c5bbf4046887a3850cebc0397"
-    documentation="Onderhouden en beheren van de bedrijfsbrede inventaris, vervoersmiddelen en overige facilitaire hulpmiddelen."/>
+    documentation="Onderhouden en beheren van de bedrijfsbrede inventaris, vervoersmiddelen en overige facilitaire hulpmiddelen.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

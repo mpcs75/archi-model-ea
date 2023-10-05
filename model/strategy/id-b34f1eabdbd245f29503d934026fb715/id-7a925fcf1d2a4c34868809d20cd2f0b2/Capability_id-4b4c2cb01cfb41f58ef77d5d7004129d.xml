@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zorgprocessen as-is en introductie van passende hybride zorgprocessen o.b.v. huidige digitale mogelijkheden"
-    id="id-4b4c2cb01cfb41f58ef77d5d7004129d"/>
+    id="id-4b4c2cb01cfb41f58ef77d5d7004129d">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

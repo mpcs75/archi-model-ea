@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inventaris"
     id="id-42679db26759457cbff42dfbab0bceac"
-    documentation="Registratie van de in gebouwen aanwezige inboedel."/>
+    documentation="Registratie van de in gebouwen aanwezige inboedel.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

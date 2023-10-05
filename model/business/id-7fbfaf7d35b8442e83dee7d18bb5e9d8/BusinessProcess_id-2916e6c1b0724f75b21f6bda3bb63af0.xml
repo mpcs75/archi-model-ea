@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerken medicatie voorschrift"
     id="id-2916e6c1b0724f75b21f6bda3bb63af0"
-    documentation="Door de apotheek verwerken van een medicatie voorschrift tot een medicatieopdracht (in klinische setting) of aflevering (in ambulante setting) van medicatie. Verwerking kan bestaan uit het substitueren van de medicatie, toepassen van medicatiebewaking etc."/>
+    documentation="Door de apotheek verwerken van een medicatie voorschrift tot een medicatieopdracht (in klinische setting) of aflevering (in ambulante setting) van medicatie. Verwerking kan bestaan uit het substitueren van de medicatie, toepassen van medicatiebewaking etc.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

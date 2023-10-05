@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Productieplanning"
     id="id-c80d83bd1a1f49c1b7927736c2cf00db"
-    documentation="Vastlegging van het doel en evt. subdoelen alsmede procedures om beoogde productie te bereiken."/>
+    documentation="Vastlegging van het doel en evt. subdoelen alsmede procedures om beoogde productie te bereiken.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

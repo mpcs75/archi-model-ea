@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Concurrentie op toepassing"
-    id="id-43cc190ab53b4311b6ee359477626899"/>
+    id="id-43cc190ab53b4311b6ee359477626899">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

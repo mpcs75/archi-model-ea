@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="b. Lage administratie lasten"
     id="id-bb71de1f289b4e0d85a8ad75c55ceb63"
-    documentation="Voor hergebruik voor secundaire doeleinden geldt het uitgangspunt dat administratieve lasten in het operationele proces laag worden gehouden.&#xD;&#xA;- Er worden vooraf afspraken gemaakt om data te registreren op een effectieve en efficiënte manier ter voorkoming van extra / losse registraties.&#xD;&#xA;- Het veld zorgt ervoor dat data beschikbaar is bij de bron waarop partijen data kunnen opvragen/ophalen om te voorzien in informatiebehoefte voor verschillende toepassingen volgens de afspraken die voor de zomer van 2023 daarvoor gemaakt moeten worden. Om data beschikbaar te stellen voor secundair gebruik zullen kosten gemaakt worden. Partijen zullen daarvoor nadere financiering afspreken."/>
+    documentation="Voor hergebruik voor secundaire doeleinden geldt het uitgangspunt dat administratieve lasten in het operationele proces laag worden gehouden.&#xD;&#xA;- Er worden vooraf afspraken gemaakt om data te registreren op een effectieve en efficiënte manier ter voorkoming van extra / losse registraties.&#xD;&#xA;- Het veld zorgt ervoor dat data beschikbaar is bij de bron waarop partijen data kunnen opvragen/ophalen om te voorzien in informatiebehoefte voor verschillende toepassingen volgens de afspraken die voor de zomer van 2023 daarvoor gemaakt moeten worden. Om data beschikbaar te stellen voor secundair gebruik zullen kosten gemaakt worden. Partijen zullen daarvoor nadere financiering afspreken.">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

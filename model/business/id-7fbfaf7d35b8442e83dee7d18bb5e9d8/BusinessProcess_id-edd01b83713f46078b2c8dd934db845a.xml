@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verzorgen patiënt"
     id="id-edd01b83713f46078b2c8dd934db845a"
-    documentation="Omvat persoonlijke verzorging, hulp bij eten, wondverzorging, observatie, rapportage en gespecialiseerde zorg. Hierbij kan ook hulp op maatschappelijke terreinen horen (inclusief maatschappelijk werk)."/>
+    documentation="Omvat persoonlijke verzorging, hulp bij eten, wondverzorging, observatie, rapportage en gespecialiseerde zorg. Hierbij kan ook hulp op maatschappelijke terreinen horen (inclusief maatschappelijk werk).">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

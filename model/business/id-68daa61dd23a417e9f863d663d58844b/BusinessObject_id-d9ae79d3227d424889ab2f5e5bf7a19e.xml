@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontslag"
     id="id-d9ae79d3227d424889ab2f5e5bf7a19e"
-    documentation="Van een ontslag wordt o.a. vastgelegd: datum, naam zorgverlener die ontslag verleent, type ontslag (naar thuissituatie,  overplaatsing, verwijzing, overlijden)."/>
+    documentation="Van een ontslag wordt o.a. vastgelegd: datum, naam zorgverlener die ontslag verleent, type ontslag (naar thuissituatie,  overplaatsing, verwijzing, overlijden).">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

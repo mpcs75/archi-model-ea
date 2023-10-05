@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwijsinformatie"
     id="id-439d209b5a064c118020e7dec1e27851"
-    documentation="Verwijsinformatie waarmee de zorgverlener een patiënt naar een andere zorgverlener in een andere organisatie verwijst met daarin o.a. de reden van verwijzing en verzoek om in de behoefte aan zorg of hulp te voorzien.  De ontsluiting van deze informatie kan zowel op analoge als op digitaal wijze zijn."/>
+    documentation="Verwijsinformatie waarmee de zorgverlener een patiënt naar een andere zorgverlener in een andere organisatie verwijst met daarin o.a. de reden van verwijzing en verzoek om in de behoefte aan zorg of hulp te voorzien.  De ontsluiting van deze informatie kan zowel op analoge als op digitaal wijze zijn.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

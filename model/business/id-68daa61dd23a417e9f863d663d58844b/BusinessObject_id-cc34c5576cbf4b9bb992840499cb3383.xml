@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VKAM-plan"
     id="id-cc34c5576cbf4b9bb992840499cb3383"
-    documentation="Plannen op het gebied van VKAM, bijvoorbeeld veiligheidsplan, rampenplan en kwaliteitsplan."/>
+    documentation="Plannen op het gebied van VKAM, bijvoorbeeld veiligheidsplan, rampenplan en kwaliteitsplan.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

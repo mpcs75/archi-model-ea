@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verpleegkundig dossier"
     id="id-a5b172b0f7f246c692fc9829942615ec"
-    documentation="Dossier waarin informatie over verpleegkundig handelen m.b.t. een patiënt wordt opgeslagen."/>
+    documentation="Dossier waarin informatie over verpleegkundig handelen m.b.t. een patiënt wordt opgeslagen.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

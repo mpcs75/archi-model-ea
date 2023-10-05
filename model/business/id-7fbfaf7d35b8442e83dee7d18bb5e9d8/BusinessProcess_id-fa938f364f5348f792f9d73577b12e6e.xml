@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren aanvullend onderzoek"
     id="id-fa938f364f5348f792f9d73577b12e6e"
-    documentation="Op systematische wijze, volgens een bepaalde methodiek of techniek, verkrijgen van informatie over de lichamelijke of geestelijke gesteldheid. Het afnemen van menselijk materiaal en het verzamelen van beeldmateriaal kan hier een onderdeel van zijn. Dit onderzoek kan binnen of buiten de GGZ instelling plaatsvinden."/>
+    documentation="Op systematische wijze, volgens een bepaalde methodiek of techniek, verkrijgen van informatie over de lichamelijke of geestelijke gesteldheid. Het afnemen van menselijk materiaal en het verzamelen van beeldmateriaal kan hier een onderdeel van zijn. Dit onderzoek kan binnen of buiten de GGZ instelling plaatsvinden.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

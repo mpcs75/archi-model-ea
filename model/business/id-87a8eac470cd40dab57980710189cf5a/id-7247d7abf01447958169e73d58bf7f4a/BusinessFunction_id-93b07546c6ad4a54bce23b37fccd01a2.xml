@@ -4,6 +4,6 @@
     id="id-93b07546c6ad4a54bce23b37fccd01a2"
     documentation="Dit domein bevat de activiteiten op het gebied van het beëindigen van de zorgrelatie en afsluiten van de behandeling door ontslag en/of overdracht in de keten.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

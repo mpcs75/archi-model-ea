@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="A. Regie op gegevensuitwisseling"
     id="id-ab99c144500e4ad9a7c93b427911382b"
-    documentation="Regie op gegevensuitwisseling via een landelijk dekkend netwerk van ICT-infrastructuren en -systemen"/>
+    documentation="Regie op gegevensuitwisseling via een landelijk dekkend netwerk van ICT-infrastructuren en -systemen">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

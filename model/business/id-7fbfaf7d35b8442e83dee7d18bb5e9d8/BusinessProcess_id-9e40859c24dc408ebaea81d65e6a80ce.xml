@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Periodiek evalueren behandeling"
     id="id-9e40859c24dc408ebaea81d65e6a80ce"
-    documentation="Periodiek beoordelen van effecten en resultaat van een behandeling en eventueel aanpassen van het behandelplan. Dit is mede als voorbereiding van multidisciplinaire bespreking van de patiënt (minimaal 2 keer per jaar)."/>
+    documentation="Periodiek beoordelen van effecten en resultaat van een behandeling en eventueel aanpassen van het behandelplan. Dit is mede als voorbereiding van multidisciplinaire bespreking van de patiënt (minimaal 2 keer per jaar).">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

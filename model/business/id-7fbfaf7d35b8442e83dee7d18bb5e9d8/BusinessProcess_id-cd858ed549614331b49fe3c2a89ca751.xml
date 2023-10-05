@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvragen aanvullend onderzoek"
     id="id-cd858ed549614331b49fe3c2a89ca751"
-    documentation="Aanvragen aanvullend onderzoek zoals bijvoorbeeld laboratorium, röntgen, psychodiagnostiek, vaktherapeutische onderzoek, risicotaxatie, psychiatrisch onderzoek t.b.v. het stellen van diagnose en vaststellen anamnese."/>
+    documentation="Aanvragen aanvullend onderzoek zoals bijvoorbeeld laboratorium, röntgen, psychodiagnostiek, vaktherapeutische onderzoek, risicotaxatie, psychiatrisch onderzoek t.b.v. het stellen van diagnose en vaststellen anamnese.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

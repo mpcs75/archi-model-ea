@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afleveren/ verstrekken medicatie"
     id="id-006ad59aaec245289037f8b3d85ee0c3"
-    documentation="Afgifte door een apotheek van een specifiek medicijn aan een persoon."/>
+    documentation="Afgifte door een apotheek van een specifiek medicijn aan een persoon.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

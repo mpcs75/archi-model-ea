@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderhouden contacten"
     id="id-9549f01e567f433a9f812dc8b419aa1b"
-    documentation="Onderhouden contacten met partners en belanghebbende met als doel bestaande dienstverlening te promoten en feedback te krijgen over de aangeboden diensten. Verwerven van additionele gelden en onderhouden sponsorrelaties."/>
+    documentation="Onderhouden contacten met partners en belanghebbende met als doel bestaande dienstverlening te promoten en feedback te krijgen over de aangeboden diensten. Verwerven van additionele gelden en onderhouden sponsorrelaties.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

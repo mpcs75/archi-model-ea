@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwijzen"
     id="id-ef79bbad22784a6eac1cea2cc8b1f1c8"
-    documentation="Versturen van een verzoek om een zorgverlener binnen een andere instelling in te schakelen. Hierbij hoort ook het overplaatsen van een patiënt en/of het organiseren van nazorg door een andere zorgaanbieder."/>
+    documentation="Versturen van een verzoek om een zorgverlener binnen een andere instelling in te schakelen. Hierbij hoort ook het overplaatsen van een patiënt en/of het organiseren van nazorg door een andere zorgaanbieder.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

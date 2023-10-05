@@ -4,6 +4,6 @@
     id="id-15440a0e30ad455bab6c8fda031727ab"
     documentation="Dit domein bevat de activiteiten op het gebied van het vastleggen van afspraken en planning van de zorgverlening aan patiënten.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

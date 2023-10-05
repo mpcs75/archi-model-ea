@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeksdata"
     id="id-a2eb82bcc2c1406ab88aba6fcc95f33d"
-    documentation="De tijdens het onderzoek verzamelde data."/>
+    documentation="De tijdens het onderzoek verzamelde data.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

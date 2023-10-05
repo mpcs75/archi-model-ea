@@ -4,6 +4,6 @@
     id="id-3cabf797d0214816958fb2c1a78d59e9"
     documentation="Dit domein bevat de activiteiten ten behoeve van de financiële administratie van de organisatie.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

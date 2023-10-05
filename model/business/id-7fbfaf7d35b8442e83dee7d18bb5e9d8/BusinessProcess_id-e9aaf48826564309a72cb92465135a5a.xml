@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registeren, identificeren en onderhouden patiënten"
     id="id-e9aaf48826564309a72cb92465135a5a"
-    documentation="Vaststellen van de eigenheid (identificatie) van patiënten (bijvoorbeeld d.m.v. het BSN) en het vastleggen van gegevens van deze personen."/>
+    documentation="Vaststellen van de eigenheid (identificatie) van patiënten (bijvoorbeeld d.m.v. het BSN) en het vastleggen van gegevens van deze personen.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

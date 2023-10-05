@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="i. Bijdrage Wegiz"
     id="id-d96761aeb5444fc19b01eb42908a33f2"
-    documentation="VWS onderzoekt op welke wijze de Wegiz kan bijdragen aan doelstelling 1, in het bijzonder voor de benodigde gegevensuitwisselingen voor de in doelstelling 1a en 1b benoemde kerngegevens."/>
+    documentation="VWS onderzoekt op welke wijze de Wegiz kan bijdragen aan doelstelling 1, in het bijzonder voor de benodigde gegevensuitwisselingen voor de in doelstelling 1a en 1b benoemde kerngegevens.">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

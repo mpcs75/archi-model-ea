@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategisch inkopen"
     id="id-5fba087ad6014b5581b12de50781ea67"
-    documentation="Kiezen van leverancier die de goederen of diensten mag leveren, tegen welke prijs en inkoopvoorwaarden, verzorgen van aanbestedingen en selectie, vastlegging in contracten."/>
+    documentation="Kiezen van leverancier die de goederen of diensten mag leveren, tegen welke prijs en inkoopvoorwaarden, verzorgen van aanbestedingen en selectie, vastlegging in contracten.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

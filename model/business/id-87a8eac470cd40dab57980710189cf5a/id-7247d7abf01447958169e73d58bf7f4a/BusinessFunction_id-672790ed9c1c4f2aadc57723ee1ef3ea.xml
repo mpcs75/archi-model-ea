@@ -4,6 +4,6 @@
     id="id-672790ed9c1c4f2aadc57723ee1ef3ea"
     documentation="Dit domein bevat de activiteiten ten behoeve van de facilitaire ondersteuning van de organisatie.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

@@ -4,6 +4,6 @@
     id="id-69e86aa8a9474d43baf8e8210d5c2b4a"
     documentation="Binnen bedrijfsondersteuning vallen de domeinen die ondersteunend zijn aan het bedrijfs(zorg)proces.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

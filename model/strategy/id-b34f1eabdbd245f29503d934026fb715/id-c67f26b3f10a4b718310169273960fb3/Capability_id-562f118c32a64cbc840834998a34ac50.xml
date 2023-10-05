@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschikbaarheid en uitwisseling"
-    id="id-562f118c32a64cbc840834998a34ac50"/>
+    id="id-562f118c32a64cbc840834998a34ac50">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bewaken kwaliteit en veiligheid"
     id="id-9c4cb16c30f04c9aa8cee6d32dc6291d"
-    documentation="Het optimaliseren van de kwaliteit en de veiligheid van een product, productieproces, dienst, of locatie. Omvat ook adviseren, risicomanagement, patiëntveiligheid en informatiebeveiliging."/>
+    documentation="Het optimaliseren van de kwaliteit en de veiligheid van een product, productieproces, dienst, of locatie. Omvat ook adviseren, risicomanagement, patiëntveiligheid en informatiebeveiliging.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

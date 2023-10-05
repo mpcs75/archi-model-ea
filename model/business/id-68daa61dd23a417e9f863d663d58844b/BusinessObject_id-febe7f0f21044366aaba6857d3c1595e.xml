@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beeld"
     id="id-febe7f0f21044366aaba6857d3c1595e"
-    documentation="Visualisatie van onderdelen van het lichaam verkregen met behulp van speciale technieken  (o.a. röntgenstraling, echografie, tomografie)."/>
+    documentation="Visualisatie van onderdelen van het lichaam verkregen met behulp van speciale technieken  (o.a. röntgenstraling, echografie, tomografie).">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

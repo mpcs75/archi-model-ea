@@ -4,6 +4,6 @@
     id="id-f387e590a03c47ada88eda3260532753"
     documentation="Sturing en verantwoording betreft de strategische sturing en verantwoording vanuit het hoger management, en de sturing en verantwoording op tactisch en operationeel niveau.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

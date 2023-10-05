@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bemiddeling klachten"
     id="id-103e86c557c648a38544fd82ec32c741"
-    documentation="Verwerken van klachten en bewaking van de afhandeling daarvan."/>
+    documentation="Verwerken van klachten en bewaking van de afhandeling daarvan.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

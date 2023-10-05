@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvragen collegiaal consult"
     id="id-822ba5ad3d1543e39145944e3e8f67c2"
-    documentation="Verzoek aan een collega-zorgverlener binnen of buiten de instelling om een specifiek oordeel/advies inzake diagnose of behandeling."/>
+    documentation="Verzoek aan een collega-zorgverlener binnen of buiten de instelling om een specifiek oordeel/advies inzake diagnose of behandeling.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

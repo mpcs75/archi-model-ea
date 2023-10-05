@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nazorg"
     id="id-d5329e1abbdf4b988a93486aab0ad5d5"
-    documentation="Afspraken die wordt gemaakt bij ontslag van een patiënt tot verdere behandeling of zorgverlening in een andere setting (binnen de eigen instelling) of een andere instelling (bijv. thuiszorg), inclusief afspraken over terugvalpreventie."/>
+    documentation="Afspraken die wordt gemaakt bij ontslag van een patiënt tot verdere behandeling of zorgverlening in een andere setting (binnen de eigen instelling) of een andere instelling (bijv. thuiszorg), inclusief afspraken over terugvalpreventie.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

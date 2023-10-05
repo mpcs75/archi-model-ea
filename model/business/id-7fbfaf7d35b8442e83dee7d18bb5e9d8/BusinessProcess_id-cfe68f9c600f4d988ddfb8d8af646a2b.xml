@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren personeels informatie"
     id="id-cfe68f9c600f4d988ddfb8d8af646a2b"
-    documentation="Omvat het beheren van de personeelsregistratie, inclusief verzuim- en verlofregistratie."/>
+    documentation="Omvat het beheren van de personeelsregistratie, inclusief verzuim- en verlofregistratie.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

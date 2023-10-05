@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Storing"
     id="id-33dfb984715d48598a835dca58e27557"
-    documentation="Beschrijving van de aard van de storing en afhandeling daarvan. Dit informatieobject is relevant in meerdere domeinen."/>
+    documentation="Beschrijving van de aard van de storing en afhandeling daarvan. Dit informatieobject is relevant in meerdere domeinen.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

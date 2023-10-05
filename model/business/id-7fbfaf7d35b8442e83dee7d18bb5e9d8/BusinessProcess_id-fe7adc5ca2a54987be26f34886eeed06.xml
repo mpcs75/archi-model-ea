@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Programma management"
     id="id-fe7adc5ca2a54987be26f34886eeed06"
-    documentation="Ontwikkelen en onderhouden van één of meerdere programmaplannen, ter realisatie van strategische doelstellingen; ook projectportfoliomanagement en projectmanagement."/>
+    documentation="Ontwikkelen en onderhouden van één of meerdere programmaplannen, ter realisatie van strategische doelstellingen; ook projectportfoliomanagement en projectmanagement.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

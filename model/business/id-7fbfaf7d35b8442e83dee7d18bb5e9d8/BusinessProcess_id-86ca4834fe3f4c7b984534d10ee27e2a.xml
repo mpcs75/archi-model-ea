@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren van het vermogen (Treasury)"
     id="id-86ca4834fe3f4c7b984534d10ee27e2a"
-    documentation="Activiteiten gericht op het in stand houden van het vermogen en het behalen van het nagestreefde resultaat."/>
+    documentation="Activiteiten gericht op het in stand houden van het vermogen en het behalen van het nagestreefde resultaat.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

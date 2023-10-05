@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ruimte voor nationale standaarden"
-    id="id-33eb95b924fd4f81a8ca63f19c74e2bf"/>
+    id="id-33eb95b924fd4f81a8ca63f19c74e2bf">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

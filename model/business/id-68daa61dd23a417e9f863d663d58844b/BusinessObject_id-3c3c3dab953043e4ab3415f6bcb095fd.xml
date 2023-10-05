@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risicoanalyse"
     id="id-3c3c3dab953043e4ab3415f6bcb095fd"
-    documentation="Beoordeling van de waarschijnlijkheid en de eventuele gevolgen van het optreden van diverse soorten gevaar in en rond de instelling, inclusief gevaar dat kan worden veroorzaakt door de wisselwerking tussen afzonderlijke activiteiten en aanwezige installaties."/>
+    documentation="Beoordeling van de waarschijnlijkheid en de eventuele gevolgen van het optreden van diverse soorten gevaar in en rond de instelling, inclusief gevaar dat kan worden veroorzaakt door de wisselwerking tussen afzonderlijke activiteiten en aanwezige installaties.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

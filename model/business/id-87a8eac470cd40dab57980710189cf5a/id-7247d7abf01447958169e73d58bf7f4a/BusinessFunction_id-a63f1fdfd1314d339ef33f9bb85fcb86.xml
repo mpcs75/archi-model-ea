@@ -4,6 +4,6 @@
     id="id-a63f1fdfd1314d339ef33f9bb85fcb86"
     documentation="Dit domein bevat de activiteiten die nodig zijn voor optimale afstemming tussen vraag en aanbod.">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

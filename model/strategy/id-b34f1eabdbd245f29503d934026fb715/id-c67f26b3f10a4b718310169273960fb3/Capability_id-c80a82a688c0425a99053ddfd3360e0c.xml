@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regie en governance rekening houdend met Europa (o.a. EHDS)"
-    id="id-c80a82a688c0425a99053ddfd3360e0c"/>
+    id="id-c80a82a688c0425a99053ddfd3360e0c">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:Capability>

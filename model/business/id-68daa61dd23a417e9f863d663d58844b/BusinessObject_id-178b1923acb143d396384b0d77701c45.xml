@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visie"
     id="id-178b1923acb143d396384b0d77701c45"
-    documentation="Een inspirerend toekomstbeeld voor de organisatie afstand nemend van de dagelijkse praktijk."/>
+    documentation="Een inspirerend toekomstbeeld voor de organisatie afstand nemend van de dagelijkse praktijk.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

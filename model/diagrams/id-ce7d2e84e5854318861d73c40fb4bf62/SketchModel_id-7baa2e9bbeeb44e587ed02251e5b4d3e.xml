@@ -197,7 +197,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="Structuur van het model &#xD;&#xA;(5-10-2023)&#xD;&#xA;&#xD;&#xA;Op dit moment werk ik vooral nog aan een goede indeling van dit model."
+      content="Structuur van het model &#xD;&#xA;(5-10-2023)&#xD;&#xA;&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="864"
@@ -211,11 +211,12 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#b5ffff"
-      content="Stelselwetten&#xD;&#xA;&#xD;&#xA;We hebben altijd te maken met wetgeving dus wetten mogen niet ontbreken in dit model. Te beginnen bij de stelselwetten.&#xD;&#xA;">
+      fillColor="#ffffb5"
+      content="Stelselwetten (5-10-2023)&#xD;&#xA;&#xD;&#xA;Toegevoegd onder &quot;Wet- en Regelgeving&quot;"
+      textPosition="1">
     <bounds
-        x="1104"
-        y="60"
+        x="864"
+        y="168"
         width="193"
         height="37"/>
   </children>
@@ -228,8 +229,8 @@
       fillColor="#b5ffff"
       content="IZA analyse&#xD;&#xA;&#xD;&#xA;Een deel van het Integraal Zorgakkoord (onderdeel I - digitalisering) heb ik al uitgewerkt. Door het IZA in architectuur weergaven te vatten maak ik het voor mijzelf wat overzichtelijker. Tegelijk probeer ik ook te volgen wat er gaande is rondom de afspraken en voeg dat dan ook toe aan het model.&#xD;&#xA;">
     <bounds
-        x="1104"
-        y="108"
+        x="1092"
+        y="60"
         width="193"
         height="37"/>
   </children>
@@ -242,8 +243,8 @@
       fillColor="#b5ffff"
       content="NVS analyse&#xD;&#xA;&#xD;&#xA;De Nationale Visie en Strategie op het gezondheids informatiestelsel gaat veel betekenen voor iedereen binnen de zorg. Wat er binnen de NVS gebeurd probeer ik zo goed mogelijk te volgen en uiteen te zetten in dit model. Vooral ook weer in de hoop dat ik daar wat beter de bomen door het bos ga zien.">
     <bounds
-        x="1104"
-        y="156"
+        x="1092"
+        y="108"
         width="193"
         height="37"/>
   </children>
@@ -285,11 +286,12 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#b5ffff"
-      content="RDG&#xD;&#xA;&#xD;&#xA;Het Referentie Domeinmodel GGZ heb ik al helemaal uitgewerkt. Het moet enkel nog een plek krijgen binnen dit model.">
+      fillColor="#ffffb5"
+      content="RDG (5-10-2023)&#xD;&#xA;&#xD;&#xA;Toegevoegd onder &quot;Organisatie &amp; Processen&quot;"
+      textPosition="1">
     <bounds
-        x="1104"
-        y="204"
+        x="864"
+        y="210"
         width="193"
         height="37"/>
   </children>
@@ -316,8 +318,8 @@
       fillColor="#b5ffff"
       content="Gemeenschappelijke voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
     <bounds
-        x="1104"
-        y="252"
+        x="1092"
+        y="156"
         width="193"
         height="49"/>
   </children>
@@ -471,9 +473,23 @@
       fillColor="#b5ffff"
       content="Hoe Archimate toegepast wordt">
     <bounds
-        x="1104"
-        y="312"
+        x="1092"
+        y="216"
         width="193"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-92ea7d76caae448692f799e03f83747c"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="Dienstverleningsconcept&#xD;&#xA;&#xD;&#xA;Parallel aan wat er gebeurd binnen de expertgroep dienstverlening NORA wil ik dat passend maken op de zorg.&#xD;&#xA;https://www.noraonline.nl/wiki/Expertgroep_Dienstverlening">
+    <bounds
+        x="1332"
+        y="204"
+        width="193"
+        height="37"/>
   </children>
 </archimate:SketchModel>

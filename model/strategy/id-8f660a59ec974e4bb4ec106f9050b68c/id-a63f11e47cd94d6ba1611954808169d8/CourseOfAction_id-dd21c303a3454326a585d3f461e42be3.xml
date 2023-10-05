@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="c. Aanpassing wet- en regelgeving"
     id="id-dd21c303a3454326a585d3f461e42be3"
-    documentation="VWS bereidt aanpassing van wet- en regelgeving voor die nodig is om PGO’s gebruiksvriendelijk, kosteneffectief en conform een gezond business model te kunnen laten werken, waarmee ook rekening gehouden wordt met eventuele lidstaat-verplichtingen voortvloeiend uit de EHDS. Dit omvat minimaal het onderzoeken van de mogelijkheid om PGO’s toe te staan het BSN te verwerken, opdat de gebruiksvriendelijkheid geoptimaliseerd kan worden wanneer dat met alternatieve maatregelen niet mogelijk blijkt te zijn."/>
+    documentation="VWS bereidt aanpassing van wet- en regelgeving voor die nodig is om PGO’s gebruiksvriendelijk, kosteneffectief en conform een gezond business model te kunnen laten werken, waarmee ook rekening gehouden wordt met eventuele lidstaat-verplichtingen voortvloeiend uit de EHDS. Dit omvat minimaal het onderzoeken van de mogelijkheid om PGO’s toe te staan het BSN te verwerken, opdat de gebruiksvriendelijkheid geoptimaliseerd kan worden wanneer dat met alternatieve maatregelen niet mogelijk blijkt te zijn.">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

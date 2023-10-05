@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijs kwalificatie"
     id="id-f319c115f51c467bbae7cd32c7899384"
-    documentation="Beoordeling van de mate waarin het geboden onderwijs voldoet aan vooraf vastgestelde criteria."/>
+    documentation="Beoordeling van de mate waarin het geboden onderwijs voldoet aan vooraf vastgestelde criteria.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

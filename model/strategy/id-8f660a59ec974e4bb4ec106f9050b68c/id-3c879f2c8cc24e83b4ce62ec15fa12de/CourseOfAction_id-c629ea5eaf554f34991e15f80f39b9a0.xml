@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="b. Communiceren over gebruik"
     id="id-c629ea5eaf554f34991e15f80f39b9a0"
-    documentation="Partijen communiceren op basis van een communicatieplan/kalender doorlopend samen pro-actief naar patiënten/burgers, mantelzorgers en zorgprofessionals over het gebruik van hybride zorg, met aandacht voor het bevorderen van eigen regie en zelfredzaamheid en het verminderen van beperkte gezondheidsvaardigheden."/>
+    documentation="Partijen communiceren op basis van een communicatieplan/kalender doorlopend samen pro-actief naar patiënten/burgers, mantelzorgers en zorgprofessionals over het gebruik van hybride zorg, met aandacht voor het bevorderen van eigen regie en zelfredzaamheid en het verminderen van beperkte gezondheidsvaardigheden.">
+  <properties
+      key="Categorie"
+      value="Integraal Zorg Akkoord (IZA)"/>
+</archimate:CourseOfAction>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doen (2023-2026)"
     id="id-37ffb3d7222749f499f16977c030c902"
-    documentation="Organiseren interoperabiliteit."/>
+    documentation="Organiseren interoperabiliteit.">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:CourseOfAction>

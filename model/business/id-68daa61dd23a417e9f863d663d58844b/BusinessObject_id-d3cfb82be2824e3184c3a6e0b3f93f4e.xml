@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Privacyrichtlijnen"
     id="id-d3cfb82be2824e3184c3a6e0b3f93f4e"
-    documentation="Beschrijving van de wijze waarop informatie over personen of groepen wordt medegedeeld aan anderen en hoe de persoonlijke vrijheid wordt geborgd."/>
+    documentation="Beschrijving van de wijze waarop informatie over personen of groepen wordt medegedeeld aan anderen en hoe de persoonlijke vrijheid wordt geborgd.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

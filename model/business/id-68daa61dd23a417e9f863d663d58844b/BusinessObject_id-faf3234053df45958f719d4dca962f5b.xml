@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Declaratie"
     id="id-faf3234053df45958f719d4dca962f5b"
-    documentation="Rekening voor de gemaakte kosten of geleverde diensten."/>
+    documentation="Rekening voor de gemaakte kosten of geleverde diensten.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessObject>

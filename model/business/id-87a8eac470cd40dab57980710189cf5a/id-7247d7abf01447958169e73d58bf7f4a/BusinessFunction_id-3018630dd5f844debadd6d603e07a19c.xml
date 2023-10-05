@@ -4,6 +4,6 @@
     id="id-3018630dd5f844debadd6d603e07a19c"
     documentation="Dit domein bevat de activiteiten op het gebied van uitwisseling van zorginformatie met externe zorgverleners (excl. verwijzingen).">
   <properties
-      key="Raamwerk"
-      value="RDG"/>
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
 </archimate:BusinessFunction>

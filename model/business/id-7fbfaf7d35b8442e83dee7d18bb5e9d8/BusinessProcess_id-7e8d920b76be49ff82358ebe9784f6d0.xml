@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Periodieke verantwoording"
     id="id-7e8d920b76be49ff82358ebe9784f6d0"
-    documentation="Opstellen van financiële overzichten ten behoeve van de bewaking van de realisatie ten opzichte van de begroting."/>
+    documentation="Opstellen van financiële overzichten ten behoeve van de bewaking van de realisatie ten opzichte van de begroting.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

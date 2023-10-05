@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen beleid"
     id="id-f7dd7feb75794093987639eb8f58650c"
-    documentation="Bepalen organisatie- en/of divisiebeleid en specifieke beleidsplannen op bijvoorbeeld de gebieden medisch, verpleegkundig, afdeling, VKAM (veiligheid, arbeid, kwaliteit en milieu), op zowel strategisch, tactisch als operationeel niveau."/>
+    documentation="Bepalen organisatie- en/of divisiebeleid en specifieke beleidsplannen op bijvoorbeeld de gebieden medisch, verpleegkundig, afdeling, VKAM (veiligheid, arbeid, kwaliteit en milieu), op zowel strategisch, tactisch als operationeel niveau.">
+  <properties
+      key="Categorie"
+      value="Referentie Domeinmodel GGZ"/>
+</archimate:BusinessProcess>

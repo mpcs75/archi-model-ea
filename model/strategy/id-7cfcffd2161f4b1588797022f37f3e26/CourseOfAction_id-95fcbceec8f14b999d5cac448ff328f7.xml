@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Denken (2027-2030)"
     id="id-95fcbceec8f14b999d5cac448ff328f7"
-    documentation="Organiseren netwerk."/>
+    documentation="Organiseren netwerk.">
+  <properties
+      key="Categorie"
+      value="Nationale Visie en Strategie (NVS)"/>
+</archimate:CourseOfAction>

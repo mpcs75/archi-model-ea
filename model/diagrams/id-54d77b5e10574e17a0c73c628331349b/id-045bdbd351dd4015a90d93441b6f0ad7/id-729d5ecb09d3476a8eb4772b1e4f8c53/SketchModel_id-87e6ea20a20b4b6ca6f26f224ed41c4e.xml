@@ -39,4 +39,52 @@
         width="576"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-bb271910ee944b6dad36513290cb364d"
+      name="Landelijk"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="24"
+        y="108"
+        width="400"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a243992d50b0422fa0672fbbf1994634"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#c724b1"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:SketchModel"
+          href="SketchModel_id-683b2f142f7049f4906691818671e8a9.xml#id-683b2f142f7049f4906691818671e8a9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-8b1999e68d3e4f12ac18a72cf2f9a19c"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#c724b1"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Nationale &#xD;&#xA;Visie &amp; Strategie&#xD;&#xA;(NVS)"/>
+      <bounds
+          x="144"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:SketchModel"
+          href="SketchModel_id-049bc3d75de94fcaa61c368277876aba.xml#id-049bc3d75de94fcaa61c368277876aba"/>
+    </children>
+  </children>
 </archimate:SketchModel>

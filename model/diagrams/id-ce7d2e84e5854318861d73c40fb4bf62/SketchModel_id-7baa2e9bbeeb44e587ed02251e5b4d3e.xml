@@ -226,11 +226,12 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#b5ffff"
-      content="IZA analyse&#xD;&#xA;&#xD;&#xA;Een deel van het Integraal Zorgakkoord (onderdeel I - digitalisering) heb ik al uitgewerkt. Door het IZA in architectuur weergaven te vatten maak ik het voor mijzelf wat overzichtelijker. Tegelijk probeer ik ook te volgen wat er gaande is rondom de afspraken en voeg dat dan ook toe aan het model.&#xD;&#xA;">
+      fillColor="#ffffb5"
+      content="IZA analyse&#xD;&#xA;&#xD;&#xA;Toegevoegd aan &quot;Motivatie &amp; Strategie&quot;&#xD;&#xA;"
+      textPosition="1">
     <bounds
-        x="1092"
-        y="60"
+        x="864"
+        y="254"
         width="193"
         height="37"/>
   </children>
@@ -240,11 +241,12 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#b5ffff"
-      content="NVS analyse&#xD;&#xA;&#xD;&#xA;De Nationale Visie en Strategie op het gezondheids informatiestelsel gaat veel betekenen voor iedereen binnen de zorg. Wat er binnen de NVS gebeurd probeer ik zo goed mogelijk te volgen en uiteen te zetten in dit model. Vooral ook weer in de hoop dat ik daar wat beter de bomen door het bos ga zien.">
+      fillColor="#ffffb5"
+      content="NVS analyse&#xD;&#xA;&#xD;&#xA;Toegevoegd aan &quot;Motivatie &amp; Strategie&quot;"
+      textPosition="1">
     <bounds
-        x="1092"
-        y="108"
+        x="864"
+        y="302"
         width="193"
         height="37"/>
   </children>
@@ -316,10 +318,10 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#b5ffff"
-      content="Gemeenschappelijke voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
+      content="Landelijk beschikbare voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
     <bounds
         x="1092"
-        y="156"
+        y="60"
         width="193"
         height="49"/>
   </children>
@@ -471,10 +473,10 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#b5ffff"
-      content="Hoe Archimate toegepast wordt">
+      content="Hoe Archimate toegepast wordt in dit model">
     <bounds
         x="1092"
-        y="216"
+        y="120"
         width="193"
         height="49"/>
   </children>
@@ -491,5 +493,152 @@
         y="204"
         width="193"
         height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-79ff8ece12f7440a838ca6cb6da3abef"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="1"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="194"
+        y="496"
+        width="37"
+        height="21"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-941f1816c89947ef8c806cfef124e428"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="0"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="84"
+        y="496"
+        width="37"
+        height="21"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-4c325d1bbdef48cb857b62a13df79db1"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="2"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="503"
+        y="262"
+        width="37"
+        height="21"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-420fa4006fcf44c9b1cc942fb492170a"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="1"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="503"
+        y="319"
+        width="37"
+        height="21"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-6b5240a597e748cd9baa9b2dabd8f972"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="0"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="503"
+        y="377"
+        width="37"
+        height="21"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-4160ab2afe9547efb24fd2e45fef4541"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="0"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="503"
+        y="436"
+        width="37"
+        height="21"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-fdf5fd3a9ba549cb8c85fa07a5b7b687"
+      name="Sticky"
+      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
+      fontColor="#373737"
+      lineColor="#5c5c5c"
+      textAlignment="4"
+      fillColor="#deebea"
+      alpha="0"
+      content="0"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="503"
+        y="496"
+        width="37"
+        height="21"/>
   </children>
 </archimate:SketchModel>

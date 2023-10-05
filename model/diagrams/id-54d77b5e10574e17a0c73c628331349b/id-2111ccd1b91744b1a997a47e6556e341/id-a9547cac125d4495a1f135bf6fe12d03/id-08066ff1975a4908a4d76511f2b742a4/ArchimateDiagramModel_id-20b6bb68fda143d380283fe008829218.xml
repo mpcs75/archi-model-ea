@@ -194,17 +194,4 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-62bd915b157c470eb2984ce8cbac2800.xml#id-62bd915b157c470eb2984ce8cbac2800"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-0f3551de3bcc44a1a253d672380e4fe2"
-      fillColor="#dcebeb"
-      textPosition="1">
-    <bounds
-        y="-108"
-        width="120"
-        height="31"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f.xml#id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f"/>
-  </children>
 </archimate:ArchimateDiagramModel>

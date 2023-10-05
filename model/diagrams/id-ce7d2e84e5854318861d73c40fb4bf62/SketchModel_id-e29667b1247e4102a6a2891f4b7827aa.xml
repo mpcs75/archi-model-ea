@@ -1,0 +1,57 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02. Hoe Archimate toegepast wordt"
+    id="id-e29667b1247e4102a6a2891f4b7827aa"
+    documentation="Bij het toepassen van Archimate probeer ik altijd binnen de lijntjes van de regels van de taal te blijven. Als basis probeer ik altijd gebruikt te maken van volledige patronen zoals ze hierboven zijn weergegeven. In veel gevallen echter kan of wil ik deze patronen niet volledig invullen. In dat geval maak ik gebruik van wat in Archimate &quot;Derivation Rules&quot; genoemd wordt. Van grotere modellen maak ik dan kleinere.&#xD;&#xA;&#xD;&#xA;https://pubs.opengroup.org/architecture/archimate3-doc/ch-relationships-Normative.html#sec-Specification-of-Derivation-Rules"
+    background="0">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5b6b41f1766f4944913463919b6cc0e5"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Home"/>
+    <bounds
+        x="12"
+        y="12"
+        width="120"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-7baa2e9bbeeb44e587ed02251e5b4d3e.xml#id-7baa2e9bbeeb44e587ed02251e5b4d3e"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-f5c45ee10a3e452e8c68b1c7ad356fff"
+      name="Sticky"
+      font="1|Calibri|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Hoe Archimate toegepast wordt">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="60"
+        width="576"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-8b0797b632a0459ab12b63f6a71a4571"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Aan deze onderwerpen wordt hard gewerkt - zodra ze ver genoeg af zijn worden ze meegenomen in een volgende publicatie.">
+    <bounds
+        x="60"
+        y="120"
+        width="613"
+        height="157"/>
+  </children>
+</archimate:SketchModel>

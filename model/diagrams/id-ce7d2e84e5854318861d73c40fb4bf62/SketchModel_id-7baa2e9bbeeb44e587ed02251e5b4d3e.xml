@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="00. Welkom"
     id="id-7baa2e9bbeeb44e587ed02251e5b4d3e"
-    documentation="Welkom in deze  publicatie waarin ik een voorbeeld schets van hoe een Enterprise Architectuur er uit zou kunnen zien wanneer je die uitwerkt in Archimate.&#xD;&#xA;&#xD;&#xA;- Dit model met diverse architectuur weergaven is in de eerste plaats een manier om voor mijzelf wat meer de bomen door het complexe bos te zien.&#xD;&#xA;- Dit model maak ik grotendeels in eigen tijd omdat de onderwerpen mij erg interesseren - een klein deel pas ik toe bij mijn werkzaamheden vanuit VZVZ.&#xD;&#xA;- Veel van wat ik hier uitwerk is het resultaat van hoe ik zelf iets interpreteer - dat hoeft niet persé juist te zijn.&#xD;&#xA;"
+    documentation="Welkom in deze  publicatie waarin ik een voorbeeld schets van hoe een Enterprise Architectuur er uit zou kunnen zien wanneer je die uitwerkt in Archimate.&#xD;&#xA;&#xD;&#xA;"
     background="0">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -12,9 +12,9 @@
       textPosition="1">
     <features
         name="labelExpression"
-        value="Het&#xD;&#xA;5-lagenmodel&#xD;&#xA;als canvas"/>
+        value="Het&#xD;&#xA;5-lagenmodel&#xD;&#xA;als indeling"/>
     <bounds
-        x="288"
+        x="420"
         y="60"
         width="120"
         height="109"/>
@@ -41,24 +41,6 @@
         height="49"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-26bf922092d54962928b65ef20bab1dd"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fillColor="#dcebeb"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="De toepassing &#xD;&#xA;van Archimate"/>
-    <bounds
-        x="420"
-        y="60"
-        width="120"
-        height="109"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-8c325b6f051946019366ee7a29c1adb6.xml#id-8c325b6f051946019366ee7a29c1adb6"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-264dfdc81db341dcaa9b1250639d672e"
       name="Alles draait om dienstverlening"
@@ -68,7 +50,7 @@
       textPosition="1"
       borderType="1">
     <bounds
-        x="24"
+        x="154"
         y="60"
         width="120"
         height="109"/>
@@ -79,11 +61,11 @@
       name="Ik bedenk zo min mogelijk zelf"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fillColor="#dcebeb"
-      documentation="Alles binnen deze publicatie doe ik middels hergebruik van raamwerken, methodes, en practices. Wat deze publicatie wellicht bijzonder maakt is het combineren van alles zodat er één overzichtelijk systeem ontstaat."
+      documentation="Alles binnen deze publicatie doe ik middels hergebruik van raamwerken, methodes, en practices. Wat deze publicatie wellicht bijzonder maakt is het combineren van alles zodat er één overzichtelijk systeem ontstaat.&#xD;&#xA;&#xD;&#xA;Referentiemodellen - Alles wat ik hergebruik breng ik onder in &quot;Referentiemodellen&quot;"
       textPosition="1"
       borderType="1">
     <bounds
-        x="156"
+        x="285"
         y="60"
         width="120"
         height="109"/>
@@ -98,9 +80,400 @@
       textPosition="1"
       borderType="1">
     <bounds
-        x="552"
+        x="684"
         y="60"
         width="120"
         height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5a12eab64e2e4104a3ecf9f470c0e9e0"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Hoe Archimate &#xD;&#xA;toegepast wordt"/>
+    <bounds
+        x="554"
+        y="60"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-e29667b1247e4102a6a2891f4b7827aa.xml#id-e29667b1247e4102a6a2891f4b7827aa"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-ea1bb6e70b1e4e7293996a01eb9699ef"
+      name="Sticky"
+      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Wat is nieuw">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="852"
+        y="12"
+        width="262"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-1230033128e74e0287b0e30d6f6a00e8"
+      name="Sticky"
+      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Referentiemodellen&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik hergebruik binnen deze publicatie. Vaak zijn het vrij beschikbare referentiemodellen en soms zijn het modellen die het resultaat zijn van persoonlijk uitzoekwerk.">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="192"
+        width="262"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-c2006453ac2b4130bb078bf30c33a560"
+      name="Sticky"
+      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Voorbeelden">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="576"
+        width="262"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-2745f4cf6bc34ec892f142b3a908b266"
+      name="Sticky"
+      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Waar werk ik aan&#xD;&#xA;&#xD;&#xA;In willekeurige volgorde">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="1092"
+        y="12"
+        width="262"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-7b7d2678423649cf9847f7742103948b"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Het dashboard (5-10-2023)&#xD;&#xA;&#xD;&#xA;Het dashboard of startscherm zoals je deze voor je ziet is het begin van wat een goed gevuld model zal worden."
+      textPosition="1">
+    <bounds
+        x="864"
+        y="60"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-93531028c35d4483abc22f947292d6e7"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Structuur van het model &#xD;&#xA;(5-10-2023)&#xD;&#xA;&#xD;&#xA;Op dit moment werk ik vooral nog aan een goede indeling van dit model."
+      textPosition="1">
+    <bounds
+        x="864"
+        y="108"
+        width="193"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-8ebfac3a388443cabe6b9df1df854ed0"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Stelselwetten&#xD;&#xA;&#xD;&#xA;We hebben altijd te maken met wetgeving dus wetten mogen niet ontbreken in dit model. Te beginnen bij de stelselwetten.&#xD;&#xA;">
+    <bounds
+        x="1104"
+        y="60"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-ddaabd5ba42f4d3dbec2dd4949fc20aa"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="IZA analyse&#xD;&#xA;&#xD;&#xA;Een deel van het Integraal Zorgakkoord (onderdeel I - digitalisering) heb ik al uitgewerkt. Door het IZA in architectuur weergaven te vatten maak ik het voor mijzelf wat overzichtelijker. Tegelijk probeer ik ook te volgen wat er gaande is rondom de afspraken en voeg dat dan ook toe aan het model.&#xD;&#xA;">
+    <bounds
+        x="1104"
+        y="108"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-aa995826a6b94537a4bcca5d6c42d9a1"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="NVS analyse&#xD;&#xA;&#xD;&#xA;De Nationale Visie en Strategie op het gezondheids informatiestelsel gaat veel betekenen voor iedereen binnen de zorg. Wat er binnen de NVS gebeurd probeer ik zo goed mogelijk te volgen en uiteen te zetten in dit model. Vooral ook weer in de hoop dat ik daar wat beter de bomen door het bos ga zien.">
+    <bounds
+        x="1104"
+        y="156"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-0c951a839ab04139ab621275b527f11f"
+      name="Sticky"
+      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Wat wil ik nog">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="1320"
+        y="12"
+        width="262"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-482c5c5217d44124a53ad3d1e027b2d7"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="ZIRA&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de ZIRA meenemen in dit model">
+    <bounds
+        x="1332"
+        y="60"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-0d103471cd95418c935f031bd3909e70"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="RDG&#xD;&#xA;&#xD;&#xA;Het Referentie Domeinmodel GGZ heb ik al helemaal uitgewerkt. Het moet enkel nog een plek krijgen binnen dit model.">
+    <bounds
+        x="1104"
+        y="204"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-131a95a4f0a74f2c8e361cea69a1519d"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="RDC&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de RDC (Care) meenemen in dit model">
+    <bounds
+        x="1332"
+        y="108"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-37c55cb639c6468f93fb2d47feb784e0"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Gemeenschappelijke voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
+    <bounds
+        x="1104"
+        y="252"
+        width="193"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d7604d68be3447a3a092b01003236032"
+      name="Waarom deze publicatie"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      documentation="Waarom&#xD;&#xA;- Als business architect werkzaam bij VZVZ wil ik zo veel mogelijk weten over wat er gaande is binnen het complexe landschap van de zorg in zijn geheel. Dingen verwerken in een architectuurmodel geeft mij overzicht en inzicht. Kort samengevat ben ik via deze publicatie beter in staat de bomen door het bos te zien.&#xD;&#xA;- Naast mijn werk voor VZVZ - specifiek het Koppeltaal afsprakenstelsel en de sector GGZ - is architectuur ook mijn hobby. Het overgrote deel van de tijd die ik in dit model steek is eigen tijd.&#xD;&#xA;&#xD;&#xA;Objectiviteit&#xD;&#xA;- Een belangrijke 'requirement' voor het zijn van een goede architectect is objectiviteit. Ik zal mijn uitwerkingen niet beperken tot enkel de voorzieningen en diensten die VZVZ in beheer heeft maar probeer mijn horizon zo breed mogelijk te houden. In de eerste plaats ben ik een architect van de zorg voor de zorg.&#xD;&#xA;&#xD;&#xA;Contact&#xD;&#xA;- Heb je ergens vragen over of opmerkingen of suggesties voor nieuwe onderwerpen? Mail mij dan gerust via: marcel.schrauwen@vzvz.nl"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="60"
+        width="120"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9ac50e94afca45ce9feaa9a942098c1c"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="234"
+        width="97"
+        height="283"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-52f6f6b970b147a3947b46f59edcbaf4.xml#id-52f6f6b970b147a3947b46f59edcbaf4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1f178f86937644b08f31821b9472c8a6"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <bounds
+        x="132"
+        y="234"
+        width="99"
+        height="283"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-fd19c13689aa4f79a55df06282e4db17.xml#id-fd19c13689aa4f79a55df06282e4db17"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1552feb3a60148a0b5c64c028807a0eb"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#c724b1"
+      textPosition="1">
+    <bounds
+        x="240"
+        y="234"
+        width="300"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-87e6ea20a20b4b6ca6f26f224ed41c4e.xml#id-87e6ea20a20b4b6ca6f26f224ed41c4e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9bf8e7b58a3b4edc9cf8da06d62de877"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#44bfea"
+      textPosition="1">
+    <bounds
+        x="240"
+        y="291"
+        width="300"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-42b72f8b4b2d4b68ba55536c6014eb44.xml#id-42b72f8b4b2d4b68ba55536c6014eb44"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-97c122785ef543d49efc9a184bba664c"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#ff6e23"
+      textPosition="1">
+    <bounds
+        x="240"
+        y="349"
+        width="300"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-db465213e7384a4da2e9d5017799e1e9.xml#id-db465213e7384a4da2e9d5017799e1e9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-bf97b68ae1ec468c8527338eb42ba99f"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#97be0d"
+      textPosition="1">
+    <bounds
+        x="240"
+        y="408"
+        width="300"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-4293c3463b0b4f9fb7721734c239bc49.xml#id-4293c3463b0b4f9fb7721734c239bc49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-10b35ecff19c46929f938d5f24086544"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#00b140"
+      textPosition="1">
+    <bounds
+        x="240"
+        y="468"
+        width="300"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-4fa3b1164e6b4510ba394c196352e4fe.xml#id-4fa3b1164e6b4510ba394c196352e4fe"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-5f5a1efa9d5f430db7509f296d0a4050"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="Voorbeelden&#xD;&#xA;&#xD;&#xA;Door elementen uit referentiemodellen te combineren in samengestelde modellen ontstaan weergaven van systemen zoals ze er in de praktijk uitzien of uit zouden kunnen zien.">
+    <bounds
+        x="1332"
+        y="156"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-804b5cd367484729bd787d9317588db7"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Hoe Archimate toegepast wordt">
+    <bounds
+        x="1104"
+        y="312"
+        width="193"
+        height="49"/>
   </children>
 </archimate:SketchModel>

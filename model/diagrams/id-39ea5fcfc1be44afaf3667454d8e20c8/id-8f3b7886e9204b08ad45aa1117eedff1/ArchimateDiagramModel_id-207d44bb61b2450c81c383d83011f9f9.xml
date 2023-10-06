@@ -5,34 +5,6 @@
     id="id-207d44bb61b2450c81c383d83011f9f9"
     documentation="Deze plaat en de onderliggende modellen zijn een eenvoudige visualisatie van: http://hl7.org/fhir/R4/resourcelist.html&#xD;&#xA;&#xD;&#xA;Tussen een aantal resources heb ik relaties gelegd - deze zijn te zien via de plusjes op de elementen.">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-3985f4a912954825a006ab11db8d64cf"
-      fillColor="#dcebeb"
-      textPosition="1">
-    <bounds
-        x="12"
-        y="12"
-        width="120"
-        height="31"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f.xml#id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-15170dffedf1406d9c412e4705faf282"
-      name="Contact"
-      fillColor="#dcebeb"
-      documentation="Vragen stellen over dit onderwerp kan via:... https://github.com/mpcs75/EA-voorbeeld-zorginstelling/issues/new/?labels=Vraag&amp;title=FHIR+R4+Resources&#xD;&#xA;&#xD;&#xA;Feedback geven op dit onderwerp kan via:...https://github.com/mpcs75/EA-voorbeeld-zorginstelling/issues/new/?labels=Feedback&amp;title=FHIR+R4+Resources&#xD;&#xA;&#xD;&#xA;Je hebt hiervoor een Github account nodig maar die kun je gratis aanmaken."
-      textPosition="1"
-      borderType="1">
-    <bounds
-        x="144"
-        y="12"
-        width="120"
-        height="31"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-825ec56649ac487e88d6c28fa11938bf"
       font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
@@ -254,7 +226,11 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6c812520e36f44aead80137e3dc40ea5"
             targetConnections="id-479ecabb7f8e433b9e7e4ec379274b61"
+            fillColor="#b5ffff"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Capability-&#xD;&#xA;Statement"/>
           <bounds
               x="12"
               y="24"
@@ -268,6 +244,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-fb9b5eb3a8074c1886cc75d27a91f279"
             targetConnections="id-2df4fc1e8e06434fb0b69ecd35c234cf"
+            fillColor="#b5ffff"
             textPosition="1">
           <bounds
               x="144"
@@ -282,7 +259,11 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-45b351e520654eb4a4551f9557122611"
             targetConnections="id-b210fcc8669648a49911bda3dc00ee57"
+            fillColor="#b5ffff"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Implementation-&#xD;&#xA;Guide"/>
           <bounds
               x="12"
               y="108"
@@ -296,6 +277,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6cd7dac07acf47a19d15bcc9188a862e"
             targetConnections="id-4820e15ef1054332973b6ec882dc518c"
+            fillColor="#b5ffff"
             textPosition="1">
           <bounds
               x="12"
@@ -310,7 +292,11 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e940061df9454adfad2f5a7a1f4e9b4a"
             targetConnections="id-07a7a7a778694fb1bba327d90f579210"
+            fillColor="#b5ffff"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Operation-&#xD;&#xA;Definition"/>
           <bounds
               x="144"
               y="192"
@@ -324,7 +310,11 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e8c0016ba50c4775acb3a7763546ed1b"
             targetConnections="id-cb8f8fc1f34e44dd8e1ab9791c90b2a2"
+            fillColor="#b5ffff"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Compartment-&#xD;&#xA;Definition"/>
           <bounds
               x="12"
               y="276"
@@ -338,6 +328,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-827fb9209c974c71abae9eafb0bb42ee"
             targetConnections="id-c43e0bc63717442ca3c8c4c977a51f08"
+            fillColor="#b5ffff"
             textPosition="1">
           <bounds
               x="144"
@@ -352,6 +343,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-bbe79067640943b88617c3b7f7beb5ee"
             targetConnections="id-1b809a5d4190451a8bb324b095cfe0f7"
+            fillColor="#b5ffff"
             textPosition="1">
           <bounds
               x="12"
@@ -366,6 +358,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c1729500a90745baa8de1f1762ea7509"
             targetConnections="id-341cb2d3e92e4584831199c238b7de40"
+            fillColor="#b5ffff"
             textPosition="1">
           <bounds
               x="144"
@@ -380,6 +373,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-272b647084904f59bf559031017203bd"
             targetConnections="id-7f55f9d2840449ea9af9bc7e880f64b0"
+            fillColor="#b5ffff"
             textPosition="1">
           <bounds
               x="144"
@@ -513,6 +507,9 @@
             id="id-0f64086774924ab787766283fa388d23"
             targetConnections="id-046bfeb6f8bc4202ba1470a8860c9203"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Terminology-&#xD;&#xA;Capabilities"/>
           <bounds
               x="12"
               y="192"
@@ -694,6 +691,9 @@
             id="id-470af143137740788b5413f6154eba39"
             targetConnections="id-c595df87bf5540b5953c5c13203f59a9"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Document-&#xD;&#xA;Reference"/>
           <bounds
               x="12"
               y="108"
@@ -1216,6 +1216,9 @@
             id="id-4d3894e9c0f94b4ab9d6092bdf0198fe"
             targetConnections="id-ec9fd3b9137f49cdace3141e56f37718"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Organization-&#xD;&#xA;Affiliation"/>
           <bounds
               x="144"
               y="24"
@@ -1371,6 +1374,9 @@
             id="id-9151d280713e4ed8b3608b46733b0bb4"
             targetConnections="id-79477ea0e0a649c7b0523be23e1ec588"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Appointment-&#xD;&#xA;Response"/>
           <bounds
               x="12"
               y="108"
@@ -1494,6 +1500,9 @@
             id="id-5ae42f5e8f4b4f219d08309eebe675d7"
             targetConnections="id-c5704efb1a7545c087e632354c736c80"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Biologically-&#xD;&#xA;DerivedProduct"/>
           <bounds
               x="144"
               y="24"
@@ -1866,6 +1875,9 @@
             id="id-df1b78e7c23b4fa594e1a1d4614b89d7"
             targetConnections="id-a5ae6aaa8996468eb0b498fbdd259c64"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="FamilyMember-&#xD;&#xA;History"/>
           <bounds
               x="12"
               y="192"
@@ -2081,6 +2093,9 @@
             id="id-4a6b4707676f402f9a7b60cc55acd586"
             targetConnections="id-3a2ee18f135a4cc38c501d935241340f"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Questionnaire-&#xD;&#xA;Response"/>
           <bounds
               x="12"
               y="276"
@@ -2235,6 +2250,9 @@
             id="id-f6dca9ab6aca4f1aba36cbb50156b501"
             targetConnections="id-b833562556974bac9731c56de403fa51"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Medication-&#xD;&#xA;Dispense"/>
           <bounds
               x="12"
               y="108"
@@ -2249,6 +2267,9 @@
             id="id-2eb65a713e294a14ae83423932f89291"
             targetConnections="id-2175554e5eb443abac0ebcc491b78142"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Medication-&#xD;&#xA;Statement"/>
           <bounds
               x="144"
               y="108"
@@ -2277,6 +2298,9 @@
             id="id-00ef4165935e40308b2af52ce7c56283"
             targetConnections="id-b6a2dbd68230449aa5d802edf2ebaea8"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Medication-&#xD;&#xA;Knowledge"/>
           <bounds
               x="144"
               y="192"
@@ -2305,6 +2329,9 @@
             id="id-f58afd61e1d74bc8ad4ef76d07a18cf3"
             targetConnections="id-664a8b29d7a34c56aac8320e7eac8d6e"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Immunization-&#xD;&#xA;Evaluation"/>
           <bounds
               x="144"
               y="276"
@@ -2319,6 +2346,9 @@
             id="id-77aadd64459848e9a5fc3c5b1951d21a"
             targetConnections="id-de381acd47cd475f9847c9485358ae03"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Immunization-&#xD;&#xA;Recommendation"/>
           <bounds
               x="12"
               y="360"
@@ -2427,6 +2457,9 @@
             id="id-62acd875fbc243c7a02ec7051278fa26"
             targetConnections="id-ecbc5cb3ba204aaf81353ffe05ffa138"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Communication-&#xD;&#xA;Request"/>
           <bounds
               x="144"
               y="24"
@@ -2455,6 +2488,9 @@
             id="id-91c5575ea123431e85ec56f37c948c35"
             targetConnections="id-c196c53c4a3a4a77a1ea9a7d34afd221"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="DeviceUse-&#xD;&#xA;Statement"/>
           <bounds
               x="144"
               y="108"
@@ -2841,6 +2877,9 @@
             id="id-3ad15f09ce2c4af580ed70f782bf399e"
             targetConnections="id-be61447e515a4d5b92ca2068780009e6"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Coverage-&#xD;&#xA;EligibilityRequest"/>
           <bounds
               x="144"
               y="24"
@@ -2855,6 +2894,9 @@
             id="id-687ba3534ea347b0a99c48c488f0debd"
             targetConnections="id-78eaa2f86e0046aba71aac4c8b9b5385"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Coverage-&#xD;&#xA;EligibilityResponse"/>
           <bounds
               x="12"
               y="108"
@@ -2883,6 +2925,9 @@
             id="id-a86e5162f007496c8cbc82f0b6212721"
             targetConnections="id-49e234f9b70840a48ae565da72b0d899"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Enrollment-&#xD;&#xA;Response"/>
           <bounds
               x="12"
               y="192"
@@ -3032,6 +3077,9 @@
             id="id-fc111cb5adb3486e858be6cf0e89c994"
             targetConnections="id-d86e022c55034f61acadd67a4cf56044"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Payment-&#xD;&#xA;Reconciliation"/>
           <bounds
               x="144"
               y="24"
@@ -3117,6 +3165,9 @@
             id="id-17b9052694c3458699eb280dacebd5a3"
             targetConnections="id-5f1639b0b6a94f5bb731e02836bd14c9"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Account"/>
           <bounds
               x="12"
               y="24"
@@ -3131,6 +3182,9 @@
             id="id-31c76e723830427ab18af40fbd7988ce"
             targetConnections="id-c192eec0c67248eabae2ed963f516c39"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="ChargeItem"/>
           <bounds
               x="144"
               y="24"
@@ -3145,6 +3199,9 @@
             id="id-bfc4046d4c4b432da47ce57a64cc4e79"
             targetConnections="id-14f5b4c5c08f452a98ddd64f2c54f4ca"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="ChargeItem-&#xD;&#xA;Definition"/>
           <bounds
               x="12"
               y="108"
@@ -3173,6 +3230,9 @@
             id="id-6caf622513584eb6b7b88fef44171b8b"
             targetConnections="id-9c15b9679538441ba109a3b58933f91c"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Explanation-&#xD;&#xA;OfBenefit"/>
           <bounds
               x="12"
               y="192"
@@ -3448,6 +3508,9 @@
             id="id-3d7c64016ce443b783612e856279fc31"
             targetConnections="id-861718dc3e1d4fd7b237c8eb43dfa184"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Observation-&#xD;&#xA;Definition"/>
           <bounds
               x="144"
               y="108"
@@ -3589,6 +3652,9 @@
             id="id-7adf75ed58fb4643b380680ec59281c7"
             targetConnections="id-488db00329f344aa896e5e9bda655cfd"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="ResearchElement-&#xD;&#xA;Definition"/>
           <bounds
               x="144"
               y="24"
@@ -3631,6 +3697,9 @@
             id="id-9704c843396e4b56ac733af65389af82"
             targetConnections="id-bc5aa3fc88514b11a80dce61793ac83d"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="EffectEvidence-&#xD;&#xA;Synthesis"/>
           <bounds
               x="12"
               y="192"
@@ -3645,6 +3714,9 @@
             id="id-f3abe0cfd2804111b53b0bb5ca184db0"
             targetConnections="id-8ef1492acc3b4927867a1e552a96b13b"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="RiskEvidence-&#xD;&#xA;Synthesis"/>
           <bounds
               x="144"
               y="192"
@@ -3943,6 +4015,9 @@
             id="id-7acb1b66edf44a109bbcb5ca0a06a3c6"
             targetConnections="id-da0f9384288642aaa91f170ddbddacd2"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Authorization"/>
           <bounds
               x="144"
               y="24"
@@ -3957,6 +4032,9 @@
             id="id-e8c8397691bd4a86843088e54a8bfa75"
             targetConnections="id-1705b18a38fb47e58bae36a723fd821e"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Contraindication"/>
           <bounds
               x="12"
               y="108"
@@ -3971,6 +4049,9 @@
             id="id-c93491b71a964cd8827b735637035214"
             targetConnections="id-6eb30e53d7e5409b9fb9b6eeb20db48e"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Indication"/>
           <bounds
               x="144"
               y="108"
@@ -3985,6 +4066,9 @@
             id="id-235b76bb6fec485dbbb3cd01b2d79c69"
             targetConnections="id-4ec613bf70c74bc79701aac47ffeec3c"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Ingredient"/>
           <bounds
               x="12"
               y="192"
@@ -3999,6 +4083,9 @@
             id="id-573831be885949a4973dac636a1adeea"
             targetConnections="id-8a7f568d330e4933859b4e47d8f909ce"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Interaction"/>
           <bounds
               x="144"
               y="192"
@@ -4013,6 +4100,9 @@
             id="id-9a6c9673fd1d4928b4dbe5a196cf453d"
             targetConnections="id-f1824b36a0b14edfbaa8a6e766364464"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Manufactured"/>
           <bounds
               x="12"
               y="276"
@@ -4027,6 +4117,9 @@
             id="id-a27270c933ff4efb97643fc0275ee76f"
             targetConnections="id-da8b284f26c1472b97d9e2ad3c422415"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Packaged"/>
           <bounds
               x="144"
               y="276"
@@ -4041,6 +4134,9 @@
             id="id-a7504d2d8d8841ccbc1955eff295a140"
             targetConnections="id-84c42f5e3a2b4aa89131dc6a6b18d308"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;Pharmaceutical"/>
           <bounds
               x="12"
               y="360"
@@ -4055,6 +4151,9 @@
             id="id-b52d3a6e7f0a49b582b643c1d1573e58"
             targetConnections="id-261222dafb9d4eb789df60e69e771a8e"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="MedicinalProduct-&#xD;&#xA;UndesirableEffect"/>
           <bounds
               x="144"
               y="360"
@@ -4069,6 +4168,9 @@
             id="id-7e28eba962f240ee8ae4b495bb0d0b51"
             targetConnections="id-f0dd17c4c954497f861164460b780a50"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Substance-&#xD;&#xA;NucleicAcid"/>
           <bounds
               x="12"
               y="444"
@@ -4111,6 +4213,9 @@
             id="id-670c1256d8214708bbd8d761d3350655"
             targetConnections="id-d778518e00794f16aa1b279125ce7d82"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Substance-&#xD;&#xA;Reference-&#xD;&#xA;Information"/>
           <bounds
               x="144"
               y="528"
@@ -4125,6 +4230,9 @@
             id="id-ec1fabfd36994fb2bd29056a4d0f45e3"
             targetConnections="id-cac802e14456435caa473cce837c743d"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Substance-&#xD;&#xA;Specification"/>
           <bounds
               x="12"
               y="612"
@@ -4139,6 +4247,9 @@
             id="id-969cbe5f735b4a999ee409a3abe00d5e"
             targetConnections="id-f09e829dc67641b293939483cad96f0e"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="Substance-&#xD;&#xA;SourceMaterial"/>
           <bounds
               x="144"
               y="612"

@@ -40,18 +40,4 @@
         width="576"
         height="49"/>
   </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-8b0797b632a0459ab12b63f6a71a4571"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Aan deze onderwerpen wordt hard gewerkt - zodra ze ver genoeg af zijn worden ze meegenomen in een volgende publicatie.">
-    <bounds
-        x="60"
-        y="120"
-        width="613"
-        height="157"/>
-  </children>
 </archimate:SketchModel>

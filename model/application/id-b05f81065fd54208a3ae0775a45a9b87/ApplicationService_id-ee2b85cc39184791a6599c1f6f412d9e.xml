@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BgGGZ"
-    id="id-ee2b85cc39184791a6599c1f6f412d9e"
-    documentation="De BgGGZ is een gegevensdienst binnen MedMij en omvat in eerste aanleg 23 zorginformatiebouwstenen (zibs). Deze bouwstenen zijn deels ontleend aan de bouwstenen BgZ en zijn voor een gedeelte aangevuld met GGZ-specifieke bouwstenen. Deze gegevensdienst is een verplicht onderdeel in de VIPP GGZ-regeling. Mogelijk wordt de dienst de komende jaren verder uitgebreid.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/basisgegevensset-zorg-bgz"/>

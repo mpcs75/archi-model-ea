@@ -76,7 +76,7 @@
       name="Scherp of wazig?"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fillColor="#dcebeb"
-      documentation="Als je deze publicatie nu bekijkt en denkt; &quot;Had je hem niet wat scherper kunnen maken?&quot; dan ligt dat waarschijnlijk aan de instellingen van je beeldscherm. Wanneer de schaal anders is ingesteld dan 100% dan zorg dat voor een wazige weergave. Wanneer de schaal op 100% staat is deze publicatie haarscherp."
+      documentation="Als je deze publicatie nu bekijkt en denkt; &quot;Had je hem niet wat scherper kunnen maken?&quot; dan ligt dat waarschijnlijk aan de instellingen van je beeldscherm. Wanneer de schaal anders is ingesteld dan 100% dan zorg dat voor een wazige weergave. Wanneer de schaal op 100% staat is deze publicatie haarscherp.&#xD;&#xA;&#xD;&#xA;Brede tekeningen kunnen echter nog steeds wazig zijn, zeker op kleinere schermen. Op een groot scherm kun je dat oplossen door de 'model tree' sidebar wat smaller te maken.&#xD;&#xA;&#xD;&#xA;Ik stoei af en toe nog met de css om dit netter voor elkaar te krijgen."
       textPosition="1"
       borderType="1">
     <bounds
@@ -116,7 +116,7 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="852"
+        x="828"
         y="12"
         width="262"
         height="49"/>
@@ -170,9 +170,9 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="1092"
-        y="12"
-        width="262"
+        x="828"
+        y="363"
+        width="193"
         height="49"/>
   </children>
   <children
@@ -185,7 +185,7 @@
       content="Het dashboard (5-10-2023)&#xD;&#xA;&#xD;&#xA;Het dashboard of startscherm zoals je deze voor je ziet is het begin van wat een goed gevuld model zal worden."
       textPosition="1">
     <bounds
-        x="864"
+        x="840"
         y="60"
         width="193"
         height="37"/>
@@ -200,7 +200,7 @@
       content="Structuur van het model &#xD;&#xA;(5-10-2023)&#xD;&#xA;&#xD;&#xA;"
       textPosition="1">
     <bounds
-        x="864"
+        x="840"
         y="108"
         width="193"
         height="49"/>
@@ -215,7 +215,7 @@
       content="Stelselwetten (5-10-2023)&#xD;&#xA;&#xD;&#xA;Toegevoegd onder &quot;Wet- en Regelgeving&quot;"
       textPosition="1">
     <bounds
-        x="864"
+        x="840"
         y="168"
         width="193"
         height="37"/>
@@ -230,7 +230,7 @@
       content="IZA analyse (5-10-2023)&#xD;&#xA;&#xD;&#xA;Toegevoegd aan &quot;Motivatie &amp; Strategie&quot;&#xD;&#xA;"
       textPosition="1">
     <bounds
-        x="864"
+        x="840"
         y="254"
         width="193"
         height="37"/>
@@ -245,7 +245,7 @@
       content="NVS analyse (5-10-2023)&#xD;&#xA;&#xD;&#xA;Toegevoegd aan &quot;Motivatie &amp; Strategie&quot;"
       textPosition="1">
     <bounds
-        x="864"
+        x="840"
         y="302"
         width="193"
         height="37"/>
@@ -263,7 +263,7 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="1320"
+        x="1056"
         y="12"
         width="262"
         height="49"/>
@@ -277,7 +277,7 @@
       fillColor="#c9e7b7"
       content="ZIRA&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de ZIRA meenemen in dit model">
     <bounds
-        x="1332"
+        x="1068"
         y="60"
         width="193"
         height="37"/>
@@ -292,7 +292,7 @@
       content="RDG (5-10-2023)&#xD;&#xA;&#xD;&#xA;Toegevoegd onder &quot;Organisatie &amp; Processen&quot;"
       textPosition="1">
     <bounds
-        x="864"
+        x="840"
         y="210"
         width="193"
         height="37"/>
@@ -306,7 +306,7 @@
       fillColor="#c9e7b7"
       content="RDC&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de RDC (Care) meenemen in dit model">
     <bounds
-        x="1332"
+        x="1068"
         y="108"
         width="193"
         height="37"/>
@@ -320,8 +320,8 @@
       fillColor="#b5ffff"
       content="Landelijk beschikbare voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
     <bounds
-        x="1092"
-        y="60"
+        x="840"
+        y="411"
         width="193"
         height="49"/>
   </children>
@@ -461,7 +461,7 @@
       fillColor="#c9e7b7"
       content="Voorbeelden&#xD;&#xA;&#xD;&#xA;Door elementen uit referentiemodellen te combineren in samengestelde modellen ontstaan weergaven van systemen zoals ze er in de praktijk uitzien of uit zouden kunnen zien.">
     <bounds
-        x="1332"
+        x="1068"
         y="156"
         width="193"
         height="37"/>
@@ -475,8 +475,8 @@
       fillColor="#b5ffff"
       content="Hoe Archimate toegepast wordt in dit model">
     <bounds
-        x="1092"
-        y="120"
+        x="840"
+        y="471"
         width="193"
         height="49"/>
   </children>
@@ -489,7 +489,7 @@
       fillColor="#c9e7b7"
       content="Dienstverleningsconcept&#xD;&#xA;&#xD;&#xA;Parallel aan wat er gebeurd binnen de expertgroep dienstverlening NORA wil ik dat passend maken op de zorg.&#xD;&#xA;https://www.noraonline.nl/wiki/Expertgroep_Dienstverlening">
     <bounds
-        x="1332"
+        x="1068"
         y="204"
         width="193"
         height="37"/>
@@ -650,7 +650,7 @@
       fillColor="#c9e7b7"
       content="Meer wetten en normen&#xD;&#xA;&#xD;&#xA;Naast de stelselwetten wil ik graag de overige relevante wetten onderbrengen in dit model en een link leggen naar normen.">
     <bounds
-        x="1332"
+        x="1068"
         y="246"
         width="193"
         height="37"/>
@@ -664,7 +664,7 @@
       fillColor="#c9e7b7"
       content="Capabilities&#xD;&#xA;&#xD;&#xA;Capabilities en resources vormen de basis waaruit de meer specifieke functies of services ontstaan. Om dingen conceptueel goed uit te kunnen leggen zonder al te veel moeilijke modellen denk ik dat de combinatie van capability, resource, principes, requirements, en constrants een kans bieden om een basisontwerp van iets overzichtelijk weer te geven. ">
     <bounds
-        x="1332"
+        x="1068"
         y="290"
         width="193"
         height="37"/>

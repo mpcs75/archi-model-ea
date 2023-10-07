@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04. Business"
+    id="id-1f44294b1c90409b8889d6241e73996b"
+    documentation="Deze weergave heb ik overgenomen uit de archimate 3.2 specificatie: https://pubs.opengroup.org/architecture/archimate32-doc/ch-Business-Layer.html">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5fe4e9cf2a284f5892cf272bc63f46c1"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Hoe Archimate &#xD;&#xA;toegepast wordt"/>
+    <bounds
+        x="12"
+        y="12"
+        width="142"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-e29667b1247e4102a6a2891f4b7827aa.xml#id-e29667b1247e4102a6a2891f4b7827aa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-511de4db5a2347709fb9bf615ea8a292"
+      font="1|Calibri|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      textAlignment="1"
+      content="Business"
+      borderType="2">
+    <bounds
+        x="12"
+        y="72"
+        width="409"
+        height="43"/>
+  </children>
+</archimate:ArchimateDiagramModel>

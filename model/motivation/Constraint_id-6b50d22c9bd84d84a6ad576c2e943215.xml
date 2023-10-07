@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Constraint"
+    id="id-6b50d22c9bd84d84a6ad576c2e943215"
+    documentation="Zelf gebruik ik het constraint element o.a. voor:&#xD;&#xA;&#xD;&#xA;- Niet-functionele eisen zoals&#xD;&#xA;- Wetten&#xD;&#xA;- Normen&#xD;&#xA;- Etc."/>

@@ -107,6 +107,9 @@
         id="id-c86e9644a29344bb9b2d5de84e9ede60"
         targetConnections="id-61fec74d5ee64d24b53e3a4816567166"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="Meten van &#xD;&#xA;behandel-&#xD;&#xA;effectiviteit"/>
       <bounds
           x="420"
           y="36"

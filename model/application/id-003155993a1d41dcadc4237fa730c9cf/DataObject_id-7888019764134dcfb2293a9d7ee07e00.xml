@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ConceptMap"
-    id="id-7888019764134dcfb2293a9d7ee07e00"/>
+    id="id-7888019764134dcfb2293a9d7ee07e00"
+    documentation="A statement of relationships from one set of concepts to one or more other concepts - either concepts in code systems, or data element/data element concepts, or classes in class models.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/conceptmap.html"/>

@@ -744,19 +744,4 @@
         xsi:type="archimate:Driver"
         href="Driver_id-2adf4fcb6ed44011b3208737f8fbfd6b.xml#id-2adf4fcb6ed44011b3208737f8fbfd6b"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-f0943f0d235c4733aede35c0024ad8cb"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="NVS"/>
-    <bounds
-        y="-24"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-049bc3d75de94fcaa61c368277876aba.xml#id-049bc3d75de94fcaa61c368277876aba"/>
-  </children>
 </archimate:ArchimateDiagramModel>

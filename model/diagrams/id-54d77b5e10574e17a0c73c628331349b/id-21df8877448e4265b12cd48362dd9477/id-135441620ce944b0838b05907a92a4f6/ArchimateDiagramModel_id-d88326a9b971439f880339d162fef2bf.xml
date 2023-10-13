@@ -6,9 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-075477cce9fa4f69bd915c73e950be05"
-      textAlignment="1"
-      fillColor="#fff2ec"
-      textPosition="1">
+      fillColor="#fff2ec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8225cb2a0f434597b3e2bb4fd8519d42"
@@ -636,6 +634,9 @@
           id="id-779ad72c460c4fe4bda550fdc7a15fa3"
           targetConnections="id-4001b7c17d0342eb8078e199c366147c"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Voedingspatroon-&#xD;&#xA;Zuigeling"/>
         <bounds
             x="12"
             y="312"
@@ -784,6 +785,9 @@
           id="id-7c8af450c76b4b71a6ff7de7d849a948"
           targetConnections="id-ae8d535c984e4397b340cdb51036e53d"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="MedicatieContra-&#xD;&#xA;Indicatie"/>
         <bounds
             x="144"
             y="24"
@@ -812,6 +816,9 @@
           id="id-94f158b7320747c4b7a9dfdd4a01897f"
           targetConnections="id-38cd87dfbd61470abd5ad3447a897ac1"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Medicatie-&#xD;&#xA;Toediening2"/>
         <bounds
             x="408"
             y="24"
@@ -826,6 +833,9 @@
           id="id-546b184cebc94c749a001605113f0922"
           targetConnections="id-0496672183ae4e4c81d5e8e8877d0bf9"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Medicatie-&#xD;&#xA;verstrekking"/>
         <bounds
             x="540"
             y="24"
@@ -840,6 +850,9 @@
           id="id-a63bb4203a294433bdb5aff6c586c7bc"
           targetConnections="id-504a759f4aa9419a94bb859e07879aea"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Toedienings-&#xD;&#xA;afspraak"/>
         <bounds
             x="672"
             y="24"
@@ -854,6 +867,9 @@
           id="id-422c5dc3cee24b118c2b1ebe155f3e88"
           targetConnections="id-ae6b354eb5e943478d6e8266e118334d"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Verstrekkings-&#xD;&#xA;verzoek"/>
         <bounds
             x="804"
             y="24"
@@ -1375,6 +1391,9 @@
           id="id-f23f689bb0e04e72b94188fa85c6f65e"
           targetConnections="id-311cd04aed224f88855d84b477ac44a6"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="ParticipatieIn-&#xD;&#xA;Maatschappij"/>
         <bounds
             x="540"
             y="120"
@@ -2040,6 +2059,9 @@
           id="id-3e06f89bbca64c5baeaa95ec6af5c7cd"
           targetConnections="id-81d1d932d36640689ba4ba24601022c9"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Laboratorium-&#xD;&#xA;Uitslag"/>
         <bounds
             x="540"
             y="24"
@@ -2082,6 +2104,9 @@
           id="id-83aa990f1117459f89c3705b4dd12c38"
           targetConnections="id-ccee113246784a3eb2b7f65c64b2f29d"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Lichaams-&#xD;&#xA;temperatuur"/>
         <bounds
             x="12"
             y="120"

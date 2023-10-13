@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy) (copy)"
+    name="SOEPVerslag"
     id="id-852e3381497e418189eb30e9a241c505"
-    documentation="bron en meer info:"/>
+    documentation="Een SOEP verslag is een tekstueel verslag van (een deel van het consult) volgens de SOEP-structuur. SOEP (acroniem voor subjectief, objectief, evaluatie, plan) is een methode die gebruikt wordt door zorgverleners om informatie die bij een contact tussen de patiënt en een zorgverlener aan de orde komt, gestructureerd vast te leggen in het dossier van de patiënt. Bij de verslaglegging wordt de volgende gestandaardiseerde indeling aangehouden:&#xD;&#xA;&#xD;&#xA;- Subjectief: de klacht en hulpvraag van de patiënt en de anamnestische gegevens&#xD;&#xA;- Objectief: de bevindingen uit het lichamelijk en aanvullend onderzoek.&#xD;&#xA;- Evaluatie: de werkhypothese en het denkproces, bijvoorbeeld een differentiaaldiagnose van de zorgverlener.&#xD;&#xA;- Plan: het diagnostisch plan of behandelplan en wat met de patiënt is besproken of afgesproken. &#xD;&#xA;&#xD;&#xA;Het SOEP verslag wordt met name in de huisartsenzorg gebruikt. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/SOEPVerslag-v1.0(2020NL)"/>

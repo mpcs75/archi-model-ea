@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy)"
+    name="MedicatieContraIndicatie"
     id="id-9480cc7b33884da1b0b611b2cbc77b46"
-    documentation="bron en meer info:"/>
+    documentation="Een contra-indicatie (CI) voor medicatieveiligheid is een aandoening of kenmerk van een patiënt waarbij zorgverleners bepaalde geneesmiddelen niet, of alleen onder bepaalde voorwaarden, mogen toepassen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/MedicatieContraIndicatie-v1.0(2020NL)"/>

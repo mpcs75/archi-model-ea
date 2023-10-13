@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy)"
+    name="Pijnkenmerken"
     id="id-5c6261964adf4d9488a8c015d48f955e"
-    documentation="bron en meer info:"/>
+    documentation="Pijnkenmerken geven een beschrijving van specifieke, gelokaliseerde pijn. Ze geven informatie over een aantal aspecten van de pijn die de patiënt ervaart.&#xD;&#xA;De aspecten volgen de ALTIS methode (Aard, Lokalisatie, Tijdsduur, Intensiteit en Samenhang). Op deze manier wordt pijn steeds op dezelfde manier beoordeeld. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Pijnkenmerken-v1.0(2020NL)"/>

@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy)"
+    name="Medicatieverstrekking"
     id="id-0609ca1e0a42459aa2b5497ddbbd50e7"
-    documentation="bron en meer info:"/>
+    documentation="Een verstrekking is de terhandstelling van een hoeveelheid van een geneesmiddel aan de patiënt, zijn toediener of zijn vertegenwoordiger. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Medicatieverstrekking-v2.0.2(2020NL)"/>

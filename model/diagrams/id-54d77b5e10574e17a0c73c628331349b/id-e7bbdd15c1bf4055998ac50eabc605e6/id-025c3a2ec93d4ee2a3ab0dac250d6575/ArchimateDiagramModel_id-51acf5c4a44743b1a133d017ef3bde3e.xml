@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl-core FHIR resource datamodel"
+    id="id-51acf5c4a44743b1a133d017ef3bde3e">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-e8f15fb7c9d04c97a0b4e12a2722c117"
+      textPosition="1">
+    <bounds
+        x="12"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-4293c3463b0b4f9fb7721734c239bc49.xml#id-4293c3463b0b4f9fb7721734c239bc49"/>
+  </children>
+</archimate:ArchimateDiagramModel>

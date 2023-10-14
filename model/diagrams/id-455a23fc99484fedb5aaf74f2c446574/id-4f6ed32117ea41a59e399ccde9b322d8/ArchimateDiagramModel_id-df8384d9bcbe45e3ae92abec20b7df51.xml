@@ -74,7 +74,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2f97f989ed4a4225b5ed8ef2c11bf725"
-      targetConnections="id-4eb17b3e35c44815b3ee8e8b5423a6f6 id-358e2863d6664c178d36bc5f74ef773c id-9b8c5bedbe47485aaff35fbb6c827f5e"
+      targetConnections="id-4eb17b3e35c44815b3ee8e8b5423a6f6 id-358e2863d6664c178d36bc5f74ef773c id-9b8c5bedbe47485aaff35fbb6c827f5e id-09ec33518bb1460ba4feff1723d94e93"
       textPosition="1">
     <bounds
         x="275"
@@ -134,7 +134,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-416737f16f8140aa93fa47c038cb0756"
-      targetConnections="id-dff22de11eac4896ab1eccfaa0f30939 id-875908c69fed40198a3a7e7ae818a9e7"
+      targetConnections="id-875908c69fed40198a3a7e7ae818a9e7 id-dff22de11eac4896ab1eccfaa0f30939"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -157,7 +157,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8a213a04edc442b1a7ca8bae850663d6"
-      targetConnections="id-4911828ce96d4260a3edc95e44c17adc"
+      targetConnections="id-4911828ce96d4260a3edc95e44c17adc id-a372db0fa922451da20adec58df516a1"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -260,7 +260,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c4b7b022bcaf4bfb995615e96804ea13"
-      targetConnections="id-3be1b2f0fd814ef986a5e8e12d3d56a5"
+      targetConnections="id-3be1b2f0fd814ef986a5e8e12d3d56a5 id-84f5b2bc4f5546c9a4b79bab3163e076"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -283,7 +283,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0b8fb62d66eb4ac6b7102ecc82087593"
-      targetConnections="id-58d13e11e576432282c11bc7858e0e5b"
+      targetConnections="id-58d13e11e576432282c11bc7858e0e5b id-eea0804a37f445e49c7086832af6e075"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -325,6 +325,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e580e3d5489b4019bcd87189fe40f31a"
+      targetConnections="id-099d777826054e6d89ccc392c4297081"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -356,5 +357,86 @@
         y="799"
         width="277"
         height="58"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-71dd41070f974e2997d925a091c28a1c"
+      textAlignment="1"
+      content="Bijvoorbeeld:&#xD;&#xA;- PIA&#xD;&#xA;- DPIA&#xD;&#xA;- BIV Classificatie">
+    <sourceConnections
+        id="id-a372db0fa922451da20adec58df516a1"
+        source="id-71dd41070f974e2997d925a091c28a1c"
+        target="id-8a213a04edc442b1a7ca8bae850663d6"/>
+    <bounds
+        x="744"
+        y="480"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-12abaab9f18c4933952a6814577cb213"
+      textAlignment="1"
+      content="Bijvoorbeeld:&#xD;&#xA;- DIZRA&#xD;&#xA;- NVS Leidende principes">
+    <sourceConnections
+        id="id-84f5b2bc4f5546c9a4b79bab3163e076"
+        source="id-12abaab9f18c4933952a6814577cb213"
+        target="id-c4b7b022bcaf4bfb995615e96804ea13"/>
+    <bounds
+        x="744"
+        y="847"
+        width="185"
+        height="65"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1954fb33674f4e6098225c628f5b596d"
+      textAlignment="1"
+      content="Bijvoorbeeld:&#xD;&#xA;- Persoon (burger, patiënt / cliënt)&#xD;&#xA;- Zorgaanbieder&#xD;&#xA;- Zorgverlener&#xD;&#xA;- Ministerie van VWS&#xD;&#xA;- etc.">
+    <sourceConnections
+        id="id-09ec33518bb1460ba4feff1723d94e93"
+        source="id-1954fb33674f4e6098225c628f5b596d"
+        target="id-2f97f989ed4a4225b5ed8ef2c11bf725"/>
+    <bounds
+        x="744"
+        y="252"
+        width="185"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b7630e5d312542918a431f1164215892"
+      textAlignment="1"
+      content="Bijvoorbeeld:&#xD;&#xA;- Functionele eisen aan een systeem">
+    <sourceConnections
+        id="id-eea0804a37f445e49c7086832af6e075"
+        source="id-b7630e5d312542918a431f1164215892"
+        target="id-0b8fb62d66eb4ac6b7102ecc82087593">
+      <bendpoints
+          startX="-198"
+          startY="21"
+          endX="156"
+          endY="20"/>
+    </sourceConnections>
+    <bounds
+        x="744"
+        y="967"
+        width="229"
+        height="65"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4977b6a3a8854f48a30300e716eb1cc1"
+      textAlignment="1"
+      content="Bijvoorbeeld:&#xD;&#xA;- Niet - Functionele eisen aan een systeem zoals;&#xD;&#xA;-- Wetten&#xD;&#xA;-- Normen">
+    <sourceConnections
+        id="id-099d777826054e6d89ccc392c4297081"
+        source="id-4977b6a3a8854f48a30300e716eb1cc1"
+        target="id-e580e3d5489b4019bcd87189fe40f31a"/>
+    <bounds
+        x="744"
+        y="1080"
+        width="229"
+        height="109"/>
   </children>
 </archimate:ArchimateDiagramModel>

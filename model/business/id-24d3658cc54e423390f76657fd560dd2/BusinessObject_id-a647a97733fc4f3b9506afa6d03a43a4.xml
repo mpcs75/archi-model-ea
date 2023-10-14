@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JuridischeSituatie"
+    id="id-a647a97733fc4f3b9506afa6d03a43a4"
+    documentation="Een juridische situatie kan een juridische status and/of vertegenwoordiging betreffen.&#xD;&#xA;&#xD;&#xA;De juridische status geeft aan op basis waarvan de patiënt zorg ontvangt dan wel op basis waarvan de patiënt in een zorginstelling verblijft. Dit kan zowel op vrijwillige als onvrijwillige basis, echter wordt een juridische status altijd door een rechter uitgebracht.&#xD;&#xA;&#xD;&#xA;Vertegenwoordiging is van belang in situaties waarbij een persoon juridisch niet bevoegd is om toestemming te geven en/of feitelijk niet of niet volledig is in staat dat te doen. Een vertegenwoordiger ondersteunt en neemt beslissingen die in het belang zijn van de vertegenwoordigde, in gevallen dat hij/zij dit zelf (tijdelijk of permanent) niet kan.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/JuridischeSituatie-v2.0(2020NL)"/>

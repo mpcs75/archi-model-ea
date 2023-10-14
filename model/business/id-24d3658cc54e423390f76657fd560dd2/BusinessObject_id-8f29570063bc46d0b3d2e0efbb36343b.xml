@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VerpleegkundigeInterventie"
+    id="id-8f29570063bc46d0b3d2e0efbb36343b"
+    documentation="Het behandeldoel omschrijft het gewenste resultaat van de behandeling/interventies met betrekking tot het benoemde probleem van de patiënt. Naast de streefwaarde wordt bij het te bereiken doel ook een streefdatum aangegeven. Vergelijking van het behandeldoel met de uitkomsten van zorg geeft inzicht in de effectiviteit van de behandeling/interventies.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Behandeldoel-v3.2(2020NL)"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vochtbalans"
+    id="id-6a84a54a4b2f46458fdc856050c73b99"
+    documentation="De totale vochtinname en totale vochtuitscheiding binnen een bepaalde tijdsperiode: een disbalans kan leiden tot bijvoorbeeld uitdroging of overvulling.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Vochtbalans-v1.0.1(2020NL)"/>

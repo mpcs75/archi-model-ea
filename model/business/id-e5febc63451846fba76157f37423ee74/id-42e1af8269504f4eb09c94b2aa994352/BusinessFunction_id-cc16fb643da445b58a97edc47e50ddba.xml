@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource planning"
+    id="id-cc16fb643da445b58a97edc47e50ddba"
+    documentation="Toewijzing van capaciteit in de tijd aan cliëntgroepen, specialisten (volumeplanning), middelen en locaties. Capaciteitsroostering per cliëntengroep op beschikbare capaciteit&#xD;&#xA;"/>

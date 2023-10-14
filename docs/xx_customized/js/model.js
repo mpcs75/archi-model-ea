@@ -50,14 +50,14 @@ $(document).ready(function() {
       resizable: false
     },
     west: {
-			size: 550,
+			size: 350,
 			spacing_open: 8
 		},
     west__childOptions: {
       maskContents: true,
       south: {
 	      minSize: 50,
-				size: 350,
+				size: 450,
 				spacing_open: 8
 			},
 			center: {

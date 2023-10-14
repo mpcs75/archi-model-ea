@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy) (copy) (copy)"
+    name="BarthelIndex"
     id="id-e8a5818c42a246d2a7e62ef283666075"
-    documentation="bron en meer info:"/>
+    documentation="De Barthel-index is een gevalideerd meetinstrument voor het vastleggen en volgen van activiteiten van het dagelijks leven (ADL) van patiënten en indirect de mate van afhankelijk zijn van hulp.&#xD;&#xA;De lijst bestaat uit 10 onderdelen: darm, blaas, uiterlijke verzorging, toiletgebruik, eten, transfers (bed-stoel en omgekeerd), mobiliteit, aan- en uitkleden, trappen lopen en baden/douchen waaraan een score wordt toegekend.&#xD;&#xA;De totaalscore is de som van de scores van de 10 onderdelen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/BarthelIndex-v3.1(2020NL)"/>

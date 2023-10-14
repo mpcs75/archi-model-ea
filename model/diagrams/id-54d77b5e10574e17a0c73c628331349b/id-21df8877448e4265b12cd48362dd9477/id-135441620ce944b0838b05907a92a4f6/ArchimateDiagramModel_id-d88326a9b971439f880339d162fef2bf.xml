@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zib 2020"
-    id="id-d88326a9b971439f880339d162fef2bf">
+    id="id-d88326a9b971439f880339d162fef2bf"
+    documentation="https://zibs.nl/wiki/ZIB_Publicatie_2020(NL)">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-075477cce9fa4f69bd915c73e950be05"
@@ -2542,6 +2543,9 @@
           id="id-2fc08150298d433497dcf8420f1b3ce1"
           targetConnections="id-8d2d6a75336c471f943129002539ba42"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="TNMTumor-&#xD;&#xA;Classificatie"/>
         <bounds
             x="804"
             y="120"

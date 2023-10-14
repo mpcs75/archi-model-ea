@@ -1,0 +1,110 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01. Bepalen Missie en Visie"
+    id="id-b4c7751d653a40f8bc26eafe22f51e1f">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5e55c61d56fb427784371cb33b534526"
+      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      textAlignment="1"
+      content="Titel"
+      borderType="2">
+    <bounds
+        x="-384"
+        y="48"
+        width="385"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-2761d195315e43e392c300f8a70d41ab"
+      name="Organisatie &amp; Proces"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#44bfea"
+      borderType="1">
+    <bounds
+        x="-384"
+        y="252"
+        width="733"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-009c9d58dbb04986ba789b0f0893115f"
+      name="Informatie"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#ff6e23"
+      borderType="1">
+    <bounds
+        x="-384"
+        y="405"
+        width="733"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-896c4d915908481c88d6a7d2f2eb8265"
+      name="Applicatie &amp; Data"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#97be0d"
+      borderType="1">
+    <bounds
+        x="-384"
+        y="561"
+        width="733"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6f9627f5b47a4581820916d60133627e"
+      name="IT-Infrastructuur"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#00b140"
+      borderType="1">
+    <bounds
+        x="-384"
+        y="717"
+        width="733"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-69fa0819f6314c1da525d6a66baba785"
+      name="Motivatie &amp; Strategie"
+      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#c724b1"
+      borderType="1">
+    <bounds
+        x="-384"
+        y="96"
+        width="733"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b44778e2f9b64d119498275e666ba8f9"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Informatiestromen GGZ "/>
+    <bounds
+        x="-384"
+        y="-12"
+        width="157"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-bcd7003a94a240b9a3216045631fe15a.xml#id-bcd7003a94a240b9a3216045631fe15a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

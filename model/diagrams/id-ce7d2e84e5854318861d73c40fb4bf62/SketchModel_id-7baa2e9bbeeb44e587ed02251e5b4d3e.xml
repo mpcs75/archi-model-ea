@@ -129,7 +129,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Bouwstenen&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik hergebruik binnen deze publicatie. Vaak zijn het vrij beschikbare referentiemodellen en soms zijn het modellen die het resultaat zijn van persoonlijk uitzoekwerk.">
+      content="(Referentie)modellen&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik hergebruik binnen deze publicatie. Vaak zijn het vrij beschikbare referentiemodellen en soms zijn het modellen die het resultaat zijn van persoonlijk uitzoekwerk.">
     <features
         name="lineAlpha"
         value="0"/>
@@ -137,24 +137,6 @@
         x="12"
         y="192"
         width="528"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-c2006453ac2b4130bb078bf30c33a560"
-      name="Bouwwerken"
-      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      lineColor="#000000"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Bouwwerken">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="12"
-        y="540"
-        width="262"
         height="37"/>
   </children>
   <children
@@ -321,7 +303,7 @@
       content="Landelijk beschikbare voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
     <bounds
         x="840"
-        y="411"
+        y="456"
         width="193"
         height="49"/>
   </children>
@@ -476,7 +458,7 @@
       content="Hoe Archimate toegepast wordt in dit model">
     <bounds
         x="840"
-        y="471"
+        y="516"
         width="193"
         height="49"/>
   </children>
@@ -703,5 +685,19 @@
     <referencedModel
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-5db7682e5caa41e3bf51c37160d12c49.xml#id-5db7682e5caa41e3bf51c37160d12c49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-3798c142e04546a299f39509afc0fd96"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Informatiestromen RDG&#xD;&#xA;&#xD;&#xA;Een uitwerking van informatiestromen gebaseerd op de informatie uit het RDG">
+    <bounds
+        x="840"
+        y="408"
+        width="193"
+        height="35"/>
   </children>
 </archimate:SketchModel>

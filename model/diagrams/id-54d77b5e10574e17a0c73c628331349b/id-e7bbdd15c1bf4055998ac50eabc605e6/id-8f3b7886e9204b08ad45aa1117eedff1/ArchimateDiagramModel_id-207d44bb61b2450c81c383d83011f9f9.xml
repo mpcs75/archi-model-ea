@@ -4279,6 +4279,9 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-e60ffaf009da481b926cd8b44164650c"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#97be0d"
       textPosition="1">
     <bounds
         x="12"

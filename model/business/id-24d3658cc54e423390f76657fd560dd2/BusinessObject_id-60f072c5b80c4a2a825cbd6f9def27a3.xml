@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy) (copy) (copy) (copy) (copy) (copy)"
+    name="TijdsInterval"
     id="id-60f072c5b80c4a2a825cbd6f9def27a3"
-    documentation="bron en meer info:"/>
+    documentation="Een tijdsinterval geeft de tijdsduur tussen twee momenten in de tijd. interval kan gedefinieerd worden met een begin- en eindmoment, een beginmoment en een duur of duur en een eindmoment.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/TijdsInterval-v1.0(2020NL)"/>

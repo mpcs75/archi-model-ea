@@ -1798,6 +1798,9 @@
           id="id-d9b28526ddc54fc3b79491dc8d2233d1"
           targetConnections="id-f7152a545adb4ecb9ff97217fd73b730"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Farmaceutisch-&#xD;&#xA;Product"/>
         <bounds
             x="540"
             y="24"

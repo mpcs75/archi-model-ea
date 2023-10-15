@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy) (copy) (copy) (copy) (copy)"
+    name="Contactgegevens"
     id="id-ad33137b4a1c472ca8813f67f113b721"
-    documentation="bron en meer info:"/>
+    documentation="Contactgegevens bevatten de telefoonnummers en e-mail adressen van een persoon.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Contactgegevens-v1.2(2020NL)"/>

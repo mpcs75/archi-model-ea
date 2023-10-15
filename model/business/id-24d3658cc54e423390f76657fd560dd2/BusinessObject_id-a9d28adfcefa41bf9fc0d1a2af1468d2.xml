@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy) (copy) (copy) (copy) (copy)"
+    name="AnatomischeLocatie"
     id="id-a9d28adfcefa41bf9fc0d1a2af1468d2"
-    documentation="bron en meer info:"/>
+    documentation="Een anatomische locatie specificeert de locatie (bijv. voet) en lateraliteit (bijv. links) van een lichaamsonderdeel &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/AnatomischeLocatie-v1.0(2020NL)"/>

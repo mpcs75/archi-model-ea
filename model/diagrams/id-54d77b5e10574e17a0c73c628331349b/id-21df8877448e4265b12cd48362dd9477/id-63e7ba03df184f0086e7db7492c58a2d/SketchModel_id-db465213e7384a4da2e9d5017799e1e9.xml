@@ -46,6 +46,29 @@
       fontColor="#ffffff"
       fillColor="#ff6e23"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="Zib 2020"/>
+    <bounds
+        x="168"
+        y="120"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-d88326a9b971439f880339d162fef2bf.xml#id-d88326a9b971439f880339d162fef2bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1feed4542fb34e98904e4e9291c360fa"
+      targetConnections="id-ee94912e58084b9999815d595ea384f8"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#ff6e23"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Zib 2017"/>
     <bounds
         x="24"
         y="120"
@@ -53,6 +76,29 @@
         height="109"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-d88326a9b971439f880339d162fef2bf.xml#id-d88326a9b971439f880339d162fef2bf"/>
+        href="ArchimateDiagramModel_id-5e23833b239a41a09e3e656cfdd32e0a.xml#id-5e23833b239a41a09e3e656cfdd32e0a"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-d47bf668f3c74a4191cb7f88d8581976"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="nog leeg">
+    <sourceConnections
+        id="id-ee94912e58084b9999815d595ea384f8"
+        source="id-d47bf668f3c74a4191cb7f88d8581976"
+        target="id-1feed4542fb34e98904e4e9291c360fa">
+      <bendpoints
+          startX="-103"
+          startY="-9"
+          endY="114"/>
+    </sourceConnections>
+    <bounds
+        x="120"
+        y="276"
+        width="135"
+        height="43"/>
   </children>
 </archimate:SketchModel>

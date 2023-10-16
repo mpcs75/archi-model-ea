@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zib 2020"
-    id="id-d88326a9b971439f880339d162fef2bf">
+    id="id-d88326a9b971439f880339d162fef2bf"
+    documentation="https://zibs.nl/wiki/ZIB_Publicatie_2020(NL)">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-075477cce9fa4f69bd915c73e950be05"
@@ -1797,6 +1798,9 @@
           id="id-d9b28526ddc54fc3b79491dc8d2233d1"
           targetConnections="id-f7152a545adb4ecb9ff97217fd73b730"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="Farmaceutisch-&#xD;&#xA;Product"/>
         <bounds
             x="540"
             y="24"
@@ -2542,6 +2546,9 @@
           id="id-2fc08150298d433497dcf8420f1b3ce1"
           targetConnections="id-8d2d6a75336c471f943129002539ba42"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="TNMTumor-&#xD;&#xA;Classificatie"/>
         <bounds
             x="804"
             y="120"
@@ -2703,6 +2710,9 @@
           id="id-647d20c9c427488bb4d905c07d03de14"
           targetConnections="id-d42f2dfe495240e98fee4b4e3cbe84f2"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;Mondverzorging"/>
         <bounds
             x="408"
             y="24"
@@ -2717,6 +2727,9 @@
           id="id-5bbd0ff8485143bb8801594207a0ccbc"
           targetConnections="id-8f34ea2a6d9a448b9fb6fbfd9d3938cc"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;Toiletgang"/>
         <bounds
             x="540"
             y="24"
@@ -2731,6 +2744,9 @@
           id="id-0558eaffe8dd4340bac2d1b6d5f5ff80"
           targetConnections="id-3f3b32013ccb4ed191658c60cd00746b"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;UiterlijkeVerzorging"/>
         <bounds
             x="672"
             y="24"
@@ -2745,6 +2761,9 @@
           id="id-7d8d375c3e444ec7a86dfc0b5205849d"
           targetConnections="id-a5c3b649d4cd408c91c42cfb73933356"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;Verpleegtechnische-&#xD;&#xA;Handelingen"/>
         <bounds
             x="804"
             y="24"
@@ -2759,6 +2778,9 @@
           id="id-860d32b2fe264cdea075bb805f4ff1b3"
           targetConnections="id-5a64aa3653204353ae3abd74b3cad97d"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;Zelfstandig-&#xD;&#xA;Medicatiegebruik"/>
         <bounds
             x="12"
             y="120"
@@ -2773,6 +2795,9 @@
           id="id-7a2cdb3730e9424d975ef5254f4776de"
           targetConnections="id-d158a0a11548488dadbc9fed0365d63f"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;ZichKleden"/>
         <bounds
             x="144"
             y="120"
@@ -2787,6 +2812,9 @@
           id="id-b872c1c4f403463da28db1cc3dddae7d"
           targetConnections="id-d8f53cdd1cbc4a979ba42822e509acd2"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="VermogenTot-&#xD;&#xA;ZichWassen"/>
         <bounds
             x="276"
             y="120"

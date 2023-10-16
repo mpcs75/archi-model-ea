@@ -6,6 +6,9 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-e8f15fb7c9d04c97a0b4e12a2722c117"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#97be0d"
       textPosition="1">
     <bounds
         x="12"

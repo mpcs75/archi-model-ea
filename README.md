@@ -1,5 +1,5 @@
 # Een voorbeeld Enterprise Architectuur - Zorg
-Een omgeving waar ik de bomen door het complexe bos een beetje beter probeer te zien. Dat bos is de gezondheidszorg*. De gezondheidszorg is de Enterprise waarvan ik de architectuur uitwerk. Die architectuur uitwerking geeft mij overicht en daarmee inzicht. Let wel dat een uitwerking/analyse door enkel mijzelf heel erg afhangt van mijn interpretatie van onderwerpen. Niet alles klopt daar wellicht helemaal - maar wees welkom om feedback te geven of zelfs mee te werken!
+Een omgeving waar ik de bomen door het complexe bos een beetje beter probeer te zien. Dat bos is de gezondheidszorg*. De gezondheidszorg is de Enterprise waarvan ik de architectuur uitwerk. Die architectuur uitwerking geeft mij overicht en daarmee inzicht. Let wel dat een uitwerking/analyse door enkel mijzelf heel erg afhangt van mijn interpretatie van onderwerpen. Niet alles klopt daar wellicht helemaal - maar wees welkom om feedback te geven of zelfs mee te werken door bijvoorbeeld te reviewen!
 
 ## Wat is hier te vinden
 - Deze repo bevat de [Archi html publicatie](https://mpcs75.github.io/archi-model-ea/?view=id-7baa2e9bbeeb44e587ed02251e5b4d3e) van de architectuur documentatie. 
@@ -7,4 +7,6 @@ Een omgeving waar ik de bomen door het complexe bos een beetje beter probeer te 
 <br></br>
 
 **Alle soorten zorg die onder de Zvw, Wlz, Wmo, Jeugdwet, en Wpg vallen.*
+
+
 

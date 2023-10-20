@@ -164,7 +164,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-68dc8d74edc04c3d8566e97bd4f10fa1"
-        targetConnections="id-12f6060a666e402793fecd10a014249e id-9549b6deee134188b2ba42c0bfc567d1"
+        targetConnections="id-12f6060a666e402793fecd10a014249e id-9549b6deee134188b2ba42c0bfc567d1 id-8a67abf719414ad298068f5b8ce08678"
         textPosition="1">
       <bounds
           x="313"
@@ -178,7 +178,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-49634ac0513f4513acc521548e67a447"
-        targetConnections="id-c4a9f6315c7f455a93183cd35e1e64af id-8efd8e95c4834b749b6eaf7119dbc727"
+        targetConnections="id-c4a9f6315c7f455a93183cd35e1e64af id-8efd8e95c4834b749b6eaf7119dbc727 id-99e0017a3a7b4456a04943c356d818e0"
         textPosition="1">
       <bounds
           x="181"
@@ -214,7 +214,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4e1eded8b52b421282a2d5de51aff3d4"
-        targetConnections="id-aa9bb583b1d041c792bb7143a17a04d0 id-f78ab2eb955b41419b343c324b2179e8"
+        targetConnections="id-aa9bb583b1d041c792bb7143a17a04d0 id-f78ab2eb955b41419b343c324b2179e8 id-b451780302ce4688b0512bf3c073722a"
         textPosition="1">
       <bounds
           x="46"
@@ -233,11 +233,62 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-243c172039564931877933b5e2db6431"
       textAlignment="1">
+    <features
+        name="labelExpression"
+        value="Zib publicatie &#xD;&#xA;2020"/>
     <bounds
         x="24"
         y="372"
         width="486"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-11b68226f57c416ba82bab23a08e2116"
+        content="(Nog) geen zib gevonden"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-b451780302ce4688b0512bf3c073722a"
+          source="id-11b68226f57c416ba82bab23a08e2116"
+          target="id-4e1eded8b52b421282a2d5de51aff3d4"/>
+      <bounds
+          x="48"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-213345aadb274cc289f7e5c2ef520bd6"
+        content="Geen zib"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-99e0017a3a7b4456a04943c356d818e0"
+          source="id-213345aadb274cc289f7e5c2ef520bd6"
+          target="id-49634ac0513f4513acc521548e67a447"/>
+      <bounds
+          x="180"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-f8706071a917403c80d1b85e0a1fd185"
+        content="(Nog) geen zib gevonden"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-8a67abf719414ad298068f5b8ce08678"
+          source="id-f8706071a917403c80d1b85e0a1fd185"
+          target="id-68dc8d74edc04c3d8566e97bd4f10fa1"/>
+      <bounds
+          x="312"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>

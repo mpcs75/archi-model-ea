@@ -124,7 +124,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-24c5b83ab9064cad958df5b0b397cf75"
-        targetConnections="id-eac72c591d72471686692abd133bb738 id-4bd4793ef8994aa08605e4aa1363d185"
+        targetConnections="id-eac72c591d72471686692abd133bb738 id-4bd4793ef8994aa08605e4aa1363d185 id-22541803c274481fa7f77c7fa595cb92"
         textPosition="1">
       <bounds
           x="45"
@@ -143,11 +143,33 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3ee79d53cc304f6ca161780e3826c696"
       textAlignment="1">
+    <features
+        name="labelExpression"
+        value="Zib publicatie &#xD;&#xA;2020"/>
     <bounds
         x="24"
         y="372"
         width="351"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-78164199b23a4ed9b78eb204fc99db7a"
+        content="https://www.rijksoverheid.nl/onderwerpen/geestelijke-gezondheidszorg/basis-ggz-en-gespecialiseerde-ggz&#xD;&#xA;&#xD;&#xA;Per type verwijzing kan de inhoud ervan wellicht verschillen."
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Verder uitzoeken"/>
+      <sourceConnections
+          id="id-22541803c274481fa7f77c7fa595cb92"
+          source="id-78164199b23a4ed9b78eb204fc99db7a"
+          target="id-24c5b83ab9064cad958df5b0b397cf75"/>
+      <bounds
+          x="48"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>

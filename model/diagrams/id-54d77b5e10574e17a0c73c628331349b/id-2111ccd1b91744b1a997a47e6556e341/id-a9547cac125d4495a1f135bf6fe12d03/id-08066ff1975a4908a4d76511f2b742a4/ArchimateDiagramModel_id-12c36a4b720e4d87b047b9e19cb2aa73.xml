@@ -188,7 +188,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5c7b0241ca5e4fcdbde0ebb9fcf0e80b"
-        targetConnections="id-c36bff6f310f47259f2167defd056d80 id-ec7a942f26144983ae36b5616f6263cd"
+        targetConnections="id-c36bff6f310f47259f2167defd056d80 id-ec7a942f26144983ae36b5616f6263cd id-37b417dae5064236b9e37d43d9d9383f"
         textPosition="1">
       <bounds
           x="177"
@@ -202,7 +202,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3789b757d7b24c2989ed69de5135f897"
-        targetConnections="id-26896aa2006d41e3aec8444aeb070a79 id-e18f7511ba444adf94be46f9e6950dfe"
+        targetConnections="id-26896aa2006d41e3aec8444aeb070a79 id-e18f7511ba444adf94be46f9e6950dfe id-c034f44023d34c949e24e9823a32c7c3"
         textPosition="1">
       <bounds
           x="43"
@@ -221,11 +221,46 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b9cbabcc7014d72b23c1626f554bb85"
       textAlignment="1">
+    <features
+        name="labelExpression"
+        value="Zib publicatie&#xD;&#xA;2020"/>
     <bounds
         x="24"
         y="384"
         width="610"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-9cbc79af57d648fd9cf15eec94f9317f"
+        content="meerdere zibs"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-c034f44023d34c949e24e9823a32c7c3"
+          source="id-9cbc79af57d648fd9cf15eec94f9317f"
+          target="id-3789b757d7b24c2989ed69de5135f897"/>
+      <bounds
+          x="48"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-52108ddb5b9a418ba3488362402f9395"
+        content="(Nog) geen zib gevonden"
+        textPosition="1"
+        borderType="1">
+      <sourceConnections
+          id="id-37b417dae5064236b9e37d43d9d9383f"
+          source="id-52108ddb5b9a418ba3488362402f9395"
+          target="id-5c7b0241ca5e4fcdbde0ebb9fcf0e80b"/>
+      <bounds
+          x="180"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>

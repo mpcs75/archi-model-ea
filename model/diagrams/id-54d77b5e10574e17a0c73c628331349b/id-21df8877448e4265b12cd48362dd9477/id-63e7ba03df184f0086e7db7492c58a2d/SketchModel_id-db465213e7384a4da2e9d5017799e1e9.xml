@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie"
     id="id-db465213e7384a4da2e9d5017799e1e9"
+    documentation="De informatiestandaard Medicatieproces maakt betere vastlegging en uitwisseling van medicatiegegevens mogelijk.&#xD;&#xA;&#xD;&#xA;"
     background="0">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -40,22 +41,296 @@
         height="49"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-8c4dcaf9f9a246ca9372e9f2c265e117"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#ff6e23"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="Zib 2020"/>
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-589752ff9bf64f01964913852e4452b4"
+      name="Zorginformatiebouwstenen"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
         x="24"
         y="120"
-        width="120"
-        height="109"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-d88326a9b971439f880339d162fef2bf.xml#id-d88326a9b971439f880339d162fef2bf"/>
+        width="205"
+        height="147"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-8c4dcaf9f9a246ca9372e9f2c265e117"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Zib 2020"/>
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-d88326a9b971439f880339d162fef2bf.xml#id-d88326a9b971439f880339d162fef2bf"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-949ef44b81ce45f9a339acf25b17ee67"
+      name="Informatiestandaarden"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="24"
+        y="276"
+        width="817"
+        height="289"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-932f9ae530a341d294f5ccd1c4abd334"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5"
+        content="Enkel nog de links naar de standaarden">
+      <bounds
+          x="144"
+          width="265"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-3c6489b1f7bc4ad891de19a5025f4ed3"
+        name="Acute zorg"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Patiëntgegevens digitaal delen met collega-zorgverleners in de acute zorgketen. Gestandaardiseerd, snel en via je eigen computersysteem.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/acute-zorg/"
+        textPosition="1"
+        borderType="1">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-ff5a967ac2c24b27bab8cbe05c9d2d1c"
+        name="Beeldbeschikbaarheid"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Beeldbeschikbaarheid betreft de beschikbaarheid van medische beelden en bijbehorende verslaglegging.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/beeldbeschikbaarheid/"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Beeld-&#xD;&#xA;beschikbaarheid"/>
+      <bounds
+          x="144"
+          y="36"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-03d7bb8eb1904c1c9ae420b4602450b6"
+        name="Basisgegevensset Zorg (BgZ)"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="De BgZ is inmiddels omarmd als landelijke standaard.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/basisgegevensset-zorg/"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Basis-&#xD;&#xA;gegevensset &#xD;&#xA;Zorg (BgZ)"/>
+      <bounds
+          x="276"
+          y="36"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-f7109f2d4d9d4db29d2c62a1bb74391a"
+        name="eOverdracht"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="De informatiestandaard eOverdracht zorgt voor eenduidige en volledige overdracht van verpleegkundige patiëntgegevens.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/eoverdracht/"
+        textPosition="1"
+        borderType="1">
+      <bounds
+          x="408"
+          y="36"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-8055ac92f99c46249cb76cde2af3e119"
+        name="Geboortezorg (PWD)"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="De informatiestandaard Geboortezorg noemen we ook wel PWD: het Perinataal Woordenboek en Dataset. Deze zorgt voor eenduidige informatievoorziening tussen zorgverleners en onderzoekers die betrokken zijn bij verloskundige, gynaecologische, kindergeneeskundige &amp; kraamzorg voor de zwangere en het (ongeboren) kind.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/geboortezorg/"
+        textPosition="1"
+        borderType="1">
+      <bounds
+          x="540"
+          y="36"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-e172f6cfbfa747d4adc9c2e1365514c7"
+        name="Huisartsenzorg"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Digitaal patiëntgegevens delen met collega zorgverleners binnen en buiten de huisartsenzorg. Via je eigen computersysteem. Gestandaardiseerd én snel.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/huisartsenzorg/"
+        textPosition="1"
+        borderType="1">
+      <bounds
+          x="672"
+          y="36"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-91efe7a11b9147369edab3c1965752e2"
+        name="Jeugdgezondheidszorg"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Jeugdgezondsheidszorg-organisaties dragen dossiers digitaal over. Dit doen ze onder andere met behulp van de informatiestandaard Jeugdgezondheidszorg. Met deze standaard worden ook gegevens met het RIVM over vaccinaties en de hielprikscreening uitgewisseld.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/jeugdgezondheidszorg/"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Jeugd-&#xD;&#xA;gezondheidszorg"/>
+      <bounds
+          x="12"
+          y="156"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-551d9aef46fb47c5b2af1578fc500958"
+        name="Medicatieproces"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="De informatiestandaard Medicatieproces maakt betere vastlegging en uitwisseling van medicatiegegevens mogelijk.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/medicatieproces/"
+        textPosition="1"
+        borderType="1">
+      <bounds
+          x="144"
+          y="156"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-fdf43271cbd94ffb8675448e039a67f6"
+        name="Paramedische Zorg"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="De informatiestandaard Paramedische Zorg is nog niet geïmplementeerd in de praktijk. Een nieuwe release is in ontwikkeling.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/paramedische-zorg/"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Paramedische &#xD;&#xA;Zorg"/>
+      <bounds
+          x="276"
+          y="156"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-4dec4786df774d4191fdcdc6a7417b1e"
+        name="Laboratoriumuitwisseling"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Laboratoriumgegevens op uniforme wijze digitaal uitwisselen, zodat zorgverleners, patiënten, laboratoriumspecialisten en onderzoekers gegevens eenduidig interpreteren. Dit voorkomt fouten en bespaart tijd. Handmatig overtypen is bijvoorbeeld niet meer nodig.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/labuitwisseling/"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Laboratorium-&#xD;&#xA;uitwisseling"/>
+      <bounds
+          x="408"
+          y="156"
+          width="120"
+          height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-08ab17f1338947418dfac255e6523a30"
+        name="Vaccinatie-Immunisatie"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Vele betrokken partijen die vaccinatiegegevens gestructureerd en eenduidig vast kunnen leggen. Gegevens die daardoor beschikbaar komen voor uitwisseling en gebruik. De informatiestandaard Vaccinatie−Immunisatie speelt daarin een belangrijke rol.&#xD;&#xA;&#xD;&#xA;https://nictiz.nl/standaarden/informatiestandaarden/informatiestandaard-vaccinatie-immunisatie/"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Vaccinatie-&#xD;&#xA;Immunisatie"/>
+      <bounds
+          x="540"
+          y="156"
+          width="120"
+          height="109"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-68c6c091a71a4adbbfad3ff8e9474916"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ff80ff">
+    <bounds
+        x="24"
+        y="576"
+        width="25"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-ee2471ac1c0947479cd2118255bd5c59"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Relevant voor GGZ">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="60"
+        y="576"
+        width="134"
+        height="25"/>
   </children>
 </archimate:SketchModel>

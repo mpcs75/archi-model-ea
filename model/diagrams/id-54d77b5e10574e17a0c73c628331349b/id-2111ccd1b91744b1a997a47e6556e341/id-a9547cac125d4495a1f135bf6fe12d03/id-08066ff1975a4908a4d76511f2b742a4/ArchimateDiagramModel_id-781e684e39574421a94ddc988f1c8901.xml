@@ -43,7 +43,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a3a95435ea614e85878aa221e35c702c"
-        targetConnections="id-61b27f19100e4a18993661b4279d317c id-2e4f9d1c52a046e3b779b60c38978b4c"
+        targetConnections="id-61b27f19100e4a18993661b4279d317c id-2e4f9d1c52a046e3b779b60c38978b4c id-35f32ef328df47e287b8ccc05c3eca61"
         textPosition="1">
       <bounds
           x="180"
@@ -156,7 +156,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8f19730284b7429cac93f7b24ae3df9c"
-        targetConnections="id-38d8f95905c6478b8a9e01e39c141178 id-ab25c333c1cd4fee87cf561076f8ecf6"
+        targetConnections="id-38d8f95905c6478b8a9e01e39c141178 id-ab25c333c1cd4fee87cf561076f8ecf6 id-99e35355f7984974b22c08dcd73709d8"
         textPosition="1">
       <bounds
           x="45"
@@ -180,6 +180,44 @@
         y="360"
         width="351"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-f7384eb5cecf4dbf8893d7a270f8190f"
+        content="Is dit de informatie die aan een verwijzing vast kan zitten? Zijn dit de kerngegevens?&#xD;&#xA;&#xD;&#xA;https://www.rijksoverheid.nl/onderwerpen/geestelijke-gezondheidszorg/basis-ggz-en-gespecialiseerde-ggz"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Verder uitzoeken"/>
+      <sourceConnections
+          id="id-99e35355f7984974b22c08dcd73709d8"
+          source="id-f7384eb5cecf4dbf8893d7a270f8190f"
+          target="id-8f19730284b7429cac93f7b24ae3df9c"/>
+      <bounds
+          x="48"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-d8fd8b371f7e47f39b74ba4ea3ce3187"
+        content="Geen idee - wat wordt er aangeleverd?"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="Verder uitzoeken"/>
+      <sourceConnections
+          id="id-35f32ef328df47e287b8ccc05c3eca61"
+          source="id-d8fd8b371f7e47f39b74ba4ea3ce3187"
+          target="id-a3a95435ea614e85878aa221e35c702c"/>
+      <bounds
+          x="180"
+          y="24"
+          width="120"
+          height="80"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>

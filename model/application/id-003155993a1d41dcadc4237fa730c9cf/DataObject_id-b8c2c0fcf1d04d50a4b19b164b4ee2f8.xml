@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Practitioner"
-    id="id-b8c2c0fcf1d04d50a4b19b164b4ee2f8"/>
+    id="id-b8c2c0fcf1d04d50a4b19b164b4ee2f8"
+    documentation="A person who is directly or indirectly involved in the provisioning of healthcare.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/practitioner.html"/>

@@ -113,6 +113,20 @@
           y="36"
           width="120"
           height="109"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-4106d67115fa4f80b17545999f41938e"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          fillColor="#ff80ff"
+          content="3"
+          textPosition="1">
+        <bounds
+            x="96"
+            y="84"
+            width="25"
+            height="25"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -153,6 +167,20 @@
           y="36"
           width="120"
           height="109"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-14d1dc46a1584236889b4bfc488a7950"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          fillColor="#ff80ff"
+          content="2"
+          textPosition="1">
+        <bounds
+            x="96"
+            y="84"
+            width="25"
+            height="25"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -204,6 +232,20 @@
           y="36"
           width="120"
           height="109"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-b94f8806c403434c86d271960be012d3"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          fillColor="#ff80ff"
+          content="1"
+          textPosition="1">
+        <bounds
+            x="96"
+            y="84"
+            width="25"
+            height="25"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -241,6 +283,20 @@
           y="156"
           width="120"
           height="109"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-fceb05629c92466eabe2381cb6c3713b"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          fillColor="#ff80ff"
+          content="5"
+          textPosition="1">
+        <bounds
+            x="96"
+            y="84"
+            width="25"
+            height="25"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -281,6 +337,20 @@
           y="156"
           width="120"
           height="109"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-e35d0354af7b4aa1ba220a0600e51b04"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          fillColor="#ff80ff"
+          content="4"
+          textPosition="1">
+        <bounds
+            x="96"
+            y="84"
+            width="25"
+            height="25"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"

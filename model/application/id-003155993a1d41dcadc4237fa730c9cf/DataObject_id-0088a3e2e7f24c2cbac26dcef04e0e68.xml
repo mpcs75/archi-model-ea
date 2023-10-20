@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parameters"
-    id="id-0088a3e2e7f24c2cbac26dcef04e0e68"/>
+    id="id-0088a3e2e7f24c2cbac26dcef04e0e68"
+    documentation="This resource is a non-persisted resource used to pass information into and back from an operation. It has no other use, and there is no RESTful endpoint associated with it.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/parameters.html"/>

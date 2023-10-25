@@ -42,14 +42,14 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-bb271910ee944b6dad36513290cb364d"
-      name="Landelijk"
+      name="Landelijk opgelegde kaders"
       textAlignment="1"
       fillColor="#ffffff"
       borderType="1">
     <bounds
         x="24"
         y="168"
-        width="469"
+        width="409"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -62,13 +62,51 @@
           name="labelExpression"
           value="Leidende &#xD;&#xA;principes &#xD;&#xA;NVS"/>
       <bounds
-          x="12"
+          x="276"
           y="24"
           width="120"
           height="109"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-8f2d13928c06483191e6a85164d7da0f.xml#id-8f2d13928c06483191e6a85164d7da0f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-e87c399d900341deb48ca7a15c5da5db"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#c724b1"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Integraal &#xD;&#xA;Zorg Akkoord &#xD;&#xA;(IZA)"/>
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:SketchModel"
+          href="SketchModel_id-683b2f142f7049f4906691818671e8a9.xml#id-683b2f142f7049f4906691818671e8a9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-40dd0b356d694a98833d6fba56526307"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#c724b1"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Nationale Visie &#xD;&#xA;en Strategie&#xD;&#xA;(NVS)"/>
+      <bounds
+          x="144"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:SketchModel"
+          href="SketchModel_id-049bc3d75de94fcaa61c368277876aba.xml#id-049bc3d75de94fcaa61c368277876aba"/>
     </children>
   </children>
   <children
@@ -80,7 +118,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Alle modellen die ik samenstel binnen deze architectuur zal ik steeds toetsen aan onderstaande kaders.">
+      content="Bij het samenstellen van een gewenste doelarchitectuur hebben we te maken met landelijk opgelegde kaders.">
     <features
         name="lineAlpha"
         value="0"/>

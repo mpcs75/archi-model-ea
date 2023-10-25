@@ -152,6 +152,9 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-8a16c5b5e8de4c508a25a1014908a6bb"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#c724b1"
       textPosition="1">
     <bounds
         x="12"

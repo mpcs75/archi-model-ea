@@ -1,0 +1,23 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01. Specifieke zorgwetten"
+    id="id-2ebb970a410149b2afd43e4279d256c3"
+    documentation="Specifieke zorgwetten bepalen hoe specifieke deelgebieden binnen de zorg werken.&#xD;&#xA;&#xD;&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-8fecf90e277d469dbdae2cc420f900ed"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <bounds
+        x="12"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-fd19c13689aa4f79a55df06282e4db17.xml#id-fd19c13689aa4f79a55df06282e4db17"/>
+  </children>
+</archimate:ArchimateDiagramModel>

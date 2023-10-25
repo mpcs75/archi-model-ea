@@ -138,7 +138,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5c30aa45ed314bcea23d59f8d4866cac"
-        targetConnections="id-0dd9d584d5c149c4a96f473d6e82ebb1 id-c929e12be5ab468a81a38cb5acac7577 id-9e6c40fce9c046cdb2c56f4a2d71b4b8"
+        targetConnections="id-0dd9d584d5c149c4a96f473d6e82ebb1 id-c929e12be5ab468a81a38cb5acac7577"
         textPosition="1">
       <bounds
           x="180"
@@ -174,7 +174,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-42d4078427724da981e4de6ab615af01"
-        targetConnections="id-8165753dd18b47828d3fb4f8a036c87e id-cf34d098b89148a0a14cc33d990d99ea id-6aee755cef61481483e850f82cb58821"
+        targetConnections="id-8165753dd18b47828d3fb4f8a036c87e id-cf34d098b89148a0a14cc33d990d99ea"
         textPosition="1">
       <bounds
           x="319"
@@ -188,7 +188,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b9345f0520b349438851c474ea379053"
-        targetConnections="id-592c26a51f8b4d2db314f97726468775 id-8e0af0dc0a1345109c97e6ef16294629 id-843c5c228db9414d97a5df9f4117496c"
+        targetConnections="id-592c26a51f8b4d2db314f97726468775 id-8e0af0dc0a1345109c97e6ef16294629"
         textPosition="1">
       <bounds
           x="43"
@@ -202,121 +202,5 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-28e1d5f4364b40f5bb43ebef4b982830.xml#id-28e1d5f4364b40f5bb43ebef4b982830"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6e6b337705c34e2dae8d7f608338b266"
-      textAlignment="1">
-    <features
-        name="labelExpression"
-        value="Zib publicatie &#xD;&#xA;2020"/>
-    <bounds
-        x="24"
-        y="360"
-        width="499"
-        height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-70c669fd31a346a89fc6d4b3b62e4293"
-        content="Geen ZIB&#xD;&#xA;(gevonden)"
-        textPosition="1"
-        borderType="1">
-      <sourceConnections
-          id="id-843c5c228db9414d97a5df9f4117496c"
-          source="id-70c669fd31a346a89fc6d4b3b62e4293"
-          target="id-b9345f0520b349438851c474ea379053"/>
-      <bounds
-          x="48"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-b5fcb8c47444448e935371b78ca4881b"
-        content="Geen ZIB&#xD;&#xA;(gevonden)"
-        textPosition="1"
-        borderType="1">
-      <sourceConnections
-          id="id-9e6c40fce9c046cdb2c56f4a2d71b4b8"
-          source="id-b5fcb8c47444448e935371b78ca4881b"
-          target="id-5c30aa45ed314bcea23d59f8d4866cac"/>
-      <bounds
-          x="180"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-78f5a249816f4905973f62bf137de4cd"
-        content="Geen ZIB&#xD;&#xA;(gevonden)"
-        textPosition="1"
-        borderType="1">
-      <sourceConnections
-          id="id-6aee755cef61481483e850f82cb58821"
-          source="id-78f5a249816f4905973f62bf137de4cd"
-          target="id-42d4078427724da981e4de6ab615af01"/>
-      <bounds
-          x="324"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-214339563260412b871be584a6873b02"
-      textAlignment="1">
-    <bounds
-        x="24"
-        y="624"
-        width="499"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-834aed0392dc416686e1e203cae3b842.xml#id-834aed0392dc416686e1e203cae3b842"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6577d55843e54520a6890bcd3aff8d6b"
-      textAlignment="1">
-    <bounds
-        x="24"
-        y="888"
-        width="499"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-57be02843c7847cabc7a8c3d1a4fd564.xml#id-57be02843c7847cabc7a8c3d1a4fd564"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-dcb8158a77d942dca37dfd704f90a81a"
-      textAlignment="1">
-    <bounds
-        x="24"
-        y="492"
-        width="499"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-0906f20fb709446bb506d65af5436c05.xml#id-0906f20fb709446bb506d65af5436c05"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1b9f35fe606944d89c2916fb9ac8b6f2"
-      textAlignment="1">
-    <bounds
-        x="24"
-        y="756"
-        width="499"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-9f91e774f3e94c249d9b8581143d6d08.xml#id-9f91e774f3e94c249d9b8581143d6d08"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -227,7 +227,7 @@
     <bounds
         x="12"
         y="36"
-        width="649"
+        width="721"
         height="241"/>
     <children
         xsi:type="archimate:SketchModelSticky"
@@ -327,11 +327,11 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Wat willen we bereiken">
+        content="Wat wil men bereiken met het IZA">
       <bounds
           x="372"
           y="84"
-          width="253"
+          width="325"
           height="38"/>
     </children>
     <children
@@ -341,11 +341,11 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Wat moeten we daar voor gaan doen">
+        content="Wat wordt daarover afgesproken">
       <bounds
           x="372"
           y="132"
-          width="253"
+          width="325"
           height="38"/>
     </children>
     <children
@@ -355,11 +355,11 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Wat is de strategie om dit te realiseren">
+        content="Wat is de strategie om afspraken te realiseren">
       <bounds
           x="372"
           y="180"
-          width="253"
+          width="325"
           height="38"/>
     </children>
     <children
@@ -369,11 +369,11 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="De uitwerking van het IZA in architectuur">
+        content="De uitwerking van het IZA in architectuur weergave">
       <bounds
           x="372"
           y="36"
-          width="253"
+          width="325"
           height="38"/>
     </children>
   </children>
@@ -445,7 +445,7 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="672"
+        x="744"
         y="36"
         width="217"
         height="241"/>
@@ -534,6 +534,9 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-7df3b955b47d4be292beeb505748fd66"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#c724b1"
       textPosition="1">
     <bounds
         x="12"

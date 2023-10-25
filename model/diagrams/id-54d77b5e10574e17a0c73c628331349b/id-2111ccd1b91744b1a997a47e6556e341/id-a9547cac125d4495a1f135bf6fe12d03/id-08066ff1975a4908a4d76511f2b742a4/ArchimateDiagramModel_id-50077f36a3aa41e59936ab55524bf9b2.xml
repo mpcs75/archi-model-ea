@@ -120,7 +120,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-17476332d624448084194ea19255d5c3"
-        targetConnections="id-df3eea8646254d1bb376427333fff908 id-3112f0670bfa4c578ef010287fc0027a id-b4110479a0fc4c42a952227587325e35"
+        targetConnections="id-df3eea8646254d1bb376427333fff908 id-3112f0670bfa4c578ef010287fc0027a"
         textPosition="1">
       <bounds
           x="45"
@@ -156,7 +156,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b6ad76aa4571490287201a61bd1ee5d2"
-        targetConnections="id-243f1bf69c4f44c4b5a2623b27af1fb4 id-3b9b8cef1a594e789336f9a524826fdd id-d3178de8273f4bcdb07156e7fe124f63"
+        targetConnections="id-243f1bf69c4f44c4b5a2623b27af1fb4 id-3b9b8cef1a594e789336f9a524826fdd"
         textPosition="1">
       <bounds
           x="184"
@@ -170,151 +170,5 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-28e1d5f4364b40f5bb43ebef4b982830.xml#id-28e1d5f4364b40f5bb43ebef4b982830"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ccdba26a4fdf485c8f39d77bbcc852b4"
-      textAlignment="1">
-    <features
-        name="labelExpression"
-        value="Zib publicatie &#xD;&#xA;2020"/>
-    <bounds
-        x="22"
-        y="360"
-        width="351"
-        height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-b4e2b2f53a4d4aa4b7e4ed64b51748d8"
-        targetConnections="id-46b4ac0552f94dc18c94979a67d8afb9"
-        content="Uitzoeken welke precies"
-        textPosition="1"
-        borderType="1">
-      <features
-          name="labelExpression"
-          value="Meerdere mogelijk"/>
-      <sourceConnections
-          id="id-b4110479a0fc4c42a952227587325e35"
-          source="id-b4e2b2f53a4d4aa4b7e4ed64b51748d8"
-          target="id-17476332d624448084194ea19255d5c3"/>
-      <bounds
-          x="48"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-028daf9e828f4e748ae66c57f184a272"
-        targetConnections="id-10f4c0b42d854b0499c8e495866ed8f2"
-        content="Heeft deze een één op één relatie met de Bg GGZ"
-        textPosition="1"
-        borderType="1">
-      <features
-          name="labelExpression"
-          value="Meerdere"/>
-      <sourceConnections
-          id="id-d3178de8273f4bcdb07156e7fe124f63"
-          source="id-028daf9e828f4e748ae66c57f184a272"
-          target="id-b6ad76aa4571490287201a61bd1ee5d2"/>
-      <bounds
-          x="192"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-481b98e23ce845f2b8630128b4d9bf80"
-      textAlignment="1">
-    <bounds
-        x="22"
-        y="624"
-        width="351"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-834aed0392dc416686e1e203cae3b842.xml#id-834aed0392dc416686e1e203cae3b842"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-06bcb4e3ee1a499c95d06f3a68caaee3"
-      textAlignment="1">
-    <bounds
-        x="22"
-        y="888"
-        width="351"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-57be02843c7847cabc7a8c3d1a4fd564.xml#id-57be02843c7847cabc7a8c3d1a4fd564"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8dad56b3fc604aaa9821fa793b2ade7f"
-      textAlignment="1">
-    <bounds
-        x="22"
-        y="492"
-        width="351"
-        height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-8fdfe3be64f846e7bd10f29cfe35346c"
-        content="Heeft deze een één op één relatie met de Bg GGZ"
-        textPosition="1"
-        borderType="1">
-      <features
-          name="labelExpression"
-          value="Bg GGZ?&#xD;&#xA;(MedMij)"/>
-      <sourceConnections
-          id="id-10f4c0b42d854b0499c8e495866ed8f2"
-          source="id-8fdfe3be64f846e7bd10f29cfe35346c"
-          target="id-028daf9e828f4e748ae66c57f184a272"/>
-      <bounds
-          x="192"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-fdfb4af7c6c34a539ff90411a6457d1e"
-        content="Deze heeft denk ik een hele grote relatie met Koppeltaal en Koppeltaal use cases&#xD;&#xA;&#xD;&#xA;- Annoniem gebruik&#xD;&#xA;- Preventief gebruik van interventies (die meegenomen kunnen worden bij de intake)&#xD;&#xA;- Resutaatbericht"
-        textPosition="1"
-        borderType="1">
-      <features
-          name="labelExpression"
-          value="Koppeltaal?"/>
-      <sourceConnections
-          id="id-46b4ac0552f94dc18c94979a67d8afb9"
-          source="id-fdfb4af7c6c34a539ff90411a6457d1e"
-          target="id-b4e2b2f53a4d4aa4b7e4ed64b51748d8"/>
-      <bounds
-          x="48"
-          y="24"
-          width="120"
-          height="80"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-0906f20fb709446bb506d65af5436c05.xml#id-0906f20fb709446bb506d65af5436c05"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-74d3d6708eb444d3913471354eff7587"
-      textAlignment="1">
-    <bounds
-        x="22"
-        y="756"
-        width="351"
-        height="121"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-9f91e774f3e94c249d9b8581143d6d08.xml#id-9f91e774f3e94c249d9b8581143d6d08"/>
   </children>
 </archimate:ArchimateDiagramModel>

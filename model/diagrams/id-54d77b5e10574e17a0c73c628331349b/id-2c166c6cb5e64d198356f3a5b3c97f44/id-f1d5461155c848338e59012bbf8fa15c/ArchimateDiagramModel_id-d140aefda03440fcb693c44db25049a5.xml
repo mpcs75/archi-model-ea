@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stelselwetten"
+    name="01. Stelselwetten"
     id="id-d140aefda03440fcb693c44db25049a5"
-    documentation="bron 1: https://www.rivm.nl/zorg/organisatie-van-zorg#:~:text=Vijf%20stelselwetten%20bepalen%20hoe%20het,(Wet%20Publieke%20Gezondheid)).&#xD;&#xA;&#xD;&#xA;bron 2: https://app.zwdz.nl/wetten&#xD;&#xA;&#xD;&#xA;Wetten: https://wetten.overheid.nl/">
+    documentation="Stelselwetten bepalen hoe het zorgstelsel werkt, &#xD;&#xA;&#xD;&#xA;bron 1: https://www.rivm.nl/zorg/organisatie-van-zorg#:~:text=Vijf%20stelselwetten%20bepalen%20hoe%20het,(Wet%20Publieke%20Gezondheid)).&#xD;&#xA;&#xD;&#xA;bron 2: https://app.zwdz.nl/wetten&#xD;&#xA;&#xD;&#xA;Wetten: https://wetten.overheid.nl/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f9e17a7c61474e3291a79d0f48b49552"
@@ -54,8 +54,8 @@
           href="CompositionRelationship_id-9dcbb350b4654825ae643562d7df69f2.xml#id-9dcbb350b4654825ae643562d7df69f2"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="96"
+        x="24"
+        y="144"
         width="691"
         height="140"/>
     <children
@@ -147,6 +147,9 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-948f5eaef1464506a5d776360538f23e"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
       textPosition="1">
     <bounds
         x="24"
@@ -156,5 +159,24 @@
     <referencedModel
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-fd19c13689aa4f79a55df06282e4db17.xml#id-fd19c13689aa4f79a55df06282e4db17"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-77d8d849155443ac9098a01c04cd682a"
+      font="1|Calibri|12.0|2|WINDOWS|1|-16|0|0|0|400|-1|0|0|0|3|2|1|34|Calibri"
+      fontColor="#2e2e2e"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Vijf stelselwetten bepalen hoe het zorgstelsel werkt"
+      borderType="2">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="24"
+        y="108"
+        width="361"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

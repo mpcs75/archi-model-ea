@@ -114,7 +114,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Bouwstenen &amp; Modellen&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik hergebruik binnen deze publicatie. Vaak zijn het vrij beschikbare referentiemodellen en soms zijn het modellen die het resultaat zijn van persoonlijk uitzoekwerk.">
+      content="Referentiemodellen&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik hergebruik binnen deze publicatie. Vaak zijn het vrij beschikbare referentiemodellen en soms zijn het modellen die het resultaat zijn van persoonlijk uitzoekwerk.">
     <features
         name="lineAlpha"
         value="0"/>
@@ -497,7 +497,7 @@
       textAlignment="4"
       fillColor="#deebea"
       alpha="0"
-      content="12"
+      content="13"
       textPosition="1">
     <features
         name="lineAlpha"
@@ -519,7 +519,7 @@
       textAlignment="4"
       fillColor="#deebea"
       alpha="0"
-      content="2"
+      content="1"
       textPosition="1">
     <features
         name="lineAlpha"
@@ -587,7 +587,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Analyses  IZA en NVS">
+      content="Gelaagde modellen">
     <features
         name="lineAlpha"
         value="0"/>
@@ -606,7 +606,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Binnen bouwstenen &amp; modellen probeer ik uit te werken hoe een  enterprise architectuur er uit zou kunnen zien wanneer gebruik gemaakt wordt van alle beschikbare bouwblokken.  Bestaande oplossingen voor interoperabiliteit benoem ik hier ook maar ga daar niet te diep op in.">
+      content="Vaak opzichzelfstaande modellen waarmee gelaagde weergaves gemaakt kunnen worden. Ieder referentiemodel is ingedeeld in een laag van het 5-lagenmodel van Nictiz.">
     <features
         name="lineAlpha"
         value="0"/>
@@ -625,7 +625,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Ik ben erg geïnteresseerd in veel wat gaande is rondom het Integraal Zorgakkoord en de Nationale Visie en Strategie op het gezondheidsinformatiestelsel. Het is onmogelijk om alles mee te krijgen maar ik probeer regelmatig afspraken te linken aan lopende acties. De principes uit de NVS probeer ik daarnaast ook te gebruiken als richtlijn voor mijn 'fictieve' voorbeeld architectuur.">
+      content="Weergaven van diverse onderwerpen die uitgewerkt zijn over meerdere lagen van het 5-lagenmodel van Nictiz. Hiervoor worden de Referentiemodellen als basis gebruikt.">
     <features
         name="lineAlpha"
         value="0"/>
@@ -662,40 +662,6 @@
         y="351"
         width="193"
         height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-e103638ed3e74c8682788706f8360704"
-      fillColor="#ccccff"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="Integraal Zorg &#xD;&#xA;Akkoord (IZA)"/>
-    <bounds
-        x="24"
-        y="732"
-        width="120"
-        height="109"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-683b2f142f7049f4906691818671e8a9.xml#id-683b2f142f7049f4906691818671e8a9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-e3bdb228d0f64b22b4c5c4ecdd0faa23"
-      fillColor="#ccccff"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="Nationale &#xD;&#xA;Visie &amp; Strategie&#xD;&#xA;(NVS)"/>
-    <bounds
-        x="156"
-        y="732"
-        width="120"
-        height="109"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-049bc3d75de94fcaa61c368277876aba.xml#id-049bc3d75de94fcaa61c368277876aba"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"

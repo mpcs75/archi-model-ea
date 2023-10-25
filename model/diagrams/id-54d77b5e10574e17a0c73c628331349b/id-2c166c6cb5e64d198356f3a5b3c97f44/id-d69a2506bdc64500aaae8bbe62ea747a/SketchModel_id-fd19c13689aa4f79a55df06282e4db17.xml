@@ -45,13 +45,54 @@
       fontColor="#ffffff"
       fillColor="#83786f"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="Stelselwetten"/>
     <bounds
-        x="24"
-        y="48"
+        x="168"
+        y="60"
         width="120"
         height="109"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-d140aefda03440fcb693c44db25049a5.xml#id-d140aefda03440fcb693c44db25049a5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-001f41185f9947ac8f4d518c6dd77730"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Algemene wetten"/>
+    <bounds
+        x="24"
+        y="60"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-85e06691a6e84c3985efd5665205fbe1.xml#id-85e06691a6e84c3985efd5665205fbe1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-30288a342e8647c29d03638d9d2dea49"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Specifieke zorgwetten"/>
+    <bounds
+        x="312"
+        y="60"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-2ebb970a410149b2afd43e4279d256c3.xml#id-2ebb970a410149b2afd43e4279d256c3"/>
   </children>
 </archimate:SketchModel>

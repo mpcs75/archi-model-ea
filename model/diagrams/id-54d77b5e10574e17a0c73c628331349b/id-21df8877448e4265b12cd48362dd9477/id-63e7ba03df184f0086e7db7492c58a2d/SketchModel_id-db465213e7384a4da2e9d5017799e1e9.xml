@@ -50,7 +50,7 @@
     <bounds
         x="24"
         y="120"
-        width="205"
+        width="445"
         height="147"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -63,13 +63,33 @@
           name="labelExpression"
           value="Zib 2020"/>
       <bounds
-          x="12"
+          x="144"
           y="24"
           width="120"
           height="109"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-d88326a9b971439f880339d162fef2bf.xml#id-d88326a9b971439f880339d162fef2bf"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-cd78b0e4a3ef4345a3053210a3ed3506"
+        name="ZIB 2017"
+        font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+        fontColor="#ffffff"
+        fillColor="#ff6e23"
+        alpha="200"
+        documentation="Voor het delen van de Basisgegevensset GGZ wordt nog gebruik gemaakt van de ZIB 2017 publicatie - het is echter de vraag of het nog heel relevant is om die hier nog helemaal in te voeren. Die vraag kan wellicht vanuit de sector beantwoord worden."
+        textPosition="1"
+        borderType="1">
+      <features
+          name="labelExpression"
+          value="ZIB 2017&#xD;&#xA;[lees opmerking]"/>
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="109"/>
     </children>
   </children>
   <children

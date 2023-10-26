@@ -298,7 +298,6 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-9bf8e7b58a3b4edc9cf8da06d62de877"
-      targetConnections="id-e56677c3dab348df82edecea0780c0c2"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffffff"
       fillColor="#44bfea"
@@ -315,7 +314,6 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-97c122785ef543d49efc9a184bba664c"
-      targetConnections="id-85ae142d354d4275ad11eca14056d8ec"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffffff"
       fillColor="#ff6e23"
@@ -413,7 +411,7 @@
       textAlignment="4"
       fillColor="#deebea"
       alpha="0"
-      content="1"
+      content="4"
       textPosition="1">
     <features
         name="lineAlpha"
@@ -455,7 +453,7 @@
       textAlignment="4"
       fillColor="#deebea"
       alpha="0"
-      content="1"
+      content="3"
       textPosition="1">
     <features
         name="lineAlpha"
@@ -512,7 +510,6 @@
       xsi:type="archimate:SketchModelSticky"
       id="id-4160ab2afe9547efb24fd2e45fef4541"
       name="Sticky"
-      targetConnections="id-b68f2f72515e47988b609e0abdb81be7"
       font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
       fontColor="#373737"
       lineColor="#5c5c5c"
@@ -613,8 +610,8 @@
     <bounds
         x="12"
         y="228"
-        width="660"
-        height="67"/>
+        width="637"
+        height="51"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
@@ -679,54 +676,6 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="id-198949542ddc44d588a504ae0bcf2cf6"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="- (Zorg)processen, &#xD;&#xA;- informatie(stromen),&#xD;&#xA;- en gegevens(deling) &#xD;&#xA;vormen de kern van &#xD;&#xA;deze architectuur.">
-    <sourceConnections
-        id="id-e56677c3dab348df82edecea0780c0c2"
-        source="id-198949542ddc44d588a504ae0bcf2cf6"
-        target="id-9bf8e7b58a3b4edc9cf8da06d62de877">
-      <bendpoints
-          startX="-96"
-          startY="-21"
-          endX="174"
-          endY="37"/>
-      <bendpoints
-          startX="-96"
-          startY="-57"
-          endX="174"
-          endY="1"/>
-    </sourceConnections>
-    <sourceConnections
-        id="id-85ae142d354d4275ad11eca14056d8ec"
-        source="id-198949542ddc44d588a504ae0bcf2cf6"
-        target="id-97c122785ef543d49efc9a184bba664c"/>
-    <sourceConnections
-        id="id-b68f2f72515e47988b609e0abdb81be7"
-        source="id-198949542ddc44d588a504ae0bcf2cf6"
-        target="id-4160ab2afe9547efb24fd2e45fef4541">
-      <bendpoints
-          startX="-96"
-          startY="15"
-          endX="43"
-          endY="-58"/>
-      <bendpoints
-          startX="-96"
-          startY="63"
-          endX="43"
-          endY="-10"/>
-    </sourceConnections>
-    <bounds
-        x="588"
-        y="390"
-        width="157"
-        height="103"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
       id="id-49528d772b3f46d990e60e9c69310a9e"
       name="Sticky"
       lineColor="#5c5c5c"
@@ -782,5 +731,21 @@
         y="375"
         width="193"
         height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-c8f2de0284fa41ba8dc092988192fda1"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Overzicht &#xD;&#xA;van alle &#xD;&#xA;referentiemodellen"/>
+    <bounds
+        x="552"
+        y="301"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-eed1e97ca5d848379475be380ddc97ec.xml#id-eed1e97ca5d848379475be380ddc97ec"/>
   </children>
 </archimate:SketchModel>

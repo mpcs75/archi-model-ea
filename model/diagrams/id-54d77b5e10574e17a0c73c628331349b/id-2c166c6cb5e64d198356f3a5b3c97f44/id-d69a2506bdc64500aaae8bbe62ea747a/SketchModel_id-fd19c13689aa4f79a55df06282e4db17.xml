@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet- en regelgeving"
     id="id-fd19c13689aa4f79a55df06282e4db17"
+    documentation="Architectuur binnen de vijf lagen van het Lagenmodel moet in lijn zijn met wet- en regelgeving op landelijk en/of internationaal niveau. Wanneer de architectuur overeenkomt met de werkelijke implementaties van processen, mensen, en middelen weet een organisatie dat het voldoet aan wet- en regelgeving."
     background="0">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -49,8 +50,8 @@
         name="labelExpression"
         value="Stelselwetten"/>
     <bounds
-        x="168"
-        y="60"
+        x="288"
+        y="108"
         width="120"
         height="109"/>
     <referencedModel
@@ -68,8 +69,8 @@
         name="labelExpression"
         value="Algemene wetten"/>
     <bounds
-        x="24"
-        y="60"
+        x="156"
+        y="108"
         width="120"
         height="109"/>
     <referencedModel
@@ -87,12 +88,50 @@
         name="labelExpression"
         value="Specifieke zorgwetten"/>
     <bounds
-        x="312"
-        y="60"
+        x="420"
+        y="108"
         width="120"
         height="109"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-2ebb970a410149b2afd43e4279d256c3.xml#id-2ebb970a410149b2afd43e4279d256c3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-0834093485884ce9832c56c865545cb5"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Europese &#xD;&#xA;regels"/>
+    <bounds
+        x="24"
+        y="108"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-a59623dd62504fe085e2b373c90b6ebd.xml#id-a59623dd62504fe085e2b373c90b6ebd"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-d32e5d0feb8d4f78845773bd256518c7"
+      name="Sticky"
+      font="1|Calibri|12.0|2|WINDOWS|1|-16|0|0|0|400|-1|0|0|0|3|2|1|34|Calibri"
+      fontColor="#2e2e2e"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Architectuur binnen de vijf lagen van het Lagenmodel moet in lijn zijn met wet- en regelgeving op landelijk en/of internationaal niveau.">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="18"
+        y="48"
+        width="660"
+        height="49"/>
   </children>
 </archimate:SketchModel>

@@ -134,4 +134,20 @@
         width="660"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-64713da883db462780e6c13d68d0a19a"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Referentiemodellen"/>
+    <bounds
+        x="137"
+        y="-48"
+        width="157"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-eed1e97ca5d848379475be380ddc97ec.xml#id-eed1e97ca5d848379475be380ddc97ec"/>
+  </children>
 </archimate:SketchModel>

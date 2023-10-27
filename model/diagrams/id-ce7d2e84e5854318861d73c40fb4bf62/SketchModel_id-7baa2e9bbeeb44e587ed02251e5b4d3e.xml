@@ -139,7 +139,7 @@
         value="0"/>
     <bounds
         x="756"
-        y="277"
+        y="327"
         width="193"
         height="49"/>
   </children>
@@ -154,7 +154,7 @@
       textPosition="1">
     <bounds
         x="756"
-        y="204"
+        y="254"
         width="193"
         height="37"/>
   </children>
@@ -169,7 +169,7 @@
       textPosition="1">
     <bounds
         x="756"
-        y="156"
+        y="206"
         width="193"
         height="37"/>
   </children>
@@ -544,7 +544,7 @@
       content="Meer wetten en normen&#xD;&#xA;&#xD;&#xA;Naast de stelselwetten wil ik graag de overige relevante wetten onderbrengen in dit model en een link leggen naar normen.">
     <bounds
         x="768"
-        y="322"
+        y="372"
         width="193"
         height="37"/>
   </children>
@@ -671,7 +671,7 @@
       textPosition="1">
     <bounds
         x="756"
-        y="108"
+        y="158"
         width="193"
         height="37"/>
   </children>
@@ -700,7 +700,7 @@
       textPosition="1">
     <bounds
         x="756"
-        y="60"
+        y="110"
         width="193"
         height="37"/>
   </children>
@@ -714,7 +714,7 @@
       content="FHIR resources verder vullen.&#xD;&#xA;&#xD;&#xA;Korte omschrijvingen en hyperlinks">
     <bounds
         x="768"
-        y="375"
+        y="425"
         width="193"
         height="33"/>
   </children>
@@ -751,5 +751,20 @@
     <referencedModel
         xsi:type="canvas:CanvasModel"
         href="CanvasModel_id-9c0ae2f2e7fd4c7882bfa74638d26e3e.xml#id-9c0ae2f2e7fd4c7882bfa74638d26e3e"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-0d5a48016e0049439a432ef936e6b26a"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="27 -10-2023&#xD;&#xA;&#xD;&#xA;- Een beginnetje gemaakt met het toevoegen van wetten&#xD;&#xA;- Een inhoudspagina gemaakt van alle referentiemodellen.&#xD;&#xA;- Het enkele tegeltje &quot;Waarom deze publicatie&quot; vervangen door een Business Model Canvas (moet ik nog vullen)"
+      textPosition="1">
+    <bounds
+        x="756"
+        y="60"
+        width="193"
+        height="37"/>
   </children>
 </archimate:SketchModel>

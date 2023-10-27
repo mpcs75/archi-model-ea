@@ -84,4 +84,20 @@
           href="ArchimateDiagramModel_id-207d44bb61b2450c81c383d83011f9f9.xml#id-207d44bb61b2450c81c383d83011f9f9"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-08be4177873d49839d48132a69d8ad7d"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Referentiemodellen"/>
+    <bounds
+        x="144"
+        y="12"
+        width="157"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-eed1e97ca5d848379475be380ddc97ec.xml#id-eed1e97ca5d848379475be380ddc97ec"/>
+  </children>
 </archimate:SketchModel>

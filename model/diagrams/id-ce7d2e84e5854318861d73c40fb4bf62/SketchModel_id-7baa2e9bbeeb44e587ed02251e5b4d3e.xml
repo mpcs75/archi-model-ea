@@ -1,6 +1,7 @@
 <archimate:SketchModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="00. Welkom"
     id="id-7baa2e9bbeeb44e587ed02251e5b4d3e"
     documentation="Welkom in deze  publicatie waarin ik een voorbeeld schets van hoe een Enterprise Architectuur er uit zou kunnen zien wanneer je die uitwerkt in Archimate.&#xD;&#xA;&#xD;&#xA;"
@@ -101,7 +102,7 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="828"
+        x="744"
         y="12"
         width="262"
         height="49"/>
@@ -137,7 +138,7 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="840"
+        x="756"
         y="277"
         width="193"
         height="49"/>
@@ -152,7 +153,7 @@
       content="10-10-2023&#xD;&#xA;&#xD;&#xA;- Dashboard gemaakt&#xD;&#xA;- Structuur aangebracht in het model&#xD;&#xA;- Stelselwetten toegevoegd&#xD;&#xA;- IZA analyse toegevoegd&#xD;&#xA;- NVS analyse toegevoegd&#xD;&#xA;- Een aantal archimate voorbeelden toegevoegd"
       textPosition="1">
     <bounds
-        x="840"
+        x="756"
         y="204"
         width="193"
         height="37"/>
@@ -167,7 +168,7 @@
       content="13-10-2023&#xD;&#xA;&#xD;&#xA;- FHIR resources toegevoegd aan &quot;Applicaties &amp; Data&quot;&#xD;&#xA;- Beginnetje gemaakt met Zibs 2020 onder &quot;Informatie&quot;"
       textPosition="1">
     <bounds
-        x="840"
+        x="756"
         y="156"
         width="193"
         height="37"/>
@@ -185,7 +186,7 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="1056"
+        x="972"
         y="12"
         width="262"
         height="61"/>
@@ -199,7 +200,7 @@
       fillColor="#c9e7b7"
       content="ZIRA&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de ZIRA meenemen in dit model">
     <bounds
-        x="1068"
+        x="984"
         y="60"
         width="193"
         height="37"/>
@@ -213,7 +214,7 @@
       fillColor="#c9e7b7"
       content="RDC&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de RDC (Care) meenemen in dit model">
     <bounds
-        x="1068"
+        x="984"
         y="437"
         width="193"
         height="37"/>
@@ -227,25 +228,10 @@
       fillColor="#c9e7b7"
       content="Landelijk beschikbare voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
     <bounds
-        x="1068"
+        x="984"
         y="290"
         width="193"
         height="49"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-d7604d68be3447a3a092b01003236032"
-      name="Waarom deze publicatie"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fillColor="#dcebeb"
-      documentation="Waarom&#xD;&#xA;- Als business architect werkzaam bij VZVZ wil ik zo veel mogelijk weten over wat er gaande is binnen het complexe landschap van de zorg in zijn geheel. Dingen verwerken in een architectuurmodel geeft mij overzicht en inzicht. Kort samengevat ben ik via deze publicatie beter in staat de bomen door het bos te zien.&#xD;&#xA;- Naast mijn werk voor VZVZ - specifiek het Koppeltaal afsprakenstelsel en de sector GGZ - is architectuur ook mijn hobby. Het overgrote deel van de tijd die ik in dit model steek is eigen tijd.&#xD;&#xA;&#xD;&#xA;Objectiviteit&#xD;&#xA;- Een belangrijke 'requirement' voor het zijn van een goede architectect is objectiviteit. Ik zal mijn uitwerkingen niet beperken tot enkel de voorzieningen en diensten die VZVZ in beheer heeft maar probeer mijn horizon zo breed mogelijk te houden. In de eerste plaats ben ik een architect van de zorg voor de zorg.&#xD;&#xA;&#xD;&#xA;Contact&#xD;&#xA;- Heb je ergens vragen over of opmerkingen of suggesties voor nieuwe onderwerpen? Mail mij dan gerust via: marcel.schrauwen@vzvz.nl"
-      textPosition="1"
-      borderType="1">
-    <bounds
-        x="24"
-        y="60"
-        width="120"
-        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -368,7 +354,7 @@
       fillColor="#c9e7b7"
       content="Voorbeeld modellen&#xD;&#xA;&#xD;&#xA;Door elementen uit referentiemodellen te combineren in samengestelde modellen ontstaan weergaven van systemen zoals ze er in de praktijk uitzien of uit zouden kunnen zien.">
     <bounds
-        x="1068"
+        x="984"
         y="108"
         width="193"
         height="37"/>
@@ -382,7 +368,7 @@
       fillColor="#c9e7b7"
       content="Hoe Archimate toegepast wordt in dit model">
     <bounds
-        x="1068"
+        x="984"
         y="524"
         width="193"
         height="49"/>
@@ -396,7 +382,7 @@
       fillColor="#c9e7b7"
       content="Dienstverleningsconcept&#xD;&#xA;&#xD;&#xA;Parallel aan wat er gebeurd binnen de expertgroep dienstverlening NORA wil ik dat passend maken op de zorg.&#xD;&#xA;https://www.noraonline.nl/wiki/Expertgroep_Dienstverlening">
     <bounds
-        x="1068"
+        x="984"
         y="156"
         width="193"
         height="37"/>
@@ -554,11 +540,11 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#c9e7b7"
+      fillColor="#b5ffff"
       content="Meer wetten en normen&#xD;&#xA;&#xD;&#xA;Naast de stelselwetten wil ik graag de overige relevante wetten onderbrengen in dit model en een link leggen naar normen.">
     <bounds
-        x="1068"
-        y="198"
+        x="768"
+        y="322"
         width="193"
         height="37"/>
   </children>
@@ -571,7 +557,7 @@
       fillColor="#c9e7b7"
       content="Capabilities&#xD;&#xA;&#xD;&#xA;Capabilities en resources vormen de basis waaruit de meer specifieke functies of services ontstaan. Om dingen conceptueel goed uit te kunnen leggen zonder al te veel moeilijke modellen denk ik dat de combinatie van capability, resource, principes, requirements, en constrants een kans bieden om een basisontwerp van iets overzichtelijk weer te geven. ">
     <bounds
-        x="1068"
+        x="984"
         y="242"
         width="193"
         height="37"/>
@@ -641,7 +627,7 @@
       fillColor="#c9e7b7"
       content="nl-core&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="1068"
+        x="984"
         y="482"
         width="193"
         height="37"/>
@@ -655,7 +641,7 @@
       fillColor="#c9e7b7"
       content="Referentiemodel persoon&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn nu gericht op sectoren. Ik wil een poging doen om iets van een referentiemodel burger in elkaar te zetten. Gericht op digitale zorg. ">
     <bounds
-        x="1068"
+        x="984"
         y="351"
         width="193"
         height="37"/>
@@ -669,7 +655,7 @@
       fillColor="#c9e7b7"
       content="DIZRA manifest&#xD;&#xA;&#xD;&#xA;Welke rol speelt het DIZRA manifest binnen ">
     <bounds
-        x="1068"
+        x="984"
         y="397"
         width="193"
         height="37"/>
@@ -684,7 +670,7 @@
       content="17 -10-2023&#xD;&#xA;&#xD;&#xA;- De ZIB 2020 set onder &quot;Informatie&quot; is volledig ingevoerd."
       textPosition="1">
     <bounds
-        x="840"
+        x="756"
         y="108"
         width="193"
         height="37"/>
@@ -698,8 +684,8 @@
       fillColor="#b5ffff"
       content="Mappen ZIBs op Informatieobjecten RDG&#xD;&#xA;&#xD;&#xA;De meest actuele (niet pre-productie) publicatie van de ZIBs is de 2020 set. Deze set ga ik linken aan de informatie objecten van de RDG.&#xD;&#xA;Volgende stappen daarbij zijn.&#xD;&#xA;&#xD;&#xA;De ZIBs mappen op de FHIR R4 zib">
     <bounds
-        x="852"
-        y="319"
+        x="984"
+        y="584"
         width="193"
         height="45"/>
   </children>
@@ -713,7 +699,7 @@
       content="20 -10-2023&#xD;&#xA;&#xD;&#xA;- Eerste mappings tussen het RDG (Organisatie &amp; Processen) en de ZIB 2020 (Informatie)&#xD;&#xA;- Links toegevoegd naar informatiestandaarden (Informatie)"
       textPosition="1">
     <bounds
-        x="840"
+        x="756"
         y="60"
         width="193"
         height="37"/>
@@ -727,10 +713,10 @@
       fillColor="#b5ffff"
       content="FHIR resources verder vullen.&#xD;&#xA;&#xD;&#xA;Korte omschrijvingen en hyperlinks">
     <bounds
-        x="852"
+        x="768"
         y="375"
         width="193"
-        height="45"/>
+        height="33"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -747,5 +733,23 @@
     <referencedModel
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-eed1e97ca5d848379475be380ddc97ec.xml#id-eed1e97ca5d848379475be380ddc97ec"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-7331427809084c37b307e8088b6c493f"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Waarom &#xD;&#xA;deze publicatie"/>
+    <bounds
+        x="24"
+        y="60"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="canvas:CanvasModel"
+        href="CanvasModel_id-9c0ae2f2e7fd4c7882bfa74638d26e3e.xml#id-9c0ae2f2e7fd4c7882bfa74638d26e3e"/>
   </children>
 </archimate:SketchModel>

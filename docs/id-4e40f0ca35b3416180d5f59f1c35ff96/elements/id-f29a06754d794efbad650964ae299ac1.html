@@ -45,7 +45,16 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">One common operation performed with resources is to gather a collection of resources into a single instance with containing context. In FHIR this is referred to as "bundling" the resources together. These resource bundles are useful for a variety of different reasons, including:
+
+- Returning a set of resources that meet some criteria as part of a server operation (see RESTful Search)
+- Returning a set of versions of resources as part of the history operation on a server (see History)
+- Sending a set of resources as part of a message exchange (see Messaging)
+- Grouping a self-contained set of resources to act as an exchangeable and persistable collection with clinical integrity - e.g. a clinical document (see Documents)
+- Creating/updating/deleting a set of resources on a server as a single operation (including doing so as a single atomic transaction) (see Transactions)
+- Storing a collection of resources
+
+http://hl7.org/fhir/R4/bundle.html</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

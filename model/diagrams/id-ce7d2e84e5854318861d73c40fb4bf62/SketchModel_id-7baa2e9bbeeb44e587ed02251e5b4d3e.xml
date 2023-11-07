@@ -102,7 +102,7 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="744"
+        x="876"
         y="12"
         width="262"
         height="49"/>
@@ -138,8 +138,8 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="756"
-        y="327"
+        x="876"
+        y="331"
         width="193"
         height="49"/>
   </children>
@@ -153,7 +153,7 @@
       content="10-10-2023&#xD;&#xA;&#xD;&#xA;- Dashboard gemaakt&#xD;&#xA;- Structuur aangebracht in het model&#xD;&#xA;- Stelselwetten toegevoegd&#xD;&#xA;- IZA analyse toegevoegd&#xD;&#xA;- NVS analyse toegevoegd&#xD;&#xA;- Een aantal archimate voorbeelden toegevoegd"
       textPosition="1">
     <bounds
-        x="756"
+        x="888"
         y="254"
         width="193"
         height="37"/>
@@ -168,7 +168,7 @@
       content="13-10-2023&#xD;&#xA;&#xD;&#xA;- FHIR resources toegevoegd aan &quot;Applicaties &amp; Data&quot;&#xD;&#xA;- Beginnetje gemaakt met Zibs 2020 onder &quot;Informatie&quot;"
       textPosition="1">
     <bounds
-        x="756"
+        x="888"
         y="206"
         width="193"
         height="37"/>
@@ -186,8 +186,8 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="972"
-        y="12"
+        x="876"
+        y="484"
         width="262"
         height="61"/>
   </children>
@@ -200,8 +200,8 @@
       fillColor="#c9e7b7"
       content="ZIRA&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de ZIRA meenemen in dit model">
     <bounds
-        x="984"
-        y="60"
+        x="888"
+        y="532"
         width="193"
         height="37"/>
   </children>
@@ -214,8 +214,8 @@
       fillColor="#c9e7b7"
       content="RDC&#xD;&#xA;&#xD;&#xA;Naast de RDG wil ik ook graag de RDC (Care) meenemen in dit model">
     <bounds
-        x="984"
-        y="437"
+        x="888"
+        y="867"
         width="193"
         height="37"/>
   </children>
@@ -228,8 +228,8 @@
       fillColor="#c9e7b7"
       content="Landelijk beschikbare voorzieningen&#xD;&#xA;&#xD;&#xA;Ik wil graag een overzich maken van alle gemeenschappelijke voorzieningen die landelijk beschikbaar zijn. Landelijke voorzieningen die iets te maken hebben met digitalisering of specifiek gegevensdeling.">
     <bounds
-        x="984"
-        y="290"
+        x="888"
+        y="720"
         width="193"
         height="49"/>
   </children>
@@ -354,8 +354,8 @@
       fillColor="#c9e7b7"
       content="Voorbeeld modellen&#xD;&#xA;&#xD;&#xA;Door elementen uit referentiemodellen te combineren in samengestelde modellen ontstaan weergaven van systemen zoals ze er in de praktijk uitzien of uit zouden kunnen zien.">
     <bounds
-        x="984"
-        y="108"
+        x="888"
+        y="580"
         width="193"
         height="37"/>
   </children>
@@ -368,8 +368,8 @@
       fillColor="#c9e7b7"
       content="Hoe Archimate toegepast wordt in dit model">
     <bounds
-        x="984"
-        y="524"
+        x="888"
+        y="954"
         width="193"
         height="49"/>
   </children>
@@ -382,8 +382,8 @@
       fillColor="#c9e7b7"
       content="Dienstverleningsconcept&#xD;&#xA;&#xD;&#xA;Parallel aan wat er gebeurd binnen de expertgroep dienstverlening NORA wil ik dat passend maken op de zorg.&#xD;&#xA;https://www.noraonline.nl/wiki/Expertgroep_Dienstverlening">
     <bounds
-        x="984"
-        y="156"
+        x="888"
+        y="628"
         width="193"
         height="37"/>
   </children>
@@ -543,8 +543,8 @@
       fillColor="#b5ffff"
       content="Meer wetten en normen&#xD;&#xA;&#xD;&#xA;Naast de stelselwetten wil ik graag de overige relevante wetten onderbrengen in dit model en een link leggen naar normen.">
     <bounds
-        x="768"
-        y="372"
+        x="888"
+        y="376"
         width="193"
         height="37"/>
   </children>
@@ -557,8 +557,8 @@
       fillColor="#c9e7b7"
       content="Capabilities&#xD;&#xA;&#xD;&#xA;Capabilities en resources vormen de basis waaruit de meer specifieke functies of services ontstaan. Om dingen conceptueel goed uit te kunnen leggen zonder al te veel moeilijke modellen denk ik dat de combinatie van capability, resource, principes, requirements, en constrants een kans bieden om een basisontwerp van iets overzichtelijk weer te geven. ">
     <bounds
-        x="984"
-        y="242"
+        x="888"
+        y="672"
         width="193"
         height="37"/>
   </children>
@@ -596,7 +596,7 @@
     <bounds
         x="12"
         y="228"
-        width="637"
+        width="625"
         height="51"/>
   </children>
   <children
@@ -627,8 +627,8 @@
       fillColor="#c9e7b7"
       content="nl-core&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="984"
-        y="482"
+        x="888"
+        y="912"
         width="193"
         height="37"/>
   </children>
@@ -641,8 +641,8 @@
       fillColor="#c9e7b7"
       content="Referentiemodel persoon&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn nu gericht op sectoren. Ik wil een poging doen om iets van een referentiemodel burger in elkaar te zetten. Gericht op digitale zorg. ">
     <bounds
-        x="984"
-        y="351"
+        x="888"
+        y="781"
         width="193"
         height="37"/>
   </children>
@@ -655,8 +655,8 @@
       fillColor="#c9e7b7"
       content="DIZRA manifest&#xD;&#xA;&#xD;&#xA;Welke rol speelt het DIZRA manifest binnen ">
     <bounds
-        x="984"
-        y="397"
+        x="888"
+        y="827"
         width="193"
         height="37"/>
   </children>
@@ -670,7 +670,7 @@
       content="17 -10-2023&#xD;&#xA;&#xD;&#xA;- De ZIB 2020 set onder &quot;Informatie&quot; is volledig ingevoerd."
       textPosition="1">
     <bounds
-        x="756"
+        x="888"
         y="158"
         width="193"
         height="37"/>
@@ -684,8 +684,8 @@
       fillColor="#b5ffff"
       content="Mappen ZIBs op Informatieobjecten RDG&#xD;&#xA;&#xD;&#xA;De meest actuele (niet pre-productie) publicatie van de ZIBs is de 2020 set. Deze set ga ik linken aan de informatie objecten van de RDG.&#xD;&#xA;Volgende stappen daarbij zijn.&#xD;&#xA;&#xD;&#xA;De ZIBs mappen op de FHIR R4 zib">
     <bounds
-        x="984"
-        y="584"
+        x="888"
+        y="1014"
         width="193"
         height="45"/>
   </children>
@@ -699,7 +699,7 @@
       content="20 -10-2023&#xD;&#xA;&#xD;&#xA;- Eerste mappings tussen het RDG (Organisatie &amp; Processen) en de ZIB 2020 (Informatie)&#xD;&#xA;- Links toegevoegd naar informatiestandaarden (Informatie)"
       textPosition="1">
     <bounds
-        x="756"
+        x="888"
         y="110"
         width="193"
         height="37"/>
@@ -713,8 +713,8 @@
       fillColor="#b5ffff"
       content="FHIR resources verder vullen.&#xD;&#xA;&#xD;&#xA;Korte omschrijvingen en hyperlinks">
     <bounds
-        x="768"
-        y="425"
+        x="888"
+        y="429"
         width="193"
         height="33"/>
   </children>
@@ -762,9 +762,25 @@
       content="27 -10-2023&#xD;&#xA;&#xD;&#xA;- Een beginnetje gemaakt met het toevoegen van wetten&#xD;&#xA;- Een inhoudspagina gemaakt van alle referentiemodellen.&#xD;&#xA;- Het enkele tegeltje &quot;Waarom deze publicatie&quot; vervangen door een Business Model Canvas (moet ik nog vullen)"
       textPosition="1">
     <bounds
-        x="756"
+        x="888"
         y="60"
         width="193"
         height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6ede38ef63994fc999fa4c9c29c69ab8"
+      name="Disclaimer"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffff80"
+      fillColor="#ff6e23"
+      documentation="Mocht je terecht zijn gekomen in deze publicatie dan zijn er een aantal dingen die je moet weten.&#xD;&#xA;&#xD;&#xA;1. Ik maak deze publicatie niet in opdracht van VZVZ en besteed hier dus ook géén VZVZ tijd aan. - Ik maak dit model vanuit een persoonlijke interesse voor het architectuur vakgebied en de werking van de zorg.&#xD;&#xA;2. Deze publicatie kan en zal fouten bevatten - Het vullen van dit model is een eenmansactie.&#xD;&#xA;3. Weest welkom om te doen met deze publicatie wat je wilt doen maar vertrouw dus niet op de volledige juistheid ervan - raadpleeg altijd de bronnen.&#xD;&#xA;4. Bronnen die ik zelf gebruik zal ik altijd vermelden.&#xD;&#xA;&#xD;&#xA;Vragen / opmerkingen / discussies over deze publicatie zijn welkom en kun je indienen via Github. Omdat ik deze publicatie in de avonden en de weekenden bijwerkt op momenten dat ik daar zin ik heb zal ik wellicht niet altijd even snel willen / kunnen reageren.&#xD;&#xA;&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="684"
+        y="60"
+        width="120"
+        height="109"/>
   </children>
 </archimate:SketchModel>

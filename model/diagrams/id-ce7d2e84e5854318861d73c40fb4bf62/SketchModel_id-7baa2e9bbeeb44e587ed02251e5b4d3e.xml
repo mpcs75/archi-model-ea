@@ -4,7 +4,7 @@
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="00. Welkom"
     id="id-7baa2e9bbeeb44e587ed02251e5b4d3e"
-    documentation="Welkom in deze  publicatie waarin ik een voorbeeld schets van hoe een Enterprise Architectuur er uit zou kunnen zien wanneer je die uitwerkt in Archimate.&#xD;&#xA;&#xD;&#xA;"
+    documentation="Een omgeving waar ik de bomen door het complexe bos een beetje beter probeer te zien. Dat bos is de gezondheidszorg met de GGZ als hoofdonderwerp. In plaats van aantekeningen maken om een kennisbank op te bouwen doe ik dat via een architectuurmodel. Dit model is vooral bedoeld voor persoonlijk gebruik maar is publiek toegankelijk. Wanneer je er iets aan denkt te hebben maak dan gerust hergebruik van mijn 'aantekeningen'.&#xD;&#xA;&#xD;&#xA;"
     background="0">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -16,7 +16,7 @@
         value="Het&#xD;&#xA;5-lagenmodel&#xD;&#xA;als indeling"/>
     <bounds
         x="288"
-        y="60"
+        y="146"
         width="120"
         height="109"/>
     <referencedModel
@@ -52,7 +52,7 @@
       borderType="1">
     <bounds
         x="156"
-        y="60"
+        y="146"
         width="120"
         height="109"/>
   </children>
@@ -67,7 +67,7 @@
       borderType="1">
     <bounds
         x="552"
-        y="60"
+        y="146"
         width="120"
         height="109"/>
   </children>
@@ -82,7 +82,7 @@
         value="Hoe Archimate &#xD;&#xA;toegepast wordt"/>
     <bounds
         x="420"
-        y="60"
+        y="146"
         width="120"
         height="109"/>
     <referencedModel
@@ -121,7 +121,7 @@
         value="0"/>
     <bounds
         x="12"
-        y="192"
+        y="288"
         width="528"
         height="37"/>
   </children>
@@ -242,7 +242,7 @@
       textPosition="1">
     <bounds
         x="24"
-        y="302"
+        y="398"
         width="97"
         height="283"/>
     <referencedModel
@@ -258,7 +258,7 @@
       textPosition="1">
     <bounds
         x="132"
-        y="302"
+        y="398"
         width="99"
         height="283"/>
     <referencedModel
@@ -268,13 +268,14 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-1552feb3a60148a0b5c64c028807a0eb"
+      targetConnections="id-038eb299d8564186b8e30e8ba9c6af55"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffffff"
       fillColor="#c724b1"
       textPosition="1">
     <bounds
         x="240"
-        y="302"
+        y="398"
         width="300"
         height="49"/>
     <referencedModel
@@ -284,13 +285,14 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-9bf8e7b58a3b4edc9cf8da06d62de877"
+      targetConnections="id-31c46cb29b4c4a798aa4f5bf9d44198a"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffffff"
       fillColor="#44bfea"
       textPosition="1">
     <bounds
         x="240"
-        y="359"
+        y="455"
         width="300"
         height="49"/>
     <referencedModel
@@ -300,13 +302,14 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-97c122785ef543d49efc9a184bba664c"
+      targetConnections="id-ca26b11720fc4f09b7c8585a073ce5cc"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffffff"
       fillColor="#ff6e23"
       textPosition="1">
     <bounds
         x="240"
-        y="417"
+        y="513"
         width="300"
         height="49"/>
     <referencedModel
@@ -316,13 +319,14 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-bf97b68ae1ec468c8527338eb42ba99f"
+      targetConnections="id-3dc01fb0bfb54d4795ca1b9186d71e4a"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffffff"
       fillColor="#97be0d"
       textPosition="1">
     <bounds
         x="240"
-        y="476"
+        y="572"
         width="300"
         height="49"/>
     <referencedModel
@@ -338,7 +342,7 @@
       textPosition="1">
     <bounds
         x="240"
-        y="536"
+        y="632"
         width="300"
         height="49"/>
     <referencedModel
@@ -404,7 +408,7 @@
         value="0"/>
     <bounds
         x="194"
-        y="564"
+        y="660"
         width="37"
         height="21"/>
   </children>
@@ -425,7 +429,7 @@
         value="0"/>
     <bounds
         x="84"
-        y="564"
+        y="660"
         width="37"
         height="21"/>
   </children>
@@ -446,7 +450,7 @@
         value="0"/>
     <bounds
         x="503"
-        y="330"
+        y="426"
         width="37"
         height="21"/>
   </children>
@@ -467,7 +471,7 @@
         value="0"/>
     <bounds
         x="503"
-        y="387"
+        y="483"
         width="37"
         height="21"/>
   </children>
@@ -488,7 +492,7 @@
         value="0"/>
     <bounds
         x="503"
-        y="445"
+        y="541"
         width="37"
         height="21"/>
   </children>
@@ -509,7 +513,7 @@
         value="0"/>
     <bounds
         x="503"
-        y="504"
+        y="600"
         width="37"
         height="21"/>
   </children>
@@ -517,6 +521,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="id-fdf5fd3a9ba549cb8c85fa07a5b7b687"
       name="Sticky"
+      targetConnections="id-e7462909d23940d3ad324260dde14b63"
       font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
       fontColor="#373737"
       lineColor="#5c5c5c"
@@ -530,7 +535,7 @@
         value="0"/>
     <bounds
         x="503"
-        y="564"
+        y="660"
         width="37"
         height="21"/>
   </children>
@@ -570,14 +575,14 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Gelaagde modellen">
+      content="Gelaagde weergaven / Use Cases">
     <features
         name="lineAlpha"
         value="0"/>
     <bounds
         x="12"
-        y="600"
-        width="262"
+        y="696"
+        width="301"
         height="37"/>
   </children>
   <children
@@ -595,7 +600,7 @@
         value="0"/>
     <bounds
         x="12"
-        y="228"
+        y="324"
         width="625"
         height="51"/>
   </children>
@@ -608,13 +613,13 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Weergaven van diverse onderwerpen die uitgewerkt zijn over meerdere lagen van het 5-lagenmodel van Nictiz. Hiervoor worden de Referentiemodellen als basis gebruikt.">
+      content="Specifieke uitwerkingen waarbij ik de referentiemodellen hergebruik">
     <features
         name="lineAlpha"
         value="0"/>
     <bounds
         x="12"
-        y="636"
+        y="732"
         width="673"
         height="85"/>
   </children>
@@ -724,12 +729,82 @@
       textPosition="1">
     <features
         name="labelExpression"
-        value="Overzicht &#xD;&#xA;van alle &#xD;&#xA;referentiemodellen"/>
+        value="Inhoudsopgave"/>
+    <sourceConnections
+        id="id-ca26b11720fc4f09b7c8585a073ce5cc"
+        source="id-c8f2de0284fa41ba8dc092988192fda1"
+        target="id-97c122785ef543d49efc9a184bba664c">
+      <bendpoints
+          startX="-126"
+          startY="3"
+          endX="186"
+          endY="3"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-038eb299d8564186b8e30e8ba9c6af55"
+        source="id-c8f2de0284fa41ba8dc092988192fda1"
+        target="id-1552feb3a60148a0b5c64c028807a0eb">
+      <bendpoints
+          startX="-126"
+          startY="3"
+          endX="186"
+          endY="118"/>
+      <bendpoints
+          startX="-126"
+          startY="-117"
+          endX="186"
+          endY="-2"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-31c46cb29b4c4a798aa4f5bf9d44198a"
+        source="id-c8f2de0284fa41ba8dc092988192fda1"
+        target="id-9bf8e7b58a3b4edc9cf8da06d62de877">
+      <bendpoints
+          startX="-126"
+          startY="3"
+          endX="186"
+          endY="61"/>
+      <bendpoints
+          startX="-126"
+          startY="-57"
+          endX="186"
+          endY="1"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-3dc01fb0bfb54d4795ca1b9186d71e4a"
+        source="id-c8f2de0284fa41ba8dc092988192fda1"
+        target="id-bf97b68ae1ec468c8527338eb42ba99f">
+      <bendpoints
+          startX="-126"
+          startY="3"
+          endX="186"
+          endY="-56"/>
+      <bendpoints
+          startX="-126"
+          startY="63"
+          endX="186"
+          endY="4"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-e7462909d23940d3ad324260dde14b63"
+        source="id-c8f2de0284fa41ba8dc092988192fda1"
+        target="id-fdf5fd3a9ba549cb8c85fa07a5b7b687">
+      <bendpoints
+          startX="-126"
+          startY="3"
+          endX="55"
+          endY="-130"/>
+      <bendpoints
+          startX="-126"
+          startY="123"
+          endX="55"
+          endY="-10"/>
+    </sourceConnections>
     <bounds
-        x="552"
-        y="301"
-        width="120"
-        height="109"/>
+        x="600"
+        y="513"
+        width="204"
+        height="49"/>
     <referencedModel
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-eed1e97ca5d848379475be380ddc97ec.xml#id-eed1e97ca5d848379475be380ddc97ec"/>
@@ -745,7 +820,7 @@
         value="Waarom &#xD;&#xA;deze publicatie"/>
     <bounds
         x="24"
-        y="60"
+        y="146"
         width="120"
         height="109"/>
     <referencedModel
@@ -770,17 +845,36 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-6ede38ef63994fc999fa4c9c29c69ab8"
-      name="Disclaimer"
+      name="LET OP !!!"
       font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       fontColor="#ffff80"
       fillColor="#ff6e23"
-      documentation="Mocht je terecht zijn gekomen in deze publicatie dan zijn er een aantal dingen die je moet weten.&#xD;&#xA;&#xD;&#xA;1. Ik maak deze publicatie niet in opdracht van VZVZ en besteed hier dus ook géén VZVZ tijd aan. - Ik maak dit model vanuit een persoonlijke interesse voor het architectuur vakgebied en de werking van de zorg.&#xD;&#xA;2. Deze publicatie kan en zal fouten bevatten - Het vullen van dit model is een eenmansactie.&#xD;&#xA;3. Weest welkom om te doen met deze publicatie wat je wilt doen maar vertrouw dus niet op de volledige juistheid ervan - raadpleeg altijd de bronnen.&#xD;&#xA;4. Bronnen die ik zelf gebruik zal ik altijd vermelden.&#xD;&#xA;&#xD;&#xA;Vragen / opmerkingen / discussies over deze publicatie zijn welkom en kun je indienen via Github. Omdat ik deze publicatie in de avonden en de weekenden bijwerkt op momenten dat ik daar zin ik heb zal ik wellicht niet altijd even snel willen / kunnen reageren.&#xD;&#xA;&#xD;&#xA;"
+      documentation="Omdat het hier vooral om aantekeningen en analyses gaat kunnen en zullen er fouten tussen zitten. Zelf raadpleeg ik altijd de bronnen wanneer ik iets zeker wil weten. Bij ieder onderwerp waar ik een bron voor heb geraadpleegd vermeld ik deze."
       textPosition="1"
       borderType="1">
     <bounds
         x="684"
-        y="60"
+        y="146"
         width="120"
         height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-88b52a457ef0484bae1f0f0f87c34e28"
+      name="Sticky"
+      font="1|Calibri|12.0|2|WINDOWS|1|-16|0|0|0|400|-1|0|0|0|3|2|1|34|Calibri"
+      fontColor="#2e2e2e"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Een omgeving waar ik de bomen door het complexe bos een beetje beter probeer te zien. Dat bos is de gezondheidszorg met de GGZ als hoofdonderwerp. In plaats van aantekeningen maken om een kennisbank op te bouwen doe ik dat via een architectuurmodel. Dit model is vooral bedoeld voor persoonlijk gebruik maar is publiek toegankelijk.">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="60"
+        width="805"
+        height="73"/>
   </children>
 </archimate:SketchModel>

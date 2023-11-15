@@ -79,6 +79,20 @@
           width="183"
           height="49"/>
     </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-11a3ee43e941421abb34575a2cf8cfd4"
+        fillColor="#ffff95"
+        content="Inzichtelijk maken van het  werken onder architectuur"
+        notes="Via deze plek probeer ik zo veel mogelijk kennis vast te legen over werken onder architectuur."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="168"
+          width="183"
+          height="49"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -99,7 +113,8 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-a335c11effb241cfaa0970363bc35376"
         fillColor="#f8c491"
-        content="Zal ik nog toevoegen"
+        content="Zal ik wellicht nog toevoegen"
+        notes="Om deze kennisbank te kunnen vullen heb ik flink wat bronnen nodig. Bij ieder los onderwerp vermeld ik nu al de bron - wellicht zal ik hier ook nog een lijstje toevoegen."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -175,7 +190,7 @@
       borderColor="#000000"
       hintTitle="Customer Relationships"
       hintContent="&lt;li>What type of relationship does each of our Customer&lt;/li>&#xD;&#xA;&lt;li>Segments expect us to establish and maintain with them?&lt;/li>&#xD;&#xA;&lt;li>Which ones have we established?&lt;/li>&#xD;&#xA;&lt;li>How are they integrated with the rest of our business model?&lt;/li>&#xD;&#xA;&lt;li>How costly are they?&lt;/li>&#xD;&#xA;&#xD;&#xA;&lt;p/>&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;&lt;i>&#xD;&#xA;&lt;li>Personal assistance&lt;/li>&#xD;&#xA;&lt;li>Dedicated Personal Assistance&lt;/li>&#xD;&#xA;&lt;li>Self-Service&lt;/li>&#xD;&#xA;&lt;li>Automated Services&lt;/li>&#xD;&#xA;&lt;li>Communities&lt;/li>&#xD;&#xA;&lt;li>Co-creation&lt;/li>&#xD;&#xA;&lt;/i>"
-      content="Klantrelaties">
+      content="Gebruikersrelaties">
     <bounds
         x="696"
         y="12"
@@ -232,11 +247,10 @@
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd1glSEeGhO-CobgCrfw.png"
-      locked="true"
       borderColor="#000000"
       hintTitle="Customer Segments"
       hintContent="&lt;li>For whom are we creating value?&lt;/li>&#xD;&#xA;&lt;li>Who are our most important customers?&lt;/li>&#xD;&#xA;&#xD;&#xA;&lt;p/>&#xD;&#xA;&#xD;&#xA;&lt;i>&#xD;&#xA;&lt;li>Mass Market&lt;/li>&#xD;&#xA;&lt;li>Niche Market&lt;/li>&#xD;&#xA;&lt;li>Segmented&lt;/li>&#xD;&#xA;&lt;li>Diversified&lt;/li>&#xD;&#xA;&lt;li>Multi-sided Platform&lt;/li>&#xD;&#xA;&lt;/i>"
-      content="Customer&#xD;&#xA;Segments">
+      content="Gebruikers">
     <bounds
         x="924"
         y="12"

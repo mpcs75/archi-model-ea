@@ -1,5 +1,6 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="01. Waarom deze uitwerking."
     id="id-9c0ae2f2e7fd4c7882bfa74638d26e3e"
@@ -371,5 +372,22 @@
         y="771"
         width="529"
         height="58"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1b1e66b606d24aecbbdfe62cc3144b43"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Home"/>
+    <bounds
+        x="12"
+        y="-48"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-7baa2e9bbeeb44e587ed02251e5b4d3e.xml#id-7baa2e9bbeeb44e587ed02251e5b4d3e"/>
   </children>
 </canvas:CanvasModel>

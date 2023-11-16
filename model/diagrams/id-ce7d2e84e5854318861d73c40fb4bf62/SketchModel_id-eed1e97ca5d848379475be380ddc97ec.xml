@@ -353,4 +353,19 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-207d44bb61b2450c81c383d83011f9f9.xml#id-207d44bb61b2450c81c383d83011f9f9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-afdff08ac8474e69b9c625181d7854fd">
+    <features
+        name="labelExpression"
+        value="Normen en standaarden informatievoorziening"/>
+    <bounds
+        x="12"
+        y="120"
+        width="217"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-682968cde63141d4a2343f354bb352fd.xml#id-682968cde63141d4a2343f354bb352fd"/>
+  </children>
 </archimate:SketchModel>

@@ -26,15 +26,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-cba221897ff94d3a8fe6bd8f9d223be6"
         fillColor="#f8c491"
-        content="Nog geen formele"
-        notes="Vooralsnog is het onderhouden van deze plek een volledig persoonlijk ding."
+        content="Nog geen formele&#xD;&#xA;&#xD;&#xA;Vooralsnog is het onderhouden van deze plek een volledig persoonlijk ding."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="48"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -56,8 +55,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-c1b6a74f7dfc49fc9232ab28b0d6d589"
         fillColor="#ffff95"
-        content="Inzichtelijk maken van het  gezondheidsinformatiesteslsel"
-        notes="Via deze plek probeer ik meer inzicht te realiseren in het gezondheidsinformatiestelsel."
+        content="Inzichtelijk maken van het  gezondheidsinformatiesteslsel&#xD;&#xA;&#xD;&#xA;Via deze plek probeer ik meer inzicht te realiseren in het gezondheidsinformatiestelsel."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -70,8 +68,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-c1d3c864ff734754a026f7636074151d"
         fillColor="#ffff95"
-        content="Inzichtelijk maken van GGZ vraagstukken"
-        notes="Via deze plek probeer ik zo veel mogelijk onderwerpen over digitalisereing en gegevensuitwisseling inzichtelijk te maken vanuit de GGZ als hoofdonderwerp."
+        content="Inzichtelijk maken van GGZ vraagstukken&#xD;&#xA;&#xD;&#xA;Via deze plek probeer ik zo veel mogelijk onderwerpen over digitalisereing en gegevensuitwisseling inzichtelijk te maken vanuit de GGZ als hoofdonderwerp."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -84,8 +81,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-11a3ee43e941421abb34575a2cf8cfd4"
         fillColor="#ffff95"
-        content="Inzichtelijk maken van het  werken onder architectuur"
-        notes="Via deze plek probeer ik zo veel mogelijk kennis vast te legen over werken onder architectuur."
+        content="Inzichtelijk maken van het  werken onder architectuur&#xD;&#xA;&#xD;&#xA;Via deze plek probeer ik zo veel mogelijk kennis vast te legen over werken onder architectuur."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -114,15 +110,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-a335c11effb241cfaa0970363bc35376"
         fillColor="#f8c491"
-        content="Zal ik wellicht nog toevoegen"
-        notes="Om deze kennisbank te kunnen vullen heb ik flink wat bronnen nodig. Bij ieder los onderwerp vermeld ik nu al de bron - wellicht zal ik hier ook nog een lijstje toevoegen."
+        content="Zal ik wellicht nog toevoegen&#xD;&#xA;&#xD;&#xA;Om deze kennisbank te kunnen vullen heb ik flink wat bronnen nodig. Bij ieder los onderwerp vermeld ik nu al de bron - wellicht zal ik hier ook nog een lijstje toevoegen."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="48"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -143,43 +138,40 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-0d5c79dd31ca45729a4cd27ce358dac4"
         fillColor="#ffff95"
-        content="Samenhang"
-        notes="Via deze plek kan ik samenhang realiseren tussen onderwerpen die elders nergens beschreven is."
+        content="Samenhang&#xD;&#xA;&#xD;&#xA;Via deze plek kan ik samenhang realiseren tussen onderwerpen die elders nergens beschreven is."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="108"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-1ec0669e275e4c68b3f96d75d5999273"
         fillColor="#ffff95"
-        content="Ontwerp"
-        notes="Via deze omgevinging kan ik nieuwe vraagstukken zoals use cases uitwerken en linken aan allerlei relevante objecten."
+        content="Ontwerp&#xD;&#xA;&#xD;&#xA;Via deze omgevinging kan ik nieuwe vraagstukken zoals use cases uitwerken en linken aan allerlei relevante objecten."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="168"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-017008bd74234f2f896d44e9b05cb032"
         fillColor="#ffff95"
-        content="Kennisbank"
-        notes="Deze plek vormt een persoonlijke kennisbank waar ik belangrijke informatie snel voorhanden heb."
+        content="Kennisbank&#xD;&#xA;&#xD;&#xA;Deze plek vormt een persoonlijke kennisbank waar ik belangrijke informatie snel voorhanden heb."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="48"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -201,15 +193,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-804c0d09283b4cdbbdbda7b3d8339f93"
         fillColor="#f8c491"
-        content="Geen"
-        notes="Omdat ik de enige gebruiker ben."
+        content="Geen&#xD;&#xA;&#xD;&#xA;Omdat ik de enige gebruiker ben."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="24"
           y="48"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -231,15 +222,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-0d8c2fda278c418c995cf747cca5ad9a"
         fillColor="#ffff95"
-        content="Github"
-        notes="Via Github heb ik vanaf ieder systeem snel toegang tot deze plek.&#xD;&#xA;&#xD;&#xA;https://mpcs75.github.io/archi-model-ea/?view=id-7baa2e9bbeeb44e587ed02251e5b4d3e"
+        content="Github&#xD;&#xA;&#xD;&#xA;Via Github heb ik vanaf ieder systeem snel toegang tot deze plek.&#xD;&#xA;&#xD;&#xA;https://mpcs75.github.io/archi-model-ea/?view=id-7baa2e9bbeeb44e587ed02251e5b4d3e"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="36"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -268,7 +258,7 @@
           x="12"
           y="48"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -290,27 +280,27 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-d3a78c3f9aaf45b4a91f15cc132c4097"
         fillColor="#ffff95"
-        content="Werktijd"
+        content="Werktijd&#xD;&#xA;&#xD;&#xA;Aan onderwerpen die relevant zijn voor de ondersteuning van de GGZ via het Sectorteam GGZ besteed ik wanneer ik kan tijd tijdens VZVZ tijd."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="36"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-316a67e698d545ce8b20554fc01191da"
         fillColor="#ffff95"
-        content="Vrijetijd"
+        content="Vrijetijd&#xD;&#xA;&#xD;&#xA;Aan veel onderwerpen kom ik niet toe tijdens werktijd of vraag zo veel tijd dat het niet onder werktijd te doen is. Voor een groot deel besteed ik daarom ook veel vrije tijd aan het werken aan dit model."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="96"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children
@@ -333,29 +323,27 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-5e053c0ad06b47f79ac85438f5884b5a"
         fillColor="#ffff95"
-        content="Beter geïnformeerd advies"
-        notes="Via deze plek kan ik door het vergaren van informatie beter adviseren bij architectuurvraagstukken."
+        content="Beter geïnformeerd advies&#xD;&#xA;&#xD;&#xA;Via deze plek kan ik door het vergaren van informatie beter adviseren bij architectuurvraagstukken."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="36"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-53fcbd23566c4bf3a196bfca5cec5235"
         fillColor="#ffff95"
-        content="Weloverwogen besluiten"
-        notes="Door beter architectuur advies worden eigenaren van vraagstukken beter geinformeerd waardoor besluiten weloverwogen genomen kunnen worden."
+        content="Weloverwogen besluiten&#xD;&#xA;&#xD;&#xA;Door beter architectuur advies worden eigenaren van vraagstukken beter geinformeerd waardoor besluiten weloverwogen genomen kunnen worden."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="96"
           width="183"
-          height="49"/>
+          height="37"/>
     </children>
   </children>
   <children

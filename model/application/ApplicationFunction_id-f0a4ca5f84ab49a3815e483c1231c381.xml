@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medicatie"
+    id="id-f0a4ca5f84ab49a3815e483c1231c381"
+    documentation="Functionaliteit van de ondersteuning van de medicamenteuze behandeling">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CP.6 Manage Medication, Immunization and Treatment Administration"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

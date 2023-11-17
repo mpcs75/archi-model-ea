@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoed"
+    id="id-c858e509f4b749b88012dbdb8ff1aa52"
+    documentation="Functionaliteit die beheer, bouw en exploitatie van gebouwen en de daaraan verbonden faciliteiten en goederenstromen ondersteunt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-116"/>
+</archimate:ApplicationFunction>

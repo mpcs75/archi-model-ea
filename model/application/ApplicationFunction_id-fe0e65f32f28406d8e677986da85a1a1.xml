@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unified communications"
+    id="id-fe0e65f32f28406d8e677986da85a1a1"
+    documentation="Functionaliteit voor de (geïntegreerde) communicatie tussen mensen via verschillende kanalen (spraak, instant messaging, video, e.d.)">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CPS.8.4 Support for Communications Between Provider and Patient and/or the Patient Representative"/>
+  <properties
+      key="ExternalReference"
+      value="AS.4 Manage Communication"/>
+</archimate:ApplicationFunction>

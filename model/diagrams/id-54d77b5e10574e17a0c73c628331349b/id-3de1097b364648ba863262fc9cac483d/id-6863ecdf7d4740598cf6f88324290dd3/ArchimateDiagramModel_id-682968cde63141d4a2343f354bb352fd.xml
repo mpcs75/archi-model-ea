@@ -79,11 +79,29 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-81c6865473924bf9b04f81346f3cb71e.xml#id-81c6865473924bf9b04f81346f3cb71e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-def028c896724037ac2a2b186a97709d"
+        source="id-c6072da01ade449fb4c3b78e482a0e7d"
+        target="id-39a0189d12e64cc4922f94c3790cd298">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-8ad6278cd7f14cc08e5acc04ffc9b3f5.xml#id-8ad6278cd7f14cc08e5acc04ffc9b3f5"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-79dca8500c514410959d152e058211b9"
+        source="id-c6072da01ade449fb4c3b78e482a0e7d"
+        target="id-07ce52cddbdc489286765d3efe458383">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-b4d3975fb96c43368c79a9399bd8315d.xml#id-b4d3975fb96c43368c79a9399bd8315d"/>
+    </sourceConnections>
     <bounds
         x="36"
-        y="120"
+        y="144"
         width="553"
-        height="229"/>
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-701c10d1497e47d792f2188b12ce9e0b"
@@ -146,7 +164,7 @@
         targetConnections="id-3c83b10640bc4f23a50b4c7770ba498e"
         textPosition="1">
       <bounds
-          x="144"
+          x="408"
           y="132"
           width="120"
           height="80"/>
@@ -160,8 +178,8 @@
         targetConnections="id-cdc60e73354a401796a5721b8e20d48f"
         textPosition="1">
       <bounds
-          x="408"
-          y="132"
+          x="144"
+          y="228"
           width="120"
           height="80"/>
       <archimateElement
@@ -174,8 +192,8 @@
         targetConnections="id-3923f4015d0c4ff3a511479b3dcc0f05"
         textPosition="1">
       <bounds
-          x="276"
-          y="132"
+          x="12"
+          y="228"
           width="120"
           height="80"/>
       <archimateElement
@@ -188,7 +206,7 @@
         targetConnections="id-169337c2c2a64b979a7d046363d42e13"
         textPosition="1">
       <bounds
-          x="12"
+          x="276"
           y="132"
           width="120"
           height="80"/>
@@ -214,6 +232,34 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-eb2fd1c6eda14de1b7caf6d938d4f20b.xml#id-eb2fd1c6eda14de1b7caf6d938d4f20b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-39a0189d12e64cc4922f94c3790cd298"
+        targetConnections="id-def028c896724037ac2a2b186a97709d"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="120"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:Constraint"
+          href="Constraint_id-e635dfa6174f40f5b997de117c756f5e.xml#id-e635dfa6174f40f5b997de117c756f5e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-07ce52cddbdc489286765d3efe458383"
+        targetConnections="id-79dca8500c514410959d152e058211b9"
+        textPosition="1">
+      <bounds
+          x="144"
+          y="132"
+          width="120"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:Constraint"
+          href="Constraint_id-4503706241ee48fe990d116d7e91d64a.xml#id-4503706241ee48fe990d116d7e91d64a"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -280,7 +326,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="372"
+        y="516"
         width="553"
         height="140"/>
     <children
@@ -359,8 +405,8 @@
     <bounds
         x="24"
         y="84"
-        width="625"
-        height="37"/>
+        width="565"
+        height="49"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -386,7 +432,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="540"
+        y="684"
         width="553"
         height="140"/>
     <children
@@ -420,5 +466,216 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-ecfe0a7b3a5348c2be37a5e0b468b164.xml#id-ecfe0a7b3a5348c2be37a5e0b468b164"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1602ae5bdaf8417d85bd7c2033a6248d"
+      textAlignment="1"
+      content="NEN 7503 - Elektronische verwerking en uitwisseling van gegevens &#xD;&#xA;voor het voorschrijven en ter hand stellen van medicatie"
+      borderType="1">
+    <bounds
+        x="612"
+        y="144"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a9d9906ed9aa48d8b6fd0bbb5eb635ed"
+      textAlignment="1"
+      content="NEN 7510 - Informatiebeveiliging in de zorg"
+      borderType="1">
+    <bounds
+        x="612"
+        y="192"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-390d03d5aa5a4890bcc1a6b2055b5f23"
+      font="1|Calibri|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#2e2e2e"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Wat toelichting bij de nummertjes"
+      borderType="2">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="612"
+        y="108"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-217ce4cd1fb74bb6a4c92dfff8f78757"
+      textAlignment="1"
+      content="NEN 7512 - Vertrouwensbasis voor gegevensuitwisseling"
+      borderType="1">
+    <bounds
+        x="612"
+        y="228"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3a72ee9517a444b6b7c570b6369064f4"
+      textAlignment="1"
+      content="NEN 7513 - Vastleggen van acties op elektronische patiëntdossiers"
+      borderType="1">
+    <bounds
+        x="612"
+        y="264"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-37bc4e4138ff47b3bc0a6c343610393f"
+      textAlignment="1"
+      content="NEN 7517 - Toestemming"
+      borderType="1">
+    <bounds
+        x="612"
+        y="300"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1ace17b6945d498bb12eadcce57242ff"
+      textAlignment="1"
+      content="NEN 7518 - Identificatie en authenticatie"
+      borderType="1">
+    <bounds
+        x="612"
+        y="336"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bbc064e71fb447beab5c6ade04b334b6"
+      textAlignment="1"
+      content="NEN 7519 - Lokalisatie"
+      borderType="1">
+    <bounds
+        x="612"
+        y="372"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a377486532784007b4d89532fc420560"
+      textAlignment="1"
+      content="NEN 7522 - Ontwikkelen en beheren van standaarden en stelsels van standaarden"
+      borderType="1">
+    <bounds
+        x="612"
+        y="408"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cdb03df848ca440b81802f10b6d30a18"
+      textAlignment="1"
+      content="NEN 7540 - BGZ-uitwisseling tussen instellingen voor medisch specialistische zorg"
+      borderType="1">
+    <bounds
+        x="612"
+        y="456"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4a3fadfbf0984d5da8b6b7e2efa2e308"
+      textAlignment="1"
+      content="NEN 8028 - Kwaliteitseisen telemedicine"
+      borderType="1">
+    <bounds
+        x="612"
+        y="504"
+        width="409"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4587e75a9c5d4abcb9cb938c1e73bda1"
+      textAlignment="1"
+      content="ISO/IEC 27001 - Informatiebeveiliging, cybersecurity en bescherming van de privacy - Managementsysteem voor informatiebeveiliging - Eisen"
+      borderType="1">
+    <bounds
+        x="612"
+        y="540"
+        width="409"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9d3965d7ab754843a855a27d6ed0777a"
+      textAlignment="1"
+      content="ISO/IEC 27002 - Informatiebeveiliging, cybersecurity en bescherming van de privacy - Beheersmaatregelen voor informatiebeveiliging"
+      borderType="1">
+    <bounds
+        x="612"
+        y="600"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6d4c91ea1b72403e994f099a99d06ef5"
+      textAlignment="1"
+      content="ISO/IEC 27005 - Information security, cybersecurity and privacy protection - Guidance on managing information security risks"
+      borderType="1">
+    <bounds
+        x="612"
+        y="648"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7b2214ea84e3463ca195b264779163ed"
+      textAlignment="1"
+      content="ISO/IEC 27799 - Health informatics - Information security management in health using ISO/IEC 27002"
+      borderType="1">
+    <bounds
+        x="612"
+        y="696"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1e8d759badf547b08058703bbb1ed53d"
+      textAlignment="1"
+      content="NTA 7515 - Conformiteitsbeoordeling - Eisen aan instellingen die audits ten behoeve van certificatie van informatiebeveiligingsmanagementsystemen in de zorg uitvoeren"
+      borderType="1">
+    <bounds
+        x="612"
+        y="744"
+        width="409"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f5bcb44f68bd4f89a2cd776325f16d85"
+      textAlignment="1"
+      content="NTA 7516 - Eisen voor veilige e-mail en chatapplicaties (uitwisseling van ad-hocberichten met persoonlijke gezondheidsinformatie)"
+      borderType="1">
+    <bounds
+        x="612"
+        y="804"
+        width="409"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

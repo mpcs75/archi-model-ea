@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgrelatiebeheer"
+    id="id-9374ca477f804745aa70c03288b93e86"
+    documentation="Functionaliteit voor beheren van alle gegevens van zorgrelaties (zorgaanbieders, zorgverleners, zorgverzekeraars e.d.)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="AS.1 Manage Provider Information"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

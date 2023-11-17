@@ -1,0 +1,36 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatie management"
+    id="id-06c4f87a741e48688bb26fe5af80e558"
+    documentation="Functionaliteit voor beheren van rechten en toegang">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="AS.1.1 Manage Provider Registry or Directory"/>
+  <properties
+      key="ExternalReference"
+      value="TI.3 Registry and Directory Services"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.4 Patient Access Management"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.2 Entity Authorization"/>
+  <properties
+      key="ExternalReference"
+      value="Ti.1.5 Team/Group of Providers Registry or Directory"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.3 Entity Access Control"/>
+  <properties
+      key="ExternalReference"
+      value="AS.1.7 Manage Practitioner/Patient Relationships"/>
+</archimate:ApplicationFunction>

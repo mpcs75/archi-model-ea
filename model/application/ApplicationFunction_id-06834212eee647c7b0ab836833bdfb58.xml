@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Content Management"
+    id="id-06834212eee647c7b0ab836833bdfb58"
+    documentation="Functionaliteit creatie en beheer van onderwijscontent">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-106"/>
+</archimate:ApplicationFunction>

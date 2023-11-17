@@ -1,0 +1,27 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteit &amp; Authenticatie"
+    id="id-05fead6c46664e608bdd7aedca68ab6c"
+    documentation="Functionaliteit voor het identificeren en authenticeren van individuen in systemen">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="AS.3.2.1 Manage Consents and Authorizations from a PHR"/>
+  <properties
+      key="ExternalReference"
+      value="AS.2.6 Manage Patient Privacy Consent Directives"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.8 Patient Privacy and Confidentiallity"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.1 Entity Authentication"/>
+</archimate:ApplicationFunction>

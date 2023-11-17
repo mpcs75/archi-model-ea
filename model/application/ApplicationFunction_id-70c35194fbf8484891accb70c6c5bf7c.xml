@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dossiervoering"
+    id="id-70c35194fbf8484891accb70c6c5bf7c"
+    documentation="Functionaliteit voor het bijwerken van het dossier aan de hand van gegevens uit consult, behandeling en input vanuit andere bronnen">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CP.3 Manage Clinical Documentation"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

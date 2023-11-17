@@ -184,8 +184,8 @@
             href="BusinessFunction_id-71bdee8e4dde41f78da705816027dabf.xml#id-71bdee8e4dde41f78da705816027dabf"/>
       </children>
       <archimateElement
-          xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_id-cd40e079a3b94d38a58b52f578fbfa38.xml#id-cd40e079a3b94d38a58b52f578fbfa38"/>
+          xsi:type="archimate:Grouping"
+          href="Grouping_id-f72c404bf49a489bbee3b5fafca34d14.xml#id-f72c404bf49a489bbee3b5fafca34d14"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -293,13 +293,14 @@
             href="BusinessFunction_id-32727663bd984884ac0770633f53435a.xml#id-32727663bd984884ac0770633f53435a"/>
       </children>
       <archimateElement
-          xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_id-cb4f008d567f45e285760922468436aa.xml#id-cb4f008d567f45e285760922468436aa"/>
+          xsi:type="archimate:Grouping"
+          href="Grouping_id-7bd855952bc8445ca5296b4c814f916b.xml#id-7bd855952bc8445ca5296b4c814f916b"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-76c14deab7604c87bf327a6feb6cc90a"
-        targetConnections="id-9820d9d0c3c04411bd674d0532a2055c">
+        targetConnections="id-9820d9d0c3c04411bd674d0532a2055c"
+        fillColor="#ffffb5">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7498f05a3fec48c58c82732961993891"
@@ -345,8 +346,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6aa2d897b79f4a25a0a122c0ac440365"
           targetConnections="id-14585f758aee4243877377b78ac784c7"
-          fillColor="#ffffff"
-          alpha="0">
+          fillColor="#ffffb5">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-dc8b35e698b941e98c53457938a77880"
@@ -435,8 +435,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-52ea2490e4164505ab63364e53171a5a"
           targetConnections="id-7498f05a3fec48c58c82732961993891"
-          fillColor="#ffffff"
-          alpha="0">
+          fillColor="#ffffb5">
         <features
             name="labelExpression"
             value="Verpleging &#xD;&#xA;en verzorging"/>
@@ -499,8 +498,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d54b1dd50d084259b212e40e16af6a80"
           targetConnections="id-901a17f7938b493e9eff8db5cdae0274"
-          fillColor="#ffffff"
-          alpha="0">
+          fillColor="#ffffb5">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-0bfa0f75a85d4a299b59f12d3a8488f6"
@@ -560,8 +558,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ae5d4dcdf2eb45d295cccd283da87f28"
           targetConnections="id-ebd1f0f5204f4fc8a1f13475361eafd9"
-          fillColor="#ffffff"
-          alpha="0">
+          fillColor="#ffffb5">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-2e2b35a40b8b4197b9f48224156fd7e7"
@@ -618,8 +615,8 @@
             href="Grouping_id-756ee1717fb34924847b24a759fb3393.xml#id-756ee1717fb34924847b24a759fb3393"/>
       </children>
       <archimateElement
-          xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_id-4f72b43f46924246943c94f683cc97de.xml#id-4f72b43f46924246943c94f683cc97de"/>
+          xsi:type="archimate:Grouping"
+          href="Grouping_id-c2f7603d12fd4aaba7499573f7c85df7.xml#id-c2f7603d12fd4aaba7499573f7c85df7"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preventie"
+    id="id-77d277b5662c417ba879f1091e0bc625"
+    documentation="Functionaliteit ter bevordering van de gezondheid en ter voorkoming van klachten en problemen. (bv het beoordelen van patiëntinformatie om waarschuwingen, meldingen en aanmaningen te verstrekken over gezondheid, preventieve zorg en welzijn, helpt bij het bepalen van lopende en relevante communicatie van de aanbieder naar de patiënt om de gezondheid te bevorderen)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="POP.1 Support for Health Maintenance, Preventative Care and Wellness"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

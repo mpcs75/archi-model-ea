@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissingsondersteuning"
+    id="id-73333b60621348288b872d27471d1cc2"
+    documentation="Functionaliteit voor de ondersteuning van besluiten van de zorgverlener">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CP7. Manage Future Care"/>
+  <properties
+      key="ExternalReference"
+      value="CPS3 Support Clinical Documentation"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

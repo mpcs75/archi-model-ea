@@ -346,7 +346,7 @@
         value="FHIR recource &#xD;&#xA;datamodel [v4.0.1]"/>
     <bounds
         x="1152"
-        y="120"
+        y="180"
         width="217"
         height="49"/>
     <referencedModel
@@ -355,10 +355,15 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-afdff08ac8474e69b9c625181d7854fd">
+      id="id-afdff08ac8474e69b9c625181d7854fd"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      alpha="200"
+      textPosition="1">
     <features
         name="labelExpression"
-        value="Normen en standaarden informatievoorziening"/>
+        value="NEN, ISO/IEC, NTA"/>
     <bounds
         x="12"
         y="120"
@@ -367,5 +372,25 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-682968cde63141d4a2343f354bb352fd.xml#id-682968cde63141d4a2343f354bb352fd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-e31f234044394941aebf3074ccf32a0c"
+      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      fontColor="#ffffff"
+      fillColor="#97be0d"
+      alpha="200"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Applicatiefuncties"/>
+    <bounds
+        x="1152"
+        y="120"
+        width="217"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-37b26a30e0ce4112b50b2c33a79b3609.xml#id-37b26a30e0ce4112b50b2c33a79b3609"/>
   </children>
 </archimate:SketchModel>

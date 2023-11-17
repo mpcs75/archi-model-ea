@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticatie applicatie"
-    id="id-2ba9f6c37dc04b7a91edf08ba36368cb"/>
+    id="id-2ba9f6c37dc04b7a91edf08ba36368cb"
+    documentation="Het bewijzen/vaststellen van de identiteit van een applicatie. (zelf toegevoegd)"/>

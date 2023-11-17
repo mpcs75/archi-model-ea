@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgverlening"
-    id="id-d963497196774f69a7d120d00adffb46"
-    documentation="Binnen Zorgverlening vallen de domeinen waarbinnen de zorg geleverd wordt.">
-  <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
-</archimate:BusinessFunction>

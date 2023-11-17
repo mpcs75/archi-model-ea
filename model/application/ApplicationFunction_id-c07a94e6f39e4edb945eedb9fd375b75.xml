@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren werkplek"
+    id="id-c07a94e6f39e4edb945eedb9fd375b75"
+    documentation="Functionaliteit voor beheren hardware (PC, monitor, mobile device, printers, scanners , bedside, tv e.d.) en software op de werkplek of bed-site. (LCM,CMDB,deployment, virtual desktop, e.d.)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-148"/>
+</archimate:ApplicationFunction>

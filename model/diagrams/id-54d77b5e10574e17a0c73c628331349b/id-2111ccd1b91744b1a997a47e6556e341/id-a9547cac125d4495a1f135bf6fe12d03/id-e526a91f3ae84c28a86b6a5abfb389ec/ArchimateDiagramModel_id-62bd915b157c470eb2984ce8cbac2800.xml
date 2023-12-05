@@ -4,22 +4,6 @@
     name="01. Informatiedomeinen GGZ"
     id="id-62bd915b157c470eb2984ce8cbac2800">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-2c4fb2b6c920472bb4fa31b53930a2b4"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#44bfea"
-      textPosition="1">
-    <bounds
-        x="24"
-        y="24"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-42b72f8b4b2d4b68ba55536c6014eb44.xml#id-42b72f8b4b2d4b68ba55536c6014eb44"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4aa67a21fd004260a454272f7ac0ce27"
       font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
@@ -1613,5 +1597,21 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-28e1d5f4364b40f5bb43ebef4b982830.xml#id-28e1d5f4364b40f5bb43ebef4b982830"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-64826ff3ad534b949457e990df164bd9"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#44bfea"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f46442b486b4448a94a30a63174e19a.xml#id-6f46442b486b4448a94a30a63174e19a"/>
   </children>
 </archimate:ArchimateDiagramModel>

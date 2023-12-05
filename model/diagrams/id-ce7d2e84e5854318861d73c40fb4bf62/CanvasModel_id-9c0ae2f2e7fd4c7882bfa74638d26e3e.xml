@@ -193,7 +193,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-804c0d09283b4cdbbdbda7b3d8339f93"
         fillColor="#f8c491"
-        content="Geen&#xD;&#xA;&#xD;&#xA;Omdat ik de enige gebruiker ben."
+        content="Geen&#xD;&#xA;&#xD;&#xA;Omdat ik vooralsnog de enige gebruiker ben."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -251,7 +251,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-4955c73881be446ca4bd25e63d6d5307"
         fillColor="#ffff95"
-        content="Ikzelf"
+        content="Ikzelf&#xD;&#xA;&#xD;&#xA;Deze architectuur kennisbank is bedoeld voor persoonlijk gebruik."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds

@@ -5,22 +5,6 @@
     id="id-85e06691a6e84c3985efd5665205fbe1"
     documentation="Algemene wetten gaan niet specifiek over de zorg maar hebben er wel invloed op. &#xD;&#xA;&#xD;&#xA;bron 1: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Wetten: https://wetten.overheid.nl/">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-87e6f036dafa4e6ebbedf2c83e619dd3"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#83786f"
-      textPosition="1">
-    <bounds
-        x="12"
-        y="12"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-fd19c13689aa4f79a55df06282e4db17.xml#id-fd19c13689aa4f79a55df06282e4db17"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4876c38781eb4b9787a7c62a7750305b"
       textAlignment="1">
@@ -266,5 +250,21 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a0721da84281472d886c45098cae2340.xml#id-a0721da84281472d886c45098cae2340"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-02082cddc8dc4333bb98c33b77e4e00c"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-5172ce70dc644fc6a8a2f067e889e7bb.xml#id-5172ce70dc644fc6a8a2f067e889e7bb"/>
   </children>
 </archimate:ArchimateDiagramModel>

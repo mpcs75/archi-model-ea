@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02. BgZ2020"
+    name="02. BgZ 2020"
     id="id-2dc9cb4183cc4ba396c8c015758bf0ea"
     documentation="Een overzicht van welke Zibs er zijn meegenomen in de Basisgegevensset Zorg 2020. &#xD;&#xA;&#xD;&#xA;Meer informatie: https://nictiz.nl/standaarden/informatiestandaarden/basisgegevensset-zorg/">
   <children
@@ -2955,55 +2955,6 @@
         href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-048c6f834f6d4d058898d676067bf777"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#ff6e23"
-      textPosition="1">
-    <bounds
-        x="36"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-db465213e7384a4da2e9d5017799e1e9.xml#id-db465213e7384a4da2e9d5017799e1e9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-1ca0b81f082f402aad019e7bd4d2be8b"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#ff6e23"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="Zib 2020"/>
-    <bounds
-        x="168"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-d88326a9b971439f880339d162fef2bf.xml#id-d88326a9b971439f880339d162fef2bf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-9971ff1951d4430b8bca8b8c33f5ec8b"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#000000"
-      fillColor="#ff6e23"
-      textPosition="1"
-      referencedModel="id-2dc9cb4183cc4ba396c8c015758bf0ea">
-    <features
-        name="labelExpression"
-        value="BgZ2020"/>
-    <bounds
-        x="300"
-        width="120"
-        height="55"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-9758ee08ef5e435799e16431977f8ee7"
       textAlignment="1"
@@ -3015,5 +2966,21 @@
         y="72"
         width="997"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-ff06dbaf116342d485f750ded19d9dd7"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#ff6e23"
+      textPosition="1">
+    <bounds
+        x="36"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-8e1eb78ab02e4d38abc69f52b29b8e76.xml#id-8e1eb78ab02e4d38abc69f52b29b8e76"/>
   </children>
 </archimate:ArchimateDiagramModel>

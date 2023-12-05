@@ -9,14 +9,15 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-53679f479f894c6db4c0084643f4d7f0"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
       textPosition="1">
     <features
         name="labelExpression"
         value="Het&#xD;&#xA;5-lagenmodel&#xD;&#xA;als indeling"/>
     <bounds
-        x="288"
-        y="146"
+        x="300"
+        y="120"
         width="120"
         height="109"/>
     <referencedModel
@@ -27,32 +28,32 @@
       xsi:type="archimate:SketchModelSticky"
       id="id-500b0223c6694bdca56dafb02492c07b"
       name="Sticky"
-      font="1|Calibri|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Calibri|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Over deze publicatie">
+      content="Over deze kennisbank">
     <features
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="12"
+        x="24"
         y="12"
         width="262"
-        height="49"/>
+        height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-bfbe0b593d9a45efb44477ae03e7867c"
       name="Ik bedenk zo min mogelijk zelf"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
-      documentation="Alles binnen deze publicatie doe ik middels hergebruik van raamwerken, methodes, en practices. Wat deze publicatie wellicht bijzonder maakt is het combineren van alles zodat er één overzichtelijk systeem ontstaat.&#xD;&#xA;&#xD;&#xA;Referentiemodellen - Alles wat ik hergebruik breng ik onder in &quot;Referentiemodellen&quot;"
+      documentation="Alles binnen deze publicatie doe ik middels hergebruik van raamwerken, methodes, en practices. Wat deze publicatie wellicht bijzonder maakt is het combineren van alles zodat er één overzichtelijk systeem ontstaat. In architectuurtermen hebben we het dan over samenhang."
       textPosition="1"
       borderType="1">
     <bounds
-        x="156"
-        y="146"
+        x="168"
+        y="120"
         width="120"
         height="109"/>
   </children>
@@ -60,29 +61,29 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-7a2e5860887442dab2e63d3101d84cc0"
       name="Scherp of wazig?"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       documentation="Als je deze publicatie nu bekijkt en denkt; &quot;Had je hem niet wat scherper kunnen maken?&quot; dan ligt dat waarschijnlijk aan de instellingen van je beeldscherm. Wanneer de schaal anders is ingesteld dan 100% dan zorg dat voor een wazige weergave. Wanneer de schaal op 100% staat is deze publicatie haarscherp.&#xD;&#xA;&#xD;&#xA;Brede tekeningen kunnen echter nog steeds wazig zijn, zeker op kleinere schermen. Op een groot scherm kun je dat oplossen door de 'model tree' sidebar wat smaller te maken.&#xD;&#xA;&#xD;&#xA;Ik stoei af en toe nog met de css om dit netter voor elkaar te krijgen."
       textPosition="1"
       borderType="1">
     <bounds
-        x="552"
-        y="146"
+        x="564"
+        y="120"
         width="120"
         height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-5a12eab64e2e4104a3ecf9f470c0e9e0"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       textPosition="1">
     <features
         name="labelExpression"
         value="Hoe Archimate &#xD;&#xA;toegepast wordt"/>
     <bounds
-        x="420"
-        y="146"
+        x="432"
+        y="120"
         width="120"
         height="109"/>
     <referencedModel
@@ -93,300 +94,18 @@
       xsi:type="archimate:SketchModelSticky"
       id="id-1230033128e74e0287b0e30d6f6a00e8"
       name="Sticky"
-      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Calibri|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Referentiemodellen&#xD;&#xA;&#xD;&#xA;Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik hergebruik binnen deze publicatie. Vaak zijn het vrij beschikbare referentiemodellen en soms zijn het modellen die het resultaat zijn van persoonlijk uitzoekwerk.">
+      content="Referentiemodellen, persoonlijke analyses, use cases">
     <features
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="12"
-        y="396"
-        width="528"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-9ac50e94afca45ce9feaa9a942098c1c"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#b5aea9"
-      textPosition="1">
-    <bounds
-        x="36"
-        y="506"
-        width="97"
-        height="283"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-52f6f6b970b147a3947b46f59edcbaf4.xml#id-52f6f6b970b147a3947b46f59edcbaf4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-1f178f86937644b08f31821b9472c8a6"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#83786f"
-      textPosition="1">
-    <bounds
-        x="144"
-        y="506"
-        width="99"
-        height="283"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-fd19c13689aa4f79a55df06282e4db17.xml#id-fd19c13689aa4f79a55df06282e4db17"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-1552feb3a60148a0b5c64c028807a0eb"
-      targetConnections="id-038eb299d8564186b8e30e8ba9c6af55"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#c724b1"
-      textPosition="1">
-    <bounds
-        x="252"
-        y="506"
-        width="300"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-87e6ea20a20b4b6ca6f26f224ed41c4e.xml#id-87e6ea20a20b4b6ca6f26f224ed41c4e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-9bf8e7b58a3b4edc9cf8da06d62de877"
-      targetConnections="id-31c46cb29b4c4a798aa4f5bf9d44198a"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#44bfea"
-      textPosition="1">
-    <bounds
-        x="252"
-        y="563"
-        width="300"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-42b72f8b4b2d4b68ba55536c6014eb44.xml#id-42b72f8b4b2d4b68ba55536c6014eb44"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-97c122785ef543d49efc9a184bba664c"
-      targetConnections="id-ca26b11720fc4f09b7c8585a073ce5cc"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#ff6e23"
-      textPosition="1">
-    <bounds
-        x="252"
-        y="621"
-        width="300"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-db465213e7384a4da2e9d5017799e1e9.xml#id-db465213e7384a4da2e9d5017799e1e9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-bf97b68ae1ec468c8527338eb42ba99f"
-      targetConnections="id-3dc01fb0bfb54d4795ca1b9186d71e4a"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#97be0d"
-      textPosition="1">
-    <bounds
-        x="252"
-        y="680"
-        width="300"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-4293c3463b0b4f9fb7721734c239bc49.xml#id-4293c3463b0b4f9fb7721734c239bc49"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-10b35ecff19c46929f938d5f24086544"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#00b140"
-      textPosition="1">
-    <bounds
-        x="252"
-        y="740"
-        width="300"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-4fa3b1164e6b4510ba394c196352e4fe.xml#id-4fa3b1164e6b4510ba394c196352e4fe"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-79ff8ece12f7440a838ca6cb6da3abef"
-      name="Sticky"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="4"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="206"
-        y="768"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-941f1816c89947ef8c806cfef124e428"
-      name="Sticky"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="1"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="96"
-        y="768"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-4c325d1bbdef48cb857b62a13df79db1"
-      name="Sticky"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="4"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="515"
-        y="534"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-420fa4006fcf44c9b1cc942fb492170a"
-      name="Sticky"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="2"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="515"
-        y="591"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-6b5240a597e748cd9baa9b2dabd8f972"
-      name="Sticky"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="13"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="515"
-        y="649"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-4160ab2afe9547efb24fd2e45fef4541"
-      name="Sticky"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="2"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="515"
-        y="708"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-fdf5fd3a9ba549cb8c85fa07a5b7b687"
-      name="Sticky"
-      targetConnections="id-e7462909d23940d3ad324260dde14b63"
-      font="1|Consolas|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"
-      fontColor="#373737"
-      lineColor="#5c5c5c"
-      textAlignment="4"
-      fillColor="#deebea"
-      alpha="0"
-      content="0"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="515"
-        y="768"
-        width="37"
-        height="21"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-7e5aef6c076146e995c59ba51c992682"
-      name="Analyses"
-      font="1|Calibri|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      lineColor="#000000"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Use Cases">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="12"
-        y="816"
-        width="301"
+        x="24"
+        y="384"
+        width="589"
         height="37"/>
   </children>
   <children
@@ -398,133 +117,28 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Vaak opzichzelfstaande modellen waarmee gelaagde weergaves gemaakt kunnen worden. Ieder referentiemodel is ingedeeld in een laag van het 5-lagenmodel van Nictiz.">
+      content="Referentiemodellen zijn op zichzelfstaande modellen en weergaven die ik als puzzelstukjes hergebruik voor analyses en het maken van use cases. Analyses hebben als doel om onderwerpen beter te begrijpen door visualisatie. Via use cases probeer ik huidige beschikbare oplossingen weer te geven maar vooral ook huidige knelpunten waarbij ik gebruik maak van zowel analyses als referentiemodellen.">
     <features
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="12"
-        y="432"
-        width="625"
-        height="51"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-95521749035a4d6f8898f01800bfbf1a"
-      name="Sticky"
-      font="1|Calibri|12.0|2|WINDOWS|1|-16|0|0|0|400|-1|0|0|0|3|2|1|34|Calibri"
-      fontColor="#2e2e2e"
-      lineColor="#000000"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Specifieke uitwerkingen waarbij ik de referentiemodellen hergebruik">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <bounds
-        x="12"
-        y="852"
-        width="673"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-c8f2de0284fa41ba8dc092988192fda1"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="Inhoudsopgave"/>
-    <sourceConnections
-        id="id-ca26b11720fc4f09b7c8585a073ce5cc"
-        source="id-c8f2de0284fa41ba8dc092988192fda1"
-        target="id-97c122785ef543d49efc9a184bba664c">
-      <bendpoints
-          startX="-126"
-          startY="3"
-          endX="186"
-          endY="3"/>
-    </sourceConnections>
-    <sourceConnections
-        id="id-038eb299d8564186b8e30e8ba9c6af55"
-        source="id-c8f2de0284fa41ba8dc092988192fda1"
-        target="id-1552feb3a60148a0b5c64c028807a0eb">
-      <bendpoints
-          startX="-126"
-          startY="3"
-          endX="186"
-          endY="118"/>
-      <bendpoints
-          startX="-126"
-          startY="-117"
-          endX="186"
-          endY="-2"/>
-    </sourceConnections>
-    <sourceConnections
-        id="id-31c46cb29b4c4a798aa4f5bf9d44198a"
-        source="id-c8f2de0284fa41ba8dc092988192fda1"
-        target="id-9bf8e7b58a3b4edc9cf8da06d62de877">
-      <bendpoints
-          startX="-126"
-          startY="3"
-          endX="186"
-          endY="61"/>
-      <bendpoints
-          startX="-126"
-          startY="-57"
-          endX="186"
-          endY="1"/>
-    </sourceConnections>
-    <sourceConnections
-        id="id-3dc01fb0bfb54d4795ca1b9186d71e4a"
-        source="id-c8f2de0284fa41ba8dc092988192fda1"
-        target="id-bf97b68ae1ec468c8527338eb42ba99f">
-      <bendpoints
-          startX="-126"
-          startY="3"
-          endX="186"
-          endY="-56"/>
-      <bendpoints
-          startX="-126"
-          startY="63"
-          endX="186"
-          endY="4"/>
-    </sourceConnections>
-    <sourceConnections
-        id="id-e7462909d23940d3ad324260dde14b63"
-        source="id-c8f2de0284fa41ba8dc092988192fda1"
-        target="id-fdf5fd3a9ba549cb8c85fa07a5b7b687">
-      <bendpoints
-          startX="-126"
-          startY="3"
-          endX="55"
-          endY="-130"/>
-      <bendpoints
-          startX="-126"
-          startY="123"
-          endX="55"
-          endY="-10"/>
-    </sourceConnections>
-    <bounds
-        x="624"
-        y="621"
-        width="180"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-eed1e97ca5d848379475be380ddc97ec.xml#id-eed1e97ca5d848379475be380ddc97ec"/>
+        x="24"
+        y="420"
+        width="923"
+        height="73"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-7331427809084c37b307e8088b6c493f"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       textPosition="1">
     <features
         name="labelExpression"
         value="Waarom &#xD;&#xA;deze publicatie"/>
     <bounds
-        x="24"
-        y="146"
+        x="36"
+        y="120"
         width="120"
         height="109"/>
     <referencedModel
@@ -535,15 +149,14 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-6ede38ef63994fc999fa4c9c29c69ab8"
       name="LET OP !!!"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffff80"
-      fillColor="#ff6e23"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
       documentation="Een omgeving waar ik de bomen door het complexe bos een beetje beter probeer te zien. Dat bos is de gezondheidszorg met de GGZ als hoofdonderwerp. In plaats van aantekeningen maken om een kennisbank op te bouwen doe ik dat via een architectuurmodel. Dit model is vooral bedoeld voor persoonlijk gebruik maar is publiek toegankelijk. Wanneer je er iets aan denkt te hebben maak dan gerust hergebruik van mijn 'aantekeningen'. Raadpleeg wel altijd alle bronnen voor de 'echte waarheid'."
       textPosition="1"
       borderType="1">
     <bounds
-        x="684"
-        y="146"
+        x="696"
+        y="120"
         width="120"
         height="109"/>
   </children>
@@ -561,23 +174,23 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="12"
-        y="60"
-        width="804"
+        x="24"
+        y="48"
+        width="937"
         height="73"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-6a85958a0d714fb389057bdd96d8ef7f"
       name="Wat is klaar"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       documentation="17-11-2023&#xD;&#xA;- Applicatiefuncties toegevoegd (Applicatie &amp; Data)&#xD;&#xA;- Generieke functies toegevoegd maar nog bezig met details (Motivatie &amp; Strategie)&#xD;&#xA;&#xD;&#xA;16-11-2023&#xD;&#xA;- Alle wetten toegevoegd die ik tot nu toe kon bedenken (Wet- en regelgeving)&#xD;&#xA;- Alle voor mij bekende normen toegevoegd (Beveiliging)&#xD;&#xA;- NEN 7510 wat verder uitgewerkt (Relaties)&#xD;&#xA;&#xD;&#xA;15-11-2023&#xD;&#xA;- BMC gevuld&#xD;&#xA;- Dashboard aangepast&#xD;&#xA;&#xD;&#xA;27 -10-2023&#xD;&#xA;- Een beginnetje gemaakt met het toevoegen van wetten&#xD;&#xA;- Een inhoudspagina gemaakt voor alle referentiemodellen.&#xD;&#xA;- Het enkele tegeltje &quot;Waarom deze publicatie&quot; vervangen door een Business Model Canvas (moet ik nog vullen)&#xD;&#xA;&#xD;&#xA;20 -10-2023&#xD;&#xA;- Eerste mappings tussen het RDG (Organisatie &amp; Processen) en de ZIB 2020 (Informatie)&#xD;&#xA;- Links toegevoegd naar informatiestandaarden (Informatie)&#xD;&#xA;&#xD;&#xA;17 -10-2023&#xD;&#xA;- De ZIB 2020 set onder &quot;Informatie&quot; is volledig ingevoerd.&#xD;&#xA;&#xD;&#xA;13-10-2023&#xD;&#xA;- FHIR resources toegevoegd aan &quot;Applicaties &amp; Data&quot;&#xD;&#xA;- Beginnetje gemaakt met Zibs 2020 onder &quot;Informatie&quot;&#xD;&#xA;&#xD;&#xA;10-10-23&#xD;&#xA;- Dashboard gemaakt&#xD;&#xA;- Structuur aangebracht in het model&#xD;&#xA;- RDG toegevoegd&#xD;&#xA;- IZA analyse toegevoegd&#xD;&#xA;- NVS analyse toegevoegd&#xD;&#xA;- Een aantal archimate voorbeelden toegevoegd"
       textPosition="1"
       borderType="1">
     <bounds
-        x="24"
-        y="264"
+        x="36"
+        y="238"
         width="120"
         height="109"/>
   </children>
@@ -585,14 +198,14 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-c2fa173650334d398bca8017d37b8d6e"
       name="Waar ben ik mee bezig"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       documentation="- Generieke functies&#xD;&#xA;- Compleet maken FHIR resources"
       textPosition="1"
       borderType="1">
     <bounds
-        x="156"
-        y="264"
+        x="168"
+        y="238"
         width="120"
         height="109"/>
   </children>
@@ -600,15 +213,279 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-11fec5b1189648c7b037ce9c6528286c"
       name="Wat wil ik (ooit) nog graag"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       documentation="- eHealth zorgreis vanuit het perspectief van een persoon.&#xD;&#xA;- Interoperabiliteitsdiensten VZVZ&#xD;&#xA;- Interoperabiliteitsdiensten overig&#xD;&#xA;- ZIRA&#xD;&#xA;- RDC&#xD;&#xA;- DIZRA&#xD;&#xA;- Use Cases&#xD;&#xA;- Gelaadge modellen (vanuit specifieke gezichtspunten)&#xD;&#xA;- Hoofstukken uit NEN 7510 benoemen"
       textPosition="1"
       borderType="1">
     <bounds
-        x="288"
-        y="264"
+        x="300"
+        y="238"
         width="120"
         height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-47301dcdc6e94f0a993ace00b99cdf00"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      textPosition="1">
+    <bounds
+        x="36"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-e9226fca0770403fb91beb7ea524c496.xml#id-e9226fca0770403fb91beb7ea524c496"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-7aba9cfb7dd64f4cb48f6ca925e84ec5"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#83786f"
+      textPosition="1">
+    <bounds
+        x="168"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-5172ce70dc644fc6a8a2f067e889e7bb.xml#id-5172ce70dc644fc6a8a2f067e889e7bb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-535cd23ab1c742fa9037780a9555ea9f"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#c724b1"
+      textPosition="1">
+    <bounds
+        x="300"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-5f1136a4fa3e4600b22e75b4c5c37a80.xml#id-5f1136a4fa3e4600b22e75b4c5c37a80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-db3ce7a775924a0daee14f8444e1d1c2"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#44bfea"
+      textPosition="1">
+    <bounds
+        x="432"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f46442b486b4448a94a30a63174e19a.xml#id-6f46442b486b4448a94a30a63174e19a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-02194999aa7049e5ab33130e80a4a4c3"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#ff6e23"
+      textPosition="1">
+    <bounds
+        x="564"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-8e1eb78ab02e4d38abc69f52b29b8e76.xml#id-8e1eb78ab02e4d38abc69f52b29b8e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-390521f448744b5bb99a35e2de7881fc"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#97be0d"
+      textPosition="1">
+    <bounds
+        x="696"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-3fa1069790774d1d892ea2ed47cff395.xml#id-3fa1069790774d1d892ea2ed47cff395"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-0796fb8befbd42fd947cd651b773ea96"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#00b140"
+      textPosition="1">
+    <bounds
+        x="827"
+        y="492"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-58e3e03072e145a08c3ef010ede3f500.xml#id-58e3e03072e145a08c3ef010ede3f500"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-7c4f5a5d9c4d4206ac77da4f2cc6c0d8"
+      name="Sticky"
+      font="1|Calibri|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Calibri"
+      fontColor="#808080"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="De nummertjes op de tegeltjes geven het aantal direct onderliggende onderwerpen weer.">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="30"
+        y="612"
+        width="923"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-b82f970cf5e0472ebc72c48176ebace1"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="1"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="121"
+        y="577"
+        width="35"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-ef06a66cf4af45ccbe938aea8c9cdd7f"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="4"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="253"
+        y="577"
+        width="35"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-56c03173174046de99a26c591b6f73aa"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="0"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="912"
+        y="577"
+        width="35"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-a6ef0d6f04df4420b8db7570fdf35ec9"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="3"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="385"
+        y="577"
+        width="35"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-da5deab4c5e742ada22b89d0ac2d5941"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="2"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="517"
+        y="577"
+        width="35"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-371ea9fcb4bb4e6fbf7262be070eb679"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="2"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="649"
+        y="577"
+        width="35"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-beb26f310b42442cb7ae7ad65525ad79"
+      name="Aantal direct onderliggend"
+      fontColor="#ffffff"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      alpha="0"
+      content="2"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="781"
+        y="577"
+        width="35"
+        height="24"/>
   </children>
 </archimate:SketchModel>

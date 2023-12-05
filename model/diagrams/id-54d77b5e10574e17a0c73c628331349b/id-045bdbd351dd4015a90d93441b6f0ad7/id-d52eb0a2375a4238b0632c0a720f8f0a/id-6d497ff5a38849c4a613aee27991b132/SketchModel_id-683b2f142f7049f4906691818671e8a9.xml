@@ -21,7 +21,7 @@
         value="IZA - Doelen en afspraken - [2021-2026]"/>
     <bounds
         x="12"
-        y="288"
+        y="408"
         width="1465"
         height="325"/>
     <children
@@ -226,7 +226,7 @@
         value="0"/>
     <bounds
         x="12"
-        y="36"
+        y="156"
         width="721"
         height="241"/>
     <children
@@ -394,7 +394,7 @@
         value="Realisatie IZA"/>
     <bounds
         x="12"
-        y="624"
+        y="744"
         width="1465"
         height="157"/>
     <children
@@ -429,7 +429,7 @@
       textPosition="1">
     <bounds
         x="12"
-        y="-24"
+        y="96"
         width="1465"
         height="49"/>
   </children>
@@ -446,7 +446,7 @@
         value="0"/>
     <bounds
         x="744"
-        y="36"
+        y="156"
         width="217"
         height="241"/>
     <children
@@ -533,18 +533,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-7df3b955b47d4be292beeb505748fd66"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      id="id-6d043b4208d14de8ae6cb1a0cae72e1c"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ffffff"
       fillColor="#c724b1"
       textPosition="1">
     <bounds
         x="12"
-        y="-84"
+        y="24"
         width="120"
         height="55"/>
     <referencedModel
         xsi:type="archimate:SketchModel"
-        href="SketchModel_id-87e6ea20a20b4b6ca6f26f224ed41c4e.xml#id-87e6ea20a20b4b6ca6f26f224ed41c4e"/>
+        href="SketchModel_id-5f1136a4fa3e4600b22e75b4c5c37a80.xml#id-5f1136a4fa3e4600b22e75b4c5c37a80"/>
   </children>
 </archimate:SketchModel>

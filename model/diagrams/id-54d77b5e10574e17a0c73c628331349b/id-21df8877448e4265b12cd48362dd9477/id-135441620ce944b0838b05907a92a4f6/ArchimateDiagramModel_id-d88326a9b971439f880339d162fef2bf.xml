@@ -2845,55 +2845,6 @@
         href="Grouping_id-a65138d23c724d94b581942ef34cabaf.xml#id-a65138d23c724d94b581942ef34cabaf"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-bd6b99d25e814d52b5634650744e49f1"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#ff6e23"
-      textPosition="1">
-    <bounds
-        x="36"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-db465213e7384a4da2e9d5017799e1e9.xml#id-db465213e7384a4da2e9d5017799e1e9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-77c53b55675c460ab9ed56363a324e9f"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#000000"
-      fillColor="#ff6e23"
-      textPosition="1"
-      referencedModel="id-d88326a9b971439f880339d162fef2bf">
-    <features
-        name="labelExpression"
-        value="Zib 2020"/>
-    <bounds
-        x="168"
-        width="120"
-        height="55"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-9242b3b02aa14d23aaf1f35aee9df354"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#ff6e23"
-      textPosition="1">
-    <features
-        name="labelExpression"
-        value="BgZ2020"/>
-    <bounds
-        x="300"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-2dc9cb4183cc4ba396c8c015758bf0ea.xml#id-2dc9cb4183cc4ba396c8c015758bf0ea"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-c20c0b2f0127481e9fbeeca777842606"
       textAlignment="1"
@@ -2904,5 +2855,21 @@
         y="72"
         width="997"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-351a5e0ef42448ffa23642cd8abd3be2"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#ff6e23"
+      textPosition="1">
+    <bounds
+        x="36"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-8e1eb78ab02e4d38abc69f52b29b8e76.xml#id-8e1eb78ab02e4d38abc69f52b29b8e76"/>
   </children>
 </archimate:ArchimateDiagramModel>

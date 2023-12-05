@@ -266,22 +266,6 @@
         href="Grouping_id-9ae57b5180cc4f0f86009be31a958d14.xml#id-9ae57b5180cc4f0f86009be31a958d14"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-07f4c626af114e92a2736fe92845b8bf"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
-      fontColor="#ffffff"
-      fillColor="#b5aea9"
-      textPosition="1">
-    <bounds
-        x="24"
-        y="12"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:SketchModel"
-        href="SketchModel_id-52f6f6b970b147a3947b46f59edcbaf4.xml#id-52f6f6b970b147a3947b46f59edcbaf4"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-72e88209be83455ca736119194c90e03"
       textAlignment="1">
@@ -677,5 +661,21 @@
         y="804"
         width="409"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-06b4433c8eaa454e948de735de245bba"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#b5aea9"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-e9226fca0770403fb91beb7ea524c496.xml#id-e9226fca0770403fb91beb7ea524c496"/>
   </children>
 </archimate:ArchimateDiagramModel>

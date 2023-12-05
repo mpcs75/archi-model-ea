@@ -377,7 +377,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-12abaab9f18c4933952a6814577cb213"
       textAlignment="1"
-      content="Bijvoorbeeld:&#xD;&#xA;- DIZRA&#xD;&#xA;- NVS Leidende principes">
+      content="Bijvoorbeeld:&#xD;&#xA;- DIZRA principes&#xD;&#xA;- NVS Leidende principes">
     <sourceConnections
         id="id-84f5b2bc4f5546c9a4b79bab3163e076"
         source="id-12abaab9f18c4933952a6814577cb213"
@@ -407,7 +407,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b7630e5d312542918a431f1164215892"
       textAlignment="1"
-      content="Bijvoorbeeld:&#xD;&#xA;- Functionele eisen aan een systeem">
+      content="Bijvoorbeeld:&#xD;&#xA;- Functionele eisen voor een systeem&#xD;&#xA;  (functionaliteit)">
     <sourceConnections
         id="id-eea0804a37f445e49c7086832af6e075"
         source="id-b7630e5d312542918a431f1164215892"
@@ -428,15 +428,15 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-4977b6a3a8854f48a30300e716eb1cc1"
       textAlignment="1"
-      content="Bijvoorbeeld:&#xD;&#xA;- Niet - Functionele eisen aan een systeem zoals;&#xD;&#xA;-- Wetten&#xD;&#xA;-- Normen">
+      content="Bijvoorbeeld:&#xD;&#xA;- Niet-functionele eisen voor een systeem&#xD;&#xA;   (functioneren / kwaliteitseisen)">
     <sourceConnections
         id="id-099d777826054e6d89ccc392c4297081"
         source="id-4977b6a3a8854f48a30300e716eb1cc1"
         target="id-e580e3d5489b4019bcd87189fe40f31a"/>
     <bounds
         x="744"
-        y="1080"
-        width="229"
-        height="109"/>
+        y="1107"
+        width="241"
+        height="65"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -972,18 +972,17 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-83935aad2af845809070d75e9baff789"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      id="id-1322b19243ea41a4a4bd2c802e4fd5b3"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ffffff"
       fillColor="#44bfea"
       textPosition="1">
     <bounds
         x="24"
-        y="12"
         width="120"
         height="55"/>
     <referencedModel
         xsi:type="archimate:SketchModel"
-        href="SketchModel_id-42b72f8b4b2d4b68ba55536c6014eb44.xml#id-42b72f8b4b2d4b68ba55536c6014eb44"/>
+        href="SketchModel_id-6f46442b486b4448a94a30a63174e19a.xml#id-6f46442b486b4448a94a30a63174e19a"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -2603,18 +2603,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-f417c7ade14146c386f63f3b728d0a88"
-      font="1|Calibri|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Calibri"
+      id="id-ac1974049ead4bee8bf20823e5370765"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ffffff"
       fillColor="#97be0d"
       textPosition="1">
     <bounds
         x="24"
         y="23"
-        width="133"
+        width="120"
         height="55"/>
     <referencedModel
         xsi:type="archimate:SketchModel"
-        href="SketchModel_id-4293c3463b0b4f9fb7721734c239bc49.xml#id-4293c3463b0b4f9fb7721734c239bc49"/>
+        href="SketchModel_id-3fa1069790774d1d892ea2ed47cff395.xml#id-3fa1069790774d1d892ea2ed47cff395"/>
   </children>
 </archimate:ArchimateDiagramModel>

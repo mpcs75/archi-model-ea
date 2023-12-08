@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Basic"
     id="id-816bb47bcc28450e8c8fb02b3c9fa6e4"
-    documentation="Basic is a special type of resource. Unlike all other resources, it doesn't correspond to a specific pre-defined HL7 concept. Instead, it's a placeholder for any resource-like concept that isn't already defined in the HL7 specification.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/basic.html&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Basic is a special type of resource. Unlike all other resources, it doesn't correspond to a specific pre-defined HL7 concept. Instead, it's a placeholder for any resource-like concept that isn't already defined in the HL7 specification.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/basic.html&#xD;&#xA;&#xD;&#xA;Google translate  - Basic is een speciaal type resource. In tegenstelling tot alle andere resources komt het niet overeen met een specifiek, vooraf gedefinieerd HL7-concept. In plaats daarvan is het een tijdelijke aanduiding voor elk resource-achtig concept dat nog niet is gedefinieerd in de HL7-specificatie.&#xD;&#xA;&#xD;&#xA;"/>

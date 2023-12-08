@@ -134,7 +134,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-2b229ebc6591434bbd325e562ac4533d"
-      name="Referentie materiaal"
+      name="Referentie materiaal (informatiesystemen)"
       textAlignment="1"
       fillColor="#ffffff"
       borderType="1">
@@ -143,25 +143,6 @@
         y="84"
         width="565"
         height="157"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-1e78f89494f74fe2a43e5c003f64abf3"
-        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        fontColor="#ffffff"
-        fillColor="#97be0d"
-        textPosition="1">
-      <features
-          name="labelExpression"
-          value="FHIR resource &#xD;&#xA;datamodel &#xD;&#xA;[v4.0.1]"/>
-      <bounds
-          x="144"
-          y="24"
-          width="120"
-          height="109"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-207d44bb61b2450c81c383d83011f9f9.xml#id-207d44bb61b2450c81c383d83011f9f9"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-078de2b7607c4d87a16165853754bef5"
@@ -180,6 +161,57 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-37b26a30e0ce4112b50b2c33a79b3609.xml#id-37b26a30e0ce4112b50b2c33a79b3609"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-93ed0502eab14e3b954d69c3e5bc2877"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#97be0d"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Gegevens-&#xD;&#xA;voorzieningen"/>
+      <bounds
+          x="144"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-8ab73be6d47d4bd585432d7763692544.xml#id-8ab73be6d47d4bd585432d7763692544"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d69446d822d54f8b99e611c77caec85a"
+      name="Referentie materiaal (data)"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="12"
+        y="252"
+        width="565"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-d309b76bd4f7446ea8f00975ff604f8b"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#97be0d"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="FHIR resource &#xD;&#xA;datamodel &#xD;&#xA;[v4.0.1]"/>
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-207d44bb61b2450c81c383d83011f9f9.xml#id-207d44bb61b2450c81c383d83011f9f9"/>
     </children>
   </children>
 </archimate:SketchModel>

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicationRequest"
-    id="id-df9d3a7b3cef4ba2b9f342f7c2ca15ae"/>
+    id="id-df9d3a7b3cef4ba2b9f342f7c2ca15ae"
+    documentation="An order or request for both supply of the medication and the instructions for administration of the medication to a patient. The resource is called &quot;MedicationRequest&quot; rather than &quot;MedicationPrescription&quot; or &quot;MedicationOrder&quot; to generalize the use across inpatient and outpatient settings, including care plans, etc., and to harmonize with workflow patterns.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicationrequest.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een bestelling of aanvraag voor zowel de levering van de medicatie als de instructies voor het toedienen van de medicatie aan een patiënt. De resource heet &quot;MedicationRequest&quot; in plaats van &quot;MedicationPrescription&quot; of &quot;MedicationOrder&quot; om het gebruik te generaliseren binnen intramurale en poliklinische instellingen, inclusief zorgplannen, enz., en om te harmoniseren met werkstroompatronen."/>

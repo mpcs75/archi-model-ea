@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NamingSystem"
     id="id-b1e9a8f3aadd420da9f9a1cced49bc39"
-    documentation="A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc. Represents a &quot;System&quot; used within the Identifier and Coding data types.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/namingsystem.html"/>
+    documentation="A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc. Represents a &quot;System&quot; used within the Identifier and Coding data types.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/namingsystem.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een samengestelde namespace die binnen die namespace unieke symbolen uitgeeft voor de identificatie van concepten, mensen, apparaten, enz. Vertegenwoordigt een 'systeem' dat wordt gebruikt binnen de gegevenstypen Identifier en Coding."/>

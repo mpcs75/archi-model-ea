@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DeviceMetric"
-    id="id-592ca7982cc543a69bfb6c2b50a768d6"/>
+    id="id-592ca7982cc543a69bfb6c2b50a768d6"
+    documentation="Describes a measurement, calculation or setting capability of a medical device.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/devicemetric.html&#xD;&#xA;&#xD;&#xA;Google translate  - Beschrijft een meet-, berekenings- of instelmogelijkheid van een medisch hulpmiddel."/>

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HealthcareService"
-    id="id-4f468fd734264f8999c3302e2d5780cb"/>
+    id="id-4f468fd734264f8999c3302e2d5780cb"
+    documentation="The details of a healthcare service available at a location.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/healthcareservice.html&#xD;&#xA;&#xD;&#xA;Google translate  - De gegevens van een zorgdienst die op een locatie beschikbaar is."/>

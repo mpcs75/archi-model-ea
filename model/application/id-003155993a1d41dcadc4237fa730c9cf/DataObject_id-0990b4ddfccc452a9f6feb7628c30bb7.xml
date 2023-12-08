@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ObservationDefinition"
-    id="id-0990b4ddfccc452a9f6feb7628c30bb7"/>
+    id="id-0990b4ddfccc452a9f6feb7628c30bb7"
+    documentation="Set of definitional characteristics for a kind of observation or measurement produced or consumed by an orderable health care service.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/observationdefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een reeks definitiekenmerken voor een soort observatie of meting die wordt geproduceerd of geconsumeerd door een bestelbare gezondheidszorgdienst."/>

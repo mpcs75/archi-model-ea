@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CapabilityStatement"
     id="id-592449ceff554e9790e6b1f1da8eca2a"
-    documentation="A Capability Statement documents a set of capabilities (behaviors) of a FHIR Server for a particular version of FHIR that may be used as a statement of actual server functionality or a statement of required or desired server implementation.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/capabilitystatement.html"/>
+    documentation="A Capability Statement documents a set of capabilities (behaviors) of a FHIR Server for a particular version of FHIR that may be used as a statement of actual server functionality or a statement of required or desired server implementation.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/capabilitystatement.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een Capability Statement documenteert een reeks mogelijkheden (gedrag) van een FHIR-server voor een bepaalde versie van FHIR die kan worden gebruikt als een verklaring van de daadwerkelijke serverfunctionaliteit of een verklaring van de vereiste of gewenste serverimplementatie.&#xD;&#xA;"/>

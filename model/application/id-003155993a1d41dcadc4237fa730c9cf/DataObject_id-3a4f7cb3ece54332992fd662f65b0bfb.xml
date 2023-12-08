@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DiagnosticReport"
-    id="id-3a4f7cb3ece54332992fd662f65b0bfb"/>
+    id="id-3a4f7cb3ece54332992fd662f65b0bfb"
+    documentation="The findings and interpretation of diagnostic tests performed on patients, groups of patients, devices, and locations, and/or specimens derived from these. The report includes clinical context such as requesting and provider information, and some mix of atomic results, images, textual and coded interpretations, and formatted representation of diagnostic reports.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/diagnosticreport.html&#xD;&#xA;&#xD;&#xA;Google translate  - De bevindingen en interpretatie van diagnostische tests die zijn uitgevoerd op patiënten, groepen patiënten, apparaten en locaties, en/of daarvan afgeleide monsters. Het rapport bevat de klinische context, zoals informatie over het verzoek en de leverancier, en een mix van atomaire resultaten, afbeeldingen, tekstuele en gecodeerde interpretaties en een opgemaakte weergave van diagnostische rapporten."/>

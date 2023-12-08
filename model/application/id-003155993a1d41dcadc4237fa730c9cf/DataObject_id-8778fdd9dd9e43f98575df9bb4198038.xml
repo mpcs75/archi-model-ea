@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DeviceRequest"
-    id="id-8778fdd9dd9e43f98575df9bb4198038"/>
+    id="id-8778fdd9dd9e43f98575df9bb4198038"
+    documentation="Represents a request for a patient to employ a medical device. The device may be an implantable device, or an external assistive device, such as a walker.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/devicerequest.html&#xD;&#xA;&#xD;&#xA;Google translate  - Vertegenwoordigt een verzoek aan een patiënt om een ​​medisch hulpmiddel te gebruiken. Het apparaat kan een implanteerbaar apparaat zijn, of een extern hulpmiddel, zoals een rollator."/>

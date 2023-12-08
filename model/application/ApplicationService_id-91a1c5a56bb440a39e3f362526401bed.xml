@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vooraankondiging medicatievoorschriften"
+    id="id-91a1c5a56bb440a39e3f362526401bed"
+    documentation="Ziekenhuizen kunnen via het Landelijk Schakelpunt medicatievoorschriften versturen naar apotheken. Deze functionaliteit noemen we een ‘Vooraankondiging’, omdat het voorschrift (nog) niet is voorzien van een digitale handtekening van de voorschrijver. Daardoor is het wettelijk gezien geen officieel recept. De voorschrijver heeft dan ook geen UZI-pas nodig om het voorschrift te versturen. De koepelorganisaties van apotheken (KNMP) en ziekenhuizen (NVZ) bespreken nog met de overheid of de wettelijke regeling kan worden veranderd.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/vooraankondiging-medicatievoorschriften"/>

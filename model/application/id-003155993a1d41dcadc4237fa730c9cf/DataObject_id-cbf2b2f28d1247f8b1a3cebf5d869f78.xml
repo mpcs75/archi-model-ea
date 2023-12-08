@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medication-Administration"
-    id="id-cbf2b2f28d1247f8b1a3cebf5d869f78"/>
+    id="id-cbf2b2f28d1247f8b1a3cebf5d869f78"
+    documentation="Describes the event of a patient consuming or otherwise being administered a medication. This may be as simple as swallowing a tablet or it may be a long running infusion. Related resources tie this event to the authorizing prescription, and the specific encounter between patient and health care practitioner.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicationadministration.html&#xD;&#xA;&#xD;&#xA;Google translate  - Beschrijft de gebeurtenis waarbij een patiënt een medicijn gebruikt of anderszins krijgt toegediend. Dit kan zo eenvoudig zijn als het doorslikken van een tablet, maar het kan ook een langlopend infuus zijn. Gerelateerde resources koppelen deze gebeurtenis aan het goedgekeurde recept en de specifieke ontmoeting tussen patiënt en zorgverlener."/>

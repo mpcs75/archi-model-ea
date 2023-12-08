@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ConceptMap"
     id="id-7888019764134dcfb2293a9d7ee07e00"
-    documentation="A statement of relationships from one set of concepts to one or more other concepts - either concepts in code systems, or data element/data element concepts, or classes in class models.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/conceptmap.html"/>
+    documentation="A statement of relationships from one set of concepts to one or more other concepts - either concepts in code systems, or data element/data element concepts, or classes in class models.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/conceptmap.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een verklaring van de relaties tussen een set concepten en een of meer andere concepten - concepten in codesystemen, of concepten van data-elementen/data-elementen, of klassen in klassenmodellen."/>

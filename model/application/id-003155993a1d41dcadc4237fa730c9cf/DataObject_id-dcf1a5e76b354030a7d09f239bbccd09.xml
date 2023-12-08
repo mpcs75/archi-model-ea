@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Goal"
-    id="id-dcf1a5e76b354030a7d09f239bbccd09"/>
+    id="id-dcf1a5e76b354030a7d09f239bbccd09"
+    documentation="Describes the intended objective(s) for a patient, group or organization care, for example, weight loss, restoring an activity of daily living, obtaining herd immunity via immunization, meeting a process improvement objective, etc.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/goal.html&#xD;&#xA;&#xD;&#xA;Google translate  - Beschrijft de beoogde doelstelling(en) voor de zorg voor een patiënt, groep of organisatie, bijvoorbeeld gewichtsverlies, het herstellen van een activiteit in het dagelijks leven, het verkrijgen van groepsimmuniteit via immunisatie, het behalen van een procesverbeteringsdoelstelling, enz."/>

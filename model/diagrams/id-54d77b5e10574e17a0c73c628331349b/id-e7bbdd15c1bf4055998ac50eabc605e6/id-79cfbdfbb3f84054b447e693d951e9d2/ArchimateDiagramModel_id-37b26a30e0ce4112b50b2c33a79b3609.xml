@@ -12,10 +12,10 @@
       textPosition="1"
       borderType="1">
     <bounds
-        x="168"
-        y="48"
-        width="95"
-        height="30"/>
+        x="156"
+        y="23"
+        width="120"
+        height="55"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

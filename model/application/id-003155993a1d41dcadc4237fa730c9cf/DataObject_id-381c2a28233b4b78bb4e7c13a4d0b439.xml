@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Questionnaire"
-    id="id-381c2a28233b4b78bb4e7c13a4d0b439"/>
+    id="id-381c2a28233b4b78bb4e7c13a4d0b439"
+    documentation="A structured set of questions intended to guide the collection of answers from end-users. Questionnaires provide detailed control over order, presentation, phraseology and grouping to allow coherent, consistent data collection.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/questionnaire.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>

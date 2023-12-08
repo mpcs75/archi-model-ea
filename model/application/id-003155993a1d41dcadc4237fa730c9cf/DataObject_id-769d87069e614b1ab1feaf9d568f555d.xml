@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GraphDefinition"
     id="id-769d87069e614b1ab1feaf9d568f555d"
-    documentation="A formal computable definition of a graph of resources - that is, a coherent set of resources that form a graph by following references. The Graph Definition resource defines a set and makes rules about the set.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/graphdefinition.html"/>
+    documentation="A formal computable definition of a graph of resources - that is, a coherent set of resources that form a graph by following references. The Graph Definition resource defines a set and makes rules about the set.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/graphdefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een formeel berekenbare definitie van een grafiek met resources, dat wil zeggen een samenhangende reeks resources die een grafiek vormen door verwijzingen te volgen. De GraphDefinition resource definieert een set en maakt regels over de set."/>

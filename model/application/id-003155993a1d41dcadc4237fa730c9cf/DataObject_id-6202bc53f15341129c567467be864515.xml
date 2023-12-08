@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicationDispense"
-    id="id-6202bc53f15341129c567467be864515"/>
+    id="id-6202bc53f15341129c567467be864515"
+    documentation="Indicates that a medication product is to be or has been dispensed for a named person/patient. This includes a description of the medication product (supply) provided and the instructions for administering the medication. The medication dispense is the result of a pharmacy system responding to a medication order.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicationdispense.html&#xD;&#xA;&#xD;&#xA;Google translate  - Geeft aan dat een medicijnproduct zal worden of is verstrekt voor een met name genoemde persoon/patiënt. Hierbij hoort een omschrijving van het geleverde medicijnproduct (levering) en de instructies voor het toedienen van het medicijn. De medicatieafgifte is het resultaat van een apotheeksysteem dat reageert op een medicatiebestelling."/>

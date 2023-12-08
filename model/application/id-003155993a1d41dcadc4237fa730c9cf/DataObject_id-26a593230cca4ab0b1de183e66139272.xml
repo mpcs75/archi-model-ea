@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ResearchSubject"
-    id="id-26a593230cca4ab0b1de183e66139272"/>
+    id="id-26a593230cca4ab0b1de183e66139272"
+    documentation="A physical entity which is the primary unit of operational and/or administrative interest in a study.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/researchsubject.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>

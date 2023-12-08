@@ -143,5 +143,24 @@
         y="84"
         width="565"
         height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-d354196dceee40c49f6dddfadb1a1a8a"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#00b140"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Landelijke &#xD;&#xA;zorginfrastructuren"/>
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="113"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-352e5c085d954e4eba3e71f00501e0fa.xml#id-352e5c085d954e4eba3e71f00501e0fa"/>
+    </children>
   </children>
 </archimate:SketchModel>

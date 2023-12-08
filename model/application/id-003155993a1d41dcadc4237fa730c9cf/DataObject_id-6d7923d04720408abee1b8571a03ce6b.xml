@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ValueSet"
     id="id-6d7923d04720408abee1b8571a03ce6b"
-    documentation="A ValueSet resource instance specifies a set of codes drawn from one or more code systems, intended for use in a particular context. Value sets link between CodeSystem definitions and their use in coded elements.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/valueset.html"/>
+    documentation="A ValueSet resource instance specifies a set of codes drawn from one or more code systems, intended for use in a particular context. Value sets link between CodeSystem definitions and their use in coded elements.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/valueset.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Observation"
-    id="id-de6dc85c23ae4c70b5df7f534e89080d"/>
+    id="id-de6dc85c23ae4c70b5df7f534e89080d"
+    documentation="Measurements and simple assertions made about a patient, device or other subject.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/observation.html&#xD;&#xA;&#xD;&#xA;Google translate  - Metingen en eenvoudige beweringen over een patiënt, apparaat of ander onderwerp."/>

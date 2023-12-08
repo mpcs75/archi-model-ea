@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FamilyMemberHistory"
-    id="id-f69b52bfda56494b8fb48859852d8640"/>
+    id="id-f69b52bfda56494b8fb48859852d8640"
+    documentation="Significant health conditions for a person related to the patient relevant in the context of care for the patient.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/familymemberhistory.html&#xD;&#xA;&#xD;&#xA;Google translate  - Significante gezondheidsproblemen van een aan de patiënt gerelateerde persoon die relevant zijn in de context van de zorg voor de patiënt."/>

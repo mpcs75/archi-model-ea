@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductContraindication"
-    id="id-ef1bafddec7b4da9ba359682a8b748c0"/>
+    id="id-ef1bafddec7b4da9ba359682a8b748c0"
+    documentation="The clinical particulars - indications, contraindications etc. of a medicinal product, including for regulatory purposes.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductcontraindication.html&#xD;&#xA;&#xD;&#xA;Google translate  - De klinische gegevens - indicaties, contra-indicaties enz. van een geneesmiddel, ook voor regelgevingsdoeleinden."/>

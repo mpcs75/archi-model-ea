@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Endpoint"
-    id="id-3821169d49004037b4f9a89d69d47174"/>
+    id="id-3821169d49004037b4f9a89d69d47174"
+    documentation="The technical details of an endpoint that can be used for electronic services, such as for web services providing XDS.b or a REST endpoint for another FHIR server. This may include any security context information.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/endpoint.html&#xD;&#xA;&#xD;&#xA;Google translate  - De technische details van een eindpunt dat kan worden gebruikt voor elektronische diensten, zoals voor webservices die XDS.b leveren of een REST-eindpunt voor een andere FHIR-server. Dit kan informatie over de beveiligingscontext omvatten."/>

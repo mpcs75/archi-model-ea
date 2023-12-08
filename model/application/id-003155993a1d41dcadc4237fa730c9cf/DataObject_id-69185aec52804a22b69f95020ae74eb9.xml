@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CommunicationRequest"
-    id="id-69185aec52804a22b69f95020ae74eb9"/>
+    id="id-69185aec52804a22b69f95020ae74eb9"
+    documentation="A request to convey information; e.g. the CDS system proposes that an alert be sent to a responsible provider, the CDS system proposes that the public health agency be notified about a reportable condition.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/communicationrequest.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een verzoek om informatie over te brengen; bijv. het CDS-systeem stelt voor dat er een waarschuwing wordt gestuurd naar een verantwoordelijke aanbieder, het CDS-systeem stelt voor dat de volksgezondheidsinstantie op de hoogte wordt gesteld van een te melden aandoening."/>

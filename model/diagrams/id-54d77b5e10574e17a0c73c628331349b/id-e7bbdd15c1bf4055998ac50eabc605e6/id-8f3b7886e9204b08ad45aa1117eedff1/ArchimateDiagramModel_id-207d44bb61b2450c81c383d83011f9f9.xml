@@ -4292,4 +4292,18 @@
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-3fa1069790774d1d892ea2ed47cff395.xml#id-3fa1069790774d1d892ea2ed47cff395"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-32415fada93f4df5b97b28b4bfb8ecd9"
+      name="WAAROM"
+      fillColor="#ffff00"
+      documentation="Met dit overzicht probeer ik vooral mijn eigen kennis wat FHIR betreft te verbreden. Deze plaat verschilt niet enorm van de gelinkte pagina - wat ik echter met deze plaat kan doen is de elementen hergebruiken in use cases.&#xD;&#xA;Daarnaat zal ik op korte termijn ook alle resources zo veel mogelijk vertalen naar het Nederlands."
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="144"
+        y="12"
+        width="120"
+        height="55"/>
+  </children>
 </archimate:ArchimateDiagramModel>

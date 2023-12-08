@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medication"
-    id="id-c2c627b29b7045f3a713a5e149e978ca"/>
+    id="id-c2c627b29b7045f3a713a5e149e978ca"
+    documentation="This resource is primarily used for the identification and definition of a medication for the purposes of prescribing, dispensing, and administering a medication as well as for making statements about medication use.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medication.html&#xD;&#xA;&#xD;&#xA;Google translate  - Deze resource wordt vooral gebruikt voor het identificeren en definiëren van een medicijn, ten behoeve van het voorschrijven, verstrekken en toedienen van een medicijn en voor het doen van uitspraken over medicijngebruik."/>

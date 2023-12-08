@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MeasureReport"
-    id="id-5fda6a25fcf04dffa1a756fc7096d6d6"/>
+    id="id-5fda6a25fcf04dffa1a756fc7096d6d6"
+    documentation="The MeasureReport resource contains the results of the calculation of a measure; and optionally a reference to the resources involved in that calculation.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/measurereport.html&#xD;&#xA;&#xD;&#xA;Google translate  - De MeasureReport resource bevat de resultaten van de berekening van een measure; en optioneel een verwijzing naar de middelen die bij die berekening betrokken zijn."/>

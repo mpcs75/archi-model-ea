@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Communication"
-    id="id-fb1de65add7f4768851fe6804f968400"/>
+    id="id-fb1de65add7f4768851fe6804f968400"
+    documentation="An occurrence of information being transmitted; e.g. an alert that was sent to a responsible provider, a public health agency that was notified about a reportable condition.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/communication.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een gebeurtenis waarbij informatie wordt verzonden; bijv. een waarschuwing die is verzonden naar een verantwoordelijke aanbieder, een volksgezondheidsinstantie die op de hoogte is gesteld van een te rapporteren aandoening."/>

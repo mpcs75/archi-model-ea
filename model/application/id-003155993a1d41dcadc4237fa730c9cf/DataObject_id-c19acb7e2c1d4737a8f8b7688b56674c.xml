@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AllergyIntolerance"
-    id="id-c19acb7e2c1d4737a8f8b7688b56674c"/>
+    id="id-c19acb7e2c1d4737a8f8b7688b56674c"
+    documentation="Risk of harmful or undesirable, physiological response which is unique to an individual and associated with exposure to a substance.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/allergyintolerance.html&#xD;&#xA;&#xD;&#xA;Google translate  - Risico op een schadelijke of ongewenste, fysiologische reactie die uniek is voor een individu en die verband houdt met blootstelling aan een stof."/>

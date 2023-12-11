@@ -201,7 +201,7 @@
       name="Waar ben ik mee bezig"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
-      documentation="- Nederlandse vertaling toevoegen bij FHIR resource datamodel [v4.0.1] (Applicaties &amp; Data)&#xD;&#xA;- Generieke functies&#xD;&#xA;- Interoperabiliteitsdiensten VZVZ&#xD;&#xA;"
+      documentation="- Eerste beginnetje van &quot;Digitale zorgreis GGZ&quot; use case.&#xD;&#xA;- Nederlandse vertaling toevoegen bij FHIR resource datamodel [v4.0.1] (Applicaties &amp; Data)&#xD;&#xA;- Generieke functies&#xD;&#xA;- Interoperabiliteitsdiensten VZVZ&#xD;&#xA;"
       textPosition="1"
       borderType="1">
     <bounds
@@ -546,18 +546,22 @@
         height="85"/>
   </children>
   <children
-      xsi:type="archimate:SketchModelSticky"
-      id="id-94cedb99ba3a4b51b403e11b742baf74"
-      name="Sticky"
-      font="1|Segoe UI|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="TO DO"
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a364a80bccce4334a0d8e748d337951d"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#a020f0"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="(Digitale) &#xD;&#xA;zorgreis &#xD;&#xA;GGZ"/>
     <bounds
         x="36"
         y="780"
         width="120"
         height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-9c361de804de4aaeb78573ccc02f24d8.xml#id-9c361de804de4aaeb78573ccc02f24d8"/>
   </children>
 </archimate:SketchModel>

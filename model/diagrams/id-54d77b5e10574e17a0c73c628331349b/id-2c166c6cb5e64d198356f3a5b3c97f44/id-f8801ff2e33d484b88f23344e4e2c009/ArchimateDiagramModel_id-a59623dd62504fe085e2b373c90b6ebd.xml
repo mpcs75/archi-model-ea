@@ -1,9 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="01. Europese regels"
-    id="id-a59623dd62504fe085e2b373c90b6ebd"
-    documentation="Algemene wetten gaan niet specifiek over de zorg maar hebben er wel invloed op.&#xD;&#xA;&#xD;&#xA;bron 1: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Wetten: https://wetten.overheid.nl/">
+    name="01. Europese verordeningen en richtlijnen"
+    id="id-a59623dd62504fe085e2b373c90b6ebd">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b372d28c6354cb8a3bab3ed7f01c673"

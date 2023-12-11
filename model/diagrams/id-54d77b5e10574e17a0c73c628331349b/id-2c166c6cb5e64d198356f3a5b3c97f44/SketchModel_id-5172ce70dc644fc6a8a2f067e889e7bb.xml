@@ -146,13 +146,14 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-1fab61519efb463898adbef32e792ad7"
+        targetConnections="id-55e9b1dc1079421caad5fac8b7a27c75"
         font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#83786f"
         textPosition="1">
       <features
           name="labelExpression"
-          value="Europese &#xD;&#xA;regels"/>
+          value="Europese &#xD;&#xA;verordeningen &#xD;&#xA;en richtlijnen"/>
       <bounds
           x="12"
           y="24"
@@ -219,5 +220,29 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-d140aefda03440fcb693c44db25049a5.xml#id-d140aefda03440fcb693c44db25049a5"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-285cd8535ae145a188fcf095ff349889"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Hier volgt nog een afstemming / filtering van de huidige 127 Europese verordeningen en richtlijnen. Vanuit de NORA zal daar idealiter iets van een overkoepelend stuk voor gerealiseerd worden. ">
+    <sourceConnections
+        id="id-55e9b1dc1079421caad5fac8b7a27c75"
+        source="id-285cd8535ae145a188fcf095ff349889"
+        target="id-1fab61519efb463898adbef32e792ad7">
+      <bendpoints
+          startX="-204"
+          startY="-6"
+          endX="-12"
+          endY="161"/>
+    </sourceConnections>
+    <bounds
+        x="102"
+        y="288"
+        width="385"
+        height="61"/>
   </children>
 </archimate:SketchModel>

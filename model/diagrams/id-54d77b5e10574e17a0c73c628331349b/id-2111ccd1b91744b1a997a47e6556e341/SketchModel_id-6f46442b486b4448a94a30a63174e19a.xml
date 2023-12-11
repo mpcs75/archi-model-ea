@@ -134,7 +134,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-8918543aeb8647c5ba0993182fe116a0"
-      name="Referentie materiaal"
+      name="Referentie materiaal (GGZ)"
       textAlignment="1"
       fillColor="#ffffff"
       borderType="1">
@@ -164,6 +164,38 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
+        id="id-ee8acc17e93b40e28d787173b55629f1"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#44bfea"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Toepassing &#xD;&#xA;e-health&#xD;&#xA;GGZ"/>
+      <bounds
+          x="144"
+          y="24"
+          width="120"
+          height="109"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-9e5d0995ee264234863470c0c70f6a42.xml#id-9e5d0995ee264234863470c0c70f6a42"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-c3c4c774c48e4d19836442d789a3c066"
+      name="Referentie materiaal (Overig)"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="12"
+        y="258"
+        width="565"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
         id="id-4b535d0114904692a53ddd710adb8117"
         targetConnections="id-d676531de5ee4e68bfcf74b1604d336a"
         font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
@@ -174,7 +206,7 @@
           name="labelExpression"
           value="Referentie&#xD;&#xA;Domeinmodel&#xD;&#xA;Care (RDC)"/>
       <bounds
-          x="144"
+          x="12"
           y="24"
           width="120"
           height="109"/>
@@ -190,7 +222,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Nog niet helemaal uitgewerkt">
+      content="Slechts een klein stukje uitgewerkt">
     <sourceConnections
         id="id-d676531de5ee4e68bfcf74b1604d336a"
         source="id-b0611d63c1eb45fdaefbc12ca9d41d0d"
@@ -201,8 +233,8 @@
           endY="114"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="252"
+        x="108"
+        y="432"
         width="135"
         height="50"/>
   </children>

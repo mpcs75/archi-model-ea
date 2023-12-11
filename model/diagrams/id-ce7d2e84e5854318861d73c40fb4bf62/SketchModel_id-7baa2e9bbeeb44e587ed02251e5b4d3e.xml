@@ -186,7 +186,7 @@
       name="Wat is klaar"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
-      documentation="6-12-2023&#xD;&#xA;- FHIR resource datamodel [v4.0.1] ingevuld (Applicaties &amp; Data)&#xD;&#xA;&#xD;&#xA;17-11-2023&#xD;&#xA;- Applicatiefuncties toegevoegd (Applicatie &amp; Data)&#xD;&#xA;- Generieke functies toegevoegd maar nog bezig met details (Motivatie &amp; Strategie)&#xD;&#xA;&#xD;&#xA;16-11-2023&#xD;&#xA;- Alle wetten toegevoegd die ik tot nu toe kon bedenken (Wet- en regelgeving)&#xD;&#xA;- Alle voor mij bekende normen toegevoegd (Beveiliging)&#xD;&#xA;- NEN 7510 wat verder uitgewerkt (Relaties)&#xD;&#xA;&#xD;&#xA;15-11-2023&#xD;&#xA;- BMC gevuld&#xD;&#xA;- Dashboard aangepast&#xD;&#xA;&#xD;&#xA;27 -10-2023&#xD;&#xA;- Een beginnetje gemaakt met het toevoegen van wetten&#xD;&#xA;- Een inhoudspagina gemaakt voor alle referentiemodellen.&#xD;&#xA;- Het enkele tegeltje &quot;Waarom deze publicatie&quot; vervangen door een Business Model Canvas (moet ik nog vullen)&#xD;&#xA;&#xD;&#xA;20 -10-2023&#xD;&#xA;- Eerste mappings tussen het RDG (Organisatie &amp; Processen) en de ZIB 2020 (Informatie)&#xD;&#xA;- Links toegevoegd naar informatiestandaarden (Informatie)&#xD;&#xA;&#xD;&#xA;17 -10-2023&#xD;&#xA;- De ZIB 2020 set onder &quot;Informatie&quot; is volledig ingevoerd.&#xD;&#xA;&#xD;&#xA;13-10-2023&#xD;&#xA;- FHIR resources toegevoegd aan &quot;Applicaties &amp; Data&quot;&#xD;&#xA;- Beginnetje gemaakt met Zibs 2020 onder &quot;Informatie&quot;&#xD;&#xA;&#xD;&#xA;10-10-23&#xD;&#xA;- Dashboard gemaakt&#xD;&#xA;- Structuur aangebracht in het model&#xD;&#xA;- RDG toegevoegd&#xD;&#xA;- IZA analyse toegevoegd&#xD;&#xA;- NVS analyse toegevoegd&#xD;&#xA;- Een aantal archimate voorbeelden toegevoegd"
+      documentation="11-12-2023&#xD;&#xA;- Toepassing e-health GGZ (Organisatie &amp; Processen)&#xD;&#xA;&#xD;&#xA;6-12-2023&#xD;&#xA;- FHIR resource datamodel [v4.0.1] ingevuld (Applicaties &amp; Data)&#xD;&#xA;&#xD;&#xA;17-11-2023&#xD;&#xA;- Applicatiefuncties toegevoegd (Applicatie &amp; Data)&#xD;&#xA;- Generieke functies toegevoegd maar nog bezig met details (Motivatie &amp; Strategie)&#xD;&#xA;&#xD;&#xA;16-11-2023&#xD;&#xA;- Alle wetten toegevoegd die ik tot nu toe kon bedenken (Wet- en regelgeving)&#xD;&#xA;- Alle voor mij bekende normen toegevoegd (Beveiliging)&#xD;&#xA;- NEN 7510 wat verder uitgewerkt (Relaties)&#xD;&#xA;&#xD;&#xA;15-11-2023&#xD;&#xA;- BMC gevuld&#xD;&#xA;- Dashboard aangepast&#xD;&#xA;&#xD;&#xA;27 -10-2023&#xD;&#xA;- Een beginnetje gemaakt met het toevoegen van wetten&#xD;&#xA;- Een inhoudspagina gemaakt voor alle referentiemodellen.&#xD;&#xA;- Het enkele tegeltje &quot;Waarom deze publicatie&quot; vervangen door een Business Model Canvas (moet ik nog vullen)&#xD;&#xA;&#xD;&#xA;20 -10-2023&#xD;&#xA;- Eerste mappings tussen het RDG (Organisatie &amp; Processen) en de ZIB 2020 (Informatie)&#xD;&#xA;- Links toegevoegd naar informatiestandaarden (Informatie)&#xD;&#xA;&#xD;&#xA;17 -10-2023&#xD;&#xA;- De ZIB 2020 set onder &quot;Informatie&quot; is volledig ingevoerd.&#xD;&#xA;&#xD;&#xA;13-10-2023&#xD;&#xA;- FHIR resources toegevoegd aan &quot;Applicaties &amp; Data&quot;&#xD;&#xA;- Beginnetje gemaakt met Zibs 2020 onder &quot;Informatie&quot;&#xD;&#xA;&#xD;&#xA;10-10-23&#xD;&#xA;- Dashboard gemaakt&#xD;&#xA;- Structuur aangebracht in het model&#xD;&#xA;- RDG toegevoegd&#xD;&#xA;- IZA analyse toegevoegd&#xD;&#xA;- NVS analyse toegevoegd&#xD;&#xA;- Een aantal archimate voorbeelden toegevoegd"
       textPosition="1"
       borderType="1">
     <bounds
@@ -216,7 +216,7 @@
       name="Wat wil ik (ooit) nog graag"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
-      documentation="- eHealth zorgreis vanuit het perspectief van een persoon.&#xD;&#xA;- Interoperabiliteitsdiensten overig&#xD;&#xA;- ZIRA&#xD;&#xA;- RDC&#xD;&#xA;- DIZRA&#xD;&#xA;- Use Cases&#xD;&#xA;- Gelaadge modellen (vanuit specifieke gezichtspunten)&#xD;&#xA;- Hoofstukken uit NEN 7510 benoemen"
+      documentation="- Interoperabiliteitsdiensten overig&#xD;&#xA;- ZIRA&#xD;&#xA;- RDC&#xD;&#xA;- DIZRA&#xD;&#xA;- Use Cases&#xD;&#xA;- Gelaadge modellen (vanuit specifieke gezichtspunten)&#xD;&#xA;- Hoofstukken uit NEN 7510 benoemen"
       textPosition="1"
       borderType="1">
     <bounds
@@ -440,7 +440,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffff"
       alpha="0"
-      content="2"
+      content="3"
       textPosition="1">
     <features
         name="lineAlpha"

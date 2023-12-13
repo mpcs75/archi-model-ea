@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15. Inzien opvragingen van gegevens via LSP"
+    id="id-09a7d3025634483aa5dd980a394eace5"
+    documentation="Een cliënt kan via volgenzorg.nl zien wie zijn/haar medische gegevens via het Landelijk Schakelpunt heft opgevraagd.">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ee85fffd0f144b79a727ac14ae1d5a8a"
+      content="Wordt z.s.m. uitgewerkt"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="156"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-c0521370fb8049e4a4854bda1497fdc9"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Use Cases &#xD;&#xA;Gegevensdiensten VZVZ"/>
+    <bounds
+        x="12"
+        y="12"
+        width="169"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
+  </children>
+</archimate:ArchimateDiagramModel>

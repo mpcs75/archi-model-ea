@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04. ICA-gegevens opvragen"
+    id="id-6a70fc01d04342bdacb9bb3c9c6e3d05"
+    documentation="ICA-gegevens opvragen bij andere zorgaanbieders.">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d9a5fcf08ec74d9cbd2ef6be9a32e213"
+      content="Wordt z.s.m. uitgewerkt"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="156"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-61f647b9b76b4cabbb0056a6765ee631"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Use Cases &#xD;&#xA;Gegevensdiensten VZVZ"/>
+    <bounds
+        x="12"
+        y="12"
+        width="169"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -201,7 +201,7 @@
       name="Waar ben ik mee bezig"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
-      documentation="- Eerste beginnetje van &quot;Digitale zorgreis GGZ&quot; use case.&#xD;&#xA;- Nederlandse vertaling toevoegen bij FHIR resource datamodel [v4.0.1] (Applicaties &amp; Data)&#xD;&#xA;- Generieke functies&#xD;&#xA;- Interoperabiliteitsdiensten VZVZ&#xD;&#xA;"
+      documentation="- Use Cases Gegevensdiensten VZVZ&#xD;&#xA;- Eerste beginnetje van &quot;Digitale zorgreis GGZ&quot; use case.&#xD;&#xA;- Nederlandse vertaling toevoegen bij FHIR resource datamodel [v4.0.1] (Applicaties &amp; Data)&#xD;&#xA;- Generieke functies&#xD;&#xA;"
       textPosition="1"
       borderType="1">
     <bounds
@@ -216,7 +216,7 @@
       name="Wat wil ik (ooit) nog graag"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
-      documentation="- Interoperabiliteitsdiensten overig&#xD;&#xA;- ZIRA&#xD;&#xA;- RDC&#xD;&#xA;- DIZRA&#xD;&#xA;- Use Cases&#xD;&#xA;- Gelaadge modellen (vanuit specifieke gezichtspunten)&#xD;&#xA;- Hoofstukken uit NEN 7510 benoemen"
+      documentation="- Interoperabiliteitsdiensten overig&#xD;&#xA;- Afsprakenstelsels&#xD;&#xA;- ZIRA&#xD;&#xA;- RDC&#xD;&#xA;- DIZRA&#xD;&#xA;- Use Cases&#xD;&#xA;- Gelaadge modellen (vanuit specifieke gezichtspunten)&#xD;&#xA;- Hoofstukken uit NEN 7510 benoemen"
       textPosition="1"
       borderType="1">
     <bounds
@@ -563,5 +563,24 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-9c361de804de4aaeb78573ccc02f24d8.xml#id-9c361de804de4aaeb78573ccc02f24d8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-ce6cb8cff47a4b2c87ef0b427056c0de"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#a020f0"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Use Cases &#xD;&#xA;Gegevensdiensten&#xD;&#xA;VZVZ"/>
+    <bounds
+        x="168"
+        y="780"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
   </children>
 </archimate:SketchModel>

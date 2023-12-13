@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="09. Eigen gegevens opvragen"
+    id="id-ebe26394fae6485f87c9962871b6185f"
+    documentation="Via een Persoonlijke Gezondheidsomgeving (PGO) kan de cliënt gegevens bij zijn zorgverlener opvragen.">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-54a7fafac578429197722a2cc5f6fa7c"
+      content="Wordt z.s.m. uitgewerkt"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="156"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-41bfb3db1b3442d58a1b322e1e7e4751"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Use Cases &#xD;&#xA;Gegevensdiensten VZVZ"/>
+    <bounds
+        x="12"
+        y="12"
+        width="169"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
+  </children>
+</archimate:ArchimateDiagramModel>

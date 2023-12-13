@@ -67,8 +67,8 @@
             width="120"
             height="80"/>
         <archimateElement
-            xsi:type="archimate:TechnologyService"
-            href="TechnologyService_id-b9d40768e9624cafa3c2cd2fad0cd926.xml#id-b9d40768e9624cafa3c2cd2fad0cd926"/>
+            xsi:type="archimate:CommunicationNetwork"
+            href="CommunicationNetwork_id-2fb9416e04ef4f93854bcb3d1f96878a.xml#id-2fb9416e04ef4f93854bcb3d1f96878a"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"

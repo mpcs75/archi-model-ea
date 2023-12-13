@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11. Zelf toestemmingen vastleggen, wijzigen, en intrekken"
+    id="id-761f2bd320ab4205b6c224e5c644669f"
+    documentation="De cliënt kan zelf in Mitz zijn toestemmingen vastleggen, wijzigen en intrekken.">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a6eee6482b014ce2a6fd2d902a6b0a30"
+      content="Wordt z.s.m. uitgewerkt"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="156"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-3b1ee5b0ae29466e989333a48fd3a4ff"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Use Cases &#xD;&#xA;Gegevensdiensten VZVZ"/>
+    <bounds
+        x="12"
+        y="12"
+        width="169"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
+  </children>
+</archimate:ArchimateDiagramModel>

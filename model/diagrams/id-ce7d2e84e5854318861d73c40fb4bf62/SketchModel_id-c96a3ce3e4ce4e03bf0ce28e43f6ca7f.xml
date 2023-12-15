@@ -84,7 +84,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-a42223002b444a838c523fe1a7913f1f"
-        name="Applicaties &amp; Data"
+        name="Applicaties &amp; Gegevens"
         targetConnections="id-6fd3cdd15efb436ea4b5341db1b851f8"
         font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
@@ -94,7 +94,7 @@
         borderType="1">
       <features
           name="labelExpression"
-          value="Applicaties &amp; Data"/>
+          value="Applicaties &amp; Gegevens"/>
       <bounds
           x="24"
           y="300"
@@ -248,16 +248,15 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-bdfd32e90b604f2a9e7889a7b46ed658"
-        name="Koppelen (point to point)"
+        name="Koppelen (systemen)"
         font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#97be0d"
         fillColor="#ffffff"
-        documentation="- Het leggen van Koppelingen direct van de ene applicatie naar de andere met als doel gegevens te delen."
         textPosition="1"
         borderType="1">
       <features
           name="labelExpression"
-          value="Koppelen &#xD;&#xA;(point to point)"/>
+          value="Koppelen &#xD;&#xA;(systemen)"/>
       <sourceConnections
           id="id-6fd3cdd15efb436ea4b5341db1b851f8"
           font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
@@ -287,12 +286,11 @@
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#00b140"
         fillColor="#ffffff"
-        documentation="- Het leggen van Koppelingen tussen applicaties via een medium met als doel gegevens te delen. Het gaat daarbij om het uitwisselen van informatie - niet persé de overdracht van gegevens van het ene systeem naar het andere. Gegevens kunnen hier in veel gevallen prima bij de bron blijven."
         textPosition="1"
         borderType="1">
       <features
           name="labelExpression"
-          value="Koppelen &#xD;&#xA; (via een gemeenschappelijke voorziening)"/>
+          value="Koppelen &#xD;&#xA; (infra)"/>
       <sourceConnections
           id="id-56b59ef9d5564f899e4b4ea81df42890"
           font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
@@ -354,7 +352,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-3852416350d54454951694c7cd8363d7"
-        name="(Zorg)processen"
+        name="Organisatie &amp; Processen"
         targetConnections="id-e1886220720e4a6aa9ea427c10641539"
         font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
@@ -363,7 +361,7 @@
         borderType="1">
       <features
           name="labelExpression"
-          value="(Zorg)processen"/>
+          value="Organisatie &amp; Processen"/>
       <bounds
           x="24"
           y="108"
@@ -392,7 +390,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-726970224f1d4e68a8ec2755b8ef0732"
-        name="Applicatie"
+        name="Applicaties &amp; Gegevens"
         targetConnections="id-c69d36ee64cd419e8b3befb7192dcd93"
         font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
@@ -401,7 +399,7 @@
         borderType="1">
       <features
           name="labelExpression"
-          value="Applicaties"/>
+          value="Applicaties &amp; Gegevens"/>
       <bounds
           x="24"
           y="300"

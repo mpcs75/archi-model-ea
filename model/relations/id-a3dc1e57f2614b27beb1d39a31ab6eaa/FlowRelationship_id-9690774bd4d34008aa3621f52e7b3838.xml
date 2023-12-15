@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICA gegevens"
+    id="id-9690774bd4d34008aa3621f52e7b3838">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-76cab60321024bffbaf203a00dac9586.xml#id-76cab60321024bffbaf203a00dac9586"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-899e3740d5064b98b3303eac79fde8ef.xml#id-899e3740d5064b98b3303eac79fde8ef"/>
+</archimate:FlowRelationship>

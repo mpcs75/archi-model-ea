@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="medicatie en ICA gegevens"
+    id="id-ca1155e55f164713b45c16af23a52144">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0976e787345e4aef82a15f52bb8ac6eb.xml#id-0976e787345e4aef82a15f52bb8ac6eb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-72e49640d3d54bf4a6e1d5ebf3bafa62.xml#id-72e49640d3d54bf4a6e1d5ebf3bafa62"/>
+</archimate:FlowRelationship>

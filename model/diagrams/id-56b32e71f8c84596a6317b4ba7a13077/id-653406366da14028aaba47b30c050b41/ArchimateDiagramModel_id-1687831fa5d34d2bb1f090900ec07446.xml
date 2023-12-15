@@ -5,19 +5,8 @@
     id="id-1687831fa5d34d2bb1f090900ec07446"
     documentation="Verstrekte medicatie opvragen bij andere zorgaanbieders.">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-7717d3b706f8495dbaeed0b3ae981501"
-      content="Wordt z.s.m. uitgewerkt"
-      textPosition="1">
-    <bounds
-        x="190"
-        y="166"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-547a355c4c374a37b4d16ae35788a557"
+      id="id-8a9648e3508d4ac79292a4f50dfb6e58"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#dcebeb"
       textPosition="1">
@@ -25,12 +14,371 @@
         name="labelExpression"
         value="Use Cases &#xD;&#xA;Gegevensdiensten VZVZ"/>
     <bounds
-        x="22"
-        y="22"
+        x="24"
+        y="24"
         width="169"
         height="55"/>
     <referencedModel
         xsi:type="archimate:SketchModel"
         href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fba1ace5ba714ced984d7065fb6f570b"
+      targetConnections="id-dc9c8cbdf46f45179434cf943fcbfd23 id-d8d6f7545ddc44ccbd9611a37758192b id-31ce291856d8484aab741e3b7cd072f9"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-114c1885f4844063a23499aa78ae2a17"
+        textAlignment="1"
+        textPosition="0"
+        source="id-fba1ace5ba714ced984d7065fb6f570b"
+        target="id-46cce62805e342fdbbeec16ae366a378">
+      <features
+          name="labelExpression"
+          value="verstrekte &#xD;&#xA;medicatie"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-1b23bc4e5b61452ca82294ca03b4f252.xml#id-1b23bc4e5b61452ca82294ca03b4f252"/>
+    </sourceConnections>
+    <bounds
+        x="492"
+        y="516"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-92c50cfcbaea4771b138299aa50a408f.xml#id-92c50cfcbaea4771b138299aa50a408f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-08c1debde898445885559cbb319512b4"
+      textPosition="1">
+    <sourceConnections
+        id="id-e34fcaec148d4917add63f8889c124c6"
+        source="id-08c1debde898445885559cbb319512b4"
+        target="id-3d5db434589445c7888d583b96d0c2fd"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d8d6f7545ddc44ccbd9611a37758192b"
+        source="id-08c1debde898445885559cbb319512b4"
+        target="id-fba1ace5ba714ced984d7065fb6f570b">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-48baf505ab6c4e54bcecddb201b8b881.xml#id-48baf505ab6c4e54bcecddb201b8b881"/>
+    </sourceConnections>
+    <bounds
+        x="492"
+        y="672"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:CommunicationNetwork"
+        href="CommunicationNetwork_id-2fb9416e04ef4f93854bcb3d1f96878a.xml#id-2fb9416e04ef4f93854bcb3d1f96878a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3bd54bc2c5b14516b1c8a53f08f09fe4"
+      targetConnections="id-b9583fe7d53a47c5ad3aa1174b77229d id-c83f14bc299145d28a69d771dbc4a6ac"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Zorgaanbieder-&#xD;&#xA;systeem A"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-31ce291856d8484aab741e3b7cd072f9"
+        textPosition="0"
+        source="id-3bd54bc2c5b14516b1c8a53f08f09fe4"
+        target="id-fba1ace5ba714ced984d7065fb6f570b">
+      <features
+          name="labelExpression"
+          value="verstrekte &#xD;&#xA;medicatie"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-2fb9a499d7c4458eb5a0a23badbdb051.xml#id-2fb9a499d7c4458eb5a0a23badbdb051"/>
+    </sourceConnections>
+    <bounds
+        x="216"
+        y="516"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-41eb8355fb0a4ada9740b4dc618cec49.xml#id-41eb8355fb0a4ada9740b4dc618cec49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-345d1f1401ce44a4ac750567ec6cf882"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c83f14bc299145d28a69d771dbc4a6ac"
+        textAlignment="1"
+        textPosition="0"
+        source="id-345d1f1401ce44a4ac750567ec6cf882"
+        target="id-3bd54bc2c5b14516b1c8a53f08f09fe4">
+      <features
+          name="labelExpression"
+          value="verstrekte &#xD;&#xA;medicatie"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-389ec4ca6696434f9af0185ff04270ae.xml#id-389ec4ca6696434f9af0185ff04270ae"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-636e01d72c184223a2cd5379d315d33d"
+        textPosition="0"
+        source="id-345d1f1401ce44a4ac750567ec6cf882"
+        target="id-532168c5c67d4e83b62154210716ca92">
+      <bendpoints
+          startX="240"
+          startY="-16"
+          endX="-36"
+          endY="116"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-bf4c1cfde8c44921b24d1272204a8359.xml#id-bf4c1cfde8c44921b24d1272204a8359"/>
+    </sourceConnections>
+    <bounds
+        x="216"
+        y="276"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-38d3fe27b0b045b0ae4a1779747f8f7f.xml#id-38d3fe27b0b045b0ae4a1779747f8f7f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3d5db434589445c7888d583b96d0c2fd"
+      name="!"
+      targetConnections="id-e34fcaec148d4917add63f8889c124c6"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#a020f0"
+      documentation="In het Landelijk Schakelpunt worden geen medische gegevens opgeslagen. Die gegevens blijven gewoon waar ze al stonden: in de computersystemen van je zorgaanbieders. Het Landelijk Schakelpunt bevat alleen een verwijsindex met burgerservicenummers (BSN's). Aan de hand van je BSN kan je zorgaanbieder via deze verwijsindex zoeken welke andere zorgaanbieders medische gegevens over jou delen. "
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="357"
+        y="691"
+        width="37"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-532168c5c67d4e83b62154210716ca92"
+      targetConnections="id-226c175f31ef4a16a7fca3e0eb9ef04a id-88f63f65af0b42cf88258f947e5091c2 id-636e01d72c184223a2cd5379d315d33d"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1f34acfdb5004877990e16559c4f4e78"
+        textPosition="2"
+        source="id-532168c5c67d4e83b62154210716ca92"
+        target="id-182a624b12504f8d9deac8deab26f7ad">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-ca48e6f8f0d846d0bb3084fc8842bee4.xml#id-ca48e6f8f0d846d0bb3084fc8842bee4"/>
+    </sourceConnections>
+    <bounds
+        x="492"
+        y="144"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-c3685612f2374700b1c816d1a7a3be55.xml#id-c3685612f2374700b1c816d1a7a3be55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-46cce62805e342fdbbeec16ae366a378"
+      targetConnections="id-114c1885f4844063a23499aa78ae2a17 id-f698e04ee2a04aefb5552cfe8d363960"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Zorgaanbieder-&#xD;&#xA;systeem B"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e2fe3b10ae604d4abf9b1cfe6d9cb2c2"
+        textAlignment="1"
+        textPosition="0"
+        source="id-46cce62805e342fdbbeec16ae366a378"
+        target="id-852178c894f142aa8d0d85a0e8999398">
+      <features
+          name="labelExpression"
+          value="verstrekte &#xD;&#xA;medicatie"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-b417c101fb324328a0970f934e06b2be.xml#id-b417c101fb324328a0970f934e06b2be"/>
+    </sourceConnections>
+    <bounds
+        x="768"
+        y="516"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-76cab60321024bffbaf203a00dac9586.xml#id-76cab60321024bffbaf203a00dac9586"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-852178c894f142aa8d0d85a0e8999398"
+      targetConnections="id-f06ef3a4a942443fa0987899e5666ce5 id-e2fe3b10ae604d4abf9b1cfe6d9cb2c2 id-87f3c5562e414eaab4965423a33c9911"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-226c175f31ef4a16a7fca3e0eb9ef04a"
+        textPosition="0"
+        source="id-852178c894f142aa8d0d85a0e8999398"
+        target="id-532168c5c67d4e83b62154210716ca92">
+      <bendpoints
+          startX="-240"
+          startY="-16"
+          endX="36"
+          endY="116"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-f7a1ab12bb8a4f05a24a4de6cf9e1ceb.xml#id-f7a1ab12bb8a4f05a24a4de6cf9e1ceb"/>
+    </sourceConnections>
+    <bounds
+        x="768"
+        y="276"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-899e3740d5064b98b3303eac79fde8ef.xml#id-899e3740d5064b98b3303eac79fde8ef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1fba96dde0224d629adf56e76af8c138"
+      name="!"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#a020f0"
+      documentation="- Het zorgaanbiedersysteem moet de noodakelijke functionaliteit bevatten om de gegevens via het LSP te kunnen verwerken.&#xD;&#xA;- Dit kan/mag enkel wanneer de patiënt/cliënt daar uitdrukkelijk toestemming voor heeft gegeven. "
+      textPosition="1"
+      borderType="1">
+    <sourceConnections
+        id="id-b9583fe7d53a47c5ad3aa1174b77229d"
+        source="id-1fba96dde0224d629adf56e76af8c138"
+        target="id-3bd54bc2c5b14516b1c8a53f08f09fe4"/>
+    <bounds
+        x="120"
+        y="537"
+        width="37"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8fd57fef8ffa462ea026f68570b444b3"
+      font="1|Leelawadee|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Leelawadee"
+      textAlignment="1"
+      content="Als Zorgaanbieder  B kan ik via het LSP verstrekte medicatie opvragen bij andere zorgaanbieders."
+      textPosition="1"
+      borderType="1">
+    <sourceConnections
+        id="id-f06ef3a4a942443fa0987899e5666ce5"
+        source="id-8fd57fef8ffa462ea026f68570b444b3"
+        target="id-852178c894f142aa8d0d85a0e8999398">
+      <bendpoints
+          startX="-66"
+          startY="108"
+          endX="120"
+          endY="-4"/>
+    </sourceConnections>
+    <bounds
+        x="816"
+        y="168"
+        width="373"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6d767247530b4d32b6f681e9e3a55c9e"
+      name="!"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#a020f0"
+      documentation="- Het zorgaanbiedersysteem moet de noodakelijke functionaliteit bevatten om de gegevens via het LSP te kunnen verwerken.&#xD;&#xA;- Dit kan/mag enkel wanneer de patiënt/cliënt daar uitdrukkelijk toestemming voor heeft gegeven. &#xD;&#xA;- Dit kan enkel wanneer andere zorgaanbieders de gegevens beschikbaar hebben gesteld."
+      textPosition="1"
+      borderType="1">
+    <sourceConnections
+        id="id-f698e04ee2a04aefb5552cfe8d363960"
+        source="id-6d767247530b4d32b6f681e9e3a55c9e"
+        target="id-46cce62805e342fdbbeec16ae366a378"/>
+    <bounds
+        x="960"
+        y="537"
+        width="37"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-182a624b12504f8d9deac8deab26f7ad"
+      targetConnections="id-1f34acfdb5004877990e16559c4f4e78"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-dc9c8cbdf46f45179434cf943fcbfd23"
+        textPosition="2"
+        source="id-182a624b12504f8d9deac8deab26f7ad"
+        target="id-fba1ace5ba714ced984d7065fb6f570b">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-d94c2ee1f79b47529082ebf48be8f08c.xml#id-d94c2ee1f79b47529082ebf48be8f08c"/>
+    </sourceConnections>
+    <bounds
+        x="492"
+        y="372"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-a92c47d09d2440a09a000e0deee4f511.xml#id-a92c47d09d2440a09a000e0deee4f511"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9d4ed455cb404b3f814d1c29605026a0"
+      font="1|Leelawadee|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Leelawadee"
+      textAlignment="1"
+      content="Als patiënt/cliënt moet ik uitdrukkelijke toestemming hebben gegeven voordat de gegevens opgevraagd kunnen worden."
+      textPosition="1"
+      borderType="1">
+    <sourceConnections
+        id="id-88f63f65af0b42cf88258f947e5091c2"
+        source="id-9d4ed455cb404b3f814d1c29605026a0"
+        target="id-532168c5c67d4e83b62154210716ca92">
+      <bendpoints
+          startX="-138"
+          startY="84"
+          endX="96"
+          endY="-16"/>
+    </sourceConnections>
+    <bounds
+        x="588"
+        y="60"
+        width="433"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-8d9578fc768046d4a430d5cf882065c8"
+      name="!"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#a020f0"
+      documentation="Dit mag alleen als het nodig is voor de behandeling van de patiënt."
+      textPosition="1"
+      borderType="1">
+    <sourceConnections
+        id="id-87f3c5562e414eaab4965423a33c9911"
+        source="id-8d9578fc768046d4a430d5cf882065c8"
+        target="id-852178c894f142aa8d0d85a0e8999398"/>
+    <bounds
+        x="960"
+        y="324"
+        width="37"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

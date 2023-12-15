@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Coverage"
     id="id-bb65554f92104743b5a441af752fced6"
-    documentation="Financial instrument which may be used to reimburse or pay for health care products and services. Includes both insurance and self-payment.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/coverage.html&#xD;&#xA;&#xD;&#xA;Google translate  - Financieel instrument dat kan worden gebruikt om gezondheidszorgproducten en -diensten terug te betalen of te betalen. Inclusief zowel verzekering als eigen betaling."/>
+    documentation="Financial instrument which may be used to reimburse or pay for health care products and services. Includes both insurance and self-payment.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/coverage.html"/>

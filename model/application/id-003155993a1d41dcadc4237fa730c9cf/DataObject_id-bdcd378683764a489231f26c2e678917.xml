@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Library"
     id="id-bdcd378683764a489231f26c2e678917"
-    documentation="The Library resource is a general-purpose container for knowledge asset definitions. It can be used to describe and expose existing knowledge assets such as logic libraries and information model descriptions, as well as to describe a collection of knowledge assets.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/library.html&#xD;&#xA;&#xD;&#xA;Google translate  - De Library resource is een container voor algemeen gebruik voor definities van kennismiddelen. Het kan worden gebruikt om bestaande kennismiddelen, zoals logische bibliotheken en beschrijvingen van informatiemodellen, te beschrijven en bloot te leggen, maar ook om een ​​verzameling kennismiddelen te beschrijven."/>
+    documentation="The Library resource is a general-purpose container for knowledge asset definitions. It can be used to describe and expose existing knowledge assets such as logic libraries and information model descriptions, as well as to describe a collection of knowledge assets.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/library.html"/>

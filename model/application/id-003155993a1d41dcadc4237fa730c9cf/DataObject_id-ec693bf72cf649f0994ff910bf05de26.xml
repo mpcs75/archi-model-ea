@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BiologicallyDerivedProduct"
     id="id-ec693bf72cf649f0994ff910bf05de26"
-    documentation="A material substance originating from a biological entity intended to be transplanted or infused into another (possibly the same) biological entity.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/biologicallyderivedproduct.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een materiële substantie afkomstig van een biologische entiteit die bedoeld is om te worden getransplanteerd of geïnfuseerd in een andere (mogelijk dezelfde) biologische entiteit."/>
+    documentation="A material substance originating from a biological entity intended to be transplanted or infused into another (possibly the same) biological entity.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/biologicallyderivedproduct.html"/>

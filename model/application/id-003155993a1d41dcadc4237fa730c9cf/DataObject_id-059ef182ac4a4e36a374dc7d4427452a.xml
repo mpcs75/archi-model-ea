@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicationKnowledge"
     id="id-059ef182ac4a4e36a374dc7d4427452a"
-    documentation="Information about a medication that is used to support knowledge.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicationknowledge.html&#xD;&#xA;&#xD;&#xA;Google translate  - Informatie over een medicijn dat wordt gebruikt ter ondersteuning van de kennis."/>
+    documentation="Information about a medication that is used to support knowledge.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicationknowledge.html"/>

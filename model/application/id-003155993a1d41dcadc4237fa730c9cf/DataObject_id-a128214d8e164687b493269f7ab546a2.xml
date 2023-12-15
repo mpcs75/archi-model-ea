@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Immunization"
     id="id-a128214d8e164687b493269f7ab546a2"
-    documentation="Describes the event of a patient being administered a vaccine or a record of an immunization as reported by a patient, a clinician or another party.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunization.html&#xD;&#xA;&#xD;&#xA;Google translate  - Beschrijft de gebeurtenis waarbij aan een patiënt een vaccin wordt toegediend of een registratie van een immunisatie zoals gerapporteerd door een patiënt, een arts of een andere partij."/>
+    documentation="Describes the event of a patient being administered a vaccine or a record of an immunization as reported by a patient, a clinician or another party.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunization.html"/>

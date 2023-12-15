@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CompartmentDefinition"
     id="id-9607b135a15d48b4a202d9e85c83e239"
-    documentation="A compartment definition that defines how resources are accessed on a server.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/compartmentdefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een compartimentdefinitie die definieert hoe resources worden benaderd op een server."/>
+    documentation="A compartment definition that defines how resources are accessed on a server.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/compartmentdefinition.html"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductInteraction"
     id="id-30f2b7fc386b42538a98d104cf2fb5e5"
-    documentation="The interactions of the medicinal product with other medicinal products, or other forms of interactions.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductinteraction.html&#xD;&#xA;&#xD;&#xA;Google translate  - De interacties van het geneesmiddel met andere geneesmiddelen, of andere vormen van interacties."/>
+    documentation="The interactions of the medicinal product with other medicinal products, or other forms of interactions.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductinteraction.html"/>

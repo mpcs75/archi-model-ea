@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AppointmentResponse"
     id="id-5795aa431c6b481881eaf21713dcaf8b"
-    documentation="A reply to an appointment request for a patient and/or practitioner(s), such as a confirmation or rejection.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/appointmentresponse.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een antwoord op een afspraakverzoek van een patiënt en/of behandelaar(s), zoals een bevestiging of afwijzing."/>
+    documentation="A reply to an appointment request for a patient and/or practitioner(s), such as a confirmation or rejection.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/appointmentresponse.html"/>

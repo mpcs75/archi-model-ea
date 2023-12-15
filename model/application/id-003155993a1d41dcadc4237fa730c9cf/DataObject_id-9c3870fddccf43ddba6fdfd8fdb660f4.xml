@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AuditEvent"
     id="id-9c3870fddccf43ddba6fdfd8fdb660f4"
-    documentation="A record of an event made for purposes of maintaining a security log. Typical uses include detection of intrusion attempts and monitoring for inappropriate usage.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/auditevent.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een registratie van een gebeurtenis die is gemaakt met het oog op het bijhouden van een beveiligingslogboek. Typische toepassingen zijn onder meer detectie van inbraakpogingen en monitoring op ongepast gebruik."/>
+    documentation="A record of an event made for purposes of maintaining a security log. Typical uses include detection of intrusion attempts and monitoring for inappropriate usage.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/auditevent.html"/>

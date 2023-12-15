@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CarePlan"
     id="id-2120a93d3f4548468ae91c113c24b1cc"
-    documentation="Describes the intention of how one or more practitioners intend to deliver care for a particular patient, group or community for a period of time, possibly limited to care for a specific condition or set of conditions.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/careplan.html&#xD;&#xA;&#xD;&#xA;Google translate  - Beschrijft de bedoeling van de manier waarop een of meer zorgverleners van plan zijn zorg te verlenen aan een bepaalde patiënt, groep of gemeenschap gedurende een bepaalde periode, mogelijk beperkt tot zorg voor een specifieke aandoening of reeks aandoeningen."/>
+    documentation="Describes the intention of how one or more practitioners intend to deliver care for a particular patient, group or community for a period of time, possibly limited to care for a specific condition or set of conditions.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/careplan.html"/>

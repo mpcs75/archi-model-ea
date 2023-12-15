@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MessageDefinition"
     id="id-10b19fdceb434f578b1e95022853983b"
-    documentation="Defines the characteristics of a message that can be shared between systems, including the type of event that initiates the message, the content to be transmitted and what response(s), if any, are permitted.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/messagedefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  - Definieert de kenmerken van een bericht dat tussen systemen kan worden gedeeld, inclusief het type gebeurtenis dat het bericht initieert, de inhoud die moet worden verzonden en welke reactie(s), indien aanwezig, zijn toegestaan."/>
+    documentation="Defines the characteristics of a message that can be shared between systems, including the type of event that initiates the message, the content to be transmitted and what response(s), if any, are permitted.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/messagedefinition.html"/>

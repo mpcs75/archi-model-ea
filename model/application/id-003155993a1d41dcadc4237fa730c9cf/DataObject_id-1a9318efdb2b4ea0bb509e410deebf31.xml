@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GuidanceResponse"
     id="id-1a9318efdb2b4ea0bb509e410deebf31"
-    documentation="A guidance response is the formal response to a guidance request, including any output parameters returned by the evaluation, as well as the description of any proposed actions to be taken.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/guidanceresponse.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een guidance response is het formele antwoord op een guidance request, inclusief eventuele outputparameters die door de evaluatie zijn geretourneerd, evenals de beschrijving van eventuele voorgestelde acties die moeten worden ondernomen."/>
+    documentation="A guidance response is the formal response to a guidance request, including any output parameters returned by the evaluation, as well as the description of any proposed actions to be taken.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/guidanceresponse.html"/>

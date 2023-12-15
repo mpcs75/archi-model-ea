@@ -1137,6 +1137,25 @@
               xsi:type="archimate:DataObject"
               href="DataObject_id-ae36f31096ac492793bd0da15ade1008.xml#id-ae36f31096ac492793bd0da15ade1008"/>
         </children>
+        <children
+            xsi:type="archimate:DiagramModelReference"
+            id="id-91b0cff26bc141998b4cd59880444d96"
+            alpha="0">
+          <features
+              name="iconVisible"
+              value="2"/>
+          <features
+              name="labelExpression"
+              value="+"/>
+          <bounds
+              x="59"
+              y="79"
+              width="25"
+              height="25"/>
+          <referencedModel
+              xsi:type="archimate:ArchimateDiagramModel"
+              href="ArchimateDiagramModel_id-111f89cf3313451cae891a9480110e34.xml#id-111f89cf3313451cae891a9480110e34"/>
+        </children>
         <archimateElement
             xsi:type="archimate:Grouping"
             href="Grouping_id-f3009c5ae5cc4cb2a4c91b951b8d31b1.xml#id-f3009c5ae5cc4cb2a4c91b951b8d31b1"/>

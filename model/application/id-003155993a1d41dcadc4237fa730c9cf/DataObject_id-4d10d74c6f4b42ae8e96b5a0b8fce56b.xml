@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ImmunizationEvaluation"
     id="id-4d10d74c6f4b42ae8e96b5a0b8fce56b"
-    documentation="Describes a comparison of an immunization event against published recommendations to determine if the administration is &quot;valid&quot; in relation to those recommendations.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunizationevaluation.html&#xD;&#xA;&#xD;&#xA;Google translate  - Beschrijft een vergelijking van een immunisatiegebeurtenis met gepubliceerde aanbevelingen om te bepalen of de toediening &quot;geldig&quot; is in relatie tot die aanbevelingen."/>
+    documentation="Describes a comparison of an immunization event against published recommendations to determine if the administration is &quot;valid&quot; in relation to those recommendations.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunizationevaluation.html"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PlanDefinition"
     id="id-10679739ca284808a7cb4b60a57d1e19"
-    documentation="This resource allows for the definition of various types of plans as a sharable, consumable, and executable artifact. The resource is general enough to support the description of a broad range of clinical artifacts such as clinical decision support rules, order sets and protocols.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/plandefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="This resource allows for the definition of various types of plans as a sharable, consumable, and executable artifact. The resource is general enough to support the description of a broad range of clinical artifacts such as clinical decision support rules, order sets and protocols.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/plandefinition.html"/>

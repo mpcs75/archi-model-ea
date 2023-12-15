@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="generalPractitioner"
+    id="id-ebc42dfeccd246ddaf36d6ea509c12c4"
+    documentation="Patient's nominated primary care provider">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-399f23f4729f438cba863c0f6d1c95f4.xml#id-399f23f4729f438cba863c0f6d1c95f4"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-df484fd3800642498cb0526d3556229a.xml#id-df484fd3800642498cb0526d3556229a"/>
+</archimate:AggregationRelationship>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Subscription"
     id="id-82207965806247599c518ba34c0f8b5b"
-    documentation="The subscription resource is used to define a push-based subscription from a server to another system. Once a subscription is registered with the server, the server checks every resource that is created or updated, and if the resource matches the given criteria, it sends a message on the defined &quot;channel&quot; so that another system can take an appropriate action.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/subscription.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="The subscription resource is used to define a push-based subscription from a server to another system. Once a subscription is registered with the server, the server checks every resource that is created or updated, and if the resource matches the given criteria, it sends a message on the defined &quot;channel&quot; so that another system can take an appropriate action.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/subscription.html"/>

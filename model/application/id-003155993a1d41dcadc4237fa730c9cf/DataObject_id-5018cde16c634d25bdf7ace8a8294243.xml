@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductManufactured"
     id="id-5018cde16c634d25bdf7ace8a8294243"
-    documentation="The manufactured item as contained in the packaged medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductmanufactured.html&#xD;&#xA;&#xD;&#xA;Google translate  - Het vervaardigde artikel zoals vervat in het verpakte geneesmiddel."/>
+    documentation="The manufactured item as contained in the packaged medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductmanufactured.html"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TestReport"
     id="id-6830c8ea3ab84f01ac28b9f9681df9fe"
-    documentation="A summary of information based on the results of executing a TestScript.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/testreport.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="A summary of information based on the results of executing a TestScript.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/testreport.html"/>

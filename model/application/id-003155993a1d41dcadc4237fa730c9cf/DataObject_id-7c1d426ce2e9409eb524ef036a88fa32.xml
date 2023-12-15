@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Measure"
     id="id-7c1d426ce2e9409eb524ef036a88fa32"
-    documentation="The Measure resource provides the definition of a quality measure.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/measure.html&#xD;&#xA;&#xD;&#xA;Google translate  - De Measure resource biedt de definitie van een kwaliteitsmaatstaf."/>
+    documentation="The Measure resource provides the definition of a quality measure.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/measure.html"/>

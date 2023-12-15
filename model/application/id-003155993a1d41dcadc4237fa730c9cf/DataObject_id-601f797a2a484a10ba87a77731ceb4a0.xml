@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procedure"
     id="id-601f797a2a484a10ba87a77731ceb4a0"
-    documentation="An action that is or was performed on or for a patient. This can be a physical intervention like an operation, or less invasive like long term services, counseling, or hypnotherapy.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/procedure.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="An action that is or was performed on or for a patient. This can be a physical intervention like an operation, or less invasive like long term services, counseling, or hypnotherapy.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/procedure.html"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OperationDefinition"
     id="id-70a278b53a8a4041a49f22e4927e6bd5"
-    documentation="A formal computable definition of an operation (on the RESTful interface) or a named query (using the search interaction).&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/operationdefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  - Een formele berekenbare definitie van een bewerking (op de RESTful-interface) of een benoemde query (met behulp van de zoekinteractie)."/>
+    documentation="A formal computable definition of an operation (on the RESTful interface) or a named query (using the search interaction).&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/operationdefinition.html"/>

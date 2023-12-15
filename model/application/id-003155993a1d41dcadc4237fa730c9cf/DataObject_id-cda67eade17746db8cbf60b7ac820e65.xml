@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CatalogEntry"
     id="id-cda67eade17746db8cbf60b7ac820e65"
-    documentation="Catalog entries are wrappers that contextualize items included in a catalog.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/catalogentry.html&#xD;&#xA;&#xD;&#xA;Google translate  - Catalogusitems zijn wrappers die items in een catalogus contextualiseren."/>
+    documentation="Catalog entries are wrappers that contextualize items included in a catalog.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/catalogentry.html"/>

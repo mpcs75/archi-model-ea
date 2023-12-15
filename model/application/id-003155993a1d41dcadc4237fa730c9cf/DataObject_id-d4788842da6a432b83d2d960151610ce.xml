@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OperationOutcome"
     id="id-d4788842da6a432b83d2d960151610ce"
-    documentation="A collection of error, warning, or information messages that result from a system action.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/operationoutcome.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="A collection of error, warning, or information messages that result from a system action.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/operationoutcome.html"/>

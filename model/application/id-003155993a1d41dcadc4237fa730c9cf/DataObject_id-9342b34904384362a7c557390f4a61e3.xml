@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Location"
     id="id-9342b34904384362a7c557390f4a61e3"
-    documentation="Details and position information for a physical place where services are provided and resources and participants may be stored, found, contained, or accommodated.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/location.html&#xD;&#xA;&#xD;&#xA;Google translate  - Details en positie-informatie voor een fysieke plaats waar diensten worden verleend, bronnen en deelnemers kunnen worden opgeslagen, gevonden, opgeslagen of ondergebracht."/>
+    documentation="Details and position information for a physical place where services are provided and resources and participants may be stored, found, contained, or accommodated.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/location.html"/>

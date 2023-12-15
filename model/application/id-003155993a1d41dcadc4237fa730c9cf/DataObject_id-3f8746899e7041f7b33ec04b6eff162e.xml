@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="StructureDefinition"
     id="id-3f8746899e7041f7b33ec04b6eff162e"
-    documentation="A definition of a FHIR structure. This resource is used to describe the underlying resources, data types defined in FHIR, and also for describing extensions and constraints on resources and data types.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/structuredefinition.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="A definition of a FHIR structure. This resource is used to describe the underlying resources, data types defined in FHIR, and also for describing extensions and constraints on resources and data types.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/structuredefinition.html&#xD;&#xA;&#xD;&#xA;"/>

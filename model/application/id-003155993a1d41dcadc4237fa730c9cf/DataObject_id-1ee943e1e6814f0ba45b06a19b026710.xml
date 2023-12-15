@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VerificationResult"
     id="id-1ee943e1e6814f0ba45b06a19b026710"
-    documentation="Describes validation requirements, source(s), status and dates for one or more elements.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/verificationresult.html&#xD;&#xA;&#xD;&#xA;Google translate  -"/>
+    documentation="Describes validation requirements, source(s), status and dates for one or more elements.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/verificationresult.html"/>

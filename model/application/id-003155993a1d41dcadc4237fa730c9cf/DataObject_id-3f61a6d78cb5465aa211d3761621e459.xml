@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Invoice"
     id="id-3f61a6d78cb5465aa211d3761621e459"
-    documentation="Invoice containing collected ChargeItems from an Account with calculated individual and total price for Billing purpose.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/invoice.html&#xD;&#xA;&#xD;&#xA;Google translate  - Factuur met de verzamelde ChargeItems van een account met een berekende individuele en totale prijs voor factureringsdoeleinden."/>
+    documentation="Invoice containing collected ChargeItems from an Account with calculated individual and total price for Billing purpose.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/invoice.html"/>

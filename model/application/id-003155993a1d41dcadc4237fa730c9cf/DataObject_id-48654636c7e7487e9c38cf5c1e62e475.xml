@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AdverseEvent"
     id="id-48654636c7e7487e9c38cf5c1e62e475"
-    documentation="Actual or potential/avoided event causing unintended physical injury resulting from or contributed to by medical care, a research study or other healthcare setting factors that requires additional monitoring, treatment, or hospitalization, or that results in death.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/adverseevent.html&#xD;&#xA;&#xD;&#xA;Google translate  - Feitelijke of potentiële/vermeden gebeurtenis die onbedoeld lichamelijk letsel veroorzaakt als gevolg van of veroorzaakt door medische zorg, een onderzoek of andere factoren in de gezondheidszorgomgeving die aanvullende monitoring, behandeling of ziekenhuisopname vereisen, of die de dood tot gevolg hebben."/>
+    documentation="Actual or potential/avoided event causing unintended physical injury resulting from or contributed to by medical care, a research study or other healthcare setting factors that requires additional monitoring, treatment, or hospitalization, or that results in death.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/adverseevent.html"/>

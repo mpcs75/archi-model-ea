@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="endpoint"
+    id="id-2b6482dece304e4cbd6233d358bcc58f"
+    documentation="Technical endpoints providing access to electronic services operated for the healthcare service">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4f468fd734264f8999c3302e2d5780cb.xml#id-4f468fd734264f8999c3302e2d5780cb"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3821169d49004037b4f9a89d69d47174.xml#id-3821169d49004037b4f9a89d69d47174"/>
+</archimate:AggregationRelationship>

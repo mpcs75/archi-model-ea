@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="partOf"
+    id="id-92aae9d326ce43aca1749f4f7077e73b"
+    documentation="Another Location this one is physically a part of">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9342b34904384362a7c557390f4a61e3.xml#id-9342b34904384362a7c557390f4a61e3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9342b34904384362a7c557390f4a61e3.xml#id-9342b34904384362a7c557390f4a61e3"/>
+</archimate:AggregationRelationship>

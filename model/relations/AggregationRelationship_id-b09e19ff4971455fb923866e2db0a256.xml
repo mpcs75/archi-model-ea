@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="endpoint"
+    id="id-b09e19ff4971455fb923866e2db0a256"
+    documentation="Technical endpoints providing access to services operated for the organization">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-449e93a0b9bd46b183a76ba2a8447f19.xml#id-449e93a0b9bd46b183a76ba2a8447f19"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3821169d49004037b4f9a89d69d47174.xml#id-3821169d49004037b4f9a89d69d47174"/>
+</archimate:AggregationRelationship>

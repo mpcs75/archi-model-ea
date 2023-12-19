@@ -129,7 +129,7 @@
           href="AggregationRelationship_id-e93b894c7fc54fe9a745e64fcb1e2228.xml#id-e93b894c7fc54fe9a745e64fcb1e2228"/>
     </sourceConnections>
     <bounds
-        x="348"
+        x="312"
         y="336"
         width="120"
         height="80"/>
@@ -143,7 +143,7 @@
       targetConnections="id-0472123dd32b4ebe99ea9d191e6f24ce id-5ab91d5b752742749d96dae1502ce950 id-cb1e3f928e2d4e1c90bf9f2e30918ed4"
       textPosition="1">
     <bounds
-        x="72"
+        x="36"
         y="336"
         width="120"
         height="80"/>
@@ -157,7 +157,7 @@
       targetConnections="id-ef8a444129214acaaf0607612c2f03c0"
       textPosition="1">
     <bounds
-        x="252"
+        x="216"
         y="144"
         width="120"
         height="80"/>
@@ -171,7 +171,7 @@
       targetConnections="id-c6fb7a8e08c347eeb7abb51e603713b6"
       textPosition="1">
     <bounds
-        x="444"
+        x="408"
         y="144"
         width="120"
         height="80"/>
@@ -199,12 +199,92 @@
       targetConnections="id-c3329e70a98c42b0bfbfe8eb102ab480"
       textPosition="1">
     <bounds
-        x="612"
+        x="576"
         y="336"
         width="120"
         height="80"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-d40aa8c3603e4e019d9bb51593c926d2.xml#id-d40aa8c3603e4e019d9bb51593c926d2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-433654c2af6c4d129e17141857c7a8be"
+      fillColor="#dcebeb"
+      alpha="0">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="+"/>
+    <bounds
+        x="263"
+        y="199"
+        width="25"
+        height="25"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-d9875a1ae0b9449d99c0954879eee4e4.xml#id-d9875a1ae0b9449d99c0954879eee4e4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1dbf635c57024af2b8c59ba3433300b7"
+      fillColor="#dcebeb"
+      alpha="0">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="+"/>
+    <bounds
+        x="83"
+        y="391"
+        width="25"
+        height="25"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-955071d26d0043789c8b484054303dfc.xml#id-955071d26d0043789c8b484054303dfc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-df78ca16f4594135af6738c5ae3bd81a"
+      fillColor="#dcebeb"
+      alpha="0">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="+"/>
+    <bounds
+        x="455"
+        y="199"
+        width="25"
+        height="25"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-8f9e59a01c0a4103bed64cbfbe4a271c.xml#id-8f9e59a01c0a4103bed64cbfbe4a271c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-25bbb6a195164f7892d6697440a79a36"
+      fillColor="#dcebeb"
+      alpha="0">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="+"/>
+    <bounds
+        x="623"
+        y="391"
+        width="25"
+        height="25"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-fcf12865a096413892970c14199fd5f8.xml#id-fcf12865a096413892970c14199fd5f8"/>
   </children>
 </archimate:ArchimateDiagramModel>

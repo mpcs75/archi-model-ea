@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="practitioner"
+    id="id-698b86cdb3fa4e3b9a2e5aceed5efac4"
+    documentation="Practitioner that is able to provide the defined services for the organization">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-df484fd3800642498cb0526d3556229a.xml#id-df484fd3800642498cb0526d3556229a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b8c2c0fcf1d04d50a4b19b164b4ee2f8.xml#id-b8c2c0fcf1d04d50a4b19b164b4ee2f8"/>
+</archimate:AggregationRelationship>

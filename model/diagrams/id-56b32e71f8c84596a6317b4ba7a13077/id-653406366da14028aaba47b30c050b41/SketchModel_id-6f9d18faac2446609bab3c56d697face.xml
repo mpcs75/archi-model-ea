@@ -542,7 +542,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffc400"
-      content="Moet ik reviewen met desbetreffende diensten">
+      content="Moeten gereviewed worden met desbetreffende diensten">
     <sourceConnections
         id="id-b99d6331df0e442f80ad8101b5df4c4a"
         source="id-c6f5ccccc87f45fbac881829391c0049"
@@ -550,7 +550,7 @@
     <bounds
         x="624"
         y="134"
-        width="157"
+        width="181"
         height="47"/>
   </children>
   <children
@@ -558,13 +558,13 @@
       id="id-0f4ab121b8464201bf3a5ebaf5dc7273"
       name="LET OP !!!"
       fillColor="#ffff00"
-      documentation="> Via deze use cases probeer ik de waarde van diverse diensten uit te leggen via korte user stories&#xD;&#xA;> Via deze use cases probeer ik de de route die gegevens afleggen en de systemen die daarvoor nodig zijn uit te leggen.&#xD;&#xA;> Via use case cases probeer ik GEEN technische uitleg te geven. Raadpleeg daarvoor de documentatie via de diensten zelf.&#xD;&#xA;> Via deze use cases beschrijf ik NIET hoe de identificatie en authenticatie geregeld wordt. Raadpleeg ook hioervoor de documentatie van de diensten zelf."
+      documentation="> Via deze use cases probeer ik de waarde van diverse diensten uit te leggen via korte user stories&#xD;&#xA;> Via deze use cases probeer ik de de route die gegevens afleggen en de systemen die daarvoor nodig zijn uit te leggen.&#xD;&#xA;> Via use case cases probeer ik GEEN technische uitleg te geven. Raadpleeg daarvoor de documentatie via de diensten zelf.&#xD;&#xA;> Via deze use cases beschrijf ik NIET hoe de identificatie en authenticatie geregeld wordt. Raadpleeg ook hioervoor de documentatie van de diensten zelf.&#xD;&#xA;> Ongetwijfeld zijn er meerdere wegen naar Rome, het advies wat ik wel zou willen geven; gebruik overal goed beheerde duurzame en gestandaardiseerde oplossingen."
       textPosition="1"
       borderType="1">
     <bounds
         x="144"
         y="-72"
-        width="120"
+        width="97"
         height="55"/>
   </children>
   <children

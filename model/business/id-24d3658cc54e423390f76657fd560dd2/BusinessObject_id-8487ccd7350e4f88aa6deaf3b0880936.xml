@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verstrekkingsverzoek"
     id="id-8487ccd7350e4f88aa6deaf3b0880936"
-    documentation="Het verstrekkingsverzoek is het verzoek van een voorschrijver aan de apotheker, verstrekking(en) te doen aan de patiënt, ter ondersteuning van geldende medicatieafspraken. De voorschrijver verzoekt om een hoeveelheid van een geneesmiddel te verstrekken of voor een verbruiksperiode verstrekking(en) te doen. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Verstrekkingsverzoek-v1.0.3(2020NL)"/>
+    documentation="Het verstrekkingsverzoek is het verzoek van een voorschrijver aan de apotheker, verstrekking(en) te doen aan de patiënt, ter ondersteuning van geldende medicatieafspraken. De voorschrijver verzoekt om een hoeveelheid van een geneesmiddel te verstrekken of voor een verbruiksperiode verstrekking(en) te doen. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Verstrekkingsverzoek-v1.0.3(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

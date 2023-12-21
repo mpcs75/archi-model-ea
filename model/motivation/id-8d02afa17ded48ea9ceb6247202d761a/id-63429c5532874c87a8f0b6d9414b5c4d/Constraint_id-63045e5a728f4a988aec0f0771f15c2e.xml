@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gezondheidswet"
     id="id-63045e5a728f4a988aec0f0771f15c2e"
-    documentation="- Voorschriften voor organisatie van de volksgezonheidszorg&#xD;&#xA;- Bepaling functies, taken en bevoegdheden van de Inspectie voor de Gezondheidzorg en Jeugd (IGJ)&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0002202&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Gezondheidswet"/>
+    documentation="- Voorschriften voor organisatie van de volksgezonheidszorg&#xD;&#xA;- Bepaling functies, taken en bevoegdheden van de Inspectie voor de Gezondheidzorg en Jeugd (IGJ)&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0002202&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Gezondheidswet">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

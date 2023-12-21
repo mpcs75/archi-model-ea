@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruiksvriendelijke systemen"
-    id="id-e2d033eab332441ab93d8562678b5daa"/>
+    id="id-e2d033eab332441ab93d8562678b5daa">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

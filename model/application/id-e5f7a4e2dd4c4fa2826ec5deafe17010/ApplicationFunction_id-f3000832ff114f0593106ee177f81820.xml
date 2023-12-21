@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dossier inzage"
     id="id-f3000832ff114f0593106ee177f81820"
-    documentation="Functionaliteit die het mogelijk maakt voor patiënten om digitale inzage te krijgen in medische dossiers die de zorgverleners over hen bijhouden.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="RSM E-health"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit die het mogelijk maakt voor patiënten om digitale inzage te krijgen in medische dossiers die de zorgverleners over hen bijhouden."/>

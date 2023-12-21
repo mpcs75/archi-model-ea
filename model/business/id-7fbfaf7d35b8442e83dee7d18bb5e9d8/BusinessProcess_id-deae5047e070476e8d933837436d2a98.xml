@@ -4,6 +4,6 @@
     id="id-deae5047e070476e8d933837436d2a98"
     documentation="Maken en vastleggen van productieafspraken met financiers.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definitional Artifacts"
-    id="id-188c4b90aa254256a95db26a1bee5580"/>
+    id="id-188c4b90aa254256a95db26a1bee5580">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:Grouping>

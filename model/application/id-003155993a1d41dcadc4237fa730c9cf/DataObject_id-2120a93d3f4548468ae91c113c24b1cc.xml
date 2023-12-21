@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CarePlan"
     id="id-2120a93d3f4548468ae91c113c24b1cc"
-    documentation="Describes the intention of how one or more practitioners intend to deliver care for a particular patient, group or community for a period of time, possibly limited to care for a specific condition or set of conditions.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/careplan.html"/>
+    documentation="Describes the intention of how one or more practitioners intend to deliver care for a particular patient, group or community for a period of time, possibly limited to care for a specific condition or set of conditions.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/careplan.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

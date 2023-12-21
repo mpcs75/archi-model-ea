@@ -4,6 +4,6 @@
     id="id-ab99c144500e4ad9a7c93b427911382b"
     documentation="Regie op gegevensuitwisseling via een landelijk dekkend netwerk van ICT-infrastructuren en -systemen">
   <properties
-      key="Categorie"
-      value="Integraal Zorg Akkoord (IZA)"/>
+      key="Classificatie"
+      value="IZA"/>
 </archimate:CourseOfAction>

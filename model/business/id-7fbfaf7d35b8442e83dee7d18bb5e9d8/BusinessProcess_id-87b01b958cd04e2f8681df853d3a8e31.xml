@@ -4,6 +4,6 @@
     id="id-87b01b958cd04e2f8681df853d3a8e31"
     documentation="Beheerniveaus, technische en functionele kwaliteit, opstellen van een meerjarenonderhoudsplan en -begroting, bewaken en controleren van onderhoudsactiviteiten, schoonmaak, onderhoud en beveiliging.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

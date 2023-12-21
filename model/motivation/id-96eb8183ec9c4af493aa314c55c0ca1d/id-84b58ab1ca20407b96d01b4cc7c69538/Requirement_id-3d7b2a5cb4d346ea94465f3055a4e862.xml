@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PGO"
     id="id-3d7b2a5cb4d346ea94465f3055a4e862"
-    documentation="In 2025 beschikken alle inwoners van Nederland die dat willen over een gebruiksvriendelijke en goed gevulde persoonlijke gezondheidsomgeving (PGO) die van meerwaarde is in het zorgproces en voor iedereen begrijpelijke informatie bevat."/>
+    documentation="In 2025 beschikken alle inwoners van Nederland die dat willen over een gebruiksvriendelijke en goed gevulde persoonlijke gezondheidsomgeving (PGO) die van meerwaarde is in het zorgproces en voor iedereen begrijpelijke informatie bevat.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

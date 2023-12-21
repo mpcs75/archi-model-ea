@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ParticipatieInMaatschappij"
     id="id-501245cfca8c40cb87498ed521e4bd02"
-    documentation="Participatie in de maatschappij gaat in op deelname aan maatschappelijke activiteiten die patiënt in het dagelijks leven onderneemt, zoals het uitoefenen van een beroep en hobby activiteiten. Daarnaast beschrijft participatie in de maatschappij het sociale netwerk van de patiënt.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ParticipatieInMaatschappij-v3.1(2020NL)"/>
+    documentation="Participatie in de maatschappij gaat in op deelname aan maatschappelijke activiteiten die patiënt in het dagelijks leven onderneemt, zoals het uitoefenen van een beroep en hobby activiteiten. Daarnaast beschrijft participatie in de maatschappij het sociale netwerk van de patiënt.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ParticipatieInMaatschappij-v3.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

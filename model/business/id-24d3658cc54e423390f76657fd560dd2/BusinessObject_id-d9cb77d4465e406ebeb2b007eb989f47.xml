@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bereik"
     id="id-d9cb77d4465e406ebeb2b007eb989f47"
-    documentation="Het bereik geeft ofwel een vaste waarde ofwel een minimale en maximale waarde aan die een hoeveelheid kan aannemen.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Bereik-v1.0.1(2020NL)"/>
+    documentation="Het bereik geeft ofwel een vaste waarde ofwel een minimale en maximale waarde aan die een hoeveelheid kan aannemen.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Bereik-v1.0.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

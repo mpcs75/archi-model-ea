@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Monitoring &amp; alerting"
     id="id-b26a6d2866bc4f4fb3434b886aef103e"
-    documentation="Functionaliteit voor het monitoren en analyseren van het datacentrum">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-186"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het monitoren en analyseren van het datacentrum"/>

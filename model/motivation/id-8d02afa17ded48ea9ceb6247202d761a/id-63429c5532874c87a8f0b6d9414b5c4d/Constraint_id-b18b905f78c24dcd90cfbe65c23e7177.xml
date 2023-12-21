@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet bijzondere opneming in psychiatrische ziekenhuizen (Bopz)"
     id="id-b18b905f78c24dcd90cfbe65c23e7177"
-    documentation="- Voorwaarden aan gedwongen opname.&#xD;&#xA;- Rechten van gedwongen opgenomen patiënten&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: &#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0013892 en https://wetten.overheid.nl/BWBR0019080&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_bijzondere_opnemingen_in_psychiatrische_ziekenhuizen"/>
+    documentation="- Voorwaarden aan gedwongen opname.&#xD;&#xA;- Rechten van gedwongen opgenomen patiënten&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: &#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0013892 en https://wetten.overheid.nl/BWBR0019080&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_bijzondere_opnemingen_in_psychiatrische_ziekenhuizen">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

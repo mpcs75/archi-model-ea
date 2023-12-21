@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afpraken over kwaliteit"
     id="id-0cf3eafd83604b61a60077b9d42ccee2"
-    documentation="Er worden afspraken gemaakt over kwaliteit van informatie zodat secundair gebruik mogelijk is."/>
+    documentation="Er worden afspraken gemaakt over kwaliteit van informatie zodat secundair gebruik mogelijk is.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

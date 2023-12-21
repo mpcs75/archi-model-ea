@@ -1,4 +1,8 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorlichting"
-    id="id-e89d26f1bcb646a089729b7317838221"/>
+    id="id-e89d26f1bcb646a089729b7317838221">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Driver>

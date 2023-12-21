@@ -4,6 +4,6 @@
     id="id-969e971363d94b79b80e38d2022e660d"
     documentation="Administratieve gegevens met betrekking tot het personeel.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

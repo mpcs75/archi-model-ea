@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductManufactured"
     id="id-5018cde16c634d25bdf7ace8a8294243"
-    documentation="The manufactured item as contained in the packaged medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductmanufactured.html"/>
+    documentation="The manufactured item as contained in the packaged medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductmanufactured.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

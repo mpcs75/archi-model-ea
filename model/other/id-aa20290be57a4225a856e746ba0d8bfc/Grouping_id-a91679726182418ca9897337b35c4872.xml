@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data"
-    id="id-a91679726182418ca9897337b35c4872"/>
+    id="id-a91679726182418ca9897337b35c4872">
+  <properties
+      key="Classificatie"
+      value="Wet- en regelgeving"/>
+</archimate:Grouping>

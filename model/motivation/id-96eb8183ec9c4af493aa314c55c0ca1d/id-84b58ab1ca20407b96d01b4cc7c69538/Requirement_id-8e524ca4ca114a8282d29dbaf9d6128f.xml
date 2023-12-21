@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regie op eigen gezondheid en zorg"
     id="id-8e524ca4ca114a8282d29dbaf9d6128f"
-    documentation="Inwoners kunnen desgewenst meer eigen regie nemen op hun gezondheid en zorg en invulling geven aan het samen beslissen met hun zorgverlener. Dit draagt bij aan goede toegankelijke zorg en kan zorgverleners ontlasten."/>
+    documentation="Inwoners kunnen desgewenst meer eigen regie nemen op hun gezondheid en zorg en invulling geven aan het samen beslissen met hun zorgverlener. Dit draagt bij aan goede toegankelijke zorg en kan zorgverleners ontlasten.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

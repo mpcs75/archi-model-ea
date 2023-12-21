@@ -4,6 +4,6 @@
     id="id-6ca4634f07204ed7ba6eedfa7203c9ea"
     documentation="Vervoersmiddel met onderhoudstatus, type, identificatienummer, stalling/parkeergegevens, leasecontract">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

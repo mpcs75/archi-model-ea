@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onvrijwillige zorg"
-    id="id-36fb8120c4774d528cfce4ddbb7148af"/>
+    id="id-36fb8120c4774d528cfce4ddbb7148af">
+  <properties
+      key="Classificatie"
+      value="Wet- en regelgeving"/>
+</archimate:Grouping>

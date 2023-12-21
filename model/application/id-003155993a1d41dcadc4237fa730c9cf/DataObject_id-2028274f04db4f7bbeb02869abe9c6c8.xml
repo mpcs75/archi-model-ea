@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EnrollmentRequest"
     id="id-2028274f04db4f7bbeb02869abe9c6c8"
-    documentation="This resource provides the insurance enrollment details to the insurer regarding a specified coverage.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/enrollmentrequest.html"/>
+    documentation="This resource provides the insurance enrollment details to the insurer regarding a specified coverage.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/enrollmentrequest.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

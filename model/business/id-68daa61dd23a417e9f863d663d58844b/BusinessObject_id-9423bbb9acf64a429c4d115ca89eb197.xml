@@ -4,6 +4,6 @@
     id="id-9423bbb9acf64a429c4d115ca89eb197"
     documentation="Plaats of ruimte waar activiteiten worden uitgevoerd.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

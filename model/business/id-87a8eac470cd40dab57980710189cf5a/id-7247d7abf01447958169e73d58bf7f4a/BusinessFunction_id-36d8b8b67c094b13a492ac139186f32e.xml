@@ -4,6 +4,6 @@
     id="id-36d8b8b67c094b13a492ac139186f32e"
     documentation="Dit domein bevat de activiteiten ten behoeve van het personeelsbeheer.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medicatieafspraak"
     id="id-8621c078c92d49b3a59065ca23f4cffe"
-    documentation="Een medicatieafspraak is het voorstel van een voorschrijver tot gebruik van medicatie door een patiënt.&#xD;&#xA;Ook de afspraak om het medicatiegebruik te staken is een medicatieafspraak. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Medicatieafspraak-v1.2(2020NL)"/>
+    documentation="Een medicatieafspraak is het voorstel van een voorschrijver tot gebruik van medicatie door een patiënt.&#xD;&#xA;Ook de afspraak om het medicatiegebruik te staken is een medicatieafspraak. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Medicatieafspraak-v1.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

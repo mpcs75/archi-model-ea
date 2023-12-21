@@ -4,6 +4,6 @@
     id="id-42679db26759457cbff42dfbab0bceac"
     documentation="Registratie van de in gebouwen aanwezige inboedel.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

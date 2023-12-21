@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stelselwetten"
-    id="id-2822d6711d2a4678b1dcd0f0e3a245ea"/>
+    id="id-2822d6711d2a4678b1dcd0f0e3a245ea">
+  <properties
+      key="Classificatie"
+      value="Wet- en regelgeving"/>
+</archimate:Grouping>

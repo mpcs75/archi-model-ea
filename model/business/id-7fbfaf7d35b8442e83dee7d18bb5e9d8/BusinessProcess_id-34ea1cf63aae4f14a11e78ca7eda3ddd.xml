@@ -4,6 +4,6 @@
     id="id-34ea1cf63aae4f14a11e78ca7eda3ddd"
     documentation="Verstrekken en/of inbrengen van medicatie ter inname op één bepaald moment, volgens voorschrift en toedieningsweg (oraal, injectie, anaal etc.). Kan ook betreffen het toedienen van medicatie via een infuus.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

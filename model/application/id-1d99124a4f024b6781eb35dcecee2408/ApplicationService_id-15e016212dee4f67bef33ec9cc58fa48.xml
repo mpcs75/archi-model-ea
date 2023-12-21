@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Basisgegevensset Zorg (BgZ)"
     id="id-15e016212dee4f67bef33ec9cc58fa48"
-    documentation="De Basisgegevensset Zorg (BgZ) is de minimale set van patiëntgegevens die specialisme-, ziektebeeld- en beroepsgroepoverstijgend relevant is en van belang voor de continuïteit van zorg. Dit betreft vooral situaties waarbij overdracht van zorg tussen zorgaanbieders plaatsvindt en/of behoefte bestaat aan een patiëntsamenvatting met eerdere behandelingen die bij andere zorgaanbieders hebben plaatsgevonden.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/basisgegevensset-zorg-bgz"/>
+    documentation="De Basisgegevensset Zorg (BgZ) is de minimale set van patiëntgegevens die specialisme-, ziektebeeld- en beroepsgroepoverstijgend relevant is en van belang voor de continuïteit van zorg. Dit betreft vooral situaties waarbij overdracht van zorg tussen zorgaanbieders plaatsvindt en/of behoefte bestaat aan een patiëntsamenvatting met eerdere behandelingen die bij andere zorgaanbieders hebben plaatsgevonden.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/basisgegevensset-zorg-bgz">
+  <properties
+      key="Classificatie"
+      value="Gegevensdienst"/>
+</archimate:ApplicationService>

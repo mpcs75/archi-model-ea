@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visie op het gezonheidsinformatietelsel"
     id="id-e5f57a42c99c41ea9ae4ed9be5021074"
-    documentation="De visie op het gezondheidsinformatiestelsel beschrijft hoe het gebruik van gezondheidsdata bijdraagt aan passende zorg en gezondheid. Digitalisering is een essentieel onderdeel van de maatschappelijke missie om de zorg mensgericht, houdbaar en duurzaam te maken. Het is niet alleen een handig administratief hulpmiddel, maar een integraal onderdeel van het zorginstrumentarium. Het gezondheidsinformatiestelsel moet ervoor zorgen dat data op een eenduidige manier beschikbaar komt en wordt gebruikt. Het voorzien in de informatiebehoefte op basis van kwalitatief betrouwbare data is een randvoorwaarde voor goede en veilige (passende) zorg en draagt bij aan preventie. Ook helpt het de administratieve lasten te verminderen en de zorg te verbeteren.&#xD;&#xA;"/>
+    documentation="De visie op het gezondheidsinformatiestelsel beschrijft hoe het gebruik van gezondheidsdata bijdraagt aan passende zorg en gezondheid. Digitalisering is een essentieel onderdeel van de maatschappelijke missie om de zorg mensgericht, houdbaar en duurzaam te maken. Het is niet alleen een handig administratief hulpmiddel, maar een integraal onderdeel van het zorginstrumentarium. Het gezondheidsinformatiestelsel moet ervoor zorgen dat data op een eenduidige manier beschikbaar komt en wordt gebruikt. Het voorzien in de informatiebehoefte op basis van kwalitatief betrouwbare data is een randvoorwaarde voor goede en veilige (passende) zorg en draagt bij aan preventie. Ook helpt het de administratieve lasten te verminderen en de zorg te verbeteren.&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Driver>

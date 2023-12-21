@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductUndesirableEffect"
     id="id-82b5edb7962b427aacc209fccddb8a95"
-    documentation="Describe the undesirable effects of the medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductundesirableeffect.html"/>
+    documentation="Describe the undesirable effects of the medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductundesirableeffect.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

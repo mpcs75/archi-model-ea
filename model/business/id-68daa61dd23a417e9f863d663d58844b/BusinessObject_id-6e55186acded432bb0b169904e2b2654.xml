@@ -4,6 +4,6 @@
     id="id-6e55186acded432bb0b169904e2b2654"
     documentation="&quot;Een substantie of een samenstel van substanties die bestemd is om te worden toegediend of aangewend voor:&#xD;&#xA;1. het genezen of voorkomen van een ziekte, gebrek, wond of pijn bij de mens,&#xD;&#xA;2. het stellen van een geneeskundige diagnose bij de mens, of&#xD;&#xA;3. het herstellen, verbeteren of anderszins wijzigen van fysiologische functies bij de mens door een farmacologisch, immunologisch of metabolisch effect te bewerkstelligen;&#xD;&#xA;Een medicijn/geneesmiddel kan worden geïdentificeerd met een merknaam of een werkzame stof&#xD;&#xA;synoniem: geneesmiddel&#xD;&#xA;Van medicatie worden o.a. de volgende gegevens vastgelegd: handelsproductcode, productnaam, werkzame stof, dagelijkse dosering, toedieningswijze.&#xD;&#xA;Een instelling maakt zelf keuzes in welke medicatie beschikbaar is/kan worden voorgeschreven en afgeleverd vanuit de eigen apotheek.&quot;">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

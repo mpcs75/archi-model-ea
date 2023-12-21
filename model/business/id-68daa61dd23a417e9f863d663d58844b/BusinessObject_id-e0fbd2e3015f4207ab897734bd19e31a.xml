@@ -4,6 +4,6 @@
     id="id-e0fbd2e3015f4207ab897734bd19e31a"
     documentation="Een overzicht van alle producten en diensten die een organisatie aanbiedt, met bijbehorende beschrijvingen.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

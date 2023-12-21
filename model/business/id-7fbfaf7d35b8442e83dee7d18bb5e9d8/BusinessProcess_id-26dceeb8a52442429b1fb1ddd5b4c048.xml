@@ -4,6 +4,6 @@
     id="id-26dceeb8a52442429b1fb1ddd5b4c048"
     documentation="Ontvangen en verwerken van zelfmanagementinformatie (bijv. metingen, dagboek en bevindingen) van de patiënt over zijn eigen zorgproces, zowel digitaal als op papier.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

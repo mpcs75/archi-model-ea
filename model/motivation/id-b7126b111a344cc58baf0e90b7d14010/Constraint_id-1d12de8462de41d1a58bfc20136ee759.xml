@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NEN 7510"
     id="id-1d12de8462de41d1a58bfc20136ee759"
-    documentation="Medische informatica - Informatiebeveiliging in de zorg&#xD;&#xA; - Deel 1: Managementsysteem&#xD;&#xA; - Deel 2: Beheersmaatregelen&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/"/>
+    documentation="Medische informatica - Informatiebeveiliging in de zorg&#xD;&#xA; - Deel 1: Managementsysteem&#xD;&#xA; - Deel 2: Beheersmaatregelen&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivatie element (alle)"
     id="id-212ad10c80d34b3fafefd574b386d5b6"
-    documentation="Ieder motivatie element kan een ander motivatie element beïnvloeden."/>
+    documentation="Ieder motivatie element kan een ander motivatie element beïnvloeden.">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Grouping>

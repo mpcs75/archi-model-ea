@@ -1,4 +1,8 @@
 <archimate:Plateau
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plateau"
-    id="id-bc4c1db3b55249238c1c45a6e332ff50"/>
+    id="id-bc4c1db3b55249238c1c45a6e332ff50">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Plateau>

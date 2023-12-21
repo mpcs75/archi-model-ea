@@ -4,6 +4,6 @@
     id="id-7c4bb00683954ed48006117d8b4b747d"
     documentation="Het veld voldoet voor 2025 aan de wettelijke eisen met betrekking tot de eigen informatieveiligheid en naleving van de geldende NEN-normen en overige wettelijke verplichtingen zoals die uit de Wet beveiliging netwerk- en informatiesystemen ten gevolge van de implementatie van de NIB2-richtlijn.">
   <properties
-      key="Categorie"
-      value="Integraal Zorg Akkoord (IZA)"/>
+      key="Classificatie"
+      value="IZA"/>
 </archimate:CourseOfAction>

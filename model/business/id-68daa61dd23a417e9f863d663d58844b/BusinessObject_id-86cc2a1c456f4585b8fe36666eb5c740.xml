@@ -4,6 +4,6 @@
     id="id-86cc2a1c456f4585b8fe36666eb5c740"
     documentation="Alle meldingen die klachten betreffen over geleverde zorg of diensten.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

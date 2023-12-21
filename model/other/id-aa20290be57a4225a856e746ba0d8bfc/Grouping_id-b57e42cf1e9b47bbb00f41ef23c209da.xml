@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Specifieke zorgwetten"
-    id="id-b57e42cf1e9b47bbb00f41ef23c209da"/>
+    id="id-b57e42cf1e9b47bbb00f41ef23c209da">
+  <properties
+      key="Classificatie"
+      value="Wet- en regelgeving"/>
+</archimate:Grouping>

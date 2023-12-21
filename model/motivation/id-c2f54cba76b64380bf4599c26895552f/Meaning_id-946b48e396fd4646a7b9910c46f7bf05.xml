@@ -1,4 +1,8 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meaning"
-    id="id-946b48e396fd4646a7b9910c46f7bf05"/>
+    id="id-946b48e396fd4646a7b9910c46f7bf05">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Meaning>

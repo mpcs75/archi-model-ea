@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Request &amp; Response"
-    id="id-63ddda03922c47b984693a9eb7a68add"/>
+    id="id-63ddda03922c47b984693a9eb7a68add">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:Grouping>

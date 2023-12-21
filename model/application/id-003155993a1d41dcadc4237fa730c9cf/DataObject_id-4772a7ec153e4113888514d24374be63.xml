@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductAuthorization"
     id="id-4772a7ec153e4113888514d24374be63"
-    documentation="The regulatory authorization of a medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductauthorization.html"/>
+    documentation="The regulatory authorization of a medicinal product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductauthorization.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

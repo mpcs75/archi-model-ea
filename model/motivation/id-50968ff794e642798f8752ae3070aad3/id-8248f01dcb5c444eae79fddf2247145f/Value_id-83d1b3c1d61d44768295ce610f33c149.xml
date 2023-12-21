@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nuttige ervaringen en tips van lotgenoten"
-    id="id-83d1b3c1d61d44768295ce610f33c149"/>
+    id="id-83d1b3c1d61d44768295ce610f33c149">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

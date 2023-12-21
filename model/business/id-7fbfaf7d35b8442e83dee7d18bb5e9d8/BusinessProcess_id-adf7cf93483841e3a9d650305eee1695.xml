@@ -4,6 +4,6 @@
     id="id-adf7cf93483841e3a9d650305eee1695"
     documentation="Het meten van de (psychische) toestand van de patiënt voor, tijdens en na de behandeling, middels het routinematig monitoren van resultaten van een behandeling (bijvoorbeeld door ROM-metingen). Hierbij hoort ook de initiële meting voor de start van de behandeling.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

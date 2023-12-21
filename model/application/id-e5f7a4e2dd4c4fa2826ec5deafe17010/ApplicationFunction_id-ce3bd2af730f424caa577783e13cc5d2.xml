@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ordermanagement"
     id="id-ce3bd2af730f424caa577783e13cc5d2"
-    documentation="Functionaliteit voor de uitvoering van de closed order loop van onderzoeken (aanvraag, planning, oplevering, acceptatie)">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="CP.4 Manage Orders"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor de uitvoering van de closed order loop van onderzoeken (aanvraag, planning, oplevering, acceptatie)"/>

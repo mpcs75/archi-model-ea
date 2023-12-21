@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TerminologyCapabilities"
     id="id-ac355f329e9c44cf8a3374f3b66bcfe9"
-    documentation="A TerminologyCapabilities resource documents a set of capabilities (behaviors) of a FHIR Terminology Server that may be used as a statement of actual server functionality or a statement of required or desired server implementation.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/terminologycapabilities.html"/>
+    documentation="A TerminologyCapabilities resource documents a set of capabilities (behaviors) of a FHIR Terminology Server that may be used as a statement of actual server functionality or a statement of required or desired server implementation.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/terminologycapabilities.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

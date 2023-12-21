@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NTA 7516"
     id="id-832c2eb9897840808950c671a31ae765"
-    documentation="Medische informatica - Eisen voor veilige e-mail en chatapplicaties (uitwisseling van ad-hocberichten met persoonlijke gezondheidsinformatie)&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/"/>
+    documentation="Medische informatica - Eisen voor veilige e-mail en chatapplicaties (uitwisseling van ad-hocberichten met persoonlijke gezondheidsinformatie)&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Clinical"
-    id="id-82cd533bc73d46aead53da728413310d"/>
+    id="id-82cd533bc73d46aead53da728413310d">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:Grouping>

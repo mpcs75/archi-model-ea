@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onweerlegbaarheid applicatie"
     id="id-320ab8d6cb2d47629f2c3c9d7f798968"
-    documentation="De waarborg dat ontvangst en/of verzending van een gegevens niet kan worden ontkend door betrokken applicaties, respectievelijk de ontvanger en de verzender. (zelf toegevoegd)"/>
+    documentation="De waarborg dat ontvangst en/of verzending van een gegevens niet kan worden ontkend door betrokken applicaties, respectievelijk de ontvanger en de verzender. (zelf toegevoegd)">
+  <properties
+      key="Classificatie"
+      value="Generieke functie"/>
+</archimate:Capability>

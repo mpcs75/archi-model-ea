@@ -4,6 +4,6 @@
     id="id-22449b990bed4bc4acf8995f3c41ea7c"
     documentation="Verlenen en administratief vastleggen van een gewenste individuele en algemene gemakswoondienst zoals catering, parkeergelegenheid, ruimtes en telecomfaciliteiten. Omvat ook het verbeteren van bestaande diensten en het afhandelen van storingen. Woondiensten kunnen betrekking hebben op zowel de intramurale als de extramurale setting.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

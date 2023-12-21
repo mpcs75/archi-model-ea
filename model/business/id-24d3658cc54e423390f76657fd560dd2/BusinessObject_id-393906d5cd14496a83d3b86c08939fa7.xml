@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="UitkomstVanZorg"
     id="id-393906d5cd14496a83d3b86c08939fa7"
-    documentation="Het concept Uitkomst van zorg (zorgresultaten) beschrijft de vastgestelde status van de patiënt met betrekking tot een bepaald probleem. Het geeft door vergelijking met het behandeldoel inzicht in de effectiviteit van verpleegkundige interventies/activiteiten die ingezet zijn met betrekking tot dit probleem. Het is een onderdeel van het verpleegkundig proces, samen met verpleegkundige diagnoses/problemen, behandeldoel en verpleegkundige interventies. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/UitkomstVanZorg-v3.2(2020NL)"/>
+    documentation="Het concept Uitkomst van zorg (zorgresultaten) beschrijft de vastgestelde status van de patiënt met betrekking tot een bepaald probleem. Het geeft door vergelijking met het behandeldoel inzicht in de effectiviteit van verpleegkundige interventies/activiteiten die ingezet zijn met betrekking tot dit probleem. Het is een onderdeel van het verpleegkundig proces, samen met verpleegkundige diagnoses/problemen, behandeldoel en verpleegkundige interventies. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/UitkomstVanZorg-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

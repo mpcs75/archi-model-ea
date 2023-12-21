@@ -4,6 +4,6 @@
     id="id-745ed0c2a68142a6926e2424f19f6c64"
     documentation="&quot;Een actuele lijst/momentopname van het medicatiegebruik door een patiënt.&#xD;&#xA;Er zijn verschillende typen te onderscheiden:&#xD;&#xA;- Medicatie anamnese &#xD;&#xA;- Opnamemedicatie&#xD;&#xA;- Ontslagmedicatie&quot;">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

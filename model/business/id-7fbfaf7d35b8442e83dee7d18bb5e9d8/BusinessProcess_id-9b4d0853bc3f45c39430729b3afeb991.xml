@@ -4,6 +4,6 @@
     id="id-9b4d0853bc3f45c39430729b3afeb991"
     documentation="Het verkrijgen van (schriftelijke) toestemming van de patiënt of de regievoerder voor de uitvoering van een behandeling conform een behandelplan.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

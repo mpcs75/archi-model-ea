@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VermogenTotDrinken"
     id="id-19923b219d7e40d1a565e7ce650101ff"
-    documentation="Zelfstandig drinken kunnen bereiden en nuttigen is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied.&#xD;&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere eten, zich kleden en zich wassen, ook aangeduid als algemene dagelijkse levensverrichtingen (ADL). Dit zijn de handelingen die mensen dagelijks in het gewone leven verrichten. De mate waarin een persoon al deze activiteiten zelfstandig kan verrichten zijn een maat voor de totale zelfredzaamheid.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotDrinken-v3.1.1(2020NL)"/>
+    documentation="Zelfstandig drinken kunnen bereiden en nuttigen is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied.&#xD;&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere eten, zich kleden en zich wassen, ook aangeduid als algemene dagelijkse levensverrichtingen (ADL). Dit zijn de handelingen die mensen dagelijks in het gewone leven verrichten. De mate waarin een persoon al deze activiteiten zelfstandig kan verrichten zijn een maat voor de totale zelfredzaamheid.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotDrinken-v3.1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ImmunizationRecommendation"
     id="id-c54cbd6958d541f09defa4b5b931b0ca"
-    documentation="A patient's point-in-time set of recommendations (i.e. forecasting) according to a published schedule with optional supporting justification.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunizationrecommendation.html"/>
+    documentation="A patient's point-in-time set of recommendations (i.e. forecasting) according to a published schedule with optional supporting justification.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunizationrecommendation.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -4,6 +4,6 @@
     id="id-2bb088fb1fd94153992078e5cee9c7e3"
     documentation="Dit domein bevat de activiteiten op het gebied van wetenschappelijk onderzoek.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Principle"
-    id="id-9920663d55b047b183f1ea7414070195"/>
+    id="id-9920663d55b047b183f1ea7414070195">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Principle>

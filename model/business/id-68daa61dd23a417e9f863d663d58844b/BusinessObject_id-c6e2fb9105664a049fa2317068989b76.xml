@@ -4,6 +4,6 @@
     id="id-c6e2fb9105664a049fa2317068989b76"
     documentation="Van een uit te voeren onderzoek wordt o.a. vastgelegd: type onderzoek, te gebruiken methodiek, materialen, kosten en doorlooptijd.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorlichting"
     id="id-d6f43f5833504c1aab97f28cf29a87a9"
-    documentation="Functionaliteit die het geven van voorlichting via verschillende kanalen ondersteunt">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-126"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit die het geven van voorlichting via verschillende kanalen ondersteunt"/>

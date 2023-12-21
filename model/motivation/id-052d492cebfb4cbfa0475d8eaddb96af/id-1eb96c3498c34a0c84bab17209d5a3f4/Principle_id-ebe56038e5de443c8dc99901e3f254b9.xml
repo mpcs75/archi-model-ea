@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doelbinding en proportionaliteit geven kaders"
     id="id-ebe56038e5de443c8dc99901e3f254b9"
-    documentation="Doelbinding en proportionaliteit geven kaders waarbinnen data beschikbaar mag worden gesteld. Hiervoor is een andere, passendere interpretatie van de (U)AVG nodig."/>
+    documentation="Doelbinding en proportionaliteit geven kaders waarbinnen data beschikbaar mag worden gesteld. Hiervoor is een andere, passendere interpretatie van de (U)AVG nodig.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

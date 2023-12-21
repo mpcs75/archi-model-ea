@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Goal"
     id="id-dcf1a5e76b354030a7d09f239bbccd09"
-    documentation="Describes the intended objective(s) for a patient, group or organization care, for example, weight loss, restoring an activity of daily living, obtaining herd immunity via immunization, meeting a process improvement objective, etc.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/goal.html"/>
+    documentation="Describes the intended objective(s) for a patient, group or organization care, for example, weight loss, restoring an activity of daily living, obtaining herd immunity via immunization, meeting a process improvement objective, etc.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/goal.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

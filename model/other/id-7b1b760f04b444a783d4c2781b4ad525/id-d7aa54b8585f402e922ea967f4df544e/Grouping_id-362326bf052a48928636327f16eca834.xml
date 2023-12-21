@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NVS - Plateaus: Digitale diensten voor zorg en gezondheid"
-    id="id-362326bf052a48928636327f16eca834"/>
+    id="id-362326bf052a48928636327f16eca834">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

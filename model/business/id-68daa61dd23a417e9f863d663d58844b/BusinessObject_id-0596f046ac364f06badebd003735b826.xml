@@ -4,6 +4,6 @@
     id="id-0596f046ac364f06badebd003735b826"
     documentation="In te zetten middelen (medisch en niet medisch) zoals bedden, apparatuur, diagnostische instrumenten en voeding.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet verplichte ggz (Wvggz)"
     id="id-36e3eefb5837418fa9df1f75a63e9b52"
-    documentation="- Rechten van mensen die verplichte ggz krijgen opgelegd vanwege psychische problemen.&#xD;&#xA;- Verplicht gemeenten onderzoek te doen als mensen melden dat naasten gevaarlijk zijn voor zichzelf of anderen.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-2&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0040635&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_verplichte_geestelijke_gezondheidszorg"/>
+    documentation="- Rechten van mensen die verplichte ggz krijgen opgelegd vanwege psychische problemen.&#xD;&#xA;- Verplicht gemeenten onderzoek te doen als mensen melden dat naasten gevaarlijk zijn voor zichzelf of anderen.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-2&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0040635&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_verplichte_geestelijke_gezondheidszorg">
+  <properties
+      key="Classificatie"
+      value="Stelselwet"/>
+</archimate:Constraint>

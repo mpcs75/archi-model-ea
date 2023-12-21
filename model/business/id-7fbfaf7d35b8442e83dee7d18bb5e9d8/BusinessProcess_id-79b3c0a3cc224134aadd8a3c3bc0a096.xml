@@ -4,6 +4,6 @@
     id="id-79b3c0a3cc224134aadd8a3c3bc0a096"
     documentation="Verantwoording afleggen over de mate waarin voldaan wordt aan de opgelegde prestaties.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

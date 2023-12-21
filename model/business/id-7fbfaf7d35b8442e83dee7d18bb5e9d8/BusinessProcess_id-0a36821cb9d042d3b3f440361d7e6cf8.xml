@@ -4,6 +4,6 @@
     id="id-0a36821cb9d042d3b3f440361d7e6cf8"
     documentation="Aan de patiënt leveren van medisch inhoudelijke en zorginformatie door zorgverleners en ondersteuners, zowel tijdens een regulier consult of bijvoorbeeld op forums, op patiëntverenigingen of via e-consult. Dit kan ook zijn op verzoek van patiënt (bijvoorbeeld inzage in zijn of haar dossier).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

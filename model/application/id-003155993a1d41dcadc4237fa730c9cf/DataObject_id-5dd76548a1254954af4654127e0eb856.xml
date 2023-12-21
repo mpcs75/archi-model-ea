@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SubstanceSpecification"
     id="id-5dd76548a1254954af4654127e0eb856"
-    documentation="The detailed description of a substance, typically at a level beyond what is used for prescribing.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/substancespecification.html"/>
+    documentation="The detailed description of a substance, typically at a level beyond what is used for prescribing.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/substancespecification.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticatie cliënt"
-    id="id-cf89e46746194f9f87448ad0f7128ba6"/>
+    id="id-cf89e46746194f9f87448ad0f7128ba6">
+  <properties
+      key="Classificatie"
+      value="Generieke functie"/>
+</archimate:Capability>

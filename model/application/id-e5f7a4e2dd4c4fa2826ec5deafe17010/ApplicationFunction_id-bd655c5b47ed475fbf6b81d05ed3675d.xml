@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proces &amp; Architecuur"
     id="id-bd655c5b47ed475fbf6b81d05ed3675d"
-    documentation="Functionaliteit voor het ontwikkelen en beheren van de enterprise architectuur (organisatie, processen, informatie, applicatie, techniek)">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-18"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het ontwikkelen en beheren van de enterprise architectuur (organisatie, processen, informatie, applicatie, techniek)"/>

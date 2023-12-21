@@ -4,6 +4,6 @@
     id="id-6cdb743564f840d4a1168b7bc8ec62ac"
     documentation="Verzoek tot planning van een interactie tussen een patiënt en een zorgverlener. Een afspraak heeft een bepaalde tijd, duur, plaats en doel.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

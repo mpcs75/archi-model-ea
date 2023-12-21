@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zelfmanagement en autonomie"
-    id="id-8767686de029415b9c3e4034a83e9daa"/>
+    id="id-8767686de029415b9c3e4034a83e9daa">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

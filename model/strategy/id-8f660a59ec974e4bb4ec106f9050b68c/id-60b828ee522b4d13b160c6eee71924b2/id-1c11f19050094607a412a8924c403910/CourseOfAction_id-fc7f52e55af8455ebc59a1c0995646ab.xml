@@ -4,6 +4,6 @@
     id="id-fc7f52e55af8455ebc59a1c0995646ab"
     documentation="Een selectie van de gegevensuitwisselingen uit de Richtlijn Gegevensuitwisseling Acute zorg wordt door VWS in 2023 aan de Meerjarenagenda Wegiz toegevoegd en tevens prioritair gemaakt indien aan alle vereiste voorwaarden is voldaan.">
   <properties
-      key="Categorie"
-      value="Integraal Zorg Akkoord (IZA)"/>
+      key="Classificatie"
+      value="IZA"/>
 </archimate:CourseOfAction>

@@ -4,6 +4,6 @@
     id="id-f43f63e7cc5e4243b640f7c8d5245589"
     documentation="Publicaties en informatie uit het wetenschappelijk onderzoek.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

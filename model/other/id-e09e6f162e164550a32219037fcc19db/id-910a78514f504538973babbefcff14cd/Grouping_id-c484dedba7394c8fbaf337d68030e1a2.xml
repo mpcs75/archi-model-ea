@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2024 - Doelstellingen I"
-    id="id-c484dedba7394c8fbaf337d68030e1a2"/>
+    id="id-c484dedba7394c8fbaf337d68030e1a2">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Grouping>

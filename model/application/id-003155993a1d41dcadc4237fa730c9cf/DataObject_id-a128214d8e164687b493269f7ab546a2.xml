@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Immunization"
     id="id-a128214d8e164687b493269f7ab546a2"
-    documentation="Describes the event of a patient being administered a vaccine or a record of an immunization as reported by a patient, a clinician or another party.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunization.html"/>
+    documentation="Describes the event of a patient being administered a vaccine or a record of an immunization as reported by a patient, a clinician or another party.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/immunization.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

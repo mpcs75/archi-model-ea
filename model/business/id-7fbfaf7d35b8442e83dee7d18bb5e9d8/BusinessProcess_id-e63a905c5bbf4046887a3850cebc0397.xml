@@ -4,6 +4,6 @@
     id="id-e63a905c5bbf4046887a3850cebc0397"
     documentation="Onderhouden en beheren van de bedrijfsbrede inventaris, vervoersmiddelen en overige facilitaire hulpmiddelen.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

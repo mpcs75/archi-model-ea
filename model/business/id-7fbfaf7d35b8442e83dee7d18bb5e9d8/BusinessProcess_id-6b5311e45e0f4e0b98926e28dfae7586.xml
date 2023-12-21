@@ -4,6 +4,6 @@
     id="id-6b5311e45e0f4e0b98926e28dfae7586"
     documentation="Middels gerichte vragen verzamelen van informatie rond levensgewoonten, voorgeschiedenis, klachten en wensen; dit kan ook voorafgaande aan anamnese zijn aangeleverd middels bijvoorbeeld vragenlijsten of zelfmanagementinformatie, gesprekken met patiënt (c.q. regievoerder) en/of naastbetrokkenen, door ketenpartners, of het naslaan van de medische voorgeschiedenis.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

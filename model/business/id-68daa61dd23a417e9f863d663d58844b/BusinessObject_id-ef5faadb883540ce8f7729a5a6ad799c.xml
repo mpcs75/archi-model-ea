@@ -4,6 +4,6 @@
     id="id-ef5faadb883540ce8f7729a5a6ad799c"
     documentation="De vraag om zorg/behandeling van een patiënt aan een zorgverlener, doorgaans naar aanleiding van een bepaalde klacht of behoefte.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

@@ -4,6 +4,6 @@
     id="id-74fb017929784e05997c1c79de134d9b"
     documentation="Vaststellen en plannen van gewenste inzet van ruimtes en kamers.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

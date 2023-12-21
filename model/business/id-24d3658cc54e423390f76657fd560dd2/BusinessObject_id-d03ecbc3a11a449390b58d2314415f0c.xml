@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ChecklistPijngedrag"
     id="id-d03ecbc3a11a449390b58d2314415f0c"
-    documentation="De CPG (Checklist Pijn Gedrag) is een pijnobservatie-instrument, dat wordt gebruikt om het gedrag te beoordelen van kinderen met een uitingsbeperking, of met een ernstige verstandelijke beperking .&#xD;&#xA;De CPG telt tien observaties waarop gelet moet worden. De eindscore geeft aan of het geobserveerde kind pijn lijdt en ook ‘hoe erg’. Waarbij score 1,2, 3 staat voor geen tot lichte pijn, 4,5,6 voor matige pijn en 7,8,9,10 staat voor ernstige pijn. De score wordt vaak gecombineerd met een VAS-score die door de verpleegkundigen wordt ingevuld op basis van de klinische blik.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ChecklistPijngedrag-v1.1(2020NL)"/>
+    documentation="De CPG (Checklist Pijn Gedrag) is een pijnobservatie-instrument, dat wordt gebruikt om het gedrag te beoordelen van kinderen met een uitingsbeperking, of met een ernstige verstandelijke beperking .&#xD;&#xA;De CPG telt tien observaties waarop gelet moet worden. De eindscore geeft aan of het geobserveerde kind pijn lijdt en ook ‘hoe erg’. Waarbij score 1,2, 3 staat voor geen tot lichte pijn, 4,5,6 voor matige pijn en 7,8,9,10 staat voor ernstige pijn. De score wordt vaak gecombineerd met een VAS-score die door de verpleegkundigen wordt ingevuld op basis van de klinische blik.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ChecklistPijngedrag-v1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

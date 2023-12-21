@@ -4,6 +4,6 @@
     id="id-508dc96784754b61ad65b2864a0b495a"
     documentation="Overeenkomsten tussen zorginstellingen en financiers over de productie, waarmee rekening gehouden wordt bij het voor een bepaald jaar overeen te komen (kosten)budget.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

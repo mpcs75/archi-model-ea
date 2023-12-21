@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opiumwet"
     id="id-a6c45241b96540579aa5dc70ec4165e2"
-    documentation="- Ontheffing voor het bewaren, bereiden en verstrekken van opiaten.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/geneesmiddelenzorg/zorgwetten-geneesmiddelenzorg&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0001941&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Opiumwet"/>
+    documentation="- Ontheffing voor het bewaren, bereiden en verstrekken van opiaten.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/geneesmiddelenzorg/zorgwetten-geneesmiddelenzorg&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0001941&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Opiumwet">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

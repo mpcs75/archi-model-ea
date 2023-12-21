@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metingen"
-    id="id-b799fcba181e4582aef0e184c06bc1d0"/>
+    id="id-b799fcba181e4582aef0e184c06bc1d0">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:Grouping>

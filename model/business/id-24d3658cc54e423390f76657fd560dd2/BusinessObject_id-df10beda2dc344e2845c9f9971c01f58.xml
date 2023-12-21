@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zwangerschap"
     id="id-df10beda2dc344e2845c9f9971c01f58"
-    documentation="Zwangerschap of graviditeit is de toestand waarin een vrouw een bevruchte eicel, en vervolgens embryo en foetus, in zich draagt. Een zwangerschapsduur tussen 37 en 42 weken wordt als normaal beschouwd. De periode van 37 tot 42 weken wordt de &quot;à terme periode&quot; genoemd. De term graviditeit wordt ook gebruikt voor het aantal malen dat een vrouw zwanger is geweest. Samen met de pariteit, het aantal keren dat een vrouw bevallen is, geeft dit inzicht in de obstetrische voorgeschiedenis van de patiënt.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Zwangerschap-v4.0(2020NL)"/>
+    documentation="Zwangerschap of graviditeit is de toestand waarin een vrouw een bevruchte eicel, en vervolgens embryo en foetus, in zich draagt. Een zwangerschapsduur tussen 37 en 42 weken wordt als normaal beschouwd. De periode van 37 tot 42 weken wordt de &quot;à terme periode&quot; genoemd. De term graviditeit wordt ook gebruikt voor het aantal malen dat een vrouw zwanger is geweest. Samen met de pariteit, het aantal keren dat een vrouw bevallen is, geeft dit inzicht in de obstetrische voorgeschiedenis van de patiënt.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Zwangerschap-v4.0(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

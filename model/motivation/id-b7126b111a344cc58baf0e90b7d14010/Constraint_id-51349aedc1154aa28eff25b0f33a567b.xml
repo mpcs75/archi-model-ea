@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NEN 7513"
     id="id-51349aedc1154aa28eff25b0f33a567b"
-    documentation="Medische informatica - Logging - Vastleggen van acties op elektronische patiëntdossiers&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/&#xD;&#xA;"/>
+    documentation="Medische informatica - Logging - Vastleggen van acties op elektronische patiëntdossiers&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

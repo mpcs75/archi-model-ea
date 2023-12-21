@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Het vertrouwensmodel borgt de security en privacy (by design)"
     id="id-5b87050755ec46b1820d0fd37146b4d9"
-    documentation="Het vertrouwensmodel borgt de security van systemen en privacy (by design). Onderdeel van het vertrouwensmodel is onder andere eenvoudige identificatie, authenticatie, autorisatie, logging, toestemming en behandelrelatie en de rollen en verantwoordelijkheden die daarbij horen"/>
+    documentation="Het vertrouwensmodel borgt de security van systemen en privacy (by design). Onderdeel van het vertrouwensmodel is onder andere eenvoudige identificatie, authenticatie, autorisatie, logging, toestemming en behandelrelatie en de rollen en verantwoordelijkheden die daarbij horen">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

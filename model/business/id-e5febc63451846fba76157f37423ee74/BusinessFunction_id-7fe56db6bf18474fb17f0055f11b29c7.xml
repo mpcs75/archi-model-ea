@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer gebouwen en inventaris"
+    id="id-7fe56db6bf18474fb17f0055f11b29c7"
+    documentation="Domein voor de activiteiten en informatie met betrekking tot het beheren , exploiteren, en adviseren van gebouw en inventaris.&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="RDC"/>
+</archimate:BusinessFunction>

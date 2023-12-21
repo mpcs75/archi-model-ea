@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diagnostics"
-    id="id-d2aa16db71ae4bf4abb1dc395572b937"/>
+    id="id-d2aa16db71ae4bf4abb1dc395572b937">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:Grouping>

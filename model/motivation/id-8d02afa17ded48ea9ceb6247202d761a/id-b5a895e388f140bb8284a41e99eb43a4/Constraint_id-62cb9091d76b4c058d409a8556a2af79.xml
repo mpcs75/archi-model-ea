@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet open overheid (Woo)"
     id="id-62cb9091d76b4c058d409a8556a2af79"
-    documentation="- Recht op inzien en gebruiken van openbare overheidsinformatie.&#xD;&#xA;- Verplichting voor overheid om deze informatie te delen&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0045754&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_open_overheid"/>
+    documentation="- Recht op inzien en gebruiken van openbare overheidsinformatie.&#xD;&#xA;- Verplichting voor overheid om deze informatie te delen&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0045754&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_open_overheid">
+  <properties
+      key="Classificatie"
+      value="Algemene wet"/>
+</archimate:Constraint>

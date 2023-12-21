@@ -4,6 +4,6 @@
     id="id-cedd6db3756a4880be649adb9238230f"
     documentation="Vaststellen van de eigenheid (identificatie) van andere zorgaanbiedende organisaties en het vastleggen van gegevens van deze organisaties.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

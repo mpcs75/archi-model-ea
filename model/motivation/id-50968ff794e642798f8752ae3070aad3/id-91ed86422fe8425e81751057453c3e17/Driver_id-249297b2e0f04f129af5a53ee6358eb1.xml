@@ -1,4 +1,8 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Consult"
-    id="id-249297b2e0f04f129af5a53ee6358eb1"/>
+    id="id-249297b2e0f04f129af5a53ee6358eb1">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Driver>

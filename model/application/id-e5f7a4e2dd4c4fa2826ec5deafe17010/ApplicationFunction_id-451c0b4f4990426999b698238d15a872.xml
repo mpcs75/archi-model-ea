@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenwerking zorgverleners"
     id="id-451c0b4f4990426999b698238d15a872"
-    documentation="Functionaliteit voor het coördineren van zorg met andere zorgverleners en het documenteren daarvan">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="CP.9 Manage Care Coordination &amp; Reporting"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het coördineren van zorg met andere zorgverleners en het documenteren daarvan"/>

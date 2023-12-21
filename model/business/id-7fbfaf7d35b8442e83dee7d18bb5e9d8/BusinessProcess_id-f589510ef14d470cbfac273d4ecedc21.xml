@@ -4,6 +4,6 @@
     id="id-f589510ef14d470cbfac273d4ecedc21"
     documentation="Beoordelen van de resultaten van aanvullend onderzoek of door patiënt zelf uitgevoerd onderzoek en deze betrekken bij diagnose en behandelplan.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

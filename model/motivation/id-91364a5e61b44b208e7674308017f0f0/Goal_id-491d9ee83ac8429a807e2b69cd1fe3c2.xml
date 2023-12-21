@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regie"
     id="id-491d9ee83ac8429a807e2b69cd1fe3c2"
-    documentation="Regie is nodig om het gezondheidsinformatiestelsel te realiseren en vertrouwen een rotsvaste basis te geven. Met controlemogelijkheden voor de burger. Een doortastende governance geeft sturing aan een effectief en duurzaam gezondheidsinformatiestelsel en houdt rekening en aansluiting met internationale ontwikkelingen. Het is zaak dat dit geborgd is in 2035."/>
+    documentation="Regie is nodig om het gezondheidsinformatiestelsel te realiseren en vertrouwen een rotsvaste basis te geven. Met controlemogelijkheden voor de burger. Een doortastende governance geeft sturing aan een effectief en duurzaam gezondheidsinformatiestelsel en houdt rekening en aansluiting met internationale ontwikkelingen. Het is zaak dat dit geborgd is in 2035.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Goal>

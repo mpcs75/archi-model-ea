@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innovatie"
-    id="id-968ab4317d1d4d5faaee348dfb0e6b65"/>
+    id="id-968ab4317d1d4d5faaee348dfb0e6b65">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

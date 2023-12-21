@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kernenergiewet"
     id="id-cf2fd04b893b40e6a6189f967508fbc7"
-    documentation="- Wie onder welke voorwaarden mag werken met kernenergie, zoals röntgenstraling en isotopen.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/geneesmiddelenzorg/zorgwetten-geneesmiddelenzorg&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0002402&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Kernenergiewet"/>
+    documentation="- Wie onder welke voorwaarden mag werken met kernenergie, zoals röntgenstraling en isotopen.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/geneesmiddelenzorg/zorgwetten-geneesmiddelenzorg&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0002402&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Kernenergiewet">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

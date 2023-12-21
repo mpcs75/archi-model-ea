@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relatiebeheer"
     id="id-d3ad46aebe164a2d84609be9e32c3555"
-    documentation="Functionaliteit ter ondersteuning van relatiebeheer in brede zin.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-144"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit ter ondersteuning van relatiebeheer in brede zin."/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Converteren historische data"
     id="id-8c8454049edf4ec3b858c75d15c0834f"
-    documentation="Men moet afwegen of ook historische data naar het digitale gestandaardiseerde formaat moet worden geconverteerd."/>
+    documentation="Men moet afwegen of ook historische data naar het digitale gestandaardiseerde formaat moet worden geconverteerd.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

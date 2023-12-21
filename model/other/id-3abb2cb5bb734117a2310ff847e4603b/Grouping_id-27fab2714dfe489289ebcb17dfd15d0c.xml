@@ -4,6 +4,6 @@
     id="id-27fab2714dfe489289ebcb17dfd15d0c"
     documentation="Binnen Zorgprocesondersteuning vallen de domeinen die ondersteunend zijn aan het zorgproces.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:Grouping>

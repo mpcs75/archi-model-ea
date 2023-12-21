@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Patientenlogistiek"
     id="id-fc39d50825d2476b9a74b887e4416d15"
-    documentation="Functionaliteit voor de ondersteuning van het verplaatsen van mensen en middelen (bv transportlogistiek, route ondersteuning, track &amp; tracing, aanmeldregistratie, wachtrijmanagement, oproepfunctionaliteit en functionaliteit tbv sterilisatie van middelen)">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="ZiRA"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor de ondersteuning van het verplaatsen van mensen en middelen (bv transportlogistiek, route ondersteuning, track &amp; tracing, aanmeldregistratie, wachtrijmanagement, oproepfunctionaliteit en functionaliteit tbv sterilisatie van middelen)"/>

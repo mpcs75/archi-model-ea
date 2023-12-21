@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Performance &amp; Verantwoording"
     id="id-242f1bf77ede4e0ebb512eff8d67542c"
-    documentation="Functionaliteit voor het beheren van productieafspraken, KPI's inclusief beheer van de verantwoording in het kader van wet &amp; regelgeving alsmede prestaties en maatschappelijk verantwoordschap">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-24"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het beheren van productieafspraken, KPI's inclusief beheer van de verantwoording in het kader van wet &amp; regelgeving alsmede prestaties en maatschappelijk verantwoordschap"/>

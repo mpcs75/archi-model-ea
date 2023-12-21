@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deliverable"
-    id="id-93203a7e1e734ad0a3af2c7c07bad0fd"/>
+    id="id-93203a7e1e734ad0a3af2c7c07bad0fd">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Deliverable>

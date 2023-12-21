@@ -4,6 +4,6 @@
     id="id-c982c25e442f48a98344837e66938265"
     documentation="Beschrijving van de leveringsvoorwaarden.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

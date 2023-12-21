@@ -4,6 +4,6 @@
     id="id-24ed7a46849447ed910d80a08bf9af1f"
     documentation="Routine Outcome Monitoring (afgekort als ROM) is de methodiek in de geestelijke gezondheidszorg waarbij regelmatig metingen gedaan worden van de toestand van de patiënten met het oog op evaluatie en eventueel bijsturing van de behandeling.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

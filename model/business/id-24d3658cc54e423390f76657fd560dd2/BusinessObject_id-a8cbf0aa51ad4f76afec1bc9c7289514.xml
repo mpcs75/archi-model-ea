@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mobiliteit"
     id="id-a8cbf0aa51ad4f76afec1bc9c7289514"
-    documentation="Mobiliteit beschrijft mogelijkheden en eventuele beperkingen t.a.v. alle aspecten van mobiliteit, zoals het veranderen van lichaamshouding, lopen en voortbewegen, eventueel met behulp van hulpmiddelen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Mobiliteit-v3.3(2020NL)"/>
+    documentation="Mobiliteit beschrijft mogelijkheden en eventuele beperkingen t.a.v. alle aspecten van mobiliteit, zoals het veranderen van lichaamshouding, lopen en voortbewegen, eventueel met behulp van hulpmiddelen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Mobiliteit-v3.3(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

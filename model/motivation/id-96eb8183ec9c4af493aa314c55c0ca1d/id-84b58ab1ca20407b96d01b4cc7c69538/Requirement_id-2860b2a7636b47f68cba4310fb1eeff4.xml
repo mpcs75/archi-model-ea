@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4. Gebruik data voor secundaire doelen"
     id="id-2860b2a7636b47f68cba4310fb1eeff4"
-    documentation="Data wordt digitaal, eenduidig en gestandaardiseerd geregistreerd in het zorgproces en beschikbaar gesteld voor diverse secundaire doelen."/>
+    documentation="Data wordt digitaal, eenduidig en gestandaardiseerd geregistreerd in het zorgproces en beschikbaar gesteld voor diverse secundaire doelen.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

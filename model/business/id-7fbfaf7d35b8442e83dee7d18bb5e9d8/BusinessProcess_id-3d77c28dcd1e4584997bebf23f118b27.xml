@@ -4,6 +4,6 @@
     id="id-3d77c28dcd1e4584997bebf23f118b27"
     documentation="Ad hoc bijstellen van zorg voor de patiënt, incidentele zorgmomenten, incidenteel inschakelen disciplines etc. zoals bijvoorbeeld bij het verlenen van FACT zorg of SPITS. Ook wel: reageren op de actuele situatie zonder daar een formeel multidisciplinair gesprek over aan te gaan.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

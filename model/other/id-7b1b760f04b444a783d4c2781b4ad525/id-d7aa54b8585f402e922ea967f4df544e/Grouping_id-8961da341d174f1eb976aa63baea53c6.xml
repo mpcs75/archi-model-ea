@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Internationale ontwikkelingen"
-    id="id-8961da341d174f1eb976aa63baea53c6"/>
+    id="id-8961da341d174f1eb976aa63baea53c6">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

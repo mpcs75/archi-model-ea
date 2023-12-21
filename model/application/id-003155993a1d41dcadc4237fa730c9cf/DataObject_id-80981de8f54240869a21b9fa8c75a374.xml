@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MedicinalProductPackaged"
     id="id-80981de8f54240869a21b9fa8c75a374"
-    documentation="A medicinal product in a container or package.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductpackaged.html"/>
+    documentation="A medicinal product in a container or package.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductpackaged.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

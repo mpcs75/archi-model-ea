@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Project &amp; Portfoliomanagement"
     id="id-31345c76693241e2b215ecf071e0f92c"
-    documentation="Functionaliteit voor het beheren van projecten en programma's.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-20"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het beheren van projecten en programma's."/>

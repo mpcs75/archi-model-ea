@@ -2,23 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datamanagement"
     id="id-732a82dc67164ef58da01d320b2e42c8"
-    documentation="Functionaliteit voor ondersteunen van datamanagement, inclusief reference &amp; master datamangement, metadatamanagement, dataanalytics">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="TI.4 Standard Terminology and Terminology Services"/>
-  <properties
-      key="ExternalReference"
-      value="AS.8 Manage Information Access for Supplemental Use"/>
-  <properties
-      key="ExternalReference"
-      value="TI.5 Standards-Based Interoperability"/>
-  <properties
-      key="showdecoration"
-      value="TRUE"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor ondersteunen van datamanagement, inclusief reference &amp; master datamangement, metadatamanagement, dataanalytics"/>

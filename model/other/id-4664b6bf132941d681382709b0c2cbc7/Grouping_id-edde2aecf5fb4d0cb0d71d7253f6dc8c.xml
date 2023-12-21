@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Subbouwstenen"
-    id="id-edde2aecf5fb4d0cb0d71d7253f6dc8c"/>
+    id="id-edde2aecf5fb4d0cb0d71d7253f6dc8c">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:Grouping>

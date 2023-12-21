@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="G. Gezond leven en preventie"
     id="id-79cc48177e8342e1b47c4d14e3e35c30"
-    documentation="Gezondheid is een breed begrip. Het gaat om het fysieke, mentale en maatschappelijke welzijn van mensen. Een gezonde leefstijl zal onderdeel moeten gaan uitmaken van ons dagelijks leven. Ondersteuning daarbij komt allereerst vanuit het publieke of sociale domein. Preventie die betaald wordt uit de Zorgverzekeringswet wordt vooral ingezet bij zieke mensen of mensen met een verhoogd risico op ziekte.&#xD;&#xA;&#xD;&#xA;VZVZ - Apps gericht op (preventieve gezondheid) gezondheid kunnen er voor zorgen dat er geen eerste en tweedelijns zorg noodzakelijk is"/>
+    documentation="Gezondheid is een breed begrip. Het gaat om het fysieke, mentale en maatschappelijke welzijn van mensen. Een gezonde leefstijl zal onderdeel moeten gaan uitmaken van ons dagelijks leven. Ondersteuning daarbij komt allereerst vanuit het publieke of sociale domein. Preventie die betaald wordt uit de Zorgverzekeringswet wordt vooral ingezet bij zieke mensen of mensen met een verhoogd risico op ziekte.&#xD;&#xA;&#xD;&#xA;VZVZ - Apps gericht op (preventieve gezondheid) gezondheid kunnen er voor zorgen dat er geen eerste en tweedelijns zorg noodzakelijk is">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

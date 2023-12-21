@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AdverseEvent"
     id="id-48654636c7e7487e9c38cf5c1e62e475"
-    documentation="Actual or potential/avoided event causing unintended physical injury resulting from or contributed to by medical care, a research study or other healthcare setting factors that requires additional monitoring, treatment, or hospitalization, or that results in death.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/adverseevent.html"/>
+    documentation="Actual or potential/avoided event causing unintended physical injury resulting from or contributed to by medical care, a research study or other healthcare setting factors that requires additional monitoring, treatment, or hospitalization, or that results in death.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/adverseevent.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

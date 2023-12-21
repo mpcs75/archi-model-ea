@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschikken over benodigde gegevens"
     id="id-afd2e5faaead49038e6b1c04ae0f70aa"
-    documentation="Alle deelnemers aan het zorgnetwerk kunnen beschikken over alle benodigde gegevens om hun rol in dat netwerk goed te kunnen vervullen."/>
+    documentation="Alle deelnemers aan het zorgnetwerk kunnen beschikken over alle benodigde gegevens om hun rol in dat netwerk goed te kunnen vervullen.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

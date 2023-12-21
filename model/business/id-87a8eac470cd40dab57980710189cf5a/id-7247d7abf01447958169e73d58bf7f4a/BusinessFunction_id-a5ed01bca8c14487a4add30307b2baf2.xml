@@ -4,6 +4,6 @@
     id="id-a5ed01bca8c14487a4add30307b2baf2"
     documentation="Dit domein bevat de activiteiten op het gebied van het verzorgen van de patiënt en het bieden van zorgondersteunende (klinische) diensten.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

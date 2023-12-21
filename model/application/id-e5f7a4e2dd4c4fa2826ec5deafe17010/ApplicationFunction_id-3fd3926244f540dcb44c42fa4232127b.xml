@@ -2,32 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensuitwisseling"
     id="id-3fd3926244f540dcb44c42fa4232127b"
-    documentation="Functionaliteit voor de ondersteuning van het gegevensuitwisselings (ESB, Message broker, e.d)">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="AS.4 Manage Communication"/>
-  <properties
-      key="ExternalReference"
-      value="CP.2 Render externally-sourced Information"/>
-  <properties
-      key="ExternalReference"
-      value="AS.2.1 Synchronize Patient Demographic Data"/>
-  <properties
-      key="ExternalReference"
-      value="TI.5 Standards-Based Interoperability"/>
-  <properties
-      key="ExternalReference"
-      value="CPS.2 Support externally-sourced Information"/>
-  <properties
-      key="ExternalReference"
-      value="CPS.8.6 Communication with Personal Health Record Systems"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor de ondersteuning van het gegevensuitwisselings (ESB, Message broker, e.d)"/>

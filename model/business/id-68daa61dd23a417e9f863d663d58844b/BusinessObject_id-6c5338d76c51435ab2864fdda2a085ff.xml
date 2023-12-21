@@ -4,6 +4,6 @@
     id="id-6c5338d76c51435ab2864fdda2a085ff"
     documentation="De registratie van in gebruik zijnde ICT-componenten (zowel hardware als software).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

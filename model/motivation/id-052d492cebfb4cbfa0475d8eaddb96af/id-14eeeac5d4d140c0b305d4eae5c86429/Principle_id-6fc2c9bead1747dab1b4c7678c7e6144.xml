@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stimulatie ontwikkeling digitale diensten"
     id="id-6fc2c9bead1747dab1b4c7678c7e6144"
-    documentation="Er vindt gerichte stimulatie plaats van de ontwikkeling van digitale diensten voor zorg en gezondheid."/>
+    documentation="Er vindt gerichte stimulatie plaats van de ontwikkeling van digitale diensten voor zorg en gezondheid.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

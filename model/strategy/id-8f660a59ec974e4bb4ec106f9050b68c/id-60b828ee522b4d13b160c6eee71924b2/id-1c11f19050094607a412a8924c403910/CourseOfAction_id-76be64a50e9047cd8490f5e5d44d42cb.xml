@@ -4,6 +4,6 @@
     id="id-76be64a50e9047cd8490f5e5d44d42cb"
     documentation="Werkt aan het sectoroverstijgend bruikbaar maken en het ZIB-compliant implementeren van de overeengekomen kerngegevens.">
   <properties
-      key="Categorie"
-      value="Integraal Zorg Akkoord (IZA)"/>
+      key="Classificatie"
+      value="IZA"/>
 </archimate:CourseOfAction>

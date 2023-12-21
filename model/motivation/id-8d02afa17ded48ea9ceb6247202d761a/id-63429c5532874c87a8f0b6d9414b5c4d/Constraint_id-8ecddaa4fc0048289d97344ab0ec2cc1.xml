@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet veiligheidsregio's (Wvs)"
     id="id-8ecddaa4fc0048289d97344ab0ec2cc1"
-    documentation="- Samenwerking bij rampenbestrijding en crisisbeheersing, inclusief de geneeskundige hulp daarbij.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0027466&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_veiligheidsregio%27s"/>
+    documentation="- Samenwerking bij rampenbestrijding en crisisbeheersing, inclusief de geneeskundige hulp daarbij.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0027466&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_veiligheidsregio%27s">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

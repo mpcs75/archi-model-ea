@@ -1,4 +1,8 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behandeling"
-    id="id-bc5a42a4b52e4bde9f64b68da696b70e"/>
+    id="id-bc5a42a4b52e4bde9f64b68da696b70e">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Driver>

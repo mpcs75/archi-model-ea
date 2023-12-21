@@ -4,6 +4,6 @@
     id="id-24f2c16e3083434f8d25b6867a5676a9"
     documentation="Curriculum en studieprogrammering voor regulier onderwijs (o.a. geneeskunde, verpleegkunde,paramedisch) en vervolgonderwijs (medische en verpleegkundige specialisaties).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

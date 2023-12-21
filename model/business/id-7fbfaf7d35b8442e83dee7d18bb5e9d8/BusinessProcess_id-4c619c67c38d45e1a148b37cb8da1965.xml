@@ -4,6 +4,6 @@
     id="id-4c619c67c38d45e1a148b37cb8da1965"
     documentation="Aanbieden van facilitaire diensten aan de organisatie door interne en externe partijen, zoals catering, afval, repro, (vergader)ruimtereservering, postverwerking, beveiliging en onderhoud van de groenvoorziening.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

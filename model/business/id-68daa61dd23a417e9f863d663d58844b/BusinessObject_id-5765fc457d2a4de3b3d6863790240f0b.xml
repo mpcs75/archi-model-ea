@@ -4,6 +4,6 @@
     id="id-5765fc457d2a4de3b3d6863790240f0b"
     documentation="Administratieve eenheid voor een vorm van behandelen of onderzoek die geldt als de basis waarop declaratie/facturatie van zorg plaatsvindt. Een voorbeelden hiervan is een DBC.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

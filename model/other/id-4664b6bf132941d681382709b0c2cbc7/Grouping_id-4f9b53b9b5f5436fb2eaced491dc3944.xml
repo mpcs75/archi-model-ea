@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klinische context"
-    id="id-4f9b53b9b5f5436fb2eaced491dc3944"/>
+    id="id-4f9b53b9b5f5436fb2eaced491dc3944">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:Grouping>

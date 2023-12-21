@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NVS - Plateaus: Omgeving"
-    id="id-27c0c2f627b54a839f995dc962909405"/>
+    id="id-27c0c2f627b54a839f995dc962909405">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

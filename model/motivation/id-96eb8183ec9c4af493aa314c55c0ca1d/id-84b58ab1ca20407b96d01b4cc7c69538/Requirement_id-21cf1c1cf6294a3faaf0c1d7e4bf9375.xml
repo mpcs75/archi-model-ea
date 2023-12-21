@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3. Transformatie naar hybride zorg"
     id="id-21cf1c1cf6294a3faaf0c1d7e4bf9375"
-    documentation="Om de zorg toegankelijk, kwalitatief en betaalbaar te houden is transformatie nodig naar hybride zorg."/>
+    documentation="Om de zorg toegankelijk, kwalitatief en betaalbaar te houden is transformatie nodig naar hybride zorg.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

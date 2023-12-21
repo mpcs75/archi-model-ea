@@ -4,6 +4,6 @@
     id="id-5efc60ea33674bc2a8e248451f369d86"
     documentation="Persoon die beroepsmatig zorg verleent, uit hoofde van een bepaalde kwalificatie en/of goedkeuring hiertoe van een bevoegde instantie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

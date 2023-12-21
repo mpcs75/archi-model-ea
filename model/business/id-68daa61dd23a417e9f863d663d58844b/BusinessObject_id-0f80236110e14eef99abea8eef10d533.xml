@@ -4,6 +4,6 @@
     id="id-0f80236110e14eef99abea8eef10d533"
     documentation="Informatie over ziekte en behandeling, zoals deze wordt verstrekt aan de patiënt door een zorgverlener.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

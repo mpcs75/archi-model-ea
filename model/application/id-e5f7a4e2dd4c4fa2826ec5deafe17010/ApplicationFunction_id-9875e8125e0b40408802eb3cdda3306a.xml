@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personeelbeheer"
     id="id-9875e8125e0b40408802eb3cdda3306a"
-    documentation="Functionaliteit die het administreren en managen van medewerkers ondersteunt.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-132"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit die het administreren en managen van medewerkers ondersteunt."/>

@@ -4,6 +4,6 @@
     id="id-65683f6044d049cc989756a25d21b9f2"
     documentation="Overzicht van alle bezittingen en de schulden van de organisatie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

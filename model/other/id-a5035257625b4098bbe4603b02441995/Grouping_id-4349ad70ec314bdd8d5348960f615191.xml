@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Foundation"
-    id="id-4349ad70ec314bdd8d5348960f615191"/>
+    id="id-4349ad70ec314bdd8d5348960f615191">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:Grouping>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VermogenTotVerpleegtechnischeHandelingen"
     id="id-5e4278d7e5ed42b2b66f1d5f044be538"
-    documentation="Bij de zorg voor een patiënt met een bepaalde aandoening of beperking worden vaak ‘verpleegtechnische’ handelingen door ouders, kinderen en/of mantelzorgers uitgevoerd. Volwassenen en oudere kinderen kunnen soms zelf ook bepaalde handelingen moeten uitvoeren. Het leren om handelingen uit te voeren vraagt om gerichte training/scholing. Bekwaamheid betreft niet alleen de correcte uitvoer van een bepaalde handeling, maar ook kennis over wat te doen bij complicaties. De beoordeling van de mate waarin de handeling zelfstandig uitgevoerd kan worden heeft uitsluitend betrekking op de aangegeven handeling.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotVerpleegtechnischeHandelingen-v1.0.1(2020NL)"/>
+    documentation="Bij de zorg voor een patiënt met een bepaalde aandoening of beperking worden vaak ‘verpleegtechnische’ handelingen door ouders, kinderen en/of mantelzorgers uitgevoerd. Volwassenen en oudere kinderen kunnen soms zelf ook bepaalde handelingen moeten uitvoeren. Het leren om handelingen uit te voeren vraagt om gerichte training/scholing. Bekwaamheid betreft niet alleen de correcte uitvoer van een bepaalde handeling, maar ook kennis over wat te doen bij complicaties. De beoordeling van de mate waarin de handeling zelfstandig uitgevoerd kan worden heeft uitsluitend betrekking op de aangegeven handeling.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotVerpleegtechnischeHandelingen-v1.0.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

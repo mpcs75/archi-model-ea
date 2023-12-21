@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tijdslijn"
-    id="id-5a41c5e1be9743a2be834f8e5d21df7e"/>
+    id="id-5a41c5e1be9743a2be834f8e5d21df7e">
+  <properties
+      key="Classificatie"
+      value="Generieke functie"/>
+</archimate:Capability>

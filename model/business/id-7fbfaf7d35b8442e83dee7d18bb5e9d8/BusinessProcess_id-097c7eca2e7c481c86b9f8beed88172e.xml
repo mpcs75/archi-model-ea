@@ -4,6 +4,6 @@
     id="id-097c7eca2e7c481c86b9f8beed88172e"
     documentation="Toezien op en controleren van juist gebruik van medicatie, zoals juiste dosering, gevaar bij allergie, (metabole) bijwerkingen, combinatie met zwangerschap en interactie met andere medicatie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

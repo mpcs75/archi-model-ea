@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data archiving"
     id="id-487f044e047c4c189c42015640d1304d"
-    documentation="Functionaliteit voor het archiveren van gegevens">
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="RI.3 Record Archive and Restore"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het archiveren van gegevens"/>

@@ -4,6 +4,6 @@
     id="id-ad78badceb6b4e78a27a4534a539f859"
     documentation="De administratieve gegevens die van de zorgontvanger worden vastgelegd, zoals het BSN, demografische gegevens, familie/contactpersonen, huisarts en verzekeringsgegevens.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

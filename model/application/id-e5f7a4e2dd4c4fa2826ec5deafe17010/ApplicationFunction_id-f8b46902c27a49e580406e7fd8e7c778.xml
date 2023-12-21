@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Backup &amp; recovery"
     id="id-f8b46902c27a49e580406e7fd8e7c778"
-    documentation="Functionaliteit voor back-up en herstel">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-180"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor back-up en herstel"/>

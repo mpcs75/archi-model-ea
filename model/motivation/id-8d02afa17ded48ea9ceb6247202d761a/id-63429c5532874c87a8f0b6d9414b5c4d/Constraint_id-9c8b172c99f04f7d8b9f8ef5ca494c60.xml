@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet kwaliteit, klachten en geschillen zorg (Wkkgz)"
     id="id-9c8b172c99f04f7d8b9f8ef5ca494c60"
-    documentation="- Waarborging zorgkwaliteit&#xD;&#xA;- Verplichting klachtenregeling en -functionaris voor zorginstelingen&#xD;&#xA;- Verplichting voor aansluiting zorginstelling bij geschillencommissie&#xD;&#xA;- Verplichting voor het hebben van een meldcode voor huiselijk geweld en kindermishandeling voor zorginstellingen&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0037173&#xD;&#xA;&#xD;&#xA;Wikipedia: -"/>
+    documentation="- Waarborging zorgkwaliteit&#xD;&#xA;- Verplichting klachtenregeling en -functionaris voor zorginstelingen&#xD;&#xA;- Verplichting voor aansluiting zorginstelling bij geschillencommissie&#xD;&#xA;- Verplichting voor het hebben van een meldcode voor huiselijk geweld en kindermishandeling voor zorginstellingen&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0037173&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

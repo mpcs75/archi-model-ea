@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Huisartswaarneemgegevens"
     id="id-dd252b379a5e47a0b5d6da749c99f5e3"
-    documentation="De zorgtoepassing Huisartswaarneemgegevens (Hwg) ondersteunt de waarneming door generalistisch werkende artsen tijdens avond-, nacht- en weekenddiensten. Onder generalistisch werkende artsen vallen AVG-artsen, huisartsen, specialisten ouderengeneeskunde.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/huisartswaarneemgegevens"/>
+    documentation="De zorgtoepassing Huisartswaarneemgegevens (Hwg) ondersteunt de waarneming door generalistisch werkende artsen tijdens avond-, nacht- en weekenddiensten. Onder generalistisch werkende artsen vallen AVG-artsen, huisartsen, specialisten ouderengeneeskunde.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/huisartswaarneemgegevens">
+  <properties
+      key="Classificatie"
+      value="Gegevensdienst"/>
+</archimate:ApplicationService>

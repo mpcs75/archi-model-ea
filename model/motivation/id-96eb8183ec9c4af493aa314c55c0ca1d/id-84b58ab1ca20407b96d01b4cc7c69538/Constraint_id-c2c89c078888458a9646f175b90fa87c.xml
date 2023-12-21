@@ -1,4 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uiterlijk binnen 24 uur na registratie"
-    id="id-c2c89c078888458a9646f175b90fa87c"/>
+    id="id-c2c89c078888458a9646f175b90fa87c">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Constraint>

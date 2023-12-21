@@ -4,6 +4,6 @@
     id="id-7275ee7cd9904670addc8f1ed0453773"
     documentation="&quot;Afgifte door een apotheek van een specifiek medicijn aan een persoon voor wie de medicatie is bedoeld.&#xD;&#xA;Komt in klinische setting niet voor.&#xD;&#xA;synoniem: verstrekking&quot;">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

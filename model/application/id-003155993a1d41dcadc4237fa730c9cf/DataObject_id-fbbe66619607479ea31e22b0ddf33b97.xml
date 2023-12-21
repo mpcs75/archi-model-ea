@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Media"
     id="id-fbbe66619607479ea31e22b0ddf33b97"
-    documentation="A photo, video, or audio recording acquired or used in healthcare. The actual content may be inline or provided by direct reference.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/media.html"/>
+    documentation="A photo, video, or audio recording acquired or used in healthcare. The actual content may be inline or provided by direct reference.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/media.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

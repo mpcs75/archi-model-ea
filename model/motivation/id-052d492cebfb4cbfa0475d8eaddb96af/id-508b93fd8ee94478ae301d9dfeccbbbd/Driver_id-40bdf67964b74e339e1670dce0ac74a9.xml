@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Focus op toepassing (Visie)"
     id="id-40bdf67964b74e339e1670dce0ac74a9"
-    documentation="Voor passende hybride zorg is hergebruik van beschikbare data van cruciaal belang. Dit kun je bereiken door data en functionaliteit los te koppelen van elkaar en gebruik te maken van gestandaardiseerde koppelingen. De data dienen immers ook in een andere context en voor andere applicaties beschikbaar te zijn. Dat betekent dat je de betekenis en context van de data ook bij de data moet vastleggen. Toegang tot data kan en mag niet worden geblokkeerd of belemmerd. Scheiding van data en functionaliteit biedt ook veel meer ruimte voor innovatie om met nieuwe functionaliteit flexibel en snel in te kunnen spelen op veranderingen in de zorgmarkt."/>
+    documentation="Voor passende hybride zorg is hergebruik van beschikbare data van cruciaal belang. Dit kun je bereiken door data en functionaliteit los te koppelen van elkaar en gebruik te maken van gestandaardiseerde koppelingen. De data dienen immers ook in een andere context en voor andere applicaties beschikbaar te zijn. Dat betekent dat je de betekenis en context van de data ook bij de data moet vastleggen. Toegang tot data kan en mag niet worden geblokkeerd of belemmerd. Scheiding van data en functionaliteit biedt ook veel meer ruimte voor innovatie om met nieuwe functionaliteit flexibel en snel in te kunnen spelen op veranderingen in de zorgmarkt.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Driver>

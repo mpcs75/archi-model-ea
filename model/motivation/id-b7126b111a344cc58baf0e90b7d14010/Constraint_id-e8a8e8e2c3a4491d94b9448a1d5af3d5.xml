@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NTA 7515"
     id="id-e8a8e8e2c3a4491d94b9448a1d5af3d5"
-    documentation="Conformiteitsbeoordeling - Eisen aan instellingen die audits ten behoeve van certificatie van informatiebeveiligingsmanagementsystemen in de zorg uitvoeren&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/"/>
+    documentation="Conformiteitsbeoordeling - Eisen aan instellingen die audits ten behoeve van certificatie van informatiebeveiligingsmanagementsystemen in de zorg uitvoeren&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Genees- en hulpmiddelen"
-    id="id-4a1bdb00bb99452e998a493f32a6660c"/>
+    id="id-4a1bdb00bb99452e998a493f32a6660c">
+  <properties
+      key="Classificatie"
+      value="Wet- en regelgeving"/>
+</archimate:Grouping>

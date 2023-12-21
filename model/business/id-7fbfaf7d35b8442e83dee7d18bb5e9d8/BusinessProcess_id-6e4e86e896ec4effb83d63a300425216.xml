@@ -4,6 +4,6 @@
     id="id-6e4e86e896ec4effb83d63a300425216"
     documentation="Beschikbaar stellen en actueel houden van content als protocollen, handboeken, instructies, kwaliteitsdocumenten, procesbeschrijvingen, onderzoekpublicaties en onderwijsmateriaal onderzoek).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

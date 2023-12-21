@@ -4,6 +4,6 @@
     id="id-179628e981db4eaeadc891e09755550d"
     documentation="Aan een patiënt gerelateerde kenmerken/eigenschappen afkomstig van waarneming/onderzoek door een zorgverlener, die een of meer aspecten beschrijven van de medische conditie/toestand van een patiënt. De hier bedoelde kenmerken/ eigenschappen hebben vaak een signalerende functie of zijn om andere redenen relevant als basisgegeven voor alle zorgverleners die in contact komen met de desbetreffende patiënt, zoals allergieën, genetische kenmerken en persoonlijke kenmerken.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

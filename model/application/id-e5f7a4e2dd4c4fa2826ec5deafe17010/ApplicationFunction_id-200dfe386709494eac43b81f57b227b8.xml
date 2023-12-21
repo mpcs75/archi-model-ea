@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Content management"
     id="id-200dfe386709494eac43b81f57b227b8"
-    documentation="Functionaliteit voor het verzamelen, managen en publiceren van (niet-patientgebonden) informatie in elke vorm of medium (bv documenten, beelden, web content)">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-158"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het verzamelen, managen en publiceren van (niet-patientgebonden) informatie in elke vorm of medium (bv documenten, beelden, web content)"/>

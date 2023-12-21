@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identificatie zorgorganisatie"
-    id="id-2f42d18aad5646eeb2b5fdd9ca69554c"/>
+    id="id-2f42d18aad5646eeb2b5fdd9ca69554c">
+  <properties
+      key="Classificatie"
+      value="Generieke functie"/>
+</archimate:Capability>

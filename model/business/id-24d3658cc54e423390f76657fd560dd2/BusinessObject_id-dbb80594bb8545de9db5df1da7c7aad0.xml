@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opleiding"
     id="id-dbb80594bb8545de9db5df1da7c7aad0"
-    documentation="De opleiding beschrijft de hoogst genoten opleiding. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Opleiding-v3.2(2020NL)"/>
+    documentation="De opleiding beschrijft de hoogst genoten opleiding. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Opleiding-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

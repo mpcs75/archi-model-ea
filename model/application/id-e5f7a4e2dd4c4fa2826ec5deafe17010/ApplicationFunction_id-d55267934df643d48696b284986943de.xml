@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zelfmonitoring"
     id="id-d55267934df643d48696b284986943de"
-    documentation="Functionaliteit om de eigen gezondheidstoestand te bewaken.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="RSM E-health"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit om de eigen gezondheidstoestand te bewaken."/>

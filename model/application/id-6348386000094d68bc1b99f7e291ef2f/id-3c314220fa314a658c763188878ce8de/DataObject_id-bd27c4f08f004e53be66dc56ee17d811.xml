@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Verpleegkundige) zorgplannen"
     id="id-bd27c4f08f004e53be66dc56ee17d811"
-    documentation="(Verpleegkundige) zorgplannen die nodig zijn voor het verlenen van netwerkzorg. "/>
+    documentation="(Verpleegkundige) zorgplannen die nodig zijn voor het verlenen van netwerkzorg. ">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:DataObject>

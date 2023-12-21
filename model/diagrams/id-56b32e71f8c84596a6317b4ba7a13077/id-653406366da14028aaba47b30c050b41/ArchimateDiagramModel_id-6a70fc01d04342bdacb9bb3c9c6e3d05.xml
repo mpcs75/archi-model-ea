@@ -384,4 +384,17 @@
         width="85"
         height="55"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ac75ffa10a0642a3a8b5d6366162329e"
+      textPosition="1">
+    <bounds
+        x="552"
+        y="378"
+        width="120"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-3446aae5a09e40d0a2c16afa91becb39.xml#id-3446aae5a09e40d0a2c16afa91becb39"/>
+  </children>
 </archimate:ArchimateDiagramModel>

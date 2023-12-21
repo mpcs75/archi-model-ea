@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MessageHeader"
     id="id-404ca8f1d83b4b3d8559df584687c750"
-    documentation="The header for a message exchange that is either requesting or responding to an action. The reference(s) that are the subject of the action as well as other information related to the action are typically transmitted in a bundle in which the MessageHeader resource instance is the first resource in the bundle.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/messageheader.html"/>
+    documentation="The header for a message exchange that is either requesting or responding to an action. The reference(s) that are the subject of the action as well as other information related to the action are typically transmitted in a bundle in which the MessageHeader resource instance is the first resource in the bundle.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/messageheader.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -4,6 +4,6 @@
     id="id-c16557af0db44e0f92d3f8b3e63304ec"
     documentation="Vaststellen van een ziekte of probleem door middel van bewezen methoden en technieken.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

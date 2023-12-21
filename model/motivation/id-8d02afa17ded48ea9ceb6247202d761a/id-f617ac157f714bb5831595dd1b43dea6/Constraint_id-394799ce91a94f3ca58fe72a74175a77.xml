@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Europees Verdrag voor de Rechten van de Mens (EVRM)"
     id="id-394799ce91a94f3ca58fe72a74175a77"
-    documentation="- Bescherming van het recht op leven, vrijheid, en veiligheid.&#xD;&#xA;&#xD;&#xA;Nederlandse vertaling: https://nl.wikisource.org/wiki/Europees_Verdrag_voor_de_Rechten_van_de_Mens&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Europees_Verdrag_voor_de_Rechten_van_de_Mens"/>
+    documentation="- Bescherming van het recht op leven, vrijheid, en veiligheid.&#xD;&#xA;&#xD;&#xA;Nederlandse vertaling: https://nl.wikisource.org/wiki/Europees_Verdrag_voor_de_Rechten_van_de_Mens&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Europees_Verdrag_voor_de_Rechten_van_de_Mens">
+  <properties
+      key="Classificatie"
+      value="Europese regelgeving"/>
+</archimate:Constraint>

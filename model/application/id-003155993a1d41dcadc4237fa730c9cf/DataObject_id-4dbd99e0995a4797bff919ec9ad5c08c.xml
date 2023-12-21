@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SupplyDelivery"
     id="id-4dbd99e0995a4797bff919ec9ad5c08c"
-    documentation="Record of delivery of what is supplied.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/supplydelivery.html"/>
+    documentation="Record of delivery of what is supplied.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/supplydelivery.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

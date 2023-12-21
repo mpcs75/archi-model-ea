@@ -4,6 +4,6 @@
     id="id-06c0656532b84d1898e04be2d00e51a8"
     documentation="Aandoeningen, ziekte of klacht (= indicatie) waarbij bepaalde medicatie, niet (= contra-) mag worden toegepast.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

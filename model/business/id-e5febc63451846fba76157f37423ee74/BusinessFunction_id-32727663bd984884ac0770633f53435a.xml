@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwijziging"
+    id="id-32727663bd984884ac0770633f53435a"
+    documentation="De activiteiten voor verwijzingen van en naar andere zorgverleners.&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="RDC"/>
+</archimate:BusinessFunction>

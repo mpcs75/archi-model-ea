@@ -4,6 +4,6 @@
     id="id-332f5a27d3a44c60bd32551b294371b0"
     documentation="De voortgangsrapportage is een periodieke rapportage van een opdrachtnemer naar de opdrachtgever. De rapportage beschrijft de status en de voortgang van een bepaalde afspraak/opdracht.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

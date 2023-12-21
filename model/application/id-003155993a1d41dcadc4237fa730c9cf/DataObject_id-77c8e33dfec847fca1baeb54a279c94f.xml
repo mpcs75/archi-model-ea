@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ActivityDefinition"
     id="id-77c8e33dfec847fca1baeb54a279c94f"
-    documentation="This resource allows for the definition of some activity to be performed, independent of a particular patient, practitioner, or other performance context.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/activitydefinition.html"/>
+    documentation="This resource allows for the definition of some activity to be performed, independent of a particular patient, practitioner, or other performance context.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/activitydefinition.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

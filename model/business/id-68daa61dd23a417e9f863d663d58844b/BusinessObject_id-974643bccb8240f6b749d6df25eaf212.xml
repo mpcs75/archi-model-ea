@@ -4,6 +4,6 @@
     id="id-974643bccb8240f6b749d6df25eaf212"
     documentation="Extractie van de gevraagde gegevens uit het medisch dossier van de patiënt bij een ketenpartner.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

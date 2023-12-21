@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Levensovertuiging"
     id="id-7cc32c75fa814d17a2d736d3d9dd1643"
-    documentation="De levens- en/of geloofsovertuiging van de patiënt. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Levensovertuiging-v3.2(2020NL)"/>
+    documentation="De levens- en/of geloofsovertuiging van de patiënt. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Levensovertuiging-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

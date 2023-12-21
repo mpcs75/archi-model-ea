@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betaler"
     id="id-54f6e4df2c474b618d28c51dc2144c6f"
-    documentation="Betalers zijn organisaties of individuen die betalen voor de aan de patiënt geleverde zorg. Deze organisaties of individuen kunnen zijn: instellingen of personen die financieel garant staan of verantwoordelijk zijn voor de patiënt (zoals ouders van minderjarigen), organisaties met directe financiële verantwoordelijkheid, combinaties van deze of de patiënt zelf. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Betaler-v3.1.1(2020NL)"/>
+    documentation="Betalers zijn organisaties of individuen die betalen voor de aan de patiënt geleverde zorg. Deze organisaties of individuen kunnen zijn: instellingen of personen die financieel garant staan of verantwoordelijk zijn voor de patiënt (zoals ouders van minderjarigen), organisaties met directe financiële verantwoordelijkheid, combinaties van deze of de patiënt zelf. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Betaler-v3.1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

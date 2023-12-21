@@ -1,4 +1,7 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource"
-    id="id-8543881e33e54e849202250778f7d418"/>
+    id="id-8543881e33e54e849202250778f7d418">
+  <properties
+      key="Classificatie"/>
+</archimate:Resource>

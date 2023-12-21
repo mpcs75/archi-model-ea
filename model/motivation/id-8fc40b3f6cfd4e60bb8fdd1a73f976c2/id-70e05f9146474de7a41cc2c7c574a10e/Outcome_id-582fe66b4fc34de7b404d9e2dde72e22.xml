@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gezondheid in plaats van ziekte"
     id="id-582fe66b4fc34de7b404d9e2dde72e22"
-    documentation="Passende zorg gaat over gezondheid in plaats van over ziekte."/>
+    documentation="Passende zorg gaat over gezondheid in plaats van over ziekte.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Outcome>

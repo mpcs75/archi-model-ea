@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NVS - Drie fundamenten"
-    id="id-a8069c278b61464d981fbb55fe1820f2"/>
+    id="id-a8069c278b61464d981fbb55fe1820f2">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

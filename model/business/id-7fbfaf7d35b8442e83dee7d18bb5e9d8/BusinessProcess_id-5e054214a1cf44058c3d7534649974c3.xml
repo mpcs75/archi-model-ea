@@ -4,6 +4,6 @@
     id="id-5e054214a1cf44058c3d7534649974c3"
     documentation="De strategie beschrijft hoe de in de visie gestelde beelden en doelen bereikt gaan worden en geeft een samenhangende reeks beleidslijnen aan voor het handhaven van de continuïteit op langere termijn.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

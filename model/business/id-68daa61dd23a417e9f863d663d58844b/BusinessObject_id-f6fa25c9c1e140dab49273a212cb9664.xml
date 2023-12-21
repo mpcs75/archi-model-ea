@@ -4,6 +4,6 @@
     id="id-f6fa25c9c1e140dab49273a212cb9664"
     documentation="Een juridische maatregel die een individuele patiënt betreft (dwang &amp; drang).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

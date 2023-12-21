@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet veiligheid en kwaliteit lichaamsmateriaal"
     id="id-018cdb6aafe641b7acda41b0d54586e4"
-    documentation="- Waarborging van veiligheid en kwaliteit van lichaamsmateriaal&#xD;&#xA;- Het aanbieden van lichaamsmateriaal aan een orgaanbank en het bewaren ervan&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-2&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0014682&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_veiligheid_en_kwaliteit_lichaamsmateriaal"/>
+    documentation="- Waarborging van veiligheid en kwaliteit van lichaamsmateriaal&#xD;&#xA;- Het aanbieden van lichaamsmateriaal aan een orgaanbank en het bewaren ervan&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-2&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0014682&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_veiligheid_en_kwaliteit_lichaamsmateriaal">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EnrollmentResponse"
     id="id-3f9bd0bc7f4d45a3b9ccd9a1155770a8"
-    documentation="This resource provides enrollment and plan details from the processing of an EnrollmentRequest resource.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/enrollmentresponse.html"/>
+    documentation="This resource provides enrollment and plan details from the processing of an EnrollmentRequest resource.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/enrollmentresponse.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

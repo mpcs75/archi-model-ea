@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NEN 7512"
     id="id-7d9392bd4efe4747a51781a30476430e"
-    documentation="Medische informatica - Informatiebeveiliging in de zorg - Vertrouwensbasis voor gegevensuitwisseling&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/&#xD;&#xA;"/>
+    documentation="Medische informatica - Informatiebeveiliging in de zorg - Vertrouwensbasis voor gegevensuitwisseling&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

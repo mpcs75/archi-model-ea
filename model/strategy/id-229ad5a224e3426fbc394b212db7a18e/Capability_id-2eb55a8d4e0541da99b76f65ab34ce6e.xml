@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veilige informatievoorziening"
-    id="id-2eb55a8d4e0541da99b76f65ab34ce6e"/>
+    id="id-2eb55a8d4e0541da99b76f65ab34ce6e">
+  <properties
+      key="Classificatie"
+      value="Generieke functie"/>
+</archimate:Capability>

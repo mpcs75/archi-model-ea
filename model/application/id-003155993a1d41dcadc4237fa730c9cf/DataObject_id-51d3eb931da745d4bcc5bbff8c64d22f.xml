@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ChargeItemDefinition"
     id="id-51d3eb931da745d4bcc5bbff8c64d22f"
-    documentation="The ChargeItemDefinition resource provides the properties that apply to the (billing) codes necessary to calculate costs and prices. The properties may differ largely depending on type and realm, therefore this resource gives only a rough structure and requires profiling for each type of billing code system.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/chargeitemdefinition.html"/>
+    documentation="The ChargeItemDefinition resource provides the properties that apply to the (billing) codes necessary to calculate costs and prices. The properties may differ largely depending on type and realm, therefore this resource gives only a rough structure and requires profiling for each type of billing code system.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/chargeitemdefinition.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

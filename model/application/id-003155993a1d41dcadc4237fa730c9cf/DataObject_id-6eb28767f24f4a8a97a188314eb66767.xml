@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RiskAssessment"
     id="id-6eb28767f24f4a8a97a188314eb66767"
-    documentation="An assessment of the likely outcome(s) for a patient or other subject as well as the likelihood of each outcome.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/riskassessment.html"/>
+    documentation="An assessment of the likely outcome(s) for a patient or other subject as well as the likelihood of each outcome.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/riskassessment.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

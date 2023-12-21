@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet cliëntrechten zorg (Wcz)"
     id="id-a3ec1388288e4433b8dda4c008e1b43b"
-    documentation="&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: - &#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0034672&#xD;&#xA;&#xD;&#xA;Wikipedia: -"/>
+    documentation="&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: - &#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0034672&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

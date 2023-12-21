@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financieel beheer"
     id="id-537ce1f6c1584bd68e0c438ddfd935c0"
-    documentation="Functionaliteit waarmee de financiële administratie en verwerking van financiële stromen wordt ondersteund.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-136"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit waarmee de financiële administratie en verwerking van financiële stromen wordt ondersteund."/>

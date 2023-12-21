@@ -4,6 +4,6 @@
     id="id-1ab2253eb5914b1ba49c2fd96433eac8"
     documentation="Lesmateriaal en onderwijsinformatie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

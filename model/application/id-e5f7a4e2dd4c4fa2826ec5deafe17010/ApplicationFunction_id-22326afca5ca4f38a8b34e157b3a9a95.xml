@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resultaat afhandeling"
     id="id-22326afca5ca4f38a8b34e157b3a9a95"
-    documentation="Functionaliteit voor de analyse en rapportage van resultaten en notificatie naar zorgverleners en/of patient">
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="CP.5 Manage Results"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor de analyse en rapportage van resultaten en notificatie naar zorgverleners en/of patient"/>

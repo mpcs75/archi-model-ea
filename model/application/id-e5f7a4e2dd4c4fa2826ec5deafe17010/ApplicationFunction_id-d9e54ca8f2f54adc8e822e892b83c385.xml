@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Patientenforum"
     id="id-d9e54ca8f2f54adc8e822e892b83c385"
-    documentation="Functionaliteit voor het aanbieden van een online omgeving voor patienten (bv discussieforum voor patienten onderling)">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="RSM E-health"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het aanbieden van een online omgeving voor patienten (bv discussieforum voor patienten onderling)"/>

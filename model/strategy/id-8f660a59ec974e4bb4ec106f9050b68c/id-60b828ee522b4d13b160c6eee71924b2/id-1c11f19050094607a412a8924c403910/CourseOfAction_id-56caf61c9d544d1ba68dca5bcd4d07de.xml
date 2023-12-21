@@ -4,6 +4,6 @@
     id="id-56caf61c9d544d1ba68dca5bcd4d07de"
     documentation="De gegevensuitwisselingen medicatie- en toediengegevens; laboratoriumgegevens bijvoorbeeld voor medicatie; en contra-indicatie en overgevoeligheden worden door VWS prioritair gemaakt.">
   <properties
-      key="Categorie"
-      value="Integraal Zorg Akkoord (IZA)"/>
+      key="Classificatie"
+      value="IZA"/>
 </archimate:CourseOfAction>

@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorkomen van verergering of vermindering van klachten"
-    id="id-2bed55599c0f47b5a41a945a1bfca25c"/>
+    id="id-2bed55599c0f47b5a41a945a1bfca25c">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

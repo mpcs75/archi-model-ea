@@ -4,6 +4,6 @@
     id="id-203a95cbc03e46c3b637969f937ea007"
     documentation="Dit domein bevat de activiteiten voor het bepalen van de missie, visie, strategie en beleid van de organisatie, inclusief de inrichting en de beheersing hiervan.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

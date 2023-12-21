@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GebruiksInstructie"
     id="id-49d48da7513e4d348ef97a7c11c72e42"
-    documentation="Aanwijzingen voor het gebruik of toediening van de medicatie, bijvoorbeeld dosering en toedieningsweg. Bij medicatiegebruik is dit het gebruikspatroon dat de patiënt heeft gevolgd of met zichzelf heeft afgesproken.&#xD;&#xA;Dit is een subbouwsteen&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/GebruiksInstructie-v1.2.1(2020NL)"/>
+    documentation="Aanwijzingen voor het gebruik of toediening van de medicatie, bijvoorbeeld dosering en toedieningsweg. Bij medicatiegebruik is dit het gebruikspatroon dat de patiënt heeft gevolgd of met zichzelf heeft afgesproken.&#xD;&#xA;Dit is een subbouwsteen&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/GebruiksInstructie-v1.2.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

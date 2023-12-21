@@ -4,6 +4,6 @@
     id="id-9c442213d87a400a86900e361a03f546"
     documentation="Doen van bestellingen van bekende producten en diensten die binnen een raamcontract vallen. Ook wordt de levertijd bewaakt en contact onderhouden met de leverancier. ">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

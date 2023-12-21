@@ -1,4 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="alle inwoners van Nederland"
-    id="id-5b9ac4950a104bdfb32838b3f9b4c23a"/>
+    id="id-5b9ac4950a104bdfb32838b3f9b4c23a">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Constraint>

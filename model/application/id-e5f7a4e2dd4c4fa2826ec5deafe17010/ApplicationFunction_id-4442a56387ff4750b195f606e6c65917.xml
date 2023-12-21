@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Printing &amp; scanning"
     id="id-4442a56387ff4750b195f606e6c65917"
-    documentation="Functionaliteit voor het afdrukken en scannen.">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-150"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het afdrukken en scannen."/>

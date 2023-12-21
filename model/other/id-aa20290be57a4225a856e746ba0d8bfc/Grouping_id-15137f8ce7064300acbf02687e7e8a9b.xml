@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Speciale handelingen"
-    id="id-15137f8ce7064300acbf02687e7e8a9b"/>
+    id="id-15137f8ce7064300acbf02687e7e8a9b">
+  <properties
+      key="Classificatie"
+      value="Wet- en regelgeving"/>
+</archimate:Grouping>

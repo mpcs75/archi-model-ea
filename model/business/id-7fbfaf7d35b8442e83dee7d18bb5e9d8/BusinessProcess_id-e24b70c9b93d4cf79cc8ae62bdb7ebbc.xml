@@ -4,6 +4,6 @@
     id="id-e24b70c9b93d4cf79cc8ae62bdb7ebbc"
     documentation="Handhaving van vergunningen en wet- en regelgeving m.b.t. het milieu. Omvat ook de registratie van gevaarlijke stoffen.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

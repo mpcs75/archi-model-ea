@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Focus op toepassing (Huidige situatie)"
     id="id-c144c1a68a914229977f46f165a9a2d3"
-    documentation="In het huidige applicatielandschap in de zorg zijn data en applicaties meestal onlosmakelijk met elkaar verbonden. De data is opgeslagen in databases die alleen toegankelijk zijn voor functionaliteit die hoort bij een specifieke applicatie. Beschikbaarheid van deze data voor derden is slechts te realiseren door dure, ingewikkelde en foutgevoelige koppelingen. Ook verschillende belangen om de informatie niet te willen delen spelen hierin een rol. Data wordt vanuit het bronsysteem uitgewisseld met, en daarbij gekopieerd naar, een andere applicaties. Deze kopieslag brengt een extra registratielast met zich mee en vormt een risico voor de betrouwbaarheid, integriteit en vertrouwelijkheid van deze informatie (men weet bij het opnieuw ontvangen niet meer of het over dezelfde of andere informatie gaat)."/>
+    documentation="In het huidige applicatielandschap in de zorg zijn data en applicaties meestal onlosmakelijk met elkaar verbonden. De data is opgeslagen in databases die alleen toegankelijk zijn voor functionaliteit die hoort bij een specifieke applicatie. Beschikbaarheid van deze data voor derden is slechts te realiseren door dure, ingewikkelde en foutgevoelige koppelingen. Ook verschillende belangen om de informatie niet te willen delen spelen hierin een rol. Data wordt vanuit het bronsysteem uitgewisseld met, en daarbij gekopieerd naar, een andere applicaties. Deze kopieslag brengt een extra registratielast met zich mee en vormt een risico voor de betrouwbaarheid, integriteit en vertrouwelijkheid van deze informatie (men weet bij het opnieuw ontvangen niet meer of het over dezelfde of andere informatie gaat).">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Assessment>

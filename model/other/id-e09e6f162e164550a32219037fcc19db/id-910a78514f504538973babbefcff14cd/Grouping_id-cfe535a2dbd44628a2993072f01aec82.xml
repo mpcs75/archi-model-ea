@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2023 - Afspraken I (to do's)"
-    id="id-cfe535a2dbd44628a2993072f01aec82"/>
+    id="id-cfe535a2dbd44628a2993072f01aec82">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Grouping>

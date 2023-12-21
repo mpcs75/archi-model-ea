@@ -4,6 +4,6 @@
     id="id-9e28dcdf73f4448eb0db49e6bef43881"
     documentation="Beschrijving van huidige en gewenste accommodatie-eisen voor tijdelijk of permanent onderdak.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

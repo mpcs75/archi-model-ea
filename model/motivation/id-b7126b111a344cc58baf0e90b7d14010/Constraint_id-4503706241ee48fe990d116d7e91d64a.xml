@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NEN 7518"
     id="id-4503706241ee48fe990d116d7e91d64a"
-    documentation="Gegevensuitwisseling in de zorg - Identificatie en authenticatie&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/"/>
+    documentation="Gegevensuitwisseling in de zorg - Identificatie en authenticatie&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

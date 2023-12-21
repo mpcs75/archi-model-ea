@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ImplementationGuide"
     id="id-5f1462f0dcaf4b26a9b2fd4e6d158eec"
-    documentation="A set of rules of how a particular interoperability or standards problem is solved - typically through the use of FHIR resources. This resource is used to gather all the parts of an implementation guide into a logical whole and to publish a computable definition of all the parts.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/implementationguide.html"/>
+    documentation="A set of rules of how a particular interoperability or standards problem is solved - typically through the use of FHIR resources. This resource is used to gather all the parts of an implementation guide into a logical whole and to publish a computable definition of all the parts.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/implementationguide.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

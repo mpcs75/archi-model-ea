@@ -4,6 +4,6 @@
     id="id-bf97e0aefc1c4c6daba8c53c052799ae"
     documentation="De resultaten uit registraties en analyse van het project verwerkt tot een eindrapportage (publicatie, proefschrift of presentatie).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

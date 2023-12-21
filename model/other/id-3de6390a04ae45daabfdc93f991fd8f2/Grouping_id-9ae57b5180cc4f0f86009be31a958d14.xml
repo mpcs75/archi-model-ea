@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NEN (Nederlandse Norm)"
-    id="id-9ae57b5180cc4f0f86009be31a958d14"/>
+    id="id-9ae57b5180cc4f0f86009be31a958d14">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Grouping>

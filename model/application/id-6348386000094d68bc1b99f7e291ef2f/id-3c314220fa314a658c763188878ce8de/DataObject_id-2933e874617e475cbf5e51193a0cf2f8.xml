@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EU-patiëntsamenvatting"
     id="id-2933e874617e475cbf5e51193a0cf2f8"
-    documentation="https://nictiz.nl/internationaal/international-patient-summary/"/>
+    documentation="https://nictiz.nl/internationaal/international-patient-summary/">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:DataObject>

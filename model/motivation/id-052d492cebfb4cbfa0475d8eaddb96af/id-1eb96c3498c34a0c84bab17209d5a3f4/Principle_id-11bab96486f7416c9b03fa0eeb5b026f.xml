@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschikbaar stellen wordt verplicht"
     id="id-11bab96486f7416c9b03fa0eeb5b026f"
-    documentation="Beschikbaar stellen van data ten behoeve van anderen in het zorgnetwerk wordt verplicht. Niet alleen voor betrokkenen in het netwerk, maar ook ten behoeve van het algemeen maatschappelijk belang. Dit heeft gevolgen voor besluiten over toestemming en bezwaren. Alleen als de persoon expliciet de toegang tot zorg- en gezondheidsdata weigert, komen data niet beschikbaar."/>
+    documentation="Beschikbaar stellen van data ten behoeve van anderen in het zorgnetwerk wordt verplicht. Niet alleen voor betrokkenen in het netwerk, maar ook ten behoeve van het algemeen maatschappelijk belang. Dit heeft gevolgen voor besluiten over toestemming en bezwaren. Alleen als de persoon expliciet de toegang tot zorg- en gezondheidsdata weigert, komen data niet beschikbaar.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

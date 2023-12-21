@@ -4,6 +4,6 @@
     id="id-f7c6b8b83b434bb493dba7c646758166"
     documentation="Afstemmen van het zorgdiensten aanbod op de vraag in de markt.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

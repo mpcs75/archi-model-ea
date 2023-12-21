@@ -4,6 +4,6 @@
     id="id-bbc287125fe84a618eaf70a15d3eb6ce"
     documentation="Uitwerking van de wijze waarop taken binnen een organisatie zijn verdeeld en de wijze waarop vervolgens afstemming tussen deeltaken tot stand is gebracht.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

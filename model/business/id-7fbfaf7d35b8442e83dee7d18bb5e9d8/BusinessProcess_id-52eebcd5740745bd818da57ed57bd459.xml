@@ -4,6 +4,6 @@
     id="id-52eebcd5740745bd818da57ed57bd459"
     documentation="Ontwikkelen van (nieuwe) zorgproducten en diensten, inclusief productmanagement.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

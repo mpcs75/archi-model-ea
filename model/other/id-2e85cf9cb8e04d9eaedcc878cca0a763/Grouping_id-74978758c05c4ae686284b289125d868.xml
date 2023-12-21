@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generieke functies"
-    id="id-74978758c05c4ae686284b289125d868"/>
+    id="id-74978758c05c4ae686284b289125d868">
+  <properties
+      key="Classificatie"
+      value="Generieke functie"/>
+</archimate:Grouping>

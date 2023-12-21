@@ -4,6 +4,6 @@
     id="id-3ff7726ef50d4738b94ff654de11f642"
     documentation="Opgave van prijs en leveringscondities voor een order of project van (potentiële) leveranciers, aangevraagd door de inkoper.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

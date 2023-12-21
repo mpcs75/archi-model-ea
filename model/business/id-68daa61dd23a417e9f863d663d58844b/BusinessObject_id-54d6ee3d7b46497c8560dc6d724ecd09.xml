@@ -4,6 +4,6 @@
     id="id-54d6ee3d7b46497c8560dc6d724ecd09"
     documentation="Schema waarop de verdeling van het werk over personen, middelen en/of locatie uitgedrukt in tijd is aangegeven.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

@@ -4,6 +4,6 @@
     id="id-dbe25036cd1a4b588fde581c3ff098d9"
     documentation="Een missie definieert de bestaansgrond van een organisatie en geeft antwoord op de vraag: Waarom doen we wat we doen? De missie is tijdloos. Een visie is een consistente blik op de toekomst en geeft de gewenste situatie aan.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VZVZ"
     id="id-953c91fec58c4ea2af0f9c16f532ee3f"
-    documentation="Landelijke zorginfrastructuren die in beheer zijn bij VZVZ (Vereniging van Zorgaanbieders Voor Zorgcommunicatie)&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Landelijke zorginfrastructuren die in beheer zijn bij VZVZ (Vereniging van Zorgaanbieders Voor Zorgcommunicatie)&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="Landelijke infrastructuur"/>
+</archimate:Grouping>

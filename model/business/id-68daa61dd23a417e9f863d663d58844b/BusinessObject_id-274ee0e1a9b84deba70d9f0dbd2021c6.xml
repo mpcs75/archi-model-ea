@@ -4,6 +4,6 @@
     id="id-274ee0e1a9b84deba70d9f0dbd2021c6"
     documentation="&quot;De naam van de psychiatrische ziekte of aandoening waaraan iemand wordt verondersteld te lijden.&#xD;&#xA;Er is onderscheid mogelijk naar type diagnose: differentiaaldiagnose (werkdiagnose) en einddiagnose (ontslagdiagnose). De term diagnose slaat ook op lichamelijke beperkingen en comorbiditeit.&#xD;&#xA;De invulling hiervan is specialismenspecifiek.&quot;">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

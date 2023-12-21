@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PaymentReconciliation"
     id="id-d29d1379ed0c42eeb1a48abe6ef442aa"
-    documentation="This resource provides the details including amount of a payment and allocates the payment items being paid.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/paymentreconciliation.html"/>
+    documentation="This resource provides the details including amount of a payment and allocates the payment items being paid.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/paymentreconciliation.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

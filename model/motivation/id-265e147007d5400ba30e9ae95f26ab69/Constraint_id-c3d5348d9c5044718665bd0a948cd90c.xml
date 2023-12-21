@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ISO/IEC 27002"
     id="id-c3d5348d9c5044718665bd0a948cd90c"
-    documentation="Informatiebeveiliging, cybersecurity en bescherming van de privacy - Beheersmaatregelen voor informatiebeveiliging&#xD;&#xA;&#xD;&#xA;Deze standaard is niet vrij in te zien"/>
+    documentation="Informatiebeveiliging, cybersecurity en bescherming van de privacy - Beheersmaatregelen voor informatiebeveiliging&#xD;&#xA;&#xD;&#xA;Deze standaard is niet vrij in te zien">
+  <properties
+      key="Classificatie"
+      value="ISO/IEC"/>
+</archimate:Constraint>

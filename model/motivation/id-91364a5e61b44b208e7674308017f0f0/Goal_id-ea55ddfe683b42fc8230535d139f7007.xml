@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Passende hybride zorg"
     id="id-ea55ddfe683b42fc8230535d139f7007"
-    documentation="Wij willen dat gezondheid en preventie in 2035 centraal staan. De inzet van bewezen effectieve digitale toepassingen, technologie en beschikbare data maken onderdeel uit van passende hybride zorgprocessen. De zorg:&#xD;&#xA;&#xD;&#xA;- Is toegankelijk, van goede kwaliteit en betaalbaar;&#xD;&#xA;- Is persoonsgericht en maatwerk-ondersteunend;&#xD;&#xA;- Omarmt het uitgangspunt: zelf als het kan, thuis als het kan en digitaal als het kan."/>
+    documentation="Wij willen dat gezondheid en preventie in 2035 centraal staan. De inzet van bewezen effectieve digitale toepassingen, technologie en beschikbare data maken onderdeel uit van passende hybride zorgprocessen. De zorg:&#xD;&#xA;&#xD;&#xA;- Is toegankelijk, van goede kwaliteit en betaalbaar;&#xD;&#xA;- Is persoonsgericht en maatwerk-ondersteunend;&#xD;&#xA;- Omarmt het uitgangspunt: zelf als het kan, thuis als het kan en digitaal als het kan.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Goal>

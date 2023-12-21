@@ -1,4 +1,8 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Naaste (GGZ)"
-    id="id-375e876b3d3b40d5bef0e576e4507f40"/>
+    id="id-375e876b3d3b40d5bef0e576e4507f40">
+  <properties
+      key="Classificatie"
+      value="ggz"/>
+</archimate:Stakeholder>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RiskEvidenceSynthesis"
     id="id-ecb4f476d1f04747884c9a21e2ec2aba"
-    documentation="The RiskEvidenceSynthesis resource describes the likelihood of an outcome in a population plus exposure state where the risk estimate is derived from a combination of research studies.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/riskevidencesynthesis.html"/>
+    documentation="The RiskEvidenceSynthesis resource describes the likelihood of an outcome in a population plus exposure state where the risk estimate is derived from a combination of research studies.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/riskevidencesynthesis.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

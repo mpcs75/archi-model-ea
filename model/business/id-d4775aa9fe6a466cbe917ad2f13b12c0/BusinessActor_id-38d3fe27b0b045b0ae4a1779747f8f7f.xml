@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zorgaanbieder A"
-    id="id-38d3fe27b0b045b0ae4a1779747f8f7f"/>
+    id="id-38d3fe27b0b045b0ae4a1779747f8f7f">
+  <properties
+      key="Classificatie"
+      value="Use Case"/>
+</archimate:BusinessActor>

@@ -4,6 +4,6 @@
     id="id-3d2da5afe17b42e68ae83fa1e2d9d903"
     documentation="Zorgaanbieders gebruiken bewezen telebegeleiding als vorm van hybride zorg, die de eigen regie van patiënten en/of de kwaliteit van leven verhoogt. En onnodige fysieke bezoeken en/of opnames voorkomt in lijn met de doelstelling.">
   <properties
-      key="Categorie"
-      value="Integraal Zorg Akkoord (IZA)"/>
+      key="Classificatie"
+      value="IZA"/>
 </archimate:CourseOfAction>

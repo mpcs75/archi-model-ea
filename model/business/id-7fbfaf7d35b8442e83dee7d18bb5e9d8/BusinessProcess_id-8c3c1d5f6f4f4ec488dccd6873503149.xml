@@ -4,6 +4,6 @@
     id="id-8c3c1d5f6f4f4ec488dccd6873503149"
     documentation="Op- en bijstellen van juridisch beleid en het borgen van de naleving van het beleid aan de hand van bestaande wet- en regelgeving.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

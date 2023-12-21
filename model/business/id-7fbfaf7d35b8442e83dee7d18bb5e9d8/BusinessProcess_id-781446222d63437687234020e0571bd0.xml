@@ -4,6 +4,6 @@
     id="id-781446222d63437687234020e0571bd0"
     documentation="Het opstarten en afhandelen van het traject om een patiënt gedwongen op te nemen (dwang &amp; drang). Hieronder valt het verkrijgen van (rechterlijke) machtiging en het vastleggen van een maatregel in de landelijke registratie (Argus).">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

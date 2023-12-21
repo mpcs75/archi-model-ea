@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Naamgegevens"
     id="id-3333eaf7827a4b0b978d547c808e9bd7"
-    documentation="De naamgegevens van een persoon bevatten voornamen, roepnaam, achternaam en eventueel de achternaam van de partner.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Naamgegevens-v1.1(2020NL)"/>
+    documentation="De naamgegevens van een persoon bevatten voornamen, roepnaam, achternaam en eventueel de achternaam van de partner.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Naamgegevens-v1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

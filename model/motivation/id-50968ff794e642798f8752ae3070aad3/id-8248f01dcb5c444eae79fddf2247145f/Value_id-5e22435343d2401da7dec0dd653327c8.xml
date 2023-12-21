@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gezamenlijk inzicht gezondheidstoestand cliënt"
     id="id-5e22435343d2401da7dec0dd653327c8"
-    documentation="Zorgverlener, cliënt, en eventueel naaste(n) hebben tussen consulten door inzicht in de gezondheidstoestand (gedrag en stemming) van de cliënt."/>
+    documentation="Zorgverlener, cliënt, en eventueel naaste(n) hebben tussen consulten door inzicht in de gezondheidstoestand (gedrag en stemming) van de cliënt.">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

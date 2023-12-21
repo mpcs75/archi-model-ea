@@ -4,6 +4,6 @@
     id="id-ecf83d04b54c4b95929630135e9c8c68"
     documentation="Vaststellen en voorschrijven van benodigde medicatie, dosering en frequentie  van dosering.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

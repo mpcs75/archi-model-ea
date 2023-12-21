@@ -4,6 +4,6 @@
     id="id-e86b4c4bf22749dbaf3dfb7a1f2a25fc"
     documentation="Beoordelen van de bevindingen die zijn gedaan bij een collegiaal consult en deze betrekken bij diagnose en behandelplan.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

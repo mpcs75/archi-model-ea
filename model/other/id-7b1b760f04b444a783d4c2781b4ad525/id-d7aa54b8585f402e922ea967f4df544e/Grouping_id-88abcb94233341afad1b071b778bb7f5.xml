@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standaarden en normen"
-    id="id-88abcb94233341afad1b071b778bb7f5"/>
+    id="id-88abcb94233341afad1b071b778bb7f5">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Grouping>

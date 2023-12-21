@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT"
+    id="id-bd111737efb24f9a97bd6a6845346a5d"
+    documentation="Alle activiteiten ten behoeve van het ontwikkelen, beheren en ondersteunen van de ICT voorziening en de ICT-diensten.&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="RDC"/>
+</archimate:BusinessFunction>

@@ -1,4 +1,8 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Assessment"
-    id="id-6c5efc85a8534bf5a109fc9dfb01d864"/>
+    id="id-6c5efc85a8534bf5a109fc9dfb01d864">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Assessment>

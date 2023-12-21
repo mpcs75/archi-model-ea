@@ -4,6 +4,6 @@
     id="id-95c1892055a645fcac3196ef64c8c527"
     documentation="Dit domein bevat de activiteiten op het gebied van het voorschrijven, bereiden en toedienen van medicatie, alsmede het bewaken van medicatiegebruik.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

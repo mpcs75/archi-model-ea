@@ -4,6 +4,6 @@
     id="id-40e79183cbc34781bf41753913d947fa"
     documentation="Gedragslijnen voor de verwezenlijking van de doelstellingen van de organisatie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

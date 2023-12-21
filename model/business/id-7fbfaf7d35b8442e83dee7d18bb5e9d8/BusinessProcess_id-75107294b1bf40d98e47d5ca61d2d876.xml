@@ -4,6 +4,6 @@
     id="id-75107294b1bf40d98e47d5ca61d2d876"
     documentation="Verwerken van verrichtingen tot zorgproducten en een factuur.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

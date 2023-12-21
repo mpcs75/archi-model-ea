@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirement"
     id="id-a27ace77b6c1425d95e8fcfb74756c46"
-    documentation="Zelf gebruik ik het requirement element o.a. voor:&#xD;&#xA;&#xD;&#xA;- Functionele eisen"/>
+    documentation="Zelf gebruik ik het requirement element o.a. voor:&#xD;&#xA;&#xD;&#xA;- Functionele eisen">
+  <properties
+      key="Classificatie"
+      value="Archimate"/>
+</archimate:Requirement>

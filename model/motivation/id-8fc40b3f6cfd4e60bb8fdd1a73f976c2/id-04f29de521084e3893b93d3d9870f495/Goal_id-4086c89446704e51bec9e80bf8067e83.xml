@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verminderen van administratieve lasten"
     id="id-4086c89446704e51bec9e80bf8067e83"
-    documentation="Verminderen van administratieve lasten."/>
+    documentation="Verminderen van administratieve lasten.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Goal>

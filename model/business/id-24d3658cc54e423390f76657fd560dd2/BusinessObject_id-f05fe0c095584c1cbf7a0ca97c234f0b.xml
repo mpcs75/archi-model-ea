@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adresgegevens"
     id="id-f05fe0c095584c1cbf7a0ca97c234f0b"
-    documentation="Adresgegevens bevatten de gegevens waar een persoon (tijdelijk of vast) woont of waar een gebouw zich bevindt.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Adresgegevens-v1.1(2020NL)"/>
+    documentation="Adresgegevens bevatten de gegevens waar een persoon (tijdelijk of vast) woont of waar een gebouw zich bevindt.&#xD;&#xA;Dit is een subbouwsteen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Adresgegevens-v1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementatie van scheiding data en functionaliteit"
     id="id-6b02ec29f1334dd89e7dc59502211e5a"
-    documentation="De scheiding van data en functionaliteit kan op verschillende manieren geïmplementeerd worden (zie het onderzoek van het ministerie van VWS naar infrastructuren in de zorg). Hierin wordt een onderbouwde keuze gemaakt die richting geeft aan toekomstige ontwikkelingen en de transitie naar de nieuwe situatie.&#xD;&#xA;&#xD;&#xA;https://www.rijksoverheid.nl/documenten/rapporten/2023/02/22/onderzoek-landelijk-netwerk-van-infrastructuren-voor-gegevensuitwisseling-in-de-zorg"/>
+    documentation="De scheiding van data en functionaliteit kan op verschillende manieren geïmplementeerd worden (zie het onderzoek van het ministerie van VWS naar infrastructuren in de zorg). Hierin wordt een onderbouwde keuze gemaakt die richting geeft aan toekomstige ontwikkelingen en de transitie naar de nieuwe situatie.&#xD;&#xA;&#xD;&#xA;https://www.rijksoverheid.nl/documenten/rapporten/2023/02/22/onderzoek-landelijk-netwerk-van-infrastructuren-voor-gegevensuitwisseling-in-de-zorg">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

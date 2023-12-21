@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voedingsadvies"
     id="id-974396c4c68546d3a1e3e1b38c06c9d8"
-    documentation="Een voedingsadvies is een beschrijving van voeding voor de patiënt, die aan specifieke eisen moet voldoen in verband met de gezondheidstoestand van de patiënt. Allergieën en overgevoeligheden of kauw- en slikproblemen kunnen aanleiding zijn voor speciale voeding.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Voedingsadvies-v3.2(2020NL)"/>
+    documentation="Een voedingsadvies is een beschrijving van voeding voor de patiënt, die aan specifieke eisen moet voldoen in verband met de gezondheidstoestand van de patiënt. Allergieën en overgevoeligheden of kauw- en slikproblemen kunnen aanleiding zijn voor speciale voeding.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Voedingsadvies-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

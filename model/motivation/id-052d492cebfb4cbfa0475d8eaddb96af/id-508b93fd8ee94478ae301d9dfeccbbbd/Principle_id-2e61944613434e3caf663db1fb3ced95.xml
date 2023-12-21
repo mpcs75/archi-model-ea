@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Heroriëntatie grondslagen"
     id="id-2e61944613434e3caf663db1fb3ced95"
-    documentation="Heroriëntatie van de grondslagen voor gegevensuitwisseling in de zorg is nodig, waarbij expliciet aandacht is voor de verhouding tussen databeschikbaarheid en vertrouwen."/>
+    documentation="Heroriëntatie van de grondslagen voor gegevensuitwisseling in de zorg is nodig, waarbij expliciet aandacht is voor de verhouding tussen databeschikbaarheid en vertrouwen.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

@@ -4,6 +4,6 @@
     id="id-5974093a871342e0bcc238eeccb4891d"
     documentation="Beëindigen van zorgverlening door een zorgaanbieder. Ontslag kan samengaan met verwijzing/overplaatsing/overlijden. Hierbij wordt indien nodig ook aandacht besteed aan terugvalpreventie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

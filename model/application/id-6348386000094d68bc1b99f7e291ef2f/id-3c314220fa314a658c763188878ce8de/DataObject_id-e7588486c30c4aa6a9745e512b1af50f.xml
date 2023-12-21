@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medicatiegegevens"
-    id="id-e7588486c30c4aa6a9745e512b1af50f"/>
+    id="id-e7588486c30c4aa6a9745e512b1af50f">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:DataObject>

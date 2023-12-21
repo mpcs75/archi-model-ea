@@ -4,6 +4,6 @@
     id="id-2f185344ed5c4f119790e8b9ee2a7f95"
     documentation="Het verstrekken van gegevens aan externe partijen zoals ministeries, RIVM, GGD, Vektis, Vecozo, SBG, DIS, Zichtbare Zorg en financiers.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

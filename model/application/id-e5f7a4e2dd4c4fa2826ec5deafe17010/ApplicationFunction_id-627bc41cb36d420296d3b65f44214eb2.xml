@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Database management"
     id="id-627bc41cb36d420296d3b65f44214eb2"
-    documentation="Functionaliteit voor het beheren van databases">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="MAX::ID"
-      value="AF-182"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het beheren van databases"/>

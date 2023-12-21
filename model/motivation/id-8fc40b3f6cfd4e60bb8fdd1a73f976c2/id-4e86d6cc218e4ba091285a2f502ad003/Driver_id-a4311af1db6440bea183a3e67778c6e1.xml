@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Druk van de zorg"
     id="id-a4311af1db6440bea183a3e67778c6e1"
-    documentation="Het is de ambitie van het ministerie van VWS om de zorg voor alle Nederlanders toegankelijk, kwalitatief goed en betaalbaar te houden. Wat is hiervoor nodig:"/>
+    documentation="Het is de ambitie van het ministerie van VWS om de zorg voor alle Nederlanders toegankelijk, kwalitatief goed en betaalbaar te houden. Wat is hiervoor nodig:">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Driver>

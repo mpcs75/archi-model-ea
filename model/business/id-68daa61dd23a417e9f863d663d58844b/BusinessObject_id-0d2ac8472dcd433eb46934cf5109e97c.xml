@@ -4,6 +4,6 @@
     id="id-0d2ac8472dcd433eb46934cf5109e97c"
     documentation="Overzichten die de status weergeven van de organisatie.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

@@ -4,6 +4,6 @@
     id="id-2734f2974e0e40fd9bfce098f262c0bc"
     documentation="Dit domein bevat de activiteiten op het gebied van het doen van intern of extern aanvullend onderzoek ten behoeve van toeleiding of behandeling van de patiënt.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

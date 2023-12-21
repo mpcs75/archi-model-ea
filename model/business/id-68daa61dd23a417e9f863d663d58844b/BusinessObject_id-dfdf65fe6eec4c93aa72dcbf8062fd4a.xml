@@ -4,6 +4,6 @@
     id="id-dfdf65fe6eec4c93aa72dcbf8062fd4a"
     documentation="Strategisch plan met daarin de richting en alle bijbehorende activiteiten die gericht zijn op vernieuwing in een organisatie. Hier kan een globale planning in de vorm van een roadmap voor de transitie onderdeel van zijn.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

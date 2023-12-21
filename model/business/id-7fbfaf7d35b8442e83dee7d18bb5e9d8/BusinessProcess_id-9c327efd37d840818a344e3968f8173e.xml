@@ -4,6 +4,6 @@
     id="id-9c327efd37d840818a344e3968f8173e"
     documentation="Ontvangen en verwerken van een verzoek van een zorgverlener om zorg te verlenen aan een patiënt binnen de eigen instelling.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessProcess>

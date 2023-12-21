@@ -4,6 +4,6 @@
     id="id-da9e6c8a08e1476b81de5d83dba6d70e"
     documentation="Dit domein bevat de activiteiten die betrekking hebben op het maken, meten en sturen op performance indicatoren.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessFunction>

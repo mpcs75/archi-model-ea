@@ -1,4 +1,7 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Course of Action"
-    id="id-0996111b94644e3f9fbe3ac65951478b"/>
+    id="id-0996111b94644e3f9fbe3ac65951478b">
+  <properties
+      key="Classificatie"/>
+</archimate:CourseOfAction>

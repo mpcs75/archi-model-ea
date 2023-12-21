@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contact"
     id="id-ac2bed0dfe314777a4dc73428e846269"
-    documentation="Een contact is een interactie, onafhankelijk van de situatie, tussen een patiënt en een zorgverlener, waarbij de zorgverlener de primaire verantwoordelijkheid heeft de conditie van de patiënt te diagnosticeren, te evalueren, te behandelen en de patiënt te informeren. Dit kunnen bezoeken, afspraken of niet face-to-face interacties zijn.&#xD;&#xA;&#xD;&#xA;Contacten kunnen huisarts- of praktijkbezoeken, thuisbezoeken, opnames (in bijvoorbeeld ziekenhuizen, verpleeg/verzorgingstehuizen, psychiatrische inrichtingen of revalidatieklinieken) of andere relevante contacten betreffen. Het betreft historische en toekomstige contacten. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Contact-v4.0.1(2020NL)"/>
+    documentation="Een contact is een interactie, onafhankelijk van de situatie, tussen een patiënt en een zorgverlener, waarbij de zorgverlener de primaire verantwoordelijkheid heeft de conditie van de patiënt te diagnosticeren, te evalueren, te behandelen en de patiënt te informeren. Dit kunnen bezoeken, afspraken of niet face-to-face interacties zijn.&#xD;&#xA;&#xD;&#xA;Contacten kunnen huisarts- of praktijkbezoeken, thuisbezoeken, opnames (in bijvoorbeeld ziekenhuizen, verpleeg/verzorgingstehuizen, psychiatrische inrichtingen of revalidatieklinieken) of andere relevante contacten betreffen. Het betreft historische en toekomstige contacten. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Contact-v4.0.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

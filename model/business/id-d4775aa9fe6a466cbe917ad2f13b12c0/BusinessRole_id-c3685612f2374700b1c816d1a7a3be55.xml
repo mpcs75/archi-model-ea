@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Patiënt/Cliënt GGZ"
-    id="id-c3685612f2374700b1c816d1a7a3be55"/>
+    id="id-c3685612f2374700b1c816d1a7a3be55">
+  <properties
+      key="Classificatie"
+      value="Use Case"/>
+</archimate:BusinessRole>

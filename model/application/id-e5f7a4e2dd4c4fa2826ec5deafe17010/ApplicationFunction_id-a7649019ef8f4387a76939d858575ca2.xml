@@ -2,20 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Online afspraken"
     id="id-a7649019ef8f4387a76939d858575ca2"
-    documentation="Functionaliteit voor het on-line maken van afspraken">
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="RSM E-health"/>
-  <properties
-      key="showdecoration"
-      value="ture"/>
-  <properties
-      key="showdecoration"
-      value="true"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor het on-line maken van afspraken"/>

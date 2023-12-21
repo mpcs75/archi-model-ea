@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SubstanceReferenceInformation"
     id="id-c934036c24de46ee85563acb6ff766f1"
-    documentation="Todo.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/substancereferenceinformation.html"/>
+    documentation="Todo.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/substancereferenceinformation.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

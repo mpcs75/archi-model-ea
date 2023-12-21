@@ -4,6 +4,6 @@
     id="id-dca9b4aa194f4a27b26f82e65be030ae"
     documentation="Administratieve code die informatie bevat over handelingen die zijn uitgevoerd door een zorgverlener in het kader van diagnose of behandeling.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

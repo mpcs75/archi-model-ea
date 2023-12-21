@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nationaliteit"
     id="id-13147dc5ce2c4114ac0eb88d258a28fb"
-    documentation="De nationaliteit wordt gebruikt als aanduiding voor het land van staatsburgerschap.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Nationaliteit-v3.0(2020NL)"/>
+    documentation="De nationaliteit wordt gebruikt als aanduiding voor het land van staatsburgerschap.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Nationaliteit-v3.0(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

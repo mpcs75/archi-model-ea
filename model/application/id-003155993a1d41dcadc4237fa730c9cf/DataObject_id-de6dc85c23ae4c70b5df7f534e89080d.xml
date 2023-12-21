@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Observation"
     id="id-de6dc85c23ae4c70b5df7f534e89080d"
-    documentation="Measurements and simple assertions made about a patient, device or other subject.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/observation.html"/>
+    documentation="Measurements and simple assertions made about a patient, device or other subject.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/observation.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

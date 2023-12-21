@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SearchParameter"
     id="id-a7527333c69d4e2e95ea773c70b6b057"
-    documentation="A search parameter that defines a named search item that can be used to search/filter on a resource.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/searchparameter.html"/>
+    documentation="A search parameter that defines a named search item that can be used to search/filter on a resource.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/searchparameter.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

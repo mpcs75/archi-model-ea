@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SupplyRequest"
     id="id-2c986a024e6e487dbc834fc118f985fe"
-    documentation="A record of a request for a medication, substance or device used in the healthcare setting.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/supplyrequest.html"/>
+    documentation="A record of a request for a medication, substance or device used in the healthcare setting.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/supplyrequest.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

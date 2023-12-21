@@ -2,17 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Workplace) Remote Access"
     id="id-abcb2d58de7a4f30875d7fde47c406a2"
-    documentation="Functionaliteit voor toegang op afstand zoals inbelfaciliteiten">
-  <properties
-      key="showdecoration"
-      value="true"/>
-  <properties
-      key="atomic"
-      value="false"/>
-  <properties
-      key="rotation"
-      value="up"/>
-  <properties
-      key="ExternalReference"
-      value="AS.7.4 Support Remote Healthcare Services"/>
-</archimate:ApplicationFunction>
+    documentation="Functionaliteit voor toegang op afstand zoals inbelfaciliteiten"/>

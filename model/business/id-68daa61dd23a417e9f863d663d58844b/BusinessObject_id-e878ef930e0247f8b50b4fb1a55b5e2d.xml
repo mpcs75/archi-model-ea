@@ -4,6 +4,6 @@
     id="id-e878ef930e0247f8b50b4fb1a55b5e2d"
     documentation="Overzicht van gereserveerde, te reserveren en geretourneerde facilitaire diensten.">
   <properties
-      key="Categorie"
-      value="Referentie Domeinmodel GGZ"/>
+      key="Classificatie"
+      value="RDG"/>
 </archimate:BusinessObject>

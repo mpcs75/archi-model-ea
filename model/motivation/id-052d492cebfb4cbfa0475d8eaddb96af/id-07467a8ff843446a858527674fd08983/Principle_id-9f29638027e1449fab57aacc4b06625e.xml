@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschikbaar stellen data door zorgverlener"
     id="id-9f29638027e1449fab57aacc4b06625e"
-    documentation="Zorgverleners zijn zich ervan bewust dat ook anderen de door hen geregistreerde gegevens gebruiken en stellen data beschikbaar."/>
+    documentation="Zorgverleners zijn zich ervan bewust dat ook anderen de door hen geregistreerde gegevens gebruiken en stellen data beschikbaar.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

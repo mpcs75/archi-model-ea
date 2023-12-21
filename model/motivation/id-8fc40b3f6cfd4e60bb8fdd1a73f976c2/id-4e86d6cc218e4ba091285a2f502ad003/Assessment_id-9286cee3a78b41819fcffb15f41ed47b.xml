@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="De kwaliteit van de zorg staat onder druk"
     id="id-9286cee3a78b41819fcffb15f41ed47b"
-    documentation="De zorg in Nederland is van hoge kwaliteit. Het aanbod is breed en onze betrokken zorgprofessionals zijn uitstekend gekwalificeerd. Toch dreigen we internationaal gezien naar de middenmoot af te zakken. Niet alle zorg die geleverd wordt is aantoonbaar effectief, wat niet goed is voor de patiënt.&#xD;&#xA;Niet alle problemen vragen om een medisch antwoord. Het Nederlandse systeem rondom zorg en ondersteuning is versnipperd. Medische, verpleegkundige en gemeentelijke professionals moeten meer met elkaar samenwerken en hebben wetten en systemen nodig die hen helpen in hun samenwerking. Er is een omslag nodig van ‘zorgen voor mensen’ naar ‘zorgen met mensen’."/>
+    documentation="De zorg in Nederland is van hoge kwaliteit. Het aanbod is breed en onze betrokken zorgprofessionals zijn uitstekend gekwalificeerd. Toch dreigen we internationaal gezien naar de middenmoot af te zakken. Niet alle zorg die geleverd wordt is aantoonbaar effectief, wat niet goed is voor de patiënt.&#xD;&#xA;Niet alle problemen vragen om een medisch antwoord. Het Nederlandse systeem rondom zorg en ondersteuning is versnipperd. Medische, verpleegkundige en gemeentelijke professionals moeten meer met elkaar samenwerken en hebben wetten en systemen nodig die hen helpen in hun samenwerking. Er is een omslag nodig van ‘zorgen voor mensen’ naar ‘zorgen met mensen’.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Assessment>

@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VZVZ"
+    id="id-e07418cdf4014f6780030e550627db47"
+    documentation="Gegevensdiensten die beheerd worden door VZVZ (Vereniging van Zorgaanbieders Voor Zorgcommunicatie)&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten">
+  <properties
+      key="Classificatie"
+      value="Gegevensdienst"/>
+</archimate:Grouping>

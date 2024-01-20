@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksvoorstel"
+    id="id-40c05bb22aee41afb06a590c6a2085b0"
+    documentation="Beschrijving van de opzet van het onderzoek, de vraagstelling, doelstelling, etc.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

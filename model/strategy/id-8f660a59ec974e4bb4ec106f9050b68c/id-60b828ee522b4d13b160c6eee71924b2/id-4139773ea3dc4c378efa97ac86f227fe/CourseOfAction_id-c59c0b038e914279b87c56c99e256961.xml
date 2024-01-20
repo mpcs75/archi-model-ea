@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="f. Implementeren NIB2-richtlijn"
+    id="id-c59c0b038e914279b87c56c99e256961"
+    documentation="VWS ondersteunt zorgaanbieders die binnen het bereik van de NIB2-richtlijn vallen bij het implementeren, maakt hier financiële middelen voor beschikbaar en zal in samenspraak met het veld bijvoorbeeld actieplannen, implementatietools of kennisproducten ontwikkelen.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:CourseOfAction>

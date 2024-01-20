@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Levert (zorg)diensten aan"
+    id="id-f7a1ab12bb8a4f05a24a4de6cf9e1ceb">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-899e3740d5064b98b3303eac79fde8ef.xml#id-899e3740d5064b98b3303eac79fde8ef"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c3685612f2374700b1c816d1a7a3be55.xml#id-c3685612f2374700b1c816d1a7a3be55"/>
+</archimate:ServingRelationship>

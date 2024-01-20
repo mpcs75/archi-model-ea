@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koppeltaal-voorziening"
+    id="id-b15c3b73736040a4a8dd24fad3f8a0b4"
+    documentation="Koppeltaal is een landelijke integratie- en informatiestandaard voor betere hybride en digitale behandelingen van zorgaanbieders en hun patiënten. Via de Koppeltaal-voorziening kunnen alle e-health applicaties van een zorgaanbieder met elkaar verbonden worden. Wat Koppeltaal bijzonder maakt is dat het gebaseerd is op een spefieke zorg workflow.&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten/afsprakenstelsels/koppeltaal &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="Gegevensdienst"/>
+</archimate:ApplicationService>

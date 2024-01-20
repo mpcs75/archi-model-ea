@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvraag/planning zorghandeling"
+    id="id-9a4a33f3cee34855b3c66d9189270a54"
+    documentation="(Nog) geen zib gevonden">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Structureel en procesgericht gebruik van archtiectuurtools"
+    id="id-276a80c4dc7a42cf985952060402af22"
+    documentation="De architecten gebruiken allen dezelfde tools. De tools ondersteunen niet alleen het vastleggen van de individuele architecturen, maar ook het proces om tot de architecturen te komen en ze te beheren (denk aan ondersteuning van samenwerking, versiebeheer, statusaanduidingen, etc.).&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- Alle architecten gebruiken dezelfde tools.&#xD;&#xA;- Het beheer van de architectuurtools is expliciet belegd.&#xD;&#xA;- De architectuurtools ondersteunen het architectuurproces.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Architectuurtool invoeren. Selecteer een architectuurtool dat het werk van de architect het beste ondersteunt en voer die organisatiebreed in waarbij het gebruik van de tool wordt afgestemd op het architectuurproces van de organisatie.&#xD;&#xA;"/>

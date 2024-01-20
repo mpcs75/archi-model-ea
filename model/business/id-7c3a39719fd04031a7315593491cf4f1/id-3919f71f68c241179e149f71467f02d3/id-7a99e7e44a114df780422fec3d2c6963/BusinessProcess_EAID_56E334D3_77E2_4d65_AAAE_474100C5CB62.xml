@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen producten en diensten"
+    id="EAID_56E334D3_77E2_4d65_AAAE_474100C5CB62"
+    documentation="Ontwikkelen van (nieuwe) zorgproducten en diensten alsmede productmanagement.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

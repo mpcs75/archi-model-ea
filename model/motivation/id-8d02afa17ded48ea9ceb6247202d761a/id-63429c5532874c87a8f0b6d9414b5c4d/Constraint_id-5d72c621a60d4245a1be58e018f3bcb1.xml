@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet inzake bloedvoorzieining (Wibv)"
+    id="id-5d72c621a60d4245a1be58e018f3bcb1"
+    documentation="- Kwaliteit, veiligheid en beschikbaarheid van bloed en bloedproducten.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-2&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0009079&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

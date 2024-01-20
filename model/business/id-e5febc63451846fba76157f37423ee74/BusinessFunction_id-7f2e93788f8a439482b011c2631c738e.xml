@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Einde zorg"
+    id="id-7f2e93788f8a439482b011c2631c738e"
+    documentation="Dit domein bevat activiteiten die voortvloeien uit de aanvang en het einde van een zorgovereenkomst.&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="RDC"/>
+</archimate:BusinessFunction>

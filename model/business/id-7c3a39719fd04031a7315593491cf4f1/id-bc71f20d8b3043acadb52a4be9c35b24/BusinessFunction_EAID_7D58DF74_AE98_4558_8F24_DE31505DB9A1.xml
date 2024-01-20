@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheid en milieu"
+    id="EAID_7D58DF74_AE98_4558_8F24_DE31505DB9A1"
+    documentation="Beheren en optimaliseren van bedrijfsondersteunende, facilitaire veiligheid-, kwaliteit-, Arbo- en milieuaspecten binnen het ziekenhuis.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

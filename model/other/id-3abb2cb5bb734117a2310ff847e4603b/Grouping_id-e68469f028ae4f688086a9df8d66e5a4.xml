@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgverlening"
+    id="id-e68469f028ae4f688086a9df8d66e5a4"
+    documentation="Binnen Zorgverlening vallen de domeinen waarbinnen de zorg geleverd wordt.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:Grouping>

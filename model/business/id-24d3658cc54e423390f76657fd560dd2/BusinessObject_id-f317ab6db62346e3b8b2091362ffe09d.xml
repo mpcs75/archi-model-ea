@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient"
+    id="id-f317ab6db62346e3b8b2091362ffe09d"
+    documentation="Een persoon die medische, psychische, paramedische of verpleegkundige zorg ontvangt. In sommige zorgsectoren wordt in plaats van de term patient de term client of deelnemer gebruikt. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Patient-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

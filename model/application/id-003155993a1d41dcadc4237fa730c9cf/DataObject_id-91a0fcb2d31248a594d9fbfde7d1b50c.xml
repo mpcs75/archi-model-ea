@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CareTeam"
+    id="id-91a0fcb2d31248a594d9fbfde7d1b50c"
+    documentation="The Care Team includes all the people and organizations who plan to participate in the coordination and delivery of care for a patient.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/careteam.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

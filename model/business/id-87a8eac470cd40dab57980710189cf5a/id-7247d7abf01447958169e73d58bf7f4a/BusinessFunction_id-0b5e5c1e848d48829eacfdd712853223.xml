@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmelding"
+    id="id-0b5e5c1e848d48829eacfdd712853223"
+    documentation="Dit domein bevat de activiteiten op het gebied van de aanmelding van (nieuwe) patiënten, doorverwezen door een erkende verwijzer.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

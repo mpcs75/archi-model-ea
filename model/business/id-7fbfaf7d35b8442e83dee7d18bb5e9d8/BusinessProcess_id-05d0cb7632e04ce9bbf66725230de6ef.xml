@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren van HR diensten"
+    id="id-05d0cb7632e04ce9bbf66725230de6ef"
+    documentation="Het werven van nieuwe medewerkers, begeleiden van doorstroom van medewerkers, beheren van de formatie en het ondersteunen bij vertrek van medewerkers.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

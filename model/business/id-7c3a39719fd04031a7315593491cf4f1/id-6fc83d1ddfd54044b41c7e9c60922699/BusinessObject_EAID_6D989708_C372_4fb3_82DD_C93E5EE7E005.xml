@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roadmap"
+    id="EAID_6D989708_C372_4fb3_82DD_C93E5EE7E005"
+    documentation="Een roadmap is een strategisch plan voor de doorontwikkeling van een bepaald gebied (product, technologie, etc.) en is direct gelieerd aan de strategische doelstellingen van de organisatie. De roadmap biedt een gemeenschappelijk overeengekomen beschrijving van de richting en bijbehorende doelstellingen die nodig zijn voor het bereiken van de business doelstellingen in de komende jaren.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

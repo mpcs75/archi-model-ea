@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RelatedPerson"
+    id="id-d40aa8c3603e4e019d9bb51593c926d2"
+    documentation="Information about a person that is involved in the care for a patient, but who is not the target of healthcare, nor has a formal responsibility in the care process.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/relatedperson.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

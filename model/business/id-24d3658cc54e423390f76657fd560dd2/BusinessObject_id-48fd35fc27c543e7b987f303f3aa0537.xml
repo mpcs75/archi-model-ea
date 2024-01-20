@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VermogenTotToiletgang"
+    id="id-48fd35fc27c543e7b987f303f3aa0537"
+    documentation="Zelfstandig kunnen zorgdragen voor urineren, defeceren en de zorg bij menstruatie is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied.&#xD;&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere eten, zich kleden en zich wassen, ook aangeduid als algemene dagelijkse levensverrichtingen (ADL). Dit zijn de handelingen die mensen dagelijks in het gewone leven verrichten. De mate waarin een persoon al deze activiteiten zelfstandig kan verrichten zijn een maat voor de totale zelfredzaamheid.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotToiletgang-v3.1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

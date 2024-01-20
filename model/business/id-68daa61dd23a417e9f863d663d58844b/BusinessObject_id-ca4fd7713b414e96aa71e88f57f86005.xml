@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complicatie"
+    id="id-ca4fd7713b414e96aa71e88f57f86005"
+    documentation="Onbedoelde en ongewenste uitkomst tijdens of volgend op het handelen van een zorgverlener, die voor de gezondheid van de patiënt zodanig nadelig zijn dat aanpassing van het medisch (be)handelen noodzakelijk is, dan wel dat er sprake is van onherstelbare schade.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarverslag"
+    id="EAID_6639D726_B2BB_4169_AFA4_B6E52064CED0"
+    documentation="Verantwoording van een organisatie over de gang van zaken in het afgelopen (boek)jaar.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

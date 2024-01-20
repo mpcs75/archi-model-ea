@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AlcoholGebruik"
+    id="id-11b787b19986442899441d45cf14a1b4"
+    documentation="Alcohol is in de context van deze bouwsteen de verzamelnaam voor alcoholische dranken die als genotsmiddel genuttigd worden. Deze bouwsteen beschrijft de bij de patiënt uitgevraagde gegevens over het gebruik van alcohol. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/AlcoholGebruik-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

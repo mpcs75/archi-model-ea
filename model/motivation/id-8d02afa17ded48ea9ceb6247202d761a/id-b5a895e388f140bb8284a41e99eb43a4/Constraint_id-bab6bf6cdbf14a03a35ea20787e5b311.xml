@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Burgerlijk wetboek (BW), boek 7"
+    id="id-bab6bf6cdbf14a03a35ea20787e5b311"
+    documentation="- Regelt o.a. de Wet op de geneeskundige behandelovereenkomst (Wgbo)&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0005290&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Burgerlijk_Wetboek_(Nederland)">
+  <properties
+      key="Classificatie"
+      value="Algemene wet"/>
+</archimate:Constraint>

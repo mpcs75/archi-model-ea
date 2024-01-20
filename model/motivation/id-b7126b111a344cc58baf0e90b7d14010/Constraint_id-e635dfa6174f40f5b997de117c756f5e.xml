@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN 7517"
+    id="id-e635dfa6174f40f5b997de117c756f5e"
+    documentation="Gegevensuitwisseling in de zorg - Toestemming&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/">
+  <properties
+      key="Classificatie"
+      value="Norm"/>
+</archimate:Constraint>

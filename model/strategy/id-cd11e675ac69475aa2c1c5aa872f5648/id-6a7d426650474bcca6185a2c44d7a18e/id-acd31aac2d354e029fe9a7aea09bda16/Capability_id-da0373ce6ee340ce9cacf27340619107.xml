@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veranderingen bewaken"
+    id="id-da0373ce6ee340ce9cacf27340619107"
+    documentation="Zeggen dat er volgens de architectuur veranderd moet worden is doorgaans niet voldoende. Zonder bewakingsmechanisme zal de verleiding vaak te groot zijn om toch de weg van de minste weerstand te kiezen en de architectuur op punten te negeren."/>

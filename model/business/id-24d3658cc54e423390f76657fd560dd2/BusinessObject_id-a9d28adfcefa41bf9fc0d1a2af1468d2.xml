@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AnatomischeLocatie"
+    id="id-a9d28adfcefa41bf9fc0d1a2af1468d2"
+    documentation="Een anatomische locatie specificeert de locatie (bijv. voet) en lateraliteit (bijv. links) van een lichaamsonderdeel &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/AnatomischeLocatie-v1.0(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

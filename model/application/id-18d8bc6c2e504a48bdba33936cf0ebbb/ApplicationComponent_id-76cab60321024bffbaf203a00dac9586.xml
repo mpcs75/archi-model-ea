@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgaanbiedersysteem B"
+    id="id-76cab60321024bffbaf203a00dac9586">
+  <properties
+      key="Classificatie"
+      value="Use Case"/>
+</archimate:ApplicationComponent>

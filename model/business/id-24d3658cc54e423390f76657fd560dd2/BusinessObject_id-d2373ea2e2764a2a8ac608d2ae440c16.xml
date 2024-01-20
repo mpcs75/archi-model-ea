@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DOSScore"
+    id="id-d2373ea2e2764a2a8ac608d2ae440c16"
+    documentation="De DOSS (Delirium Observatie Screening Schaal) is een hulpmiddel om te bepalen of er sprake is van een delier. De DOSS bevat 13 observaties van gedrag (verbaal en non-verbaal) die de symptomen van het delier weergeven. Deze observaties kunnen gedaan worden tijdens reguliere contacten met de patiënt.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/DOSScore-v1.0(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

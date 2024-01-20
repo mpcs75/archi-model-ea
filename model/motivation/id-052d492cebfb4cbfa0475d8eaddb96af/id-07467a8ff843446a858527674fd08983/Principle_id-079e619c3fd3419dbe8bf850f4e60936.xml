@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschibaar stellen data wordt verplicht"
+    id="id-079e619c3fd3419dbe8bf850f4e60936"
+    documentation="Beschikbaar stellen van data, gestandaardiseerd, bereikbaar en bruikbaar, ten behoeve van anderen in het zorgnetwerk wordt verplicht.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

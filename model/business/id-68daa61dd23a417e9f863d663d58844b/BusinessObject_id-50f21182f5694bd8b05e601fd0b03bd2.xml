@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise architectuur"
+    id="id-50f21182f5694bd8b05e601fd0b03bd2"
+    documentation="Een consistent geheel van principes en modellen dat richting geeft aan ontwerp en realisatie van de (processen, organisatorische inrichting,) informatievoorziening, softwareontwikkeling en technische infrastructuur van een organisatie.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

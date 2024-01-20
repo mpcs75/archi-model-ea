@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="EAID_A649ADE8_C258_489a_BC2B_5409BE393BFE"
+    documentation="Officieel papier met afspraken waaraan betrokkenen zich moeten houden">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

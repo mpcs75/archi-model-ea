@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie"
+    id="EAID_EAA1DEA7_5606_4914_91DF_05FD5012B3B9"
+    documentation="De meerjarenaanpak door het management uitgewerkt om visie en missie te kunnen realiseren. Planmatige en doelgerichte inzet van mensen en middelen om beleidsbeslissingen te realiseren om de visie en missie van de organisatie en de daaruit afgeleide doelen te realiseren.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

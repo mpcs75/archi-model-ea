@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken zelfmanagement informatie van de patiënt"
+    id="id-26dceeb8a52442429b1fb1ddd5b4c048"
+    documentation="Ontvangen en verwerken van zelfmanagementinformatie (bijv. metingen, dagboek en bevindingen) van de patiënt over zijn eigen zorgproces, zowel digitaal als op papier.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

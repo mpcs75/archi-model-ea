@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbare data (Huidige situatie)"
+    id="id-8f1eb3cf2f274c699e8489eb944beb96"
+    documentation="Data is beperkt beschikbaar voor anderen in het zorgnetwerk&#xD;&#xA;&#xD;&#xA;De Nederlandse zorg kent een veelheid aan verschillende informatiesystemen, portalen, platformen en infrastructuren. Op lokaal, regionaal en soms landelijk niveau. Informatie wordt nu veelal lokaal opgeslagen onder verantwoordelijkheid van de afzonderlijke zorgaanbieders. Het uitwisselen van data beperkt zich vaak tot een klein aantal zorgaanbieders en is gericht op specifieke toepassingen. Daardoor kan men de data alleen voor die specifieke toepassing gebruiken. In de huidige situatie ontbreekt hierdoor informatie, waardoor het leveren van goede zorg en ondersteuning op de juiste plek en op het juiste moment niet voldoende wordt gefaciliteerd. Dit leidt tot extra werk en kosten en komt de kwaliteit van zorg en ondersteuning niet ten goede.&#xD;&#xA;&#xD;&#xA;Het niet beschikbaar zijn van gezondheidsdata (zoals data uit wearables en gezondheidsapps die bijdragen aan een gezonde leefstijl) belemmert de burger ook in het recht om regie te kunnen nemen over de eigen gezondheid, het eigen zorgproces en de wijze waarop met data wordt omgegaan. In de huidige situatie kan de burger geen volledig beeld krijgen van de eigen gezondheidsdata die in allerlei systemen is opgeslagen en kan daar dus ook geen regie over voeren. Het beschikbaar maken van data en informatie brengt de burger in de positie om wel die regie te nemen en/of anderen te vragen om daarbij te helpen.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Assessment>

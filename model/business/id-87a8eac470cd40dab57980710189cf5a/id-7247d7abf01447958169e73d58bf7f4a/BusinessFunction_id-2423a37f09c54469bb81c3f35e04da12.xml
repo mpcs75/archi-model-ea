@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwijzing"
+    id="id-2423a37f09c54469bb81c3f35e04da12"
+    documentation="Dit domein bevat de activiteiten voor verwijzingen van en naar andere zorgverleners.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

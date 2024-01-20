@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennismanagement"
+    id="EAID_B32426F9_282A_487d_805B_100FFF3E74E5"
+    documentation="Het managen van kennis.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

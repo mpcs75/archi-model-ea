@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scoren"
+    id="EAID_5CDA320F_D779_44bd_A161_C17C4A16C914"
+    documentation="De activiteit van het bepalen van een kwalitatieve/subjectieve waarde.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

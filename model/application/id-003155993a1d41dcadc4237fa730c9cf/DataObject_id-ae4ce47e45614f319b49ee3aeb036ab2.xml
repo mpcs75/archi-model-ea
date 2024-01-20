@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slot"
+    id="id-ae4ce47e45614f319b49ee3aeb036ab2"
+    documentation="A slot of time on a schedule that may be available for booking appointments&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/slot.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

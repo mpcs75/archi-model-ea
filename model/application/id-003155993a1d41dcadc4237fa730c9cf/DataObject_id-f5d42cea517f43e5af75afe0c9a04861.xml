@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ExampleScenario"
+    id="id-f5d42cea517f43e5af75afe0c9a04861"
+    documentation="Example of workflow instance.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/examplescenario.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

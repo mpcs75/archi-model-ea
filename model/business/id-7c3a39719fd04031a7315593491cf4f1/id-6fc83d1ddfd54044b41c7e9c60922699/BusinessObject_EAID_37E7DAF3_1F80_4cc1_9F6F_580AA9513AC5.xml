@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functieprofiel"
+    id="EAID_37E7DAF3_1F80_4cc1_9F6F_580AA9513AC5"
+    documentation="Beschrijvingen van taken, verantwoordelijkheden en vereiste competenties van beroepskrachten in een specifieke werksituatie en/of een specifiek werkveld">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

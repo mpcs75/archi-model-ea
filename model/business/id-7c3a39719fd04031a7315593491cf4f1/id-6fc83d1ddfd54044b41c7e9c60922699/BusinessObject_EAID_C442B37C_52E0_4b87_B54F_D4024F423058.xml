@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitslag aanvullend onderzoek"
+    id="EAID_C442B37C_52E0_4b87_B54F_D4024F423058"
+    documentation="Resultaat van een aanvullend onderzoek">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

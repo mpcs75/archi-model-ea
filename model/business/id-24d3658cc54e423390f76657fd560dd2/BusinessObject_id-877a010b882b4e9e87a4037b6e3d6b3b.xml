@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alert"
+    id="id-877a010b882b4e9e87a4037b6e3d6b3b"
+    documentation="Een alert beschrijft een klinisch of administratief feit dat onder de aandacht van de gebruikers van de klinische systemen wordt gebracht, om er bij het vormen van diagnostisch en therapeutisch beleid of bij de omgang met de patiënt rekening mee te houden, meestal wegens een veiligheidsrisico.&#xD;&#xA;Aandoeningen, die de overgevoeligheid van het lichaam voor een stof beschrijven, zich uitend in een specifieke fysiologische reactie na blootstelling, worden allergieën genoemd. Deze worden in een aparte bouwsteen beschreven&#xD;&#xA;Waarschuwingen voor niet allergische aandoeningen kunnen betreffen:&#xD;&#xA;&#xD;&#xA;- Een aandoening, conditie of diagnose die beschouwd kan worden als contra-indicatie voor het ondergaan van een bepaalde therapie, zoals zwangerschap of een verlengd QT-syndroom;&#xD;&#xA;- Verminderde functie van een orgaansysteem (hartfalen, verminder lever- of nierfunctie, verminderde afweer);&#xD;&#xA; - Kans op verspreiding van bepaalde micro-organismen (multiresistente bacterie, tuberkelbacterie, HIV, HBV, Ebola virus);&#xD;&#xA; - Andere risico’s. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Alert-v4.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

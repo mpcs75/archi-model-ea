@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktanalyse"
+    id="id-ac9930df93fc4b83ae3cca8007ad33d8"
+    documentation="Onderzoek naar de verhouding tussen vraag en aanbod op een bepaalde markt en de factoren die daarop van invloed zijn. Maakt ook gebruik van SWOT-analyses.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

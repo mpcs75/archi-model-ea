@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patientbespreking"
+    id="id-f7941a0dd25c4e40a14885fc3c4b1c1f"
+    documentation="Een patiëntbespreking is een overleg van zorgverleners onderling waarin de resultaten van onderzoeken en behandeling besproken worden met als doel een gezamenlijk advies te formuleren voor de behandeling van de patiënt. Een bespreking in aanwezigheid van de patiënt wordt ook wel een multidisciplinair consult genoemd. Wanneer zorgprofessionals vanuit diverse disciplines participeren en dit structureel (lokaal, regionaal, sub regionaal of vanuit een samenwerkingsverband) is georganiseerd, wordt dit vaak een multidisciplinair overleg (MDO) genoemd. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ZIB_Publicatie_2020(NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

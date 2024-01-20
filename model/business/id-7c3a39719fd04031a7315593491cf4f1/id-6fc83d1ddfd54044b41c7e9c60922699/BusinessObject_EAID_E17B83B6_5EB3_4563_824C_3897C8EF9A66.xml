@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdrachtsinformatie"
+    id="EAID_E17B83B6_5EB3_4563_824C_3897C8EF9A66"
+    documentation="Een selectie van gegevens uit het dossier bestemd voor de overdracht van de patient">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

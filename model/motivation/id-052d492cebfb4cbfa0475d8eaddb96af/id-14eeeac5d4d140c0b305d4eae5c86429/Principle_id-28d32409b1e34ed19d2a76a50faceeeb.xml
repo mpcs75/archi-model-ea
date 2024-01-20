@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik van kaders gezondheidsinformatiestelsel"
+    id="id-28d32409b1e34ed19d2a76a50faceeeb"
+    documentation="Toepassingen worden ontwikkeld gebruikmakend van de generieke functies binnen het gezondheidsinformatiestelsel en gebaseerd op (inter)nationale standaarden en wetgeving.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

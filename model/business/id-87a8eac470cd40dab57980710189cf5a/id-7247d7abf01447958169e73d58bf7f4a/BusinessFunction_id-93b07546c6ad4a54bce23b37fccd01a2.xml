@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beëindigen zorg"
+    id="id-93b07546c6ad4a54bce23b37fccd01a2"
+    documentation="Dit domein bevat de activiteiten op het gebied van het beëindigen van de zorgrelatie en afsluiten van de behandeling door ontslag en/of overdracht in de keten.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennis-management"
+    id="id-40d7fb774a09426186ac513149e01460"
+    documentation="Dit domein bevat de activiteiten die nodig zijn voor managen van de informatie-uitwisseling tussen kennisaanbieder en kennisvrager.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoverageEligibilityRequest"
+    id="id-110b8213a282454e8e3766370237ef84"
+    documentation="The CoverageEligibilityRequest provides patient and insurance coverage information to an insurer for them to respond, in the form of an CoverageEligibilityResponse, with information regarding whether the stated coverage is valid and in-force and optionally to provide the insurance details of the policy.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/coverageeligibilityrequest.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

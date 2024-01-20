@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Locatie"
+    id="id-9423bbb9acf64a429c4d115ca89eb197"
+    documentation="Plaats of ruimte waar activiteiten worden uitgevoerd.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

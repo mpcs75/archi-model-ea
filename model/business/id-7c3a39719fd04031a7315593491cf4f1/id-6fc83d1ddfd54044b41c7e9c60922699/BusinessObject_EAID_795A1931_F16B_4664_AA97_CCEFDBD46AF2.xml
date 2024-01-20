@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevinding"
+    id="EAID_795A1931_F16B_4664_AA97_CCEFDBD46AF2"
+    documentation="Resultaten van uitgevoerde toetsing van processen/producten/diensten/etc. binnen de instelling. Niet alleen de bevinding zelf wordt vastgelegd, ook de status en de opvolging worden meegenomen. Bijvoorbeeld: kwaliteitsmetingen en -controles van medische apparatuur.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

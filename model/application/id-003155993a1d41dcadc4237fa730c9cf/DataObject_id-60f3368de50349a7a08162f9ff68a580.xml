@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account"
+    id="id-60f3368de50349a7a08162f9ff68a580"
+    documentation="A financial tool for tracking value accrued for a particular purpose. In the healthcare field, used to track charges for a patient, cost centers, etc.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/account.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

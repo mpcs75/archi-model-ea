@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsmateriaal"
+    id="EAID_877ED68C_EB59_48f9_90A4_BE37E59B6A13"
+    documentation="Onderwijsmateriaal dat wordt gebruikt om te toetsen. Bestaat typisch uit een verzameling van vragen en regels over hoe antwoorden op de vragen worden beoordeeld. (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

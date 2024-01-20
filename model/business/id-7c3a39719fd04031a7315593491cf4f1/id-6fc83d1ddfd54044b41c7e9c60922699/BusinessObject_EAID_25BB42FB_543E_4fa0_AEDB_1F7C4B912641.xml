@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorgeschiedenis"
+    id="EAID_25BB42FB_543E_4fa0_AEDB_1F7C4B912641"
+    documentation="Patiënthistorie, mogelijk (mede) verkregen via verwijsinformatie.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

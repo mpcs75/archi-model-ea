@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maak hybride zorg toegankelijk"
+    id="id-4c2a1f5acb464a208c0f85095eaa3f5d"
+    documentation="Veldpartijen zorgen dat de hybride zorg toegankelijk is voor mensen en bevorderen inclusiviteit van deze zorg. Overheidspartijen faciliteren deze ontwikkeling.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

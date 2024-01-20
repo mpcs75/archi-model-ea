@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visie"
+    id="EAID_40FFF6CF_A277_4e77_B13C_68D50319E87B"
+    documentation="Een inspirerend toekomstbeeld voor de organisatie afstand nemend van de dagelijkse praktijk.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

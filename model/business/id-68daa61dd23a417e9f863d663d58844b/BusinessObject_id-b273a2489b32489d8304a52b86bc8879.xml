@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeids overeenkomst"
+    id="id-b273a2489b32489d8304a52b86bc8879"
+    documentation="Een afspraak tussen werkgever en werknemer, waarbij de werknemer zich verplicht werk te verrichten gedurende een aantal uren per week in dienst van de werkgever. Dit kan ook een vrijwilligers- of leer/werkovereenkomst zijn.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

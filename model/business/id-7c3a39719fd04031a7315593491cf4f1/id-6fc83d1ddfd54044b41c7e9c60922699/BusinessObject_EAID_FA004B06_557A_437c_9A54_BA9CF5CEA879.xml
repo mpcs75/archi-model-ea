@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestek"
+    id="EAID_FA004B06_557A_437c_9A54_BA9CF5CEA879"
+    documentation="Beschrijving van een werk, bouwplan">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

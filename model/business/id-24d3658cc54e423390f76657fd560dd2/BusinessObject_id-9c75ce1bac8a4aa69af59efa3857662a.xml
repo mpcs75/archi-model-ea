@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MedischHulpmiddel"
+    id="id-9c75ce1bac8a4aa69af59efa3857662a"
+    documentation="Medische hulpmiddelen kunnen worden omschreven als de inwendig geïmplanteerde en uitwendige apparatuur en/of hulpmiddelen die de patiënt gebruikt of heeft gebruikt om de gevolgen van functionele beperkingen van orgaansystemen te verminderen of om de behandeling van een ziekte mogelijk te maken. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/MedischHulpmiddel-v3.3.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

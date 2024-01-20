@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuning door toepassingen"
+    id="id-c21d838df0aa4c67b86e3eb78db87040"
+    documentation="Op eenvoudige wijze ondersteunen toepassingen de personen bij het vastleggen, verzamelen en ontsluiten van data voor secundair gebruik.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

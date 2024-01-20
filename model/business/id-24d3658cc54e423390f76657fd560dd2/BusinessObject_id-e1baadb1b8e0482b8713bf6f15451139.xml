@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AllergieIntolerantie"
+    id="id-e1baadb1b8e0482b8713bf6f15451139"
+    documentation="Een allergie of intolerantie beschrijft de geneigdheid tot overgevoeligheid van een patiënt voor een stof, zodat na blootstelling een ongewenste fysiologische reactie verwacht wordt, terwijl bij de meeste mensen bij die hoeveelheid geen reactie zou optreden. De waargenomen fysiologische veranderingen zijn meestal het resultaat van een immunologische reactie.&#xD;&#xA;De stoffen kunnen als volgt worden ingedeeld:&#xD;&#xA;&#xD;&#xA;- Geneesmiddel&#xD;&#xA;- Geneesmiddelgroep&#xD;&#xA;- Ingrediënt/toevoeging  &#xD;&#xA;- Voeding&#xD;&#xA;- Omgevingsfactor&#xD;&#xA; - Dier&#xD;&#xA; - Planten&#xD;&#xA; - Chemicaliën&#xD;&#xA; - Inhalatieallergenen&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/AllergieIntolerantie-v3.3(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

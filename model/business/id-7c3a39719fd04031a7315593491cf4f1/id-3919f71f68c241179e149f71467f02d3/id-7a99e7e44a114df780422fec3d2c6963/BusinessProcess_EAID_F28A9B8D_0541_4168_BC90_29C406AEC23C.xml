@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoeken naar kennis"
+    id="EAID_F28A9B8D_0541_4168_BC90_29C406AEC23C"
+    documentation="Contextueel zoeken naar informatie inclusief personalisatie en notificatie.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

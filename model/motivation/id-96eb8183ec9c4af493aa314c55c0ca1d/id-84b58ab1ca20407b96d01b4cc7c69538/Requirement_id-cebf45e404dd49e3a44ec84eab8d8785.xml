@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="70% digitaal of hybride beschikbaar"
+    id="id-cebf45e404dd49e3a44ec84eab8d8785"
+    documentation="Van geschikte zorg komt 70% digitaal of hybride beschikbaar.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="g. Prioritair maken gegevensuitwisselingen 1"
+    id="id-56caf61c9d544d1ba68dca5bcd4d07de"
+    documentation="De gegevensuitwisselingen medicatie- en toediengegevens; laboratoriumgegevens bijvoorbeeld voor medicatie; en contra-indicatie en overgevoeligheden worden door VWS prioritair gemaakt.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:CourseOfAction>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medicatie voorschrift"
+    id="id-4a0944b76acd4ab886411df98732b2f3"
+    documentation="&quot;Opdracht van een bevoegd arts aan een apotheek ter verwerking en eventueel verstrekking aan een te identificeren patiënt van medicatie, voorzien van een bepaalde hoeveelheid, sterkte en wijze van gebruik (toedieningsweg en frequentie). Er zijn verschillende typen te onderscheiden, waaronder Poliklinisch, Klinisch, Magistraal en Ontslag.&#xD;&#xA;Synoniem: recept&quot;">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet maatschappelijke ondersteuning (Wmo)"
+    id="id-05e550f3b73c48fcaf48de3e763b0d1e"
+    documentation="- Gemeentelijke verantwoordelijkheid voor maatschappelijke ondersteuning&#xD;&#xA;- Huishoudelijke hulp, dagbesteding, begeleiding en kortdurend verblijf in een zorginstelling&#xD;&#xA;- Beschermd wonen voor mensen met psychosociale problemen&#xD;&#xA;- Ondersteuning mantelzorg en vrijwilligerswerk door gemeenten&#xD;&#xA;- Geeft geen recht op zorg maar aanvulling op wat een burger en zijn/haar netwerk niet zelf kunnen&#xD;&#xA;&#xD;&#xA;Publicatie: https://wetten.overheid.nl/BWBR0035362">
+  <properties
+      key="Classificatie"
+      value="Stelselwet"/>
+</archimate:Constraint>

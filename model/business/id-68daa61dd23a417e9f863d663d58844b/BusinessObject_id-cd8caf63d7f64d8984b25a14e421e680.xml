@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitslag onderzoek"
+    id="id-cd8caf63d7f64d8984b25a14e421e680"
+    documentation="&quot;Resultaat van uitgevoerd onderzoek.&#xD;&#xA;Uitslag kan zijn de ruwe waarde (uitkomst van meting/onderzoek) en/of hiervan afgeleide interpretatie.&quot;">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

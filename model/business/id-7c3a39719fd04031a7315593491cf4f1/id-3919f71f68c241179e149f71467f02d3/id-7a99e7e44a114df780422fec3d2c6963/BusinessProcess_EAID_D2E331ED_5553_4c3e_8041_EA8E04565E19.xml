@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenbrengen vraag en aanbod"
+    id="EAID_D2E331ED_5553_4c3e_8041_EA8E04565E19"
+    documentation="Afstemmen van het zorgdienstenaanbod op de vraag binnen de regio van het ziekenhuis.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

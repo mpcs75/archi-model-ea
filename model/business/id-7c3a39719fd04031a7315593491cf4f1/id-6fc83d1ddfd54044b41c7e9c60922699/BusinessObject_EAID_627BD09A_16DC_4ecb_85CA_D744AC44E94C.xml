@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat Collegiaal Consult"
+    id="EAID_627BD09A_16DC_4ecb_85CA_D744AC44E94C"
+    documentation="Uitkomst van een collegiaal overleg.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

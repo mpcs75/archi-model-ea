@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actieve betrokkenheid"
+    id="id-5afbd2e31e7b417aa39af492acf24f6e"
+    documentation="Een actieve betrokkenheid van de patiënt">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

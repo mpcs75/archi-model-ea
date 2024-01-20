@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenprogramma"
+    id="EAID_35CDB394_6D78_4603_9737_7FE6C14361D7"
+    documentation="Een deelnemer-specifieke invulling van een examenprogramma, bestaande uit een geheel van onderwijseenheden. (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

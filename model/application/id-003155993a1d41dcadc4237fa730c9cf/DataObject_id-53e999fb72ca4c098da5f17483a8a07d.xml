@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EvidenceVariable"
+    id="id-53e999fb72ca4c098da5f17483a8a07d"
+    documentation="The EvidenceVariable resource describes a &quot;PICO&quot; element that knowledge (evidence, assertion, recommendation) is about.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/evidencevariable.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

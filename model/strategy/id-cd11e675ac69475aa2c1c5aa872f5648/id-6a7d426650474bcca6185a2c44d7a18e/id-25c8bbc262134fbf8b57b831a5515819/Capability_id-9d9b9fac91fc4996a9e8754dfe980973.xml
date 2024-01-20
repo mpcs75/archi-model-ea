@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toets architectuurkwaliteit expliciet"
+    id="id-9d9b9fac91fc4996a9e8754dfe980973"
+    documentation="Opgestelde architecturen worden zo goed mogelijk op kwaliteit gecontroleerd. Ze worden onderworpen aan de vraag of de gemaakte keuzes passen bij de strategie en de businessdoelen van de organisatie en inderdaad zullen leiden tot de beoogde voordelen.&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- Er worden pogingen ondernomen de architectuur op enigerlei wijze te toetsen op kwaliteit.&#xD;&#xA;- Er zijn kwaliteitsnormen voor architectuur benoemd.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Reviewprocedure architectuur inrichten. Richt een reviewprocedure voor architectuur in die ervoor zorgt dat architectuurproducten gereviewed worden door alle relevante stakeholders binnen de organisatie. In een reviewmatrix kan vooraf worden vastgelegd welke partijen welke architectuurproducten moeten reviewen.&#xD;&#xA;- Kwaliteitscriteria opstellen. Stel een lijst met belangrijkste criteria op waaraan een architectuurproduct moet voldoen.&#xD;&#xA;"/>

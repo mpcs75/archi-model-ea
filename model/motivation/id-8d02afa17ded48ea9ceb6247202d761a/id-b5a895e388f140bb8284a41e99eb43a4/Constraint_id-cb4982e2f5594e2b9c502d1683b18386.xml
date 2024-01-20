@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Algemene wet bestuursrecht (Awb)"
+    id="id-cb4982e2f5594e2b9c502d1683b18386"
+    documentation="- Verhouding tussen overheid en burger&#xD;&#xA;- Basis voor bevoegdheden inspectie gezondheidszorg en jeugd (IGJ)&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0005537&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Algemene_wet_bestuursrecht">
+  <properties
+      key="Classificatie"
+      value="Algemene wet"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betrokkenen beschikken over noodzakelijke gegevens"
+    id="id-2ad58afec51a4e95b914ea4f2581e9c3"
+    documentation="Alle betrokkenen in het netwerk (burger, mantelzorger, zorgverlener, sociale omgeving) beschikken over de gegevens die nodig zijn voor het leveren van passende hybride zorg.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

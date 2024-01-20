@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsovereenkomst"
+    id="EAID_EA0C64B5_D7A7_4b66_A321_12B47A5B2649"
+    documentation="Een afspraak die de rechten en verplichtingen regelt in onderwijsgerelateerde zaken tussen de onderwijsinstelling en een deelnemer. (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

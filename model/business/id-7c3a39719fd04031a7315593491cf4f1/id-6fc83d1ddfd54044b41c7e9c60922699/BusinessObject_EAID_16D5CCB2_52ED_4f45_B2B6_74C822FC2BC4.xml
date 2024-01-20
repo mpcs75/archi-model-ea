@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medicatieafspraak"
+    id="EAID_16D5CCB2_52ED_4f45_B2B6_74C822FC2BC4"
+    documentation="Voorstel van een zorgverlener in de rol van voorschrijver tot gebruik van medicatie door een patiënt.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

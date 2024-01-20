@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aansluiting op vastgestelde infrastructuren"
+    id="id-b091ff6e26934043b0772d25261fdd6b"
+    documentation="Toepassingen in het zorgnetwerk zijn aangesloten op de landelijk dekkende en nationaal vastgestelde gemeenschappelijke infrastructuren. Zo kunnen deze elkaar digitaal op eenvoudige wijze bereiken, gegevens delen en worden ondersteund in de samenwerking.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Therapie"
+    id="EAID_EF38BB74_CDD3_4db5_AC79_D451262D36DC"
+    documentation="Verzoek tot behandeling, uitgevoerd door een specifieke paramedische discipline, bv. fysiotherapie, logopedie.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

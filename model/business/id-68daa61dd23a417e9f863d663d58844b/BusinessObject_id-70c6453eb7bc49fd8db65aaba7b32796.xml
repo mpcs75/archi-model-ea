@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collegiaal consult"
+    id="id-70c6453eb7bc49fd8db65aaba7b32796"
+    documentation="Verzoek tot opinie of advies van een collega/zorgverlener inzake diagnose of behandeling en terugrapportage van bevindingen.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

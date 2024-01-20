@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verpleegplan"
+    id="EAID_826E49B3_45FB_46a8_BE23_614F1FCB55D9"
+    documentation="Vastlegging van het plan t.a.v. de te leveren verpleegkundige zorg aan de patiënt met als doel het verlichten of wegnemen van  gezondheidsklachten of gebreken.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

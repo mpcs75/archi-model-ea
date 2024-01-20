@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceUseStatement"
+    id="id-7e3fd7e238d440cd81517b02ee799a05"
+    documentation="A record of a device being used by a patient where the record is the result of a report from the patient or another clinician.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/deviceusestatement.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

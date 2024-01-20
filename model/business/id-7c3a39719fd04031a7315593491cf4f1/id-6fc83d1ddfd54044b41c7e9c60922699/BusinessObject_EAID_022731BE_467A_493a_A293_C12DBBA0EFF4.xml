@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medicatietoediening"
+    id="EAID_022731BE_467A_493a_A293_C12DBBA0EFF4"
+    documentation="Beschrijving van de daadwerkelijke toediening van een medicament aan een patiënt.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

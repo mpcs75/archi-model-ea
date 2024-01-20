@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgproduct"
+    id="EAID_30798FDF_D1A4_4b00_AAA1_D49592656C41"
+    documentation="Administratieve eenheid voor een vorm van medisch handelen of onderzoek die geldt als de basis waarop declaratie/facturatie van zorg plaatsvindt.&#xA;Een voorbeelden hiervan is een DBC.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

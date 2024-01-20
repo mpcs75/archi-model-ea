@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opstellen en onderhouden productieplanning"
+    id="id-f994c57113a54192a98e6de7334ed06a"
+    documentation="Vaststellen, bewaken en bijstellen van de productieplanning.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

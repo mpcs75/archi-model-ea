@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B. Standaardisatie"
+    id="id-71d08f2c0342486984a20807152c5467"
+    documentation="Gegevens kunnen enkel in het systeem van een andere zorgverlener hergebruikt worden wanneer de techniek gestandaardiseerd is en dezelfde taal gebruikt wordt om patiëntgegevens uit te wisselen. Het wetsvoorstel Elektronische gegevensuitwisseling in de zorg (Wegiz) stelt het elektronisch uitwisselen van gegevens tussen zorgverleners voor specifieke gegevensuitwisselingen onderling verplicht. Eerst maakt VWS samen met sector(en) en leveranciers de benodigde afspraken over standaarden voor taal en techniek, daarna gaat de wettelijke verplichting in.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:CourseOfAction>

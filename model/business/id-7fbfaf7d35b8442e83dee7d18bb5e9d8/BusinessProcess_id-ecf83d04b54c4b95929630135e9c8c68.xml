@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorschrijven medicatie"
+    id="id-ecf83d04b54c4b95929630135e9c8c68"
+    documentation="Vaststellen en voorschrijven van benodigde medicatie, dosering en frequentie  van dosering.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

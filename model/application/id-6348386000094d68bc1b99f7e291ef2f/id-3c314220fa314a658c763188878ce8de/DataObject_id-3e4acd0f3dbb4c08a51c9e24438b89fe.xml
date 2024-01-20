@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kerngegevens"
+    id="id-3e4acd0f3dbb4c08a51c9e24438b89fe"
+    documentation="De kerngegevens betreffen de EU-patiëntsamenvatting (inclusief medicatiegegevens), labuitslagen, beelden, verslagen en (verpleegkundige) zorgplannen die nodig zijn voor het verlenen van netwerkzorg. ">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma"
+    id="id-06564f09c56240edb4a3075dcc735c35"
+    documentation="Een set van gerelateerde projecten met een gezamenlijke strategische doelstelling.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgkennis"
+    id="id-a2d5fbb035184591998643f0b4b725c5"
+    documentation="Vastgelegde kennis over de zorg, zoals aandoeningen, protocollen, instructies, kwaliteitshandboeken, richtlijnen, e.d..">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

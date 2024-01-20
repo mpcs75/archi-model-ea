@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Middel"
+    id="EAID_5DAF2FD4_73BF_4621_AD3D_218EC7014141"
+    documentation="Een gebruiksartikel binnen de zorginstelling dat wordt aangewend om het proces te ondersteunen (bijvoorbeeld apparatuur).">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

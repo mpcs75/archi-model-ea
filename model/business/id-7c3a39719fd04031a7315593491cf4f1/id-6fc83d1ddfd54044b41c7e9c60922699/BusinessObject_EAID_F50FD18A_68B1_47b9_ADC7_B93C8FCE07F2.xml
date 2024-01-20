@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Therapieverslag"
+    id="EAID_F50FD18A_68B1_47b9_ADC7_B93C8FCE07F2"
+    documentation="Vastlegging van de door de paramedische zorgverlener uitgevoerde therapie.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

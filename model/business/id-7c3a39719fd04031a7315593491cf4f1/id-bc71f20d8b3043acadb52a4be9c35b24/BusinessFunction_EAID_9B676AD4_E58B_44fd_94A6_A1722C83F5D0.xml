@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KCL Onderzoek"
+    id="EAID_9B676AD4_E58B_44fd_94A6_A1722C83F5D0"
+    documentation="Het uitvoeren en verslagleggen van klinisch chemisch laboratorium (KCL) onderzoek.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

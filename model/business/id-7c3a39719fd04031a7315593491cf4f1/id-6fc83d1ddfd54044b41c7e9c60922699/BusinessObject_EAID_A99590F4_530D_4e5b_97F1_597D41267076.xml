@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelplan"
+    id="EAID_A99590F4_530D_4e5b_97F1_597D41267076"
+    documentation="Vastlegging van het plan t.a.v. de te leveren zorg aan de patiënt met als doel het verlichten of wegnemen van gezondheidsklachten of gebreken.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="50% van patiëntpopulatie"
+    id="id-a2a8eed27106431fab241b3fe8393e36"
+    documentation="Inclusie van c.q. het gebruik door minimaal 50% van de patiëntenpopulatie">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

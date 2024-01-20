@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagement"
+    id="EAID_8900A62C_669B_4506_BD32_7D69A9B554F2"
+    documentation="Borgen van kwaliteit van zorg, onderzoek en onderwijs en patiëntveiligheid.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

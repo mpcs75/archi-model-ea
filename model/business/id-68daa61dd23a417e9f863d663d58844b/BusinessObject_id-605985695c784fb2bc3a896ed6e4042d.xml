@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decursus"
+    id="id-605985695c784fb2bc3a896ed6e4042d"
+    documentation="&quot;Beschrijving van het chronologisch verloop van het ziekteproces van een patiënt en van de voortgang van de behandeling, opgeschreven/samengevat door de arts. Rapportage in algemene zin voortvloeiend uit het verrichten van een zorghandeling uitgevoerd door een specifieke disciplines. Dit kan zijn naar aanleiding van een bijzonderheid, ten behoeve van overdracht, of eenvoudigweg als vastlegging voor latere raadpleging of communicatie.&#xD;&#xA;N.B. Er bestaan verschillende opvattingen/invullingen van het begrip decursus.&quot;">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

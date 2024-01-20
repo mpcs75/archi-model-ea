@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrganizationAffiliation"
+    id="id-774cb35cf1954cf7a6de7522afd6ff36"
+    documentation="Defines an affiliation/assotiation/relationship between 2 distinct oganizations, that is not a part-of relationship/sub-division relationship.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/organizationaffiliation.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

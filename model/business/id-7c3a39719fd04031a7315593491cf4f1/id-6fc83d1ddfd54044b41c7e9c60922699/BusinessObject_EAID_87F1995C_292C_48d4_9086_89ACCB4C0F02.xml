@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesgroep"
+    id="EAID_87F1995C_292C_48d4_9086_89ACCB4C0F02"
+    documentation="Een verzameling van deelnemers die gemeenschappelijk geroosterde onderwijsactiviteiten uitvoeren.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

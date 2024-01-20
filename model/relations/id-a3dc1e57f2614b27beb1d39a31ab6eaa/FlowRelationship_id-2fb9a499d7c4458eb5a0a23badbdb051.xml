@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verstrekte medicatie"
+    id="id-2fb9a499d7c4458eb5a0a23badbdb051">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41eb8355fb0a4ada9740b4dc618cec49.xml#id-41eb8355fb0a4ada9740b4dc618cec49"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-92c50cfcbaea4771b138299aa50a408f.xml#id-92c50cfcbaea4771b138299aa50a408f"/>
+</archimate:FlowRelationship>

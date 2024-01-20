@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoop-, contract-, en voorraad-beheer"
+    id="id-e3b49299c53743ef9e2b707ae7b91bae"
+    documentation="Dit domein bevat de activiteiten ten behoeve van inkoop, contractuele afspraken en goederenlogistiek.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

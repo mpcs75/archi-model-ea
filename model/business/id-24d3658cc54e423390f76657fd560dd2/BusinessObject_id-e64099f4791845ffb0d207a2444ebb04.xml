@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Familieanamnese"
+    id="id-e64099f4791845ffb0d207a2444ebb04"
+    documentation="De familieanamnese beschrijft de gezondheidsproblemen van biologische verwanten die relevant zijn. De familieanamnese bevat informatie over de medische aandoeningen van het familielid en de biologische relatie tussen de patiënt en het beschreven familielid. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Familieanamnese-v3.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

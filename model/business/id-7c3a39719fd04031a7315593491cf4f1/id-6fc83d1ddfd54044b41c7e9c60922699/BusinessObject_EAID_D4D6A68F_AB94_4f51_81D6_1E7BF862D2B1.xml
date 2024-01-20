@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persoon"
+    id="EAID_D4D6A68F_AB94_4f51_81D6_1E7BF862D2B1"
+    documentation="Persoon die een rol heeft in het zorgproces, dit kan ook een patiënt zijn.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

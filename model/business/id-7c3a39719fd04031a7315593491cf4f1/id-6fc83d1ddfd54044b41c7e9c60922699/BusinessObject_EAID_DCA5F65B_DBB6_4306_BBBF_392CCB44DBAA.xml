@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksvoorstel"
+    id="EAID_DCA5F65B_DBB6_4306_BBBF_392CCB44DBAA"
+    documentation="Beschrijving van de opzet van het onderzoek, de vraagstelling, doelstelling, etc.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

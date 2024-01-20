@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar stellen en hergebruik wordt verplicht"
+    id="id-b719329bf5ef4d7594ee1761b223b4fd"
+    documentation="Er worden bindende afspraken gemaakt die beschikbaar stellen en hergebruik van data verplichten.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P&amp;C rapportage"
+    id="id-1c38b2d9644d48a9a55c1beecbf15f3d"
+    documentation="Financieel overzicht ten behoeve van het bewaken van de realisatie ten opzichte van de begroting.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

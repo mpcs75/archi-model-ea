@@ -1,0 +1,9 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secundair gebruik (Visie)"
+    id="id-2adf4fcb6ed44011b3208737f8fbfd6b"
+    documentation="Met minimale registratielast leidt dit tot de juiste kwaliteit van data om hergebruik mogelijk te maken. Voor het vastleggen, uitwisselen, ontsluiten en gebruik van gegevens ten behoeve van primaire en secundaire gebruiksdoelen:&#xD;&#xA;&#xD;&#xA;1. Gebruik in het primaire zorgproces&#xD;&#xA;2. Zorguitkomsten en keuze-informatie voor burgers&#xD;&#xA;3. Preventie&#xD;&#xA;4. Wetenschappelijk onderzoek&#xD;&#xA;5. Leren en verbeteren&#xD;&#xA;6. Pakketcyclus&#xD;&#xA;7. Zorginkoop&#xD;&#xA;8. Zorgorganisatie&#xD;&#xA;9. Kwaliteitsgegevens&#xD;&#xA;10. Zorginformatievoorziening (waaronder wettelijke taken als regulering en toezicht)&#xD;&#xA;&#xD;&#xA;Minimale registratielast is een uitgangspunt voor zorgverleners, zodat zij hun tijd zoveel mogelijk aan daadwerkelijke zorgverlening kunnen besteden. Zorgverleners registreren wat waarde toevoegt aan de zorg: het zorgproces zelf, maar ook aan het kunnen leren van de zorg om deze weer te kunnen verbeteren. Daarbij worden zij ondersteund door het geautomatiseerd (her)gebruiken van data uit andere bronnen.&#xD;&#xA;&#xD;&#xA;Burgers worden gestimuleerd om de gezondheidsdata, geregistreerd door henzelf en hun (formele of informele) zorgverleners, onherleidbaar tot de persoon beschikbaar te stellen voor bovenstaande doelen. Heldere afspraken over voorwaarden voor hergebruik borgen het vertrouwen.&#xD;&#xA;&#xD;&#xA;Informatie die is ontstaan in het secundaire proces ten behoeve van het primaire proces stelt men op gestandaardiseerde wijze beschikbaar. Dit zodat toepassingen in het primaire proces daar gebruik van kunnen maken.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Driver>

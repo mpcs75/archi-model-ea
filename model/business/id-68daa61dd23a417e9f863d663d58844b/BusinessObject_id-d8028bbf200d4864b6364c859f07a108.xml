@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zelfmanagement informatie"
+    id="id-d8028bbf200d4864b6364c859f07a108"
+    documentation="Nog door de behandelend arts te valideren informatie verkregen van de patiënt als resultaat van zijn eigen zorgproces bijvoorbeeld meting, dagboek, foto, etc. Dit kan worden verkregen uit bijvoorbeeld ingevulde vragenlijsten, online behandelmodules of een persoonlijk gezondheidsdossier.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

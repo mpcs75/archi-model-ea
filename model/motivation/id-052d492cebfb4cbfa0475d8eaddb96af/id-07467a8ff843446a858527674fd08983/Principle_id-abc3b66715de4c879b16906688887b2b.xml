@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissingsondersteuning"
+    id="id-abc3b66715de4c879b16906688887b2b"
+    documentation="Beslissingsondersteunende systemen maken gebruik van kennisdata om in combinatie met de medische data suggesties te bieden aan zorgverleners en patiënten.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

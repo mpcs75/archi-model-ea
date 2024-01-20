@@ -1,0 +1,79 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werken onder architectuur"
+    id="id-6bfa0abe1076494f9e869d78b299bbc3"
+    background="0">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f7a9a90d430e44c08eb93874a4b2e7f0"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Architectuur-&#xD;&#xA;volwassenheid&#xD;&#xA;(DYA)"/>
+    <bounds
+        x="24"
+        y="96"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-c2a1ab21b2364915a0fa4f36eadde3e3.xml#id-c2a1ab21b2364915a0fa4f36eadde3e3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-87cf5c82257841c0be6ab5e0584b0416"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Hoe ik &#xD;&#xA;Archimate &#xD;&#xA;toepas"/>
+    <bounds
+        x="168"
+        y="96"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-e29667b1247e4102a6a2891f4b7827aa.xml#id-e29667b1247e4102a6a2891f4b7827aa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-28146f60639d4f3c9fcc953378694728"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Home"/>
+    <bounds
+        x="12"
+        y="-24"
+        width="120"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-7baa2e9bbeeb44e587ed02251e5b4d3e.xml#id-7baa2e9bbeeb44e587ed02251e5b4d3e"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-5fa10f4330c441189c280be389dfdac1"
+      name="Sticky"
+      font="1|Calibri|12.0|2|WINDOWS|1|-16|0|0|0|400|-1|0|0|0|3|2|1|34|Calibri"
+      fontColor="#2e2e2e"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Binnen deze tak van het model heb ik wat dingen uitgewerkt die specifiek te maken hebben met het werken onder architectuur.">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="36"
+        width="601"
+        height="49"/>
+  </children>
+</archimate:SketchModel>

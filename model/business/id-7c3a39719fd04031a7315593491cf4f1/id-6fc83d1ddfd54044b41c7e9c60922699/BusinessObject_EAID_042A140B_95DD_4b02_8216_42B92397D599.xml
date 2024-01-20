@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijskwalificatie"
+    id="EAID_042A140B_95DD_4b02_8216_42B92397D599"
+    documentation="De mate waarin het geboden onderwijs voldoet aan vooraf vastgestelde criteria.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

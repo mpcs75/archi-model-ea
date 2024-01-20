@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verpleging"
+    id="EAID_822724ED_6530_4a24_83D4_F0BB9A561A4E"
+    documentation="Verpleegkundige activiteiten vastleggen">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

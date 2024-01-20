@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelverslag"
+    id="EAID_5BDA5322_84BB_4749_AFE3_B8DDBAF18295"
+    documentation="Vastlegging van de behandeling van de patiënt, anders dan medicamenteus, operatief, paramedisch, verpleegkundig of verzorgend.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatie"
+    id="EAID_8AC3251C_8E72_4eb4_A422_7A6E6B637C63"
+    documentation="Participatie van de patiënt bij diens eigen zorgproces.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

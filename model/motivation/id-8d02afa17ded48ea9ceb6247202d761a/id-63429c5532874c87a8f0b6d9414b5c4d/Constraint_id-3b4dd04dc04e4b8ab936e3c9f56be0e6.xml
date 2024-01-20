@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet ambulancezorg voorzieningen"
+    id="id-3b4dd04dc04e4b8ab936e3c9f56be0e6"
+    documentation="- Organisatie, beschikbaarheid en kwaliteit van ambulancevoorzieningen.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0043925&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoording"
+    id="id-7b9f0923983c4944b1aa327b87fba911"
+    documentation="Dit domein bevat de activiteiten gericht op de verantwoording van de organisatie aan de omgeving.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

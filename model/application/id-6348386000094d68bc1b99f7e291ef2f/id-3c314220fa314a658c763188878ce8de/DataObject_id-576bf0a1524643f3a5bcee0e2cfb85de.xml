@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verslagen"
+    id="id-576bf0a1524643f3a5bcee0e2cfb85de"
+    documentation="Verslagen die nodig zijn voor het verlenen van netwerkzorg. ">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:DataObject>

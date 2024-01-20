@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bereiden medicatie"
+    id="EAID_51A18C5C_C7AA_4e95_937A_C110677616CA"
+    documentation="Het geheel of gedeeltelijk vervaardigen van geneesmiddelen dan wel het verpakken of etiketteren daarvan (bron: Geneesmiddelenwet).">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ApgarScore"
+    id="id-9a453a7ec37c4315a16efcf71b9f4ffa"
+    documentation="De Apgar score geeft de algemene klinische toestand van een pasgeborene weer. Deze wordt één, vijf en tien minuten na de geboorte beoordeeld aan de hand van 5 parameters: ademhaling, hartslag/pols, spierspanning, huidskleur, reflexen/reactie op prikkels. Indien de score bij vijf minuten &lt; 8 is wordt opnieuw gescoord bij 10, 15, 20 minuten etc. tot de score = 8.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ApgarScore-v1.0.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

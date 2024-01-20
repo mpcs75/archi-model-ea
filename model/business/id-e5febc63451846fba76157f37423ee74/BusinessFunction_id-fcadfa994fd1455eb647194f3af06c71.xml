@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgcontractering"
+    id="id-fcadfa994fd1455eb647194f3af06c71"
+    documentation="Alle activiteiten en bijbehorende informatie ten behoeve van het onderhouden, beheren en ondersteunen van contracten met financiers (zorgkantoren, zorgverzekeraars, gemeenten etc).&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="RDC"/>
+</archimate:BusinessFunction>

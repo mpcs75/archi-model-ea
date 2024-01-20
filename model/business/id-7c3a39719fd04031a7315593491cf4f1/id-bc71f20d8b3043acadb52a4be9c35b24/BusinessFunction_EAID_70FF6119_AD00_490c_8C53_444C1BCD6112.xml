@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operatie"
+    id="EAID_70FF6119_AD00_490c_8C53_444C1BCD6112"
+    documentation="Chirurgische ingrepen als onderdeel van de behandeling van de patient.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

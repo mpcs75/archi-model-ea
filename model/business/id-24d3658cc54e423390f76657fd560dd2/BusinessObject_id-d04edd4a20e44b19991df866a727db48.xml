@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MedicatieToediening2"
+    id="id-d04edd4a20e44b19991df866a727db48"
+    documentation="Medicatietoediening is de registratie van de afzonderlijke toedieningen van het geneesmiddel aan de patiënt door de toediener (zoals een verpleegkundige of patiënt zelf), in relatie tot de gemaakte afspraken. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/MedicatieToediening2-v1.1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

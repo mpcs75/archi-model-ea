@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovatie"
+    id="id-081a52d46685470aa5700900c3b3deab"
+    documentation="Dit domein bevat de activiteiten voor het ontwikkelen van bestaande en nieuwe dienstverlening.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

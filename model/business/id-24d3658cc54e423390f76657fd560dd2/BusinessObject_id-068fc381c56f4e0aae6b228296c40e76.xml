@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VoedingspatroonZuigeling"
+    id="id-068fc381c56f4e0aae6b228296c40e76"
+    documentation="Een gezonde voeding houdt in dat we niet te veel of te weinig eten (energie-inname in balans met het energieverbruik) en dat de voedingssamenstelling (m.b.t. belangrijke voedingsstoffen) is zoals aanbevolen door de Gezondheidsraad. Voor een zuigeling betekent dit dat het kind borstvoeding, kunstvoeding of een combinatie hiervan krijgt. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VoedingspatroonZuigeling-v1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

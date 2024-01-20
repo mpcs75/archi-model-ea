@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelstelling"
+    id="EAID_D6A7D24E_3C55_42c5_AB30_ED37A3E0707B"
+    documentation="(Bij)Sturing geven aan de (financiële) processen binnen een organisatie, inclusief het plannen, bewaken en bijsturen van de tijd en inzet van mensen.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

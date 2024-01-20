@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huisvestingsplan"
+    id="id-9e28dcdf73f4448eb0db49e6bef43881"
+    documentation="Beschrijving van huidige en gewenste accommodatie-eisen voor tijdelijk of permanent onderdak.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

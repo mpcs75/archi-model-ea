@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infuus"
+    id="id-a47f881588fd47e79b44393a10fdb548"
+    documentation="Een infuus is een apparaat waarmee vloeistof langzaam in een bloedvat wordt gespoten. Het infuus bestaat uit een aantal delen.&#xD;&#xA;Tot het infuus wordt behoort:&#xD;&#xA;&#xD;&#xA;- de canule (perifeer) of de katheter (centraal) die perifeer of centraal wordt ingebracht bij de patiënt;&#xD;&#xA;- het toedieningssysteem dat aangesloten is op de canule/katheter waardoor de vloeistof loopt die wordt toegediend;&#xD;&#xA; - de infuuszak waar de vloeistof zich in bevindt.&#xD;&#xA;&#xD;&#xA;Op één canule/katheter kunnen meerdere toedieningssystemen zijn aangesloten. Daarnaast kan een centraal veneuze katheter meerdere lumina bevatten.&#xD;&#xA;Naast veneuze katheters zijn er ook arteriële en epidurale katheters. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Infuus-v3.3(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

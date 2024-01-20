@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dossierraadpleging"
+    id="id-d34fbeae6c2a45a2bb29aa5351f647e8"
+    documentation="Functionaliteit voor het raadplegen van het dossier via verschillende views als patientgeschiedenis, decursus, samenvatting, problems, diagnoses, allergies etc."/>

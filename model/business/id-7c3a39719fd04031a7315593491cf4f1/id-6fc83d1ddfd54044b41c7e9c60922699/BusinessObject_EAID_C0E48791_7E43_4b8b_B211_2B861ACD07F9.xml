@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekpublicatie"
+    id="EAID_C0E48791_7E43_4b8b_B211_2B861ACD07F9"
+    documentation="Publicaties en informatie uit het wetenschappelijk onderzoek">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

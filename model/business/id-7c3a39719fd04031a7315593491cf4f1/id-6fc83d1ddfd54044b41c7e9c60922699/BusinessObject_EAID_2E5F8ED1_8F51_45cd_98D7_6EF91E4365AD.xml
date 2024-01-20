@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksrapport, proefschrift, publicatie"
+    id="EAID_2E5F8ED1_8F51_45cd_98D7_6EF91E4365AD"
+    documentation="De resultaten uit registraties en analyse van het project verwerkt tot een eindrapportage (publicatie, proefschrift of presentatie).">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

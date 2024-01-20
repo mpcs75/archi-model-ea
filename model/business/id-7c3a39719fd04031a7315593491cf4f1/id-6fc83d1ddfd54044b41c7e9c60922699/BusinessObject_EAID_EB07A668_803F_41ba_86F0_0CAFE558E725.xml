@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning services"
+    id="EAID_EB07A668_803F_41ba_86F0_0CAFE558E725"
+    documentation="Overzicht van gereserveerde, te reserveren en geretourneerde diensten">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

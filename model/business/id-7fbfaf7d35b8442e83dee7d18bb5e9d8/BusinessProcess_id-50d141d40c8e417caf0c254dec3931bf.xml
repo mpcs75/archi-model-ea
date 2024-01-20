@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren financiële administratie"
+    id="id-50d141d40c8e417caf0c254dec3931bf"
+    documentation="Beheren van debiteuren, crediteuren, grootboek, facturen en uitvoeren financiële transacties. Omvat ook de financiële afhandeling met financiers.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

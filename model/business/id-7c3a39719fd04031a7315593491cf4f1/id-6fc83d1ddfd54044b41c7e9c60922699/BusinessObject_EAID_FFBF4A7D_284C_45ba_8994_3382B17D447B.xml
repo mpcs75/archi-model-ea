@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiedata"
+    id="EAID_FFBF4A7D_284C_45ba_8994_3382B17D447B"
+    documentation="Referentiedata hebben betrekking op data (dikwijls geleverd door een standaardisatie organisaties) welke, buiten een incidentele mutatie, statisch (onveranderlijk) is.&#xA;Referentiedata dienen voor het organiseren en structureren van gegevens en maakt gegevens bruikbaar voor transacties (ook over organisatiegrenzen heen).&#xA;&#xA;Voorbeelden van referentiedata zijn:&#xA;? Landen&#xA;? Plaatsen&#xA;? Postcodes&#xA;? Verrichtingen">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

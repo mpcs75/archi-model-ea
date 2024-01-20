@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwijzing &amp; Overdracht"
+    id="EAID_3AE8E5DE_D913_46f9_99E4_60993ECA4844"
+    documentation="Verwijzingen en overdracht van en naar andere zorgverleners inclusief de hiervoor benodigde informatieuitwisseling.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artikel"
+    id="EAID_7B3CBE86_1AF6_4e99_B4D2_7201C51F2222"
+    documentation="Handelswaar en het aantal dat op een bepaalde plaats aanwezig is, uitgedrukt in eenheden of in geld">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

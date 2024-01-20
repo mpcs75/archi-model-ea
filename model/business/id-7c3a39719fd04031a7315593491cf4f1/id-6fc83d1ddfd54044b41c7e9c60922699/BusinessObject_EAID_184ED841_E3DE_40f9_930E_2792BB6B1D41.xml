@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatielijst"
+    id="EAID_184ED841_E3DE_40f9_930E_2792BB6B1D41"
+    documentation="Overzicht van alle door de zorginstelling geproduceerde publicaties.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

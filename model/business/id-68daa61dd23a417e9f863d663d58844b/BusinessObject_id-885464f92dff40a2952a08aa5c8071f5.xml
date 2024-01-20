@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signaal ihkv zorg"
+    id="id-885464f92dff40a2952a08aa5c8071f5"
+    documentation="Een zorggerelateerd signaal in algemene zin, met als doel om iemand actief van iets op de hoogte te stellen. ">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

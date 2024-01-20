@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prestatie-indicator (KPI)"
+    id="id-d7b39a40624842fe945d15456c7e7475"
+    documentation="Een kwantificeerbare, meetbare indicatie die laat zien of een organisatie erin geslaagd is een bepaalde doelstelling te bereiken.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

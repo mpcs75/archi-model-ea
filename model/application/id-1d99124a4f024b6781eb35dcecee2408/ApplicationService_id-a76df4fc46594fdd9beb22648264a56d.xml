@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spoedverwijzing HAP-SEH"
+    id="id-a76df4fc46594fdd9beb22648264a56d"
+    documentation="Met de spoedverwijzing worden gegevens van patiënten die van de HAP naar de SEH worden verwezen digitaal en gestructureerd verstuurd. Vanuit de HAP zijn de patiëntgegevens zoals NAW, reden van verwijzing en meetwaarden direct in het informatiesysteem van de SEH inzichtelijk en kunnen gestructureerd in het patiëntendossier overgenomen worden.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/spoedverwijzing-hap-seh&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="Gegevensdienst"/>
+</archimate:ApplicationService>

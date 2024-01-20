@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren technische installaties"
+    id="id-5aea0ebf942d480ba5d00ce80e35cfa8"
+    documentation="Beheren en inregelen van technische installaties, infrastructurele voorzieningen en energie(besparing).">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

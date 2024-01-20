@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BehandelAanwijzing"
+    id="id-301851d69d7a43b8aceb92cea95bacf6"
+    documentation="Een behandelaanwijzing bevat een gezamenlijk besluit tussen een zorgverlener (bijvoorbeeld een huisarts) en een patiënt of diens vertegenwoordiger(s) over de wenselijkheid van het uitvoeren van een bepaalde behandeling, zoals een reanimatie, voordat deze behandeling (acuut) noodzakelijk wordt.&#xD;&#xA;Wanneer de noodzaak zich aandient en de behandeling niet kan worden besproken met de patiënt of vertegenwoordiger(s), is dat besluit een zwaarwegende aanwijzing voor de behandelend zorgverlener (bijvoorbeeld een SEH arts).&#xD;&#xA;&#xD;&#xA;De term Behandelgrens is een synoniem van de term BehandelAanwijzing.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/BehandelAanwijzing2-v1.0(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs deelnemer"
+    id="id-4b4d7c5d981a45cba8d0969c6634cd2b"
+    documentation="Basisgegevens over degene die onderwijs volgt bijv. een arts in opleiding, verpleegkundige, studenten. Bevat gegevens als NAW maar ook vooropleiding.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

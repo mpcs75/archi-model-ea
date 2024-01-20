@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rooster"
+    id="EAID_913EF799_A296_482b_A89D_DA75B0606043"
+    documentation="Een overzicht met data en tijdstippen waarin de beschikbaarheid (bezette en open slots) van één resource is vastgelegd. .">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

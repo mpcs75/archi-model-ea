@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evalueren zorg"
+    id="id-2d219cfee7dc4856b7940cdae8232b58"
+    documentation="Na beëindigen zorg bespreken van verleende zorg om het geleverde resultaat te kunnen bepalen. ">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

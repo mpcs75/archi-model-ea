@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lichaamsgewicht"
+    id="id-6f22a56c5042496eb7175ef5ffbaa551"
+    documentation="Lichaamsgewicht is de gangbare benaming voor de massa van het (menselijk) lichaam.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Lichaamsgewicht-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

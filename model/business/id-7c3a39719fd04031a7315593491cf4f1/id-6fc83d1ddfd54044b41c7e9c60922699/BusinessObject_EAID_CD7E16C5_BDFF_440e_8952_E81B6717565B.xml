@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma"
+    id="EAID_CD7E16C5_BDFF_440e_8952_E81B6717565B"
+    documentation="Een set van gerelateerde projecten met een gezamenlijke doelstelling.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

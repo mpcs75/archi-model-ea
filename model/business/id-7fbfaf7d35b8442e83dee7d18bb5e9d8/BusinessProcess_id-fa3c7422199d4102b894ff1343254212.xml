@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlenen zorgwoondiensten"
+    id="id-fa3c7422199d4102b894ff1343254212"
+    documentation="Verlenen en administratief vastleggen van een gewenste individuele zorggerelateerde woondienst zoals maaltijden (voeding), domotica en mobiliteitsmiddelen. Omvat ook het verbeteren van bestaande diensten en het afhandelen van storingen. Zorgwoondiensten kunnen betrekking hebben op zowel de intramurale als de extramurale setting.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

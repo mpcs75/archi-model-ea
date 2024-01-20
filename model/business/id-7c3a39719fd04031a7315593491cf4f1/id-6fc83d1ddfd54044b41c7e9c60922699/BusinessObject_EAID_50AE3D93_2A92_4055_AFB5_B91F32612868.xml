@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complicatie"
+    id="EAID_50AE3D93_2A92_4055_AFB5_B91F32612868"
+    documentation="Vastlegging van de onbedoelde en ongewenste uitkomsten, tijdens of volgend op het handelen van een zorgverlener, die voor de gezondheid van de patiënt zodanig nadelig zijn dat aanpassing van het medisch (be)handelen noodzakelijk is, dan wel dat er sprake is van onherstelbare schade.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

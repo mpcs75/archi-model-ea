@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitaire dienst"
+    id="id-b963c6841ea84d8fb59b1edd87f79283"
+    documentation="Aangeboden dienst of product, zoals catering, (vergader)ruimte reservering, afval, repro, postverwerking, beveiliging en onderhoud van de groenvoorziening.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="a. Toegankelijkheid"
+    id="id-c295ed0de4994438a5ed560928e292b1"
+    documentation="Veldpartijen zorgen dat de hybride zorg toegankelijk is voor mensen en bevorderen inclusiviteit van deze zorg. Hierbij is het uitgangspunt ‘digitaal als het kan’ en beslissen patiënt en zorgverlener samen over of de zorg inderdaad digitaal/hybride kan worden geleverd gegeven de specifieke situatie van de patiënt.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:CourseOfAction>

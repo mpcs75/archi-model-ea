@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rooster voor onderwijs"
+    id="EAID_A31D17B4_C042_404e_8DDB_136243F7B914"
+    documentation="De verzameling van in tijd ingeplande onderwijsactiviteiten gekoppeld aan de daarvoor noodzakelijke middelen en medewerkers. (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

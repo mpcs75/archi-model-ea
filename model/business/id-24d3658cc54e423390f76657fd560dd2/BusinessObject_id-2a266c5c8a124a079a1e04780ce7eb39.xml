@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VermogenTotZelfstandigMedicatiegebruik"
+    id="id-2a266c5c8a124a079a1e04780ce7eb39"
+    documentation="Het zelfstandig kunnen beheren en gebruiken van de eigen medicijnen is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied.&#xD;&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere koken, telefoneren en boodschappen doen ook aangeduid als instrumentele algemene dagelijkse levensverrichtingen (IADL). Veel mensen kunnen nog steeds zelfstandig functioneren ook als zij hulp nodig hebben bij één of twee van deze activiteiten.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotZelfstandigMedicatiegebruik-v1.0.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

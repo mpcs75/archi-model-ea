@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data is beschikbaar voor hybride zorg"
+    id="id-49b709affee041f3ab406343e6059561"
+    documentation="Passende hybride zorg vereist beschikbaarheid van data en informatie en heeft consequenties voor besluiten over toestemming en bezwaren. Alleen als de persoon expliciet de toegang tot data weigert, zal data niet beschikbaar zijn.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

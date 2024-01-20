@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet toelating zorginstellingen (Wtzi)"
+    id="id-0ed57cf371e64728bf136047518ccce9"
+    documentation="- Welke instellingen zorg mogen leveren die voor vergoeding in aanmerking komt.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/huisartsenzorg/zorgwetten-huisarts&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0018906&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_toelating_zorginstellingen">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

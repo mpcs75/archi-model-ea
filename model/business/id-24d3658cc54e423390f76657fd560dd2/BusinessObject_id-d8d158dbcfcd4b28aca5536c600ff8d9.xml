@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blaasfunctie"
+    id="id-d8d158dbcfcd4b28aca5536c600ff8d9"
+    documentation="De primaire functie van de blaas is tijdelijke opslag van urine. Een tweede belangrijke functie van de blaas is het uitdrijven van de opgeslagen urine, zodra daar een gelegenheid voor is. Door diverse oorzaken kunnen deze functies verstoord zijn. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Blaasfunctie-v3.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

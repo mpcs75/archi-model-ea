@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststellen behandelplan"
+    id="id-cef7fca1bcf44f11bbf3b11739b7b24e"
+    documentation="Vaststellen van een behandelplan en het vastleggen hiervan, zodat dit kan worden gebruikt in de communicatie met de patiënt (c.q. regievoerder) en met andere zorgverleners. Hierbij vindt de match tussen diagnose en zorgaanbod plaats.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

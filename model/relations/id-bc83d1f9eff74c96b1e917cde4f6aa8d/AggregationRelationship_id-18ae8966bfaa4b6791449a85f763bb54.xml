@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="healthcareService"
+    id="id-18ae8966bfaa4b6791449a85f763bb54"
+    documentation="The list of healthcare services that this worker provides for this role's Organization/Location(s)">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-df484fd3800642498cb0526d3556229a.xml#id-df484fd3800642498cb0526d3556229a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4f468fd734264f8999c3302e2d5780cb.xml#id-4f468fd734264f8999c3302e2d5780cb"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encounter"
+    id="id-85fc6d433b954a1cb924d33d001dd706"
+    documentation="An interaction between a patient and healthcare provider(s) for the purpose of providing healthcare service(s) or assessing the health status of a patient.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/encounter.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maak zorgpaden geschikt voor hybride zorg"
+    id="id-be9fb6cdb9604a2c9752235b83146c53"
+    documentation="Sectoren onderzoeken welke zorgpaden geschikt zijn voor digitale en/of hybride zorg. Van deze geschikte zorg komt 70% digitaal of hybride beschikbaar. Van alle zorg die hybride wordt aangeboden, streven we naar een inclusie van c.q. het gebruik door minimaal 50% van de patiëntenpopulatie waarvoor de hybride zorg- paden geschikt zijn. Hiertoe worden sectorale afspraken gemaakt.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

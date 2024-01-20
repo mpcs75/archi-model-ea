@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie en voorlichting"
+    id="id-dadad29fa6194b368c62dcb7c1cf2d38"
+    documentation="Dit domein bevat de activiteiten ten behoeve van communicatie met en voorlichting aan patiënten, bezoekers en zorgprofessionals.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

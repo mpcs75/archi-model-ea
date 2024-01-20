@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlijdensakte"
+    id="id-4136ba5755574a289b7b7fb4e8906426"
+    documentation="Door een arts afgegeven verklaring m.b.t. overlijden en doodsoorzaak, nodig voor melden van het overlijden van een persoon bij de burgerlijke stand van een gemeente.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

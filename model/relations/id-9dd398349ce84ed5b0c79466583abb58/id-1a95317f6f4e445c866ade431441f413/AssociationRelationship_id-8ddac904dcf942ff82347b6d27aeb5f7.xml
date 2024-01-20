@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hebben een relatie"
+    id="id-8ddac904dcf942ff82347b6d27aeb5f7">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-7d9392bd4efe4747a51781a30476430e.xml#id-7d9392bd4efe4747a51781a30476430e"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-1d12de8462de41d1a58bfc20136ee759.xml#id-1d12de8462de41d1a58bfc20136ee759"/>
+</archimate:AssociationRelationship>

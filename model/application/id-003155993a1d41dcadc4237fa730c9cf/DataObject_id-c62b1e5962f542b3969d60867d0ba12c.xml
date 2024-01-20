@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Condition (Problem)"
+    id="id-c62b1e5962f542b3969d60867d0ba12c"
+    documentation="A clinical condition, problem, diagnosis, or other event, situation, issue, or clinical concept that has risen to a level of concern.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/condition.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

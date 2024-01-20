@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerking"
+    id="id-f44d504ce6d24c39bade0c555580b306"
+    documentation="Samenwerking vindt over de domeinen heen plaats, bijvoorbeeld tussen zorg, onderwijs en onderzoek, maar ook bij verwijzing en uitwisseling met andere zorginstanties en zorgverlener. Samenwerking kent daarnaast ook zijn eigen specifieke activiteiten en informatieobjecten, denk bijvoorbeeld aan zelfmanagement(informatie). Samenwerking sluit ook goed aan bij  ontwikkelingen rondom zoals, eHealth, interoperabiliteit en noodzaak voor samenwerking, uitwisseling en verbinding.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:Grouping>

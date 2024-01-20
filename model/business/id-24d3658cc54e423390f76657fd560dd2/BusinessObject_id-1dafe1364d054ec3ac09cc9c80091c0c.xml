@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComfortScore"
+    id="id-1dafe1364d054ec3ac09cc9c80091c0c"
+    documentation="De Comfort gedrag schaal / ComfortNeo schaal is een pijnobservatie-instrument, welke wordt gebruikt om het pijngedrag te beoordelen van neonaten (pasgeborene).&#xD;&#xA;De Comfort gedrag schaal telt 7 observatiepunten waarop gelet moet worden. Per observatie wordt gekozen uit een 5-punt schaal. De eindscore geeft aan of het geobserveerde kind pijn lijdt en de mate waarin. De score wordt gecombineerd met een NRS-score die door de verpleegkundigen wordt ingevuld op basis van de klinische blik.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ComfortScore-v1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

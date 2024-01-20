@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geïntegreerd gebruik van architectuurtools"
+    id="id-3c90295fd5e14f23a61bbfb8971f1d7a"
+    documentation="De architecten worden ondersteund door een geïntegreerde set van tools waarmee onder andere de onderlinge consistentie van architecturen kan worden gecontroleerd.&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- De gebruikte architectuurtools zijn met elkaar geïntegreerd.&#xD;&#xA;- Met behulp van de architectuurtools kan de onderlinge consistentie van architecturen worden gecontroleerd.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Integrale toolkit invoeren. Implementeer een integrale toolkit, waarmee niet alleen de verschillende architecturen kunnen worden vastgelegd, maar, door integratie van de tools, ook onderlinge consistentie kan worden bewaakt. Een alternatief is natuurlijk één tool dat alle aspecten afdekt."/>

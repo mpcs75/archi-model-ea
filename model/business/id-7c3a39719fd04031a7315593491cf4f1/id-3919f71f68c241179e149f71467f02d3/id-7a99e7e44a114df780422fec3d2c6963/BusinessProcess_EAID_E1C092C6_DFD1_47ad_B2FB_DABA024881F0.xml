@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewaken medicatie"
+    id="EAID_E1C092C6_DFD1_47ad_B2FB_DABA024881F0"
+    documentation="Toezien op en controleren van juist gebruik van medicatie (bv. juiste dosering, gevaar bij allergie, bijwerkingen, combinatie met zwangerschap, interactie met andere medicatie) in het licht van het totale ziektebeeld van de patiënt. (Rationale: elke processtap doet al een deel van de bewaking maar overkoepelend is dit ook nodig).">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

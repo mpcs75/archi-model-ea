@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NutritionOrder"
+    id="id-25a8fd63362644faa257b041695130a0"
+    documentation="A request to supply a diet, formula feeding (enteral) or oral nutritional supplement to a patient/resident.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/nutritionorder.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

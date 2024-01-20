@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarverslag"
+    id="id-5815a391cda04a609169691de06a9d66"
+    documentation="Schriftelijk verslag van een organisatie over de gang van zaken in het afgelopen boekjaar. Meestal wordt daarin ook iets gezegd over de vooruitzichten.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

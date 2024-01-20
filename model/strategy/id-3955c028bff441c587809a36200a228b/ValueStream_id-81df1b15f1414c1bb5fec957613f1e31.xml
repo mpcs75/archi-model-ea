@@ -1,0 +1,9 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring"
+    id="id-81df1b15f1414c1bb5fec957613f1e31"
+    documentation="Monitoring kan voorafgaan aan de behandeling en relevant zijn in de fase van Behandeling, begeleiding en terugvalpreventie en in de fase van Herstel, participatie, re-integratie en langdurige en chronische ggz.">
+  <properties
+      key="Classificatie"
+      value="Zorgfases GGZ"/>
+</archimate:ValueStream>

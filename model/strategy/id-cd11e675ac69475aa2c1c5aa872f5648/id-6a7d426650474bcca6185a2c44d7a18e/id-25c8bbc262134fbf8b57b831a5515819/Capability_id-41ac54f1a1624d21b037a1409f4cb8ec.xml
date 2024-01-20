@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toets architectuurkwaliteit procesmatig"
+    id="id-41ac54f1a1624d21b037a1409f4cb8ec"
+    documentation="Er is een proces ingericht om de kwaliteit van de architectuur te borgen.&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- Er is structurele aandacht voor de kwaliteit van de architectuur.&#xD;&#xA;- Er is een kwaliteitsprogramma voor architectuur.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Architectuur auditen. Stel vast aan welke kwaliteitseisen de architectuur (zowel qua proces als inhoud) moet voldoen. Laat regelmatig audits uitvoeren om te toetsen of aan deze eisen wordt voldaan."/>

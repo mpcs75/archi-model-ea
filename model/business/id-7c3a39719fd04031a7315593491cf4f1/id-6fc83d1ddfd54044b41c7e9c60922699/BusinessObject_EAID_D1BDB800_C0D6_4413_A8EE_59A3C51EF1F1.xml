@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medische apparatuur"
+    id="EAID_D1BDB800_C0D6_4413_A8EE_59A3C51EF1F1"
+    documentation="Fysieke machine-eenheden die gebruikt worden in de zorg bijvoorbeeld echoscopen, lasers, audio- en visuele apparaten, PET camera's en röntgenapparaten.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

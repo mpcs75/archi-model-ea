@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewaken Arbeidsomstandigheden (ARBO)"
+    id="id-5277824975094e099b220c1c862f9e33"
+    documentation="Adviseren over en beheren van risico's op het gebied van de arbeidsomstandigheden. Omvat ook BHV, preventie, keuringen, verzuimbegeleiding en re-integratie.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsresultaat"
+    id="EAID_29B37437_93A0_4611_A526_87060BB4F4BC"
+    documentation="Het resultaat van het uitvoeren van een toetsactiviteit (bijvoorbeeld: cijfer, aanwezigheid, afronding stage). (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

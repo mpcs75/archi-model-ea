@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DetectedIssue"
+    id="id-0c68849add6e48a2b4368cba4f292ae2"
+    documentation="Indicates an actual or potential clinical issue with or between one or more active or proposed clinical actions for a patient; e.g. Drug-drug interaction, Ineffective treatment frequency, Procedure-condition conflict, etc.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/detectedissue.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

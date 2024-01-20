@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnostisering"
+    id="EAID_31650BDA_EC95_4d3e_8FE7_043DE3F58BC7"
+    documentation="Vaststellen van de aard en oorzaak van de klachten of zorgbehoefte van de patiënt.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

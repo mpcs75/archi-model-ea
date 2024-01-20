@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claim"
+    id="id-d9ffee51e241461fbc0f95656bb2b8a5"
+    documentation="A provider issued list of professional services and products which have been provided, or are to be provided, to a patient which is sent to an insurer for reimbursement.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/claim.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemer onderwijs"
+    id="EAID_8030F025_3500_4336_BEF9_AC5740064BD8"
+    documentation="Een individu die aan onderwijsactiviteiten deelneemt. (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

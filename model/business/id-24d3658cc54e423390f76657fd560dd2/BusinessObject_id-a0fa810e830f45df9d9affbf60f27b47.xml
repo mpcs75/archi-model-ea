@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lichaamslengte"
+    id="id-a0fa810e830f45df9d9affbf60f27b47"
+    documentation="De lichaamslengte wordt voor verschillende redenen gebruikt, zoals het meten van de groei, bijvoorbeeld voor een baby, kind of jongere, het berekenen van de lichaamsoppervlakte, bijvoorbeeld voor het berekenen van de juiste hoeveelheid medicatie, of gecombineerd met lichaamsgewicht om de Body Mass Index te berekenen. Ook voor het bepalen van de voedingstoestand van een persoon wordt de lengte gebruikt.&#xD;&#xA;&#xD;&#xA;Deze zorginformatiebouwsteen biedt de mogelijkheid om het lichaamslengte van een persoon vast te leggen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Lichaamslengte-v3.1.1(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verrichting"
+    id="id-bd3d242347294c1b8e8fcbd6c0caaae3"
+    documentation="Het concept Verrichting beschrijft een therapeutische of diagnostische verrichting, die de patiënt heeft ondergaan of zal ondergaan. Het concept kan in de juiste context zowel historische, toekomstige als geadviseerde verrichtingen beschrijven. &#xD;&#xA;Een verrichting kan een simpele bloeddrukmeting zijn maar ook een complexe hartoperatie.&#xD;&#xA;In sommige zorgsectoren wordt in plaats van  de term verrichting de term behandeling gebruikt. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Verrichting-v5.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

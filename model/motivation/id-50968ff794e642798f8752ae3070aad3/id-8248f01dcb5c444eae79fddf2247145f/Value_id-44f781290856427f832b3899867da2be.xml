@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advies terigvalpreventie en signalering"
+    id="id-44f781290856427f832b3899867da2be"
+    documentation="Advies over terugvalpreventie en tijdelijke signalering door monitoring">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

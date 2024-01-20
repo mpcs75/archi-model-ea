@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen locatie"
+    id="id-74fb017929784e05997c1c79de134d9b"
+    documentation="Vaststellen en plannen van gewenste inzet van ruimtes en kamers.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

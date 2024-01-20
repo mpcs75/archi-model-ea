@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnostiek"
+    id="EAID_8239F53E_60CE_4885_B74C_EA97A6E3DFC7">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessService>

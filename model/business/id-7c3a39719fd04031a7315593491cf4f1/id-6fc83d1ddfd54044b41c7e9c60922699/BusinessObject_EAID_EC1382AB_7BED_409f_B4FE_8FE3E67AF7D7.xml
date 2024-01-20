@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelplan"
+    id="EAID_EC1382AB_7BED_409f_B4FE_8FE3E67AF7D7"
+    documentation="Het plan waarin de medewerker zijn persoonlijke ontwikkeling vastlegt">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

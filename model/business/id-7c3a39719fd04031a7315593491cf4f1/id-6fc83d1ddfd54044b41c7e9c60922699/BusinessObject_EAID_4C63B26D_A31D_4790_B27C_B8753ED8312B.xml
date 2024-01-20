@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Factuur"
+    id="EAID_4C63B26D_A31D_4790_B27C_B8753ED8312B"
+    documentation="Overzicht van geleverde producten en diensten met bijbehorende prijzen, met het verzoek aan geadresseerde tot betaling.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

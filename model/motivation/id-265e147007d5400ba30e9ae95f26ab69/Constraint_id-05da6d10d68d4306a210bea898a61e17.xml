@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO/IEC 27799"
+    id="id-05da6d10d68d4306a210bea898a61e17"
+    documentation="Health informatics - Information security management in health using ISO/IEC 27002&#xD;&#xA;&#xD;&#xA;Deze standaard is niet vrij in te zien en niet vertaald in het Nederlands">
+  <properties
+      key="Classificatie"
+      value="ISO/IEC"/>
+</archimate:Constraint>

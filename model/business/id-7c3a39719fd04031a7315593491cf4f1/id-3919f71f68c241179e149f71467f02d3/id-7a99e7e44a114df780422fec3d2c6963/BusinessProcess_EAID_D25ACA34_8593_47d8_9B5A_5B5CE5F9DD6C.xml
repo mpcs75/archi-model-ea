@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen van  de locatie"
+    id="EAID_D25ACA34_8593_47d8_9B5A_5B5CE5F9DD6C"
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Vaststellen en plannen van gewenste inzet van ruimtes en kamers.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

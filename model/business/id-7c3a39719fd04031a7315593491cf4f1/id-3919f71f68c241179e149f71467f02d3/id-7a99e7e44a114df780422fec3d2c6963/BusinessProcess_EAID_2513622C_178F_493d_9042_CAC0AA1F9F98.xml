@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen afspraak"
+    id="EAID_2513622C_178F_493d_9042_CAC0AA1F9F98"
+    documentation="Vastleggen van datum/tijd/plaats, betrokken zorgverlener(s) en patiënt voor een contact/interactiemoment.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

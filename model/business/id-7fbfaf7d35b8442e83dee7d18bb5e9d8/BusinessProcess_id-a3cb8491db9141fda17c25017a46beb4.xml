@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren nieuwbouw, verbouw en renovatie van gebouw(en)"
+    id="id-a3cb8491db9141fda17c25017a46beb4"
+    documentation="Adviseren op het gebied van verbouw en renovatie van bestaande gebouwen en nieuwbouw. Hierbij hoort ook de bewaking van de uitvoering van werkzaamheden.&#xD;&#xA;">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anesthesieverslag"
+    id="EAID_F3F2DDFF_73D0_4fa5_A163_85E87786A42E"
+    documentation="Vastlegging van de tijdens een operatie uitgevoerde anesthesie.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

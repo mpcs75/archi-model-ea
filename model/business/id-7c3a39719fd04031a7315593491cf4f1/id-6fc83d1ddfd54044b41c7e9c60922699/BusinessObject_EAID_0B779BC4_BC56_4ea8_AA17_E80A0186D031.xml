@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ziekenhuisbeleid"
+    id="EAID_0B779BC4_BC56_4ea8_AA17_E80A0186D031"
+    documentation="Gedragslijnen voor de verwezenlijking van de doelstellingen van het ziekenhuis.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

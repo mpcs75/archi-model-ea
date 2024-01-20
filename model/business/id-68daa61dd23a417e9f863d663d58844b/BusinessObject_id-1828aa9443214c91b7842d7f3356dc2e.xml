@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie"
+    id="id-1828aa9443214c91b7842d7f3356dc2e"
+    documentation="Planmatige en doelgerichte inzet van mensen en middelen om de visie en missie van de organisatie en de daaruit afgeleide doelen te realiseren.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

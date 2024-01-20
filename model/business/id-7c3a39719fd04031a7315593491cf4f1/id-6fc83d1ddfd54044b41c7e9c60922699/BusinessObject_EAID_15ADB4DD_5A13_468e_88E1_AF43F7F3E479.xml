@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkproduct"
+    id="EAID_15ADB4DD_5A13_468e_88E1_AF43F7F3E479"
+    documentation="Een artefact dat gemaakt wordt in het kader van een activiteit. Voorbeelden zijn een scriptie, verslag, werkstuk, proefschrift of foto's van fysieke producten die zijn gemaakt (bron HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

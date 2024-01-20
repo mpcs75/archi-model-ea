@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project"
+    id="id-9b274d946993435fa9eec7f9ee1b2607"
+    documentation="Een project is een, in de tijd en middelen begrensde, set van samenhangende activiteiten met een vastgesteld doel.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

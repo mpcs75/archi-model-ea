@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Data Governance Act (DGA)"
+    id="id-e34051ddba434ce9aef103decd33b5d9"
+    documentation="&#xD;&#xA;&#xD;&#xA;Publicatie: https://digital-strategy.ec.europa.eu/en/policies/data-governance-act&#xD;&#xA;&#xD;&#xA;Nieuws: https://www.rijksoverheid.nl/actueel/nieuws/2023/09/28/data-governance-act-van-kracht-om-data-betrouwbaar-en-makkelijk-te-delen">
+  <properties
+      key="Classificatie"
+      value="Europese regelgeving"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Declaratie"
+    id="EAID_7A675690_3E6E_4d4f_B62E_B76CDA04FA96"
+    documentation="Rekening voor de gemaakte kosten of geleverde diensten">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

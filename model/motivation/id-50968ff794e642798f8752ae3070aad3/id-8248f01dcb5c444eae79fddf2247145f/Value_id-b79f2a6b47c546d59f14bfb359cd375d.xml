@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzicht in betekenis diagnose"
+    id="id-b79f2a6b47c546d59f14bfb359cd375d"
+    documentation="Meer inzicht in de betekenis van de diagnose voor de patiënt en hoe het persoonlijke zorgplan vorm kan krijgen">
+  <properties
+      key="Classificatie"
+      value="ehealth"/>
+</archimate:Value>

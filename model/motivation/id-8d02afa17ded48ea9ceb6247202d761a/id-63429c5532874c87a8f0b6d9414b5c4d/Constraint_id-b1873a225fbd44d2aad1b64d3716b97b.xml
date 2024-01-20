@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet marktordening gezondheidszorg (Wmg)"
+    id="id-b1873a225fbd44d2aad1b64d3716b97b"
+    documentation="- Instrumenten voor het reguleren van tarieven en prestaties in de zorg.&#xD;&#xA;- Taken en bevoegdheden van de Nederlandse Zorgautoriteit (NZa)&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0020078&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie-uitwisseling"
+    id="id-3018630dd5f844debadd6d603e07a19c"
+    documentation="Dit domein bevat de activiteiten op het gebied van uitwisseling van zorginformatie met externe zorgverleners (excl. verwijzingen).">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessFunction>

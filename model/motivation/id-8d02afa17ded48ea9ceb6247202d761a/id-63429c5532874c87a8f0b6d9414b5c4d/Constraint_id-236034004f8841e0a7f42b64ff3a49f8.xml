@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet op de geneeskundige behandelovereenkomst (Wgbo)"
+    id="id-236034004f8841e0a7f42b64ff3a49f8"
+    documentation="- Rechten en plichten van patiënten en hulpverleners rond de behandelovereenkomst.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Wettekst in boek 7 van het Burgerlijk wetboek: https://wetten.overheid.nl/BWBR0005290/2012-06-13#Boek7_Titeldeel7_Afdeling5&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_op_de_geneeskundige_behandelingsovereenkomst">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

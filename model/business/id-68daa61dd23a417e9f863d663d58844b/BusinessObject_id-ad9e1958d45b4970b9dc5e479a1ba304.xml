@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informed consent"
+    id="id-ad9e1958d45b4970b9dc5e479a1ba304"
+    documentation="Ondertekende verklaring van een patiënt dat hij/zij instemt met datgene wat in de verklaring is vastgelegd (bijvoorbeeld inzake aard, aanpak en risico) m.b.t. een onderzoek of behandeling die de patiënt ondergaat.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

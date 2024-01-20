@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="f. Gegevens en toepassingen"
+    id="id-3788f2fb77094d75a77a75e3ae7b85e4"
+    documentation="Het veld maakt het delen van digitale gegevens en gebruik van toepassingen in de PGO’s onderdeel van het zorgproces daar waar patiënten en zorgverleners hiermee geholpen zijn.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:CourseOfAction>

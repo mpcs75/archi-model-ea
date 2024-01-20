@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afspraakverzoek"
+    id="EAID_0F4CCB80_4AD0_460e_A35C_FD13D2BCFF1C"
+    documentation="Verzoek tot planning van een contact tussen een patiënt en een zorgverlener.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

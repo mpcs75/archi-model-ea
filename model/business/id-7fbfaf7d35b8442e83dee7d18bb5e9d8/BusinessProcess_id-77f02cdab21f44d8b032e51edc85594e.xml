@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlenen welzijnsdiensten"
+    id="id-77f02cdab21f44d8b032e51edc85594e"
+    documentation="Verlenen en administratief vastleggen van een gewenste welzijnsdienst. Welzijnsdiensten: hieronder verstaan we diensten die bijdragen aan het welbevinden van mensen in lichamelijk en geestelijk opzicht. Het kan gaan om hulp bij het verbeteren van de lichamelijke situatie (bv. coaching op het gebied van beweging en voeding), maar ook om het verbeteren van de sociale contacten.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

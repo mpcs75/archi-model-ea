@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsovereenkomst"
+    id="EAID_F5B3A0C1_88E7_43a1_84C6_374560832066"
+    documentation="Een afspraak tussen werkgever en werknemer, waarbij de werknemer zich verplicht werk te verrichten gedurende een aantal uren per week in dienst van de werkgever. Dit kan ook een vrijwilligers- of leer/werkovereenkomst zijn.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bundle"
+    id="id-f29a06754d794efbad650964ae299ac1"
+    documentation="One common operation performed with resources is to gather a collection of resources into a single instance with containing context. In FHIR this is referred to as &quot;bundling&quot; the resources together. These resource bundles are useful for a variety of different reasons, including:&#xD;&#xA;&#xD;&#xA;- Returning a set of resources that meet some criteria as part of a server operation (see RESTful Search)&#xD;&#xA;- Returning a set of versions of resources as part of the history operation on a server (see History)&#xD;&#xA;- Sending a set of resources as part of a message exchange (see Messaging)&#xD;&#xA;- Grouping a self-contained set of resources to act as an exchangeable and persistable collection with clinical integrity - e.g. a clinical document (see Documents)&#xD;&#xA;- Creating/updating/deleting a set of resources on a server as a single operation (including doing so as a single atomic transaction) (see Transactions)&#xD;&#xA;- Storing a collection of resources&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/bundle.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

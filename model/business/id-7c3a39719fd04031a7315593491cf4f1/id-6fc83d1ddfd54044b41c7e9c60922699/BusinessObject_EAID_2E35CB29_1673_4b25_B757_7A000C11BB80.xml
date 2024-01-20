@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lichaamsmateriaal"
+    id="EAID_2E35CB29_1673_4b25_B757_7A000C11BB80"
+    documentation="Menselijk lichaam, of van het menselijk lichaam afkomstig materiaal waarop onderzoek kan worden verricht t.b.v. diagnostiek, behandeling of wetenschappelijk onderzoek.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

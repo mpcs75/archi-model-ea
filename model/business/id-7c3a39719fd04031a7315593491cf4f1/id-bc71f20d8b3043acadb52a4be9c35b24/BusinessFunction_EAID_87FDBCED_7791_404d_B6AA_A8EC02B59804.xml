@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgrelatie"
+    id="EAID_87FDBCED_7791_404d_B6AA_A8EC02B59804"
+    documentation="Onderhouden en identificeren van zorgrelaties, inclusief patiënten, zorgverleners en zorgverzekeraars.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding"
+    id="id-c5d708ddf34047dd95f3357136cab73c"
+    documentation="- Wie wanneer levensbeëindiging op verzoek (euthanasie) mag verlenen en de toetsing hiervan.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: -&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0012410&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Euthanasie_in_Nederland">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

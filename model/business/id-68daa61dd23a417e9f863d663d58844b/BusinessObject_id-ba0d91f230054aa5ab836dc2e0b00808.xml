@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="id-ba0d91f230054aa5ab836dc2e0b00808"
+    documentation="Document met afspraken waaraan betrokkenen zich moeten houden.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

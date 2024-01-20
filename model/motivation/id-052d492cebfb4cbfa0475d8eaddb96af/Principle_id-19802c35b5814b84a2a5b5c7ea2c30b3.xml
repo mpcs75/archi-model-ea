@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secundair gebruik"
+    id="id-19802c35b5814b84a2a5b5c7ea2c30b3"
+    documentation="Data is beschikbaar voor secundair gebruik, met minimale registratielastvoor zorgverleners.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

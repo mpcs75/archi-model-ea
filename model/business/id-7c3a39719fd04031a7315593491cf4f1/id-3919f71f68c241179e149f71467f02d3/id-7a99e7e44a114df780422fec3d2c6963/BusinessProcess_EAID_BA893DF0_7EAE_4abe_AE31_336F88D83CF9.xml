@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geven juridisch advies"
+    id="EAID_BA893DF0_7EAE_4abe_AE31_336F88D83CF9"
+    documentation="Adviseren over het toepassen van juridisch beleid bijvoorbeeld m.b.t. medisch-ethische zaken en het juridisch ondersteunen bij de afhandeling van klachten en bezwaren.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

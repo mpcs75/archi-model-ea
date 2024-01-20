@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluatieverslag"
+    id="EAID_847A2183_0C15_4be8_939B_3DAD876CBC02"
+    documentation="Vastlegging van het gesprek met de patiënt bij het beëindigen van zorgverlening, waarin informatie wordt verstrekt over nazorg, en waarin de mening en ervaringen van de patiënt aan bod kunnen komen over verleende zorg.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

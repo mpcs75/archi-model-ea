@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitslag lichamelijk onderzoek"
+    id="EAID_BA935077_5A21_4560_8091_8002321E81F5"
+    documentation="Bevindingen van de observaties van onderzochte lichamelijke functies.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

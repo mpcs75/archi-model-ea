@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvullend Onderzoek"
+    id="EAID_0EE33368_F5A7_4c99_961B_5E4BF4B1750F"
+    documentation="Verzoek tot planning en uitvoering van een verplaatsing (opname/ontslag/overplaatsing) van een patiënt.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

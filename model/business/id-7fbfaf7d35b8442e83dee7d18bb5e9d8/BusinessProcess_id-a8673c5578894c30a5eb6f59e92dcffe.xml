@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelen verwijzing"
+    id="id-a8673c5578894c30a5eb6f59e92dcffe"
+    documentation="Kennisnemen van de aard en achtergrond van een verwijzing, beoordelen of en hoe de gevraagde zorg is aangewezen en ook geleverd kan worden.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

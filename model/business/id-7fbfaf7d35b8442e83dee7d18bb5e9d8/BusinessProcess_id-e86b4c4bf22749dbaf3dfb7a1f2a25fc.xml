@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelen resultaat collegiaal consult"
+    id="id-e86b4c4bf22749dbaf3dfb7a1f2a25fc"
+    documentation="Beoordelen van de bevindingen die zijn gedaan bij een collegiaal consult en deze betrekken bij diagnose en behandelplan.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

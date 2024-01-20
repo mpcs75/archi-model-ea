@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Substance"
+    id="id-8d89ab9ad8034a128a4ba470cefdf6e1"
+    documentation="A homogeneous material with a definite composition.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/substance.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

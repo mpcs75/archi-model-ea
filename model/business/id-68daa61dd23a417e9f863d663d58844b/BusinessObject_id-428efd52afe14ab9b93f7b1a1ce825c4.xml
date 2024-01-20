@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artikel"
+    id="id-428efd52afe14ab9b93f7b1a1ce825c4"
+    documentation="Handelswaar en het aantal dat op een bepaalde plaats aanwezig is, uitgedrukt in eenheden of in geld.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SubstancePolymer"
+    id="id-460056b9fbb14b108e7d33848044b9b4"
+    documentation="Todo.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/substancepolymer.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

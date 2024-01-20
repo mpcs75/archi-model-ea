@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet medenzeggenschap cliënten zorginstellingen 2017 (Wmcz)"
+    id="id-f194eebbb09a47c78b49598df3119532"
+    documentation="- Verplichting zorginstelling voor het hebben van een cliëntenraad&#xD;&#xA;-  Taken en bevoegdheden van cliëntenraden&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0042294&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Medezeggenschap#Zorginstellingen">
+  <properties
+      key="Classificatie"
+      value="Specifieke zorgwet"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patientdossier"
+    id="EAID_233B037E_FBD2_4c3c_BE73_054BBA011DA3"
+    documentation="Alle gegevens die over één patiënt vastgelegd zijn.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

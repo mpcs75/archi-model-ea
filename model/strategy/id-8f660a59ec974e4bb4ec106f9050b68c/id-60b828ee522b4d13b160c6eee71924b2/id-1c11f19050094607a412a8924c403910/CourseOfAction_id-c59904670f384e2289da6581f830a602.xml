@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="l. Implementatie gegevensuitwisseling wegiz"
+    id="id-c59904670f384e2289da6581f830a602"
+    documentation="Het veld verbindt zich aan tijdige implementatie van de prioritaire gegevensuitwisselingen onder de Wegiz (Basisgegevensset zorg, beelduitwisseling, e-overdracht, alle uitwisselingen in relatie tot medicatieoverdracht en acute zorg) conform de planning in de Meerjarenagenda Wegiz. Onderdeel van deze afspraken is de uitwerking van kwaliteits- en informatiestandaarden, deelname aan specifieke normeringstrajecten en implementatie.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:CourseOfAction>

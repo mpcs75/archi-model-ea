@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landelijke dekking en gestandaardiseerde vastlegging"
+    id="id-e9c90ff8b7a848cd9e3877094383df7d"
+    documentation="Het beschikbaar hebben van gegevens voor secundair gebruik stelt eisen aan een landelijk dekkende infrastructuur en gestandaardiseerde vastlegging. Dit geldt ook voor data ontstaan in het secundaire proces die gebruikt kan worden in het primaire proces.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

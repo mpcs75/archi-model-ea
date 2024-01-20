@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flag"
+    id="id-6efad5e04b484f92a86ad5f780023c75"
+    documentation="Prospective warnings of potential issues when providing care to the patient.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/flag.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

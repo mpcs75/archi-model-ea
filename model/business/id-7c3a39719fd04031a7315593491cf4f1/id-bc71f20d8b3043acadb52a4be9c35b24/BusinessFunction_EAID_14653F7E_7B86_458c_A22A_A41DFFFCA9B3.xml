@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT"
+    id="EAID_14653F7E_7B86_458c_A22A_A41DFFFCA9B3"
+    documentation="Ontwikkelen, onderhouden en ondersteunen van informatie Technologie">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet elektronische gegevensverwerking in de zorg (Wegiz)"
+    id="id-9978599c50e949ffbdc49f80d94544d6"
+    documentation="- Verplichting voor de zorgaanbieder om gegevens elektronisch uit te wisselen&#xD;&#xA;- Eisen aan taal en techniek&#xD;&#xA;- Randvoorwaarden voor uitwisseling tussen systemen&#xD;&#xA;&#xD;&#xA;Relatie met normen e.d. - https://connect.nen.nl/standard/sunburst?infoOn=283706&amp;backRNR=3648923&#xD;&#xA;&#xD;&#xA;https://www.nen-egiz.nl/&#xD;&#xA;&#xD;&#xA;https://www.gegevensuitwisselingindezorg.nl/gegevensuitwisseling/uitleg-over-de-wet&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0048095&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
+  <properties
+      key="Classificatie"
+      value="Algemene wet"/>
+</archimate:Constraint>

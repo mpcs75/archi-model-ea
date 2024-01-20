@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lichaamsmateriaal t.b.v. wetenschappelijk onderzoek"
+    id="EAID_72C5CA56_8008_4db4_A614_B0B4308EC82E"
+    documentation="Het tijdens het wetenschappelijk onderzoek verzamelde (biomedische) materiaal (bv bloed, weefsel e.d.).">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

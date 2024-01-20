@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stage/afstudeeractiviteit"
+    id="EAID_55CC860F_086B_48d4_8B52_63AA59A83EDD"
+    documentation="Een leeractiviteit waarin een deelnemer een stage/afstudeeropdracht uitvoert. (HORA)">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

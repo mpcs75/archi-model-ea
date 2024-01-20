@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afspraak"
+    id="EAID_2EB7BFAA_0B7D_4649_8852_67E897C7985D"
+    documentation="Vastlegging van gegevens m.b.t. een afspraak van een patiënt met een zorgverlener.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

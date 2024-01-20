@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren en exploiteren van ICT voorzieningen"
+    id="id-a31e7a20bf4943049fc3f74ede85bcd1"
+    documentation="De activiteit(en) om bestaande ICT voorzieningen te laten functioneren. Deze activiteit omvat activiteiten op het gebied van de ICT infrastructuur, technisch applicatiebeheer, functioneel beheer, de helpdesk en andere vormen van  gebruikersondersteuning.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren voorraad"
+    id="id-832ca7f25cc1444ca997ba5786ecfdb2"
+    documentation="Alle activiteiten die erop gericht zijn om voorraden op een gewenst niveau te houden of te brengen.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer architectuurprocucten beleidsmatig"
+    id="id-159d1fab18f24214aad98b4d0bcd88b5"
+    documentation="Er is beleid geformuleerd met betrekking tot de wijze waarop architectuurproducten worden beheerd. Dit beleid is gebaseerd op een visie op de borging van architectuurproducten.&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- Er is beleid met betrekking tot de wijze waarop de architectuur wordt beheerd.&#xD;&#xA;- Er wordt gedifferentieerd in de wijze waarop de verschillende onderdelen van de architectuur worden beheerd.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Beheerbeleid opstellen. Stel beleid op hoe met het beheer van de verschillende architecturen wordt omgegaan. Hierbij kan bijvoorbeeld worden gedifferentieerd in welke architecturen actief worden onderhouden en wanneer en door wie."/>

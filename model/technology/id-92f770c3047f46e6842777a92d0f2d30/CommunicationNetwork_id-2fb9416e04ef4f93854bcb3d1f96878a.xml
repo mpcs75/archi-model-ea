@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AORTA-LSP"
+    id="id-2fb9416e04ef4f93854bcb3d1f96878a"
+    documentation="Het Landelijk Schakelpunt (LSP) is onderdeel van de zorginfrastructuur die in het afsprakenstelsel AORTA wordt beschreven. Via het LSP kunnen medische gegevens zoals waarneem- en medicatiegegevens tussen zorgaanbieders gedeeld worden.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/">
+  <properties
+      key="Classificatie"
+      value="Landelijke infrastructuur"/>
+</archimate:CommunicationNetwork>

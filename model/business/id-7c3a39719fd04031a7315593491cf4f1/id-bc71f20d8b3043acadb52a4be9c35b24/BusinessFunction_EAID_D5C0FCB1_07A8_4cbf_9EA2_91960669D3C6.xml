@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beeldvorming"
+    id="EAID_D5C0FCB1_07A8_4cbf_9EA2_91960669D3C6"
+    documentation="Het uitvoeren en verslagleggen van beeldvormend onderzoek zoals radiologie en nucleair.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

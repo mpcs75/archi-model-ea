@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuning onderwijs"
+    id="EAID_5FCA7F37_A126_48f5_A5DE_BF4F2FC46C4D"
+    documentation="Administratief, inhoudelijk, ondersteuning van onderwijs.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessFunction>

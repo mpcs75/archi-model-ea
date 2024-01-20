@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient"
+    id="id-399f23f4729f438cba863c0f6d1c95f4"
+    documentation="Demographics and other administrative information about an individual or animal receiving care or other health-related services.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/patient.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting servercapaciteit"
+    id="id-9f3a757f8dcf45f08c6e534539caa0c8"
+    documentation="Functionaliteit t.b.v. het leveren van serverinfrastructuur (CPU power)"/>

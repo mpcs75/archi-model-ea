@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderscheid tussen inhoud en transport"
+    id="id-9bfe59c438fa46d9aa8d86ce151675b0"
+    documentation="Door een onderscheid te maken tussen de inhoud en het transport van de data creëren we meer flexibiliteit in het ecosysteem.">
+  <properties
+      key="Classificatie"
+      value="NVS"/>
+</archimate:Principle>

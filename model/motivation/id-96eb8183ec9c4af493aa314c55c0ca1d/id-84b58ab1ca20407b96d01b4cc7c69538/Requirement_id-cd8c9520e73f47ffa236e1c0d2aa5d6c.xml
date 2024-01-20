@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Elektronische gegevensuitwisseling is de standaard in de zorg"
+    id="id-cd8c9520e73f47ffa236e1c0d2aa5d6c"
+    documentation="Zorgdata landelijk en sectoroverstijgend elektronisch uitwisselen is de nieuwe standaard. Gegevens moeten op een eenvoudige en op een veilige wijze toegankelijk zijn voor zowel de behandelende zorgverlener(s) als de persoon op wie de informatie betrekking heeft.">
+  <properties
+      key="Classificatie"
+      value="IZA"/>
+</archimate:Requirement>

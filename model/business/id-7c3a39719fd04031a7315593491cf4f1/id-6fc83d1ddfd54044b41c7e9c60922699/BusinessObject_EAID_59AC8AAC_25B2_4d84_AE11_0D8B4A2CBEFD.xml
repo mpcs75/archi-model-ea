@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgbehoefte"
+    id="EAID_59AC8AAC_25B2_4d84_AE11_0D8B4A2CBEFD"
+    documentation="De door een zorgverlener vastgestelde zorgbehoefte van een patiënt.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessObject>

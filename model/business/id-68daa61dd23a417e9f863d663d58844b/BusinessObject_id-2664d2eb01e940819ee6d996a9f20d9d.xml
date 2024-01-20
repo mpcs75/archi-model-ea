@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nieuwsbericht"
+    id="id-2664d2eb01e940819ee6d996a9f20d9d"
+    documentation="Interne of externe berichten die gecommuniceerd kunnen worden door middel van persberichten, email, intranet, website, organisatiemagazines, personeelskrant, et cetera.">
+  <properties
+      key="Classificatie"
+      value="RDG"/>
+</archimate:BusinessObject>

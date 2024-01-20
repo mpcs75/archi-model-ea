@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNAQ65+Score"
+    id="id-b0ae40d45a644768820b1119a399dbbf"
+    documentation="De Short Nutritional Assessment Questionnaire 65+ (SNAQ65+) is een (gevalideerd) meetinstrument voor het bepalen van de mate van ondervoeding van de patiënt. Het instrument bestaat uit een aantal vragen waaraan een score wordt toegekend. De totaalsom van deze score bepaalt de mate van ondervoeding.&#xD;&#xA;De SNAQ ondersteunt het vroegtijdig herkennen en behandelen van ondervoeding.&#xD;&#xA;Er zijn vier varianten van het meetinstrument voor verschillende zorgsettingen ontwikkeld, te weten ziekenhuis (volwassenen en kinderen), verzorgings- en verpleeghuizen en zelfstandig wonende ouderen. Dit concept beschrijft het instrument dat bedoeld is voor de setting van zelfstandig wonende ouderen.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/SNAQ65%2BScore-v1.2(2020NL)">
+  <properties
+      key="Classificatie"
+      value="Zib 2020"/>
+</archimate:BusinessObject>

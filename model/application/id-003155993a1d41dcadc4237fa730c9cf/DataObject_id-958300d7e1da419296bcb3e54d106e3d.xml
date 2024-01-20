@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device"
+    id="id-958300d7e1da419296bcb3e54d106e3d"
+    documentation="A type of a manufactured item that is used in the provision of healthcare without being substantially changed through that activity. The device may be a medical or non-medical device.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/device.html">
+  <properties
+      key="Classificatie"
+      value="FHIR R4"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren van het vermogen (Treasury)"
+    id="EAID_1565B4BC_6DE3_4a9e_9D97_113D4848E21C"
+    documentation="Activiteiten gericht op het in stand houden van het vermogen en het behalen van het nagestreefde resultaat. Omvat het opstellen van de liquiditeitsprognose, het afstemmen van het lange termijn huisvestingsplan, en het aantrekken van (benodigde) gelden, het beheren van het werkkapitaal, het bepalen van het renteresultaat en het beheren van de financieringsverhouding op de balans.">
+  <properties
+      key="Classificatie"
+      value="ZIRA 1.3"/>
+</archimate:BusinessProcess>

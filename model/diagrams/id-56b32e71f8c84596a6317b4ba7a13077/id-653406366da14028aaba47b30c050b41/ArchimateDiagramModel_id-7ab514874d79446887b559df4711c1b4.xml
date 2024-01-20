@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="06. Digitale vragenlijsten of interventies uitvoeren"
+    id="id-7ab514874d79446887b559df4711c1b4"
+    documentation="Uitvoeren van digitale vragenlijsten en interventies vanuit het cliëntportaal.&#xD;&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e4b4f62ca5ce46369d87d19efe423932"
+      content="Wordt z.s.m. uitgewerkt"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="156"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-3f2ff3a425bb43d7a572b049381a7576"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="labelExpression"
+        value="Use Cases &#xD;&#xA;Gegevensdiensten VZVZ"/>
+    <bounds
+        x="12"
+        y="12"
+        width="169"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:SketchModel"
+        href="SketchModel_id-6f9d18faac2446609bab3c56d697face.xml#id-6f9d18faac2446609bab3c56d697face"/>
+  </children>
+</archimate:ArchimateDiagramModel>

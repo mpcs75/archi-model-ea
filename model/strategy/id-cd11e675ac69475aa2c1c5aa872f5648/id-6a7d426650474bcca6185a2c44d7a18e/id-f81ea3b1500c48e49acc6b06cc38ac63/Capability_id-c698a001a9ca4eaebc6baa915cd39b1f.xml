@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuur producten fragmentarisch beheren"
+    id="id-c698a001a9ca4eaebc6baa915cd39b1f"
+    documentation="Op gezette tijden wordt bekeken of de architecturen nog steeds up-to-date zijn. Blijkt dat niet meer het geval te zijn, dan wordt een onderhoudsslag uitgevoerd.&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- Er wordt wel eens gecontroleerd of de architectuur nog up-to-date is.&#xD;&#xA;- Verouderde onderdelen worden uit de architectuur verwijderd.&#xD;&#xA;- Er wordt wel eens een nieuwe versie van de architectuur gepubliceerd.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Update architectuur. Neem de bestaande architecturen onder de loep: zijn de principes en modellen nog actueel, zijn er geen onderlinge tegenstrijdigheden? Stel daarbij steeds de vraag of de architectuur nog een actueel businessdoel dient. Verwijder verouderde en overbodig geworden gedeeltes en pas de architectuur aan aan de huidige eisen."/>

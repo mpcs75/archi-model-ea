@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EffectEvidenceSynthesis"
-    id="id-b072677f6ef1424ebe61a4f176d24a3d"
-    documentation="The EffectEvidenceSynthesis resource describes the difference in an outcome between exposures states in a population where the effect estimate is derived from a combination of research studies.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/effectevidencesynthesis.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

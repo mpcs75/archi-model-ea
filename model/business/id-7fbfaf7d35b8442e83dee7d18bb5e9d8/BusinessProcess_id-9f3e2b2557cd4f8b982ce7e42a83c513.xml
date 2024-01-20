@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren van informatie management"
-    id="id-9f3e2b2557cd4f8b982ce7e42a83c513"
-    documentation="Het inventariseren van de informatiebehoeften die vanuit verschillende werk- en bedrijfsprocessen ontstaan en de vertaling daarvan naar ICT-oplossingen.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

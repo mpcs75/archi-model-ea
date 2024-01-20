@@ -1,9 +1,0 @@
-<archimate:Value
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bijdrage aan diagnosestelling"
-    id="id-e5439c795d48435d86ae678088b29ee8"
-    documentation="Een bijdragen aan het stellen van een diagnose, door online inzicht in de klachten van de cliënt">
-  <properties
-      key="Classificatie"
-      value="ehealth"/>
-</archimate:Value>

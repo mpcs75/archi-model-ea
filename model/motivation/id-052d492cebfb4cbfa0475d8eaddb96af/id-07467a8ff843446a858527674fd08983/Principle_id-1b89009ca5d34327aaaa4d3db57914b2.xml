@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbaarheid, bereikbaarheid, en bruikbaarheid van data"
-    id="id-1b89009ca5d34327aaaa4d3db57914b2"
-    documentation="Data kan alleen worden gebruikt als deze beschikbaar, bereikbaar en bruikbaar is;">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

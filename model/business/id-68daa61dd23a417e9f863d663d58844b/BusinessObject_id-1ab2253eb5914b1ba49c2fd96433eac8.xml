@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijs materiaal"
-    id="id-1ab2253eb5914b1ba49c2fd96433eac8"
-    documentation="Lesmateriaal en onderwijsinformatie.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CoverageEligibilityResponse"
-    id="id-aa29446857ad4365a60671329099d682"
-    documentation="This resource provides eligibility and plan details from the processing of an CoverageEligibilityRequest resource.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/coverageeligibilityresponse.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

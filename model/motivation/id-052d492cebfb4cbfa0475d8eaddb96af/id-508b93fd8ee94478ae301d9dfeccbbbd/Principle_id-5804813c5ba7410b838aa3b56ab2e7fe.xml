@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegeven moeten toegankelijk zijn"
-    id="id-5804813c5ba7410b838aa3b56ab2e7fe"
-    documentation="Gegevens die zijn opgeslagen in toepassingen moeten toegankelijk zijn voor verschillende afnemers die op enig moment onderdeel zijn van het zorg- en ondersteuningsnetwerk van een persoon. Applicaties zijn zo ingericht dat ze de wisselende informatiebehoefte kunnen invullen. Dit betekent onder andere het gebruik van (op inhoud gestandaardiseerde) API’s;">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

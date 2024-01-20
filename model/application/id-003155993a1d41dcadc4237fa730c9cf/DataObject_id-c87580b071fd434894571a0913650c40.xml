@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TestScript"
-    id="id-c87580b071fd434894571a0913650c40"
-    documentation="A structured set of tests against a FHIR server or client implementation to determine compliance against the FHIR specification.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/testscript.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

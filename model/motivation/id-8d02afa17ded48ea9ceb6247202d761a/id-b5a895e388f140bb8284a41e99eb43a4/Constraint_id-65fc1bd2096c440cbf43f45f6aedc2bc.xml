@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wetboek van strafverordening (WvSv)"
-    id="id-65fc1bd2096c440cbf43f45f6aedc2bc"
-    documentation="- Rechtspositie van zorgverleners met een beroepsgeheim die verdachte of getuige zijn in een strafzaak&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0001903&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wetboek_van_Strafvordering_(Nederland)">
-  <properties
-      key="Classificatie"
-      value="Algemene wet"/>
-</archimate:Constraint>

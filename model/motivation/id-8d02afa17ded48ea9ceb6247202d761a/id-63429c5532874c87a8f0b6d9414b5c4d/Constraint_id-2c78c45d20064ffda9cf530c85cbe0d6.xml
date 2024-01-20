@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Geneesmiddelenwet"
-    id="id-2c78c45d20064ffda9cf530c85cbe0d6"
-    documentation="- (Voorwaarden voor) productie, in de handel brengen en distributie van geneesmiddelen&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-1&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0021505&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Geneesmiddelenwet">
-  <properties
-      key="Classificatie"
-      value="Specifieke zorgwet"/>
-</archimate:Constraint>

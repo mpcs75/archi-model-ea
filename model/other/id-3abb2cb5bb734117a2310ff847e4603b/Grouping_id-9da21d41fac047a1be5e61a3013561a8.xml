@@ -1,9 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsondersteuing"
-    id="id-9da21d41fac047a1be5e61a3013561a8"
-    documentation="Binnen bedrijfsondersteuning vallen de domeinen die ondersteunend zijn aan het bedrijfs(zorg)proces.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:Grouping>

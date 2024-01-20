@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Invoice"
-    id="id-3f61a6d78cb5465aa211d3761621e459"
-    documentation="Invoice containing collected ChargeItems from an Account with calculated individual and total price for Billing purpose.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/invoice.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Voldoen aan toelatingsvoorwaarden"
-    id="id-23e4511fa88046d499c5791fee257c77"
-    documentation="Voorzieningen en toepassingen moeten voldoen aan de toelatingsvoorwaarden van het gezondheidsinformatiestelsel.&#xD;&#xA;- Kaders voor generieke functies of gemeenschappelijke voorzieningen moeten beschikbaar zijn.&#xD;&#xA;- Specificaties van voorzieningen moeten beschikbaar zijn.&#xD;&#xA;- Applicaties voldoen aan (inter)nationale standaarden en wetgeving om data beschikbaar te stellen en te ontvangen.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

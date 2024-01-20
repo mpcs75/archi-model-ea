@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bepalen innovatieagenda"
-    id="id-ac10cc5862ad48c986e783c6bcf2aa52"
-    documentation="Bepalen welke innovaties er plaats moeten vinden ter ondersteuning van de product- en dienstontwikkeling.&#xD;&#xA;">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

@@ -1,9 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgprocesondersteuning"
-    id="id-27fab2714dfe489289ebcb17dfd15d0c"
-    documentation="Binnen Zorgprocesondersteuning vallen de domeinen die ondersteunend zijn aan het zorgproces.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:Grouping>

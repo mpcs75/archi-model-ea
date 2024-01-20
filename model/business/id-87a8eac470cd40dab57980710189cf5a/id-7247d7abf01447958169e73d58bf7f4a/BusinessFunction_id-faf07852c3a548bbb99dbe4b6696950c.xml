@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Veiligheid, Kwaliteit, Arbo, en Milieu"
-    id="id-faf07852c3a548bbb99dbe4b6696950c"
-    documentation="Activiteiten met betrekking tot het bewaken en optimaliseren van Veiligheid, kwaliteit, arbeidsomstandigheden en milieuaspecten binnen de organisatie.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessFunction>

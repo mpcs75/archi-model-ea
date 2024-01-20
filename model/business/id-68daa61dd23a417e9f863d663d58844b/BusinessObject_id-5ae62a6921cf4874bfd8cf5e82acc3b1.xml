@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Medicatie toediening"
-    id="id-5ae62a6921cf4874bfd8cf5e82acc3b1"
-    documentation="Informatie over door aan een patiënt toegediende medicatie (o.a. medicijn, dosering, tijdstip, wijze van toediening, naam toediener).">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

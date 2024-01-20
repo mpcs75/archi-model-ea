@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Patiëntspecifieke zorginformatie"
-    id="id-0f80236110e14eef99abea8eef10d533"
-    documentation="Informatie over ziekte en behandeling, zoals deze wordt verstrekt aan de patiënt door een zorgverlener.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

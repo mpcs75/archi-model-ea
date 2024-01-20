@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Voorlichten in- en extern"
-    id="id-7061ea84f14043e389c7cabbc800806d"
-    documentation="Samenstellen, vergaren en verstrekken van informatie over en aan patiënten, bezoekers, zorgprofessionals, studenten, onderzoekers, medewerkers, pers, etc.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

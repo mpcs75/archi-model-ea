@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registeren, identificeren en onderhouden zorgverleners"
-    id="id-59d33bc83ded4d2a9950150f271549ce"
-    documentation="Vaststellen van de eigenheid (identificatie) van zorgverleners en het vastleggen van gegevens van deze relaties.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

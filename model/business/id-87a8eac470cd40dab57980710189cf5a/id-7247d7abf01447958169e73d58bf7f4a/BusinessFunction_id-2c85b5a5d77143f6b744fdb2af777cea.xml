@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheer gebouwen"
-    id="id-2c85b5a5d77143f6b744fdb2af777cea"
-    documentation="Dit domein bevat de activiteiten met betrekking tot het beheren en exploiteren van gebouwen.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessFunction>

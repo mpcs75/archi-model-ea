@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ServiceRequest"
-    id="id-b15bd868e55a40099c6df233aa3d470c"
-    documentation="A record of a request for service such as diagnostic investigations, treatments, or operations to be performed.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/servicerequest.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

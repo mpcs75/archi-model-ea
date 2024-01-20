@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MedicinalProductIngredient"
-    id="id-4807c65944a0442f8d691e5769347abd"
-    documentation="An ingredient of a manufactured item or pharmaceutical product.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproductingredient.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

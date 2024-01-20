@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EventDefinition"
-    id="id-56e15cde8ce14589a02470f7cb2d715a"
-    documentation="The EventDefinition resource provides a reusable description of when a particular event can occur.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/eventdefinition.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ZorgEpisode"
-    id="id-83122c79f43e463da2e90dc9c5bddca4"
-    documentation="Periode waarin een gezondheidsprobleem, zoals een klacht of een aandoening, de aandacht heeft van een zorgverlener. In deze periode kan de duiding van het gezondheidsprobleem veranderen door voortschrijdend inzicht en/of het beloop van de aandoening. Een zorgepisode fungeert als context voor alle gegevens die op het gezondheidsprobleem betrekking hebben. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ZorgEpisode-v1.0(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

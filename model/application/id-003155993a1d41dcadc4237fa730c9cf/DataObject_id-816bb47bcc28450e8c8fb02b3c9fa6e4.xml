@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Basic"
-    id="id-816bb47bcc28450e8c8fb02b3c9fa6e4"
-    documentation="Basic is a special type of resource. Unlike all other resources, it doesn't correspond to a specific pre-defined HL7 concept. Instead, it's a placeholder for any resource-like concept that isn't already defined in the HL7 specification.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/basic.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vaccinatie"
-    id="id-37513612a2e64eddad2b13aafe38be0a"
-    documentation="Immunisatie kan worden gedefinieerd als “Het opwekken van natuurlijke immuniteit tegen ziekteverwekkers door middel van vaccinatie (actieve immunisatie) of door toediening van immunoglobulinen (passieve immunisatie)”.&#xD;&#xA;&#xD;&#xA;In deze bouwsteen worden alleen de (toediende en geplande) vaccinaties opgenomen. De toediening van immunoglobulines maakt deel uit van het medicatieoverzicht. Vaccinaties hebben levenslang relevantie.&#xD;&#xA;&#xD;&#xA;De meeste vaccinaties worden in Nederland uitgevoerd in het kader van het Rijksvaccinatieprogramma (RVP). RVP informatie is vooral van belang bij kinderen.&#xD;&#xA;&#xD;&#xA;Vaccinaties zijn ook relevant bij volwassen patiënten zoals transplantatiepatiënten, dialysepatiënten en patiënten met een status na miltextirpatie. Daarnaast zijn er specifieke indicaties voor de vaccinatie van risicogroepen, zoals reizigers, professionals die met bloed in aanraking komen of patiënten met verwondingen, een verminderde afweer of verhoogd risico. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Vaccinatie-v4.0(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

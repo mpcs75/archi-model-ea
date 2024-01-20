@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="European Health Data Space (EHDS)"
-    id="id-8451a754bf2444a58d58243ba110e500"
-    documentation="De European Health Data Space (EHDS) is een voorstel van de Europese Commissie om snel en makkelijk medische gegevens te kunnen uitwisselen en burgers toegang te geven tot hun gezondheidsdata. Het voorstel bestaat feitelijk uit drie onderdelen:&#xD;&#xA;&#xD;&#xA;- Primair gebruik van zorgdata&#xD;&#xA;- Secundair gebruik van zorgdata&#xD;&#xA;- Regulering van zorg-ICT-markt&#xD;&#xA;&#xD;&#xA;Publicatie: https://www.gegevensuitwisselingindezorg.nl/european-health-data-space-ehds&#xD;&#xA;&#xD;&#xA;Wikipedia: https://en.wikipedia.org/wiki/European_Health_Data_Space&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="Classificatie"
-      value="Europese regelgeving"/>
-</archimate:Constraint>

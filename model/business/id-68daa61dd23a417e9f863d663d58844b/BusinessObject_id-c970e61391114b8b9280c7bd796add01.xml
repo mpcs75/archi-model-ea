@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Factuur"
-    id="id-c970e61391114b8b9280c7bd796add01"
-    documentation="Overzicht van geleverde producten en diensten met bijbehorende prijzen, met het verzoek aan geadresseerde tot betaling.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

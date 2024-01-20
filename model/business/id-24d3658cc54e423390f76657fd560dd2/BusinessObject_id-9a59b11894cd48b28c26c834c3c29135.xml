@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MedicatieGebruik2"
-    id="id-9a59b11894cd48b28c26c834c3c29135"
-    documentation="Medicatiegebruik is een uitspraak over historisch, huidig of voorgenomen gebruik van een geneesmiddel. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/MedicatieGebruik2-v1.1.1(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

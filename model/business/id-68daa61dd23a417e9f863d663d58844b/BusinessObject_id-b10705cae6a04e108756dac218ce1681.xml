@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bevinding"
-    id="id-b10705cae6a04e108756dac218ce1681"
-    documentation="Resultaten als gevolg van uitgevoerde toetsing van processen/producten/diensten/etc. binnen de instelling. Niet alleen de bevinding zelf wordt vastgelegd, ook de status en de opvolging worden meegenomen. Bijvoorbeeld: kwaliteitsmetingen en -controles van medische apparatuur.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

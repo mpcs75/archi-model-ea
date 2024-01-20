@@ -1,9 +1,0 @@
-<archimate:ValueStream
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Diagnostiek"
-    id="id-1850d9e2cc7444b88916625227bd1931"
-    documentation="In deze fase worden de klachten en symptomen van de cliënt samen met een zorgverlener in kaart gebracht om zo tot een diagnose te komen.">
-  <properties
-      key="Classificatie"
-      value="Zorgfases GGZ"/>
-</archimate:ValueStream>

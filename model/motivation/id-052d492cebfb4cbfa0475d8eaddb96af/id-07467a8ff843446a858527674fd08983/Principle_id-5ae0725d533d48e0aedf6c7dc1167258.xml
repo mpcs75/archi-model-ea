@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Flexibele inrichting gezondheidsinformatiestelsel"
-    id="id-5ae0725d533d48e0aedf6c7dc1167258"
-    documentation="Een flexibele inrichting van het gezondheidsinformatiestelsel zorgt ervoor dat men kan voldoen aan alle informatiebehoeften, ook als deze niet vooraf volledig is uitgewerkt in een informatiestandaard.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

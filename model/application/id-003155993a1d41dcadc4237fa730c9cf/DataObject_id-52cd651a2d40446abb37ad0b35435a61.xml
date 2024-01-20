@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BodyStructure"
-    id="id-52cd651a2d40446abb37ad0b35435a61"
-    documentation="Record details about an anatomical structure. This resource may be used when a coded concept does not provide the necessary detail needed for the use case.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/bodystructure.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SNAQrcScore"
-    id="id-d9d1690e3ce0436bb7e39fbf707cf418"
-    documentation="De Short Nutritional Assessment Questionnairefor Residential Care (SNAQ rc) is een (gevalideerd) meetinstrument voor het bepalen van de mate van ondervoeding van de patiënt. Het instrument bestaat uit vier vragen waaraan een score wordt toegekend. De totaalsom van deze score bepaalt de mate van ondervoeding.&#xD;&#xA;De SNAQrc ondersteunt het vroegtijdig herkennen en behandelen van ondervoeding.&#xD;&#xA;Er zijn vier varianten van het meetinstrument voor verschillende zorgsettingen ontwikkeld, te weten ziekenhuis (volwassenen en kinderen) , verzorgings- en verpleeghuizen en zelfstandig wonende ouderen . Dit concept beschrijft het instrument dat bedoeld is voor de verzorgings- en verpleeghuissetting.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/SNAQrcScore-v1.1(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

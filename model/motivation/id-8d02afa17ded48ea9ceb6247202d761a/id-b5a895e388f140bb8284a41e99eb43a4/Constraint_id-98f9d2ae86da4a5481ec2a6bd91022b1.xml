@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeringswet Algemene verordening gegevensbescherming (UAVG)"
-    id="id-98f9d2ae86da4a5481ec2a6bd91022b1"
-    documentation="Nederlandse nadere invulling van de AGV&#xD;&#xA;&#xD;&#xA;UAVG: https://wetten.overheid.nl/BWBR0040940&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Uitvoeringswet_Algemene_verordening_gegevensbescherming">
-  <properties
-      key="Classificatie"
-      value="Algemene wet"/>
-</archimate:Constraint>

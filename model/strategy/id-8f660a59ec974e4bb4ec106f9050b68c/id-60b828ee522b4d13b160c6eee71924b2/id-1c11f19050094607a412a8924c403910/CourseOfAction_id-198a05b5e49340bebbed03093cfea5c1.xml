@@ -1,9 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="k. Voldoen aan doelstelling 1"
-    id="id-198a05b5e49340bebbed03093cfea5c1"
-    documentation="Om interoperabiliteit te bereiken moeten alle zorg-aanbieders en leveranciers in 2025 minimaal de informatie in de onder de doelstelling 1 benoemde kerngegevens kunnen uitwisselen, waarbij uitwisseling van ZIBs via de FHIR-standaard plaatsvindt.">
-  <properties
-      key="Classificatie"
-      value="IZA"/>
-</archimate:CourseOfAction>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Juridisch advies"
-    id="id-31769b671c814cf686c8e2bedda7333e"
-    documentation="Adviseren op juridisch vlak over medisch-ethische kwesties en het afhandelen van schadeclaims en klachten.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

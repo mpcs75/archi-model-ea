@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SNAQScore"
-    id="id-be2c230a25ec4e8e81bb295865c6a889"
-    documentation="De Short Nutritional Assessment Questionnaire (SNAQ) is een (gevalideerd) meetinstrument voor het bepalen van de mate van ondervoeding van de patiënt. Het instrument bestaat uit drie vragen waaraan een score wordt toegekend. De totaalsom van deze score bepaalt de mate van ondervoeding.&#xD;&#xA;De SNAQ ondersteunt het vroegtijdig herkennen en behandelen van ondervoeding.&#xD;&#xA;Er zijn drie varianten van het meetinstrument voor verschillende zorgsettingen ontwikkeld, te weten ziekenhuis, verzorgings- en verpleeghuizen en zelfstandig wonende ouderen. Dit concept beschrijft het instrument dat bedoeld is voor de ziekenhuissetting.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/SNAQScore-v3.2(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

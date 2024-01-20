@@ -1,5 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensuitwisseling"
-    id="id-3fd3926244f540dcb44c42fa4232127b"
-    documentation="Functionaliteit voor de ondersteuning van het gegevensuitwisselings (ESB, Message broker, e.d)"/>

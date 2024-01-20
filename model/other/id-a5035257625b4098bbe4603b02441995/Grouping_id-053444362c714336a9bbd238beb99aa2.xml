@@ -1,8 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Payment"
-    id="id-053444362c714336a9bbd238beb99aa2">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:Grouping>

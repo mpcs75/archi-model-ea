@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leefomgeving"
-    id="id-9ad74ba9a93e4f67ac07fb38c25d88ab"
-    documentation="Dit domein bevat welzijnsactiviteiten die de cliënt helpen zich thuis te voelen in de woonomgeving.&#xD;&#xA;">
-  <properties
-      key="Classificatie"
-      value="RDC"/>
-</archimate:BusinessFunction>

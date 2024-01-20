@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NEN 7519"
-    id="id-67bc088928b944f98bc1b5cb2bc586ac"
-    documentation="Gegevensuitwisseling in de zorg - Lokalisatie&#xD;&#xA;&#xD;&#xA;Vrij in te zien via NEN-connect: https://connect.nen.nl/">
-  <properties
-      key="Classificatie"
-      value="Norm"/>
-</archimate:Constraint>

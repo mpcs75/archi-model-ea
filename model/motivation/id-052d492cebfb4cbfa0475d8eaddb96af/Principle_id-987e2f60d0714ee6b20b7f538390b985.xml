@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Focus op toepassing"
-    id="id-987e2f60d0714ee6b20b7f538390b985"
-    documentation="Data is gescheiden van functionaliteit.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

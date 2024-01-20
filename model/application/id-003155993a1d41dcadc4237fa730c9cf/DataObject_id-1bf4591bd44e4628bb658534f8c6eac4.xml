@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MedicinalProduct"
-    id="id-1bf4591bd44e4628bb658534f8c6eac4"
-    documentation="Detailed definition of a medicinal product, typically for uses other than direct patient care (e.g. regulatory use).&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/medicinalproduct.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

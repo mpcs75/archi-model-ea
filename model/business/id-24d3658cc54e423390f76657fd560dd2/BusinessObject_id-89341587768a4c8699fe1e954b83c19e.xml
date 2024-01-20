@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DecubitusWond"
-    id="id-89341587768a4c8699fe1e954b83c19e"
-    documentation="Een decubituswond is een gelokaliseerde beschadiging van de huid en/of onderliggend weefsel, meestal ter hoogte van een botuitsteeksel, als gevolg van druk of druk in samenhang met schuifkracht.&#xD;&#xA;Decubitus gaat gepaard met veel ziektelast en vermindert de kwaliteit van leven voor patiënten. Adequate risico-inschatting, preventie en behandeling van decubitus leiden tot een lagere incidentie en prevalentie van decubitus.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/DecubitusWond-v3.4(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

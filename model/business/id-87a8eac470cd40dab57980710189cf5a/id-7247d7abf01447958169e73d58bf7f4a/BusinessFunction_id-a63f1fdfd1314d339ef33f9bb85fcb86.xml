@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Marketing"
-    id="id-a63f1fdfd1314d339ef33f9bb85fcb86"
-    documentation="Dit domein bevat de activiteiten die nodig zijn voor optimale afstemming tussen vraag en aanbod.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessFunction>

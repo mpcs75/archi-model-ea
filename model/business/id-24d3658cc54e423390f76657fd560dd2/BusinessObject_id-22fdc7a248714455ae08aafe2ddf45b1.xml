@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BurgerlijkeStaat"
-    id="id-22fdc7a248714455ae08aafe2ddf45b1"
-    documentation="Burgerlijke staat is de formele positie van een mens in de zin en betekenis van het burgerlijk wetboek. Te onderscheiden vallen huwelijkse staat en partnerregistratie (geregistreerd partnerschap). &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/BurgerlijkeStaat-v3.1(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

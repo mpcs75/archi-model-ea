@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandeldoel"
-    id="id-da2171fdef7e4af2ac76cbbe949e6b45"
-    documentation="Het behandeldoel omschrijft het gewenste resultaat van de behandeling/interventies met betrekking tot het benoemde probleem van de patiënt. Naast de streefwaarde wordt bij het te bereiken doel ook een streefdatum aangegeven. Vergelijking van het behandeldoel met de uitkomsten van zorg geeft inzicht in de effectiviteit van de behandeling/interventies. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Behandeldoel-v3.2(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verplichte databeschikbaarheid"
-    id="id-cb10ad3c34a047fd9fd2774266862ba6"
-    documentation="Verplichte databeschikbaarheid opent de markt voor ontwikkelaars van nieuwe toepassingen binnen de afspraken die gelden in het gezondheidsinformatiestelsel.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

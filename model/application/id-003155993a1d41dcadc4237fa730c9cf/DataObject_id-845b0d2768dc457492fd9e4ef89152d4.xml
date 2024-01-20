@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SpecimenDefinition"
-    id="id-845b0d2768dc457492fd9e4ef89152d4"
-    documentation="A kind of specimen with associated set of requirements.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/specimendefinition.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

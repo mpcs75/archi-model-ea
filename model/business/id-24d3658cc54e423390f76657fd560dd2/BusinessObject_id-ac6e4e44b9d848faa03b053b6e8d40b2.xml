@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FLACCpijnScore"
-    id="id-ac6e4e44b9d848faa03b053b6e8d40b2"
-    documentation="De FLACC (Faces, Legs, Activity, Cry and Consolability) is een pijnobservatie instrument, welke wordt gebruikt om grond van het gedrag de mate van pijn vast te stellen bij van kinderen van 0-7 jaar.&#xD;&#xA;De FLACC telt vijf observatie punten waarop gelet moet worden. De eindscore geeft aan of het geobserveerde kind pijn lijdt en de mate waarin. De score wordt vaak gecombineerd met een NRS-score die door de verpleegkundigen wordt ingevuld op basis van de klinische blik.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/FLACCpijnScore-v1.1(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

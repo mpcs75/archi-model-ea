@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CodeSystem"
-    id="id-754368a42f6f4129a17ab6d8779da4bb"
-    documentation="The CodeSystem resource is used to declare the existence of and describe a code system or code system supplement and its key properties, and optionally define a part or all of its content.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/codesystem.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

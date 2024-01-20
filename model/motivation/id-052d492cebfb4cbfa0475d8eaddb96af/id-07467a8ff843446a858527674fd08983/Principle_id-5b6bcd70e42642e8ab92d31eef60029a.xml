@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nationaal vastgestelde infrastructuren"
-    id="id-5b6bcd70e42642e8ab92d31eef60029a"
-    documentation="Partijen in het zorgnetwerk zijn aangesloten op de landelijk dekkende en nationaal vastgestelde infrastructuren. Dit zodat zij elkaar eenvoudig kunnen bereiken, gegevens kunnen delen en ondersteund worden in de samenwerking.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

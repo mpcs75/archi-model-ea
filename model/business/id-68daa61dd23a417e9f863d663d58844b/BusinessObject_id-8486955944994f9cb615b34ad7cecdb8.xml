@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toegekend zorgpad"
-    id="id-8486955944994f9cb615b34ad7cecdb8"
-    documentation="&quot;Een vastgestelde combinatie en volgorde van zorg, onderzoek en behandeling voor een specifieke klacht, gebaseerd op “best practices” en evidence-based richtlijnen.&#xD;&#xA;De invulling hiervan is aandoeningspecifiek.&quot;">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

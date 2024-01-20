@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wet medische hulpmiddelen"
-    id="id-72fba2fdbaf247d7ac148bd170846841"
-    documentation="- Eisen voor productie van en werken met medische hulpmiddelen&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/geneesmiddelenzorg/zorgwetten-geneesmiddelenzorg&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0042755&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_op_de_medische_hulpmiddelen">
-  <properties
-      key="Classificatie"
-      value="Specifieke zorgwet"/>
-</archimate:Constraint>

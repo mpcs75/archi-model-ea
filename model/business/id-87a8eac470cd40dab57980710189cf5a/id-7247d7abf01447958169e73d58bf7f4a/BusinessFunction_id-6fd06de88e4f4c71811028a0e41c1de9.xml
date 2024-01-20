@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Resource planning"
-    id="id-6fd06de88e4f4c71811028a0e41c1de9"
-    documentation="Dit domein bevat de activiteiten op het gebied van het plannen van de inzet van personeel en locaties.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessFunction>

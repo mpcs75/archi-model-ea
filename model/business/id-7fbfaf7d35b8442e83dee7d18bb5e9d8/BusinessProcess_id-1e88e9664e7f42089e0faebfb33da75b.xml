@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren begeleiding"
-    id="id-1e88e9664e7f42089e0faebfb33da75b"
-    documentation="Het ondersteunen van de patiënt bij de ondersteunende en activerende begeleiding en dagactiviteiten.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PaymentNotice"
-    id="id-7a035152ac6147269196b5ec5ca8b258"
-    documentation="This resource provides the status of the payment for goods and services rendered, and the request and response resource references.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/paymentnotice.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

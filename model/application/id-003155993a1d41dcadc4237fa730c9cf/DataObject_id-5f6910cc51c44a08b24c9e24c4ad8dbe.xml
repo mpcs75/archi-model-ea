@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Consent"
-    id="id-5f6910cc51c44a08b24c9e24c4ad8dbe"
-    documentation="A record of a healthcare consumer’s choices, which permits or denies identified recipient(s) or recipient role(s) to perform one or more actions within a given policy context, for specific purposes and periods of time.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/consent.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

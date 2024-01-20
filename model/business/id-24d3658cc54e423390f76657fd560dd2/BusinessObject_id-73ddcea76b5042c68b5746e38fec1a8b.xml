@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TNMTumorClassificatie"
-    id="id-73ddcea76b5042c68b5746e38fec1a8b"
-    documentation="TNM Classificatie van Maligne Tumoren (TNM) is het systeem voor de stadiëring van kanker dat is ontwikkeld door de Union Internationale Contre le Cancer of International Union Against Cancer (UICC). De TNM-classificatie wordt ook gebruikt door de American Joint Committee on Cancer (AJCC) en de International Federation of Gynecology and Obstetrics (FIGO). In 1987 werden de TNM-classificaties van de UICC en de AJCC tot één systeem gecombineerd met dezelfde definities. Desondanks zitten er nog altijd verschillen tussen beide systemen.&#xD;&#xA;De TNM-classificatie is ontwikkeld voor solide tumoren (waaronder carcinomen en sarcomen); niet-solide tumoren (bijvoorbeeld lymfomen en gliomen) kennen een ander systeem voor stadiëring. De algemene opzet is als volgt: De T staat voor tumor en beschrijft de grootte van de tumor en de lokale uitbreiding, de N staat voor lymfekliermetastasering (Engels: node) en de M staat voor metastase op afstand (uitbreiding van de kanker van één locatie in het lichaam naar een andere. Naast T, N en M bevat de classificatie nog een aantal andere parameters.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/TNMTumorClassificatie-v1.0(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verplichte periodieke toetsing"
-    id="id-223847edd2ec41da93a4316c90370f7d"
-    documentation="Interoperabiliteit van toepassingen wordt verplicht periodiek getoetst.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

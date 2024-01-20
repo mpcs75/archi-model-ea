@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mitz"
-    id="id-a92c47d09d2440a09a000e0deee4f511"
-    documentation="Voor het elektronisch delen van medische gegevens is vaak toestemming van de patiënt nodig. Het bijhouden van die toestemmingskeuzes gebeurt nu op veel verschillende manieren en plaatsen. Steeds opnieuw, vaak anders en regelmatig handmatig. Gevolg: de patiënt heeft geen regie en geen goed overzicht over de eigen toestemmingskeuzes.&#xD;&#xA;&#xD;&#xA;Samen met de zorg is daarom een nieuw proces voor het registreren van deze toestemmingskeuzes ontwikkeld, waarbij iedere Nederlander zelf zijn/haar keuzes kan invoeren en beheren via de online voorziening Mitz. Mitz is een generieke voorziening waar de toestemmingskeuzes van iedere Nederlander voor álle zorgsectoren kunnen worden vastgelegd. Mitz kan gebruikt worden bij alle systemen die digitaal medische gegevens uitwisselen.&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten/gemeenschappelijke-diensten/mitz">
-  <properties
-      key="Classificatie"
-      value="Gegevensdienst"/>
-</archimate:ApplicationService>

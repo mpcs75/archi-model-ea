@@ -1,5 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren werkplek"
-    id="id-c07a94e6f39e4edb945eedb9fd375b75"
-    documentation="Functionaliteit voor beheren hardware (PC, monitor, mobile device, printers, scanners , bedside, tv e.d.) en software op de werkplek of bed-site. (LCM,CMDB,deployment, virtual desktop, e.d.)"/>

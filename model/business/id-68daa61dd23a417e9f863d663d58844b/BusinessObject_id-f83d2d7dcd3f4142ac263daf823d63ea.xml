@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderzoeks materiaal"
-    id="id-f83d2d7dcd3f4142ac263daf823d63ea"
-    documentation="Alle van het menselijk lichaam afgescheiden cellen/bestanddelen, zoals weefsel, bloed, sputum, urine, etc. waarop aanvullend onderzoek kan worden verricht(t.b.v. diagnostiek en behandeling).">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

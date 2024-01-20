@@ -1,5 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ordermanagement"
-    id="id-ce3bd2af730f424caa577783e13cc5d2"
-    documentation="Functionaliteit voor de uitvoering van de closed order loop van onderzoeken (aanvraag, planning, oplevering, acceptatie)"/>

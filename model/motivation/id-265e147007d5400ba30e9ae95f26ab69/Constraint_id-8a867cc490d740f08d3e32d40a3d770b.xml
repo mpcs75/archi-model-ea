@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ISO/IEC 27005"
-    id="id-8a867cc490d740f08d3e32d40a3d770b"
-    documentation="Information security, cybersecurity and privacy protection - Guidance on managing information security risks&#xD;&#xA;&#xD;&#xA;Deze standaard is niet vrij in te zien">
-  <properties
-      key="Classificatie"
-      value="ISO/IEC"/>
-</archimate:Constraint>

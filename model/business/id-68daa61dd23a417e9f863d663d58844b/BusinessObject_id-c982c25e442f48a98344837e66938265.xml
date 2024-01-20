@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leveringsovereenkomst"
-    id="id-c982c25e442f48a98344837e66938265"
-    documentation="Beschrijving van de leveringsvoorwaarden.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

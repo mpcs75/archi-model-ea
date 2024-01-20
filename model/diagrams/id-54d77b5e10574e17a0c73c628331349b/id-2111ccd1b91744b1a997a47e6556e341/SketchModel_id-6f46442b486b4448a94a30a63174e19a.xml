@@ -267,4 +267,45 @@
         width="135"
         height="50"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-20c6cefc929543428767f0265033395e"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#44bfea"
+      textPosition="1">
+    <sourceConnections
+        id="id-3e66e442efc24f6a9de93f086b479ba7"
+        source="id-20c6cefc929543428767f0265033395e"
+        target="id-55e52a32fdea4cf0bebe0dd90cde3d22">
+      <bendpoints
+          startX="-12"
+          startY="90"
+          endX="-96"
+          endY="-6"/>
+    </sourceConnections>
+    <bounds
+        x="600"
+        y="96"
+        width="120"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-7ef44b96e19a4c3787f6675cd9bc8aea.xml#id-7ef44b96e19a4c3787f6675cd9bc8aea"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-55e52a32fdea4cf0bebe0dd90cde3d22"
+      name="Sticky"
+      targetConnections="id-3e66e442efc24f6a9de93f086b479ba7"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Wens">
+    <bounds
+        x="708"
+        y="228"
+        width="73"
+        height="37"/>
+  </children>
 </archimate:SketchModel>

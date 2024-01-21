@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontwikkeling onderwijs"
-    id="EAID_5A620906_5E87_4e99_BA7A_DE5B45FDCB2C"
-    documentation="Het (her)ontwikkelen en evalueren van opleidingen, minoren en onderwijseenheden.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DeviceDefinition"
-    id="id-440519622ed5498399b205595ba15d1c"
-    documentation="The characteristics, operational status and capabilities of a medical-related component of a medical device.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/devicedefinition.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

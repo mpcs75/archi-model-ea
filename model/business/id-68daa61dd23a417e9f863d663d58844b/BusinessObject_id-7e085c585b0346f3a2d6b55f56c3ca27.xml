@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service aanvraag"
-    id="id-7e085c585b0346f3a2d6b55f56c3ca27"
-    documentation="&quot;Diensten of producten die worden aangeboden vanwege een zorginhoudelijk argument. &#xD;&#xA;Gemaksdiensten: hiermee bedoelen we diensten op het gebied van praktische en/of huishoudelijke zaken, niet specifiek gericht op mensen met een verminderde mobiliteit of zelfredzaamheid, maar in principe gericht op iedereen die hiervan voordeel heeft.  &#xD;&#xA;Welzijnsdiensten: hieronder verstaan we diensten die bijdragen aan het welbevinden van mensen in lichamelijk en geestelijk opzicht. Het kan gaan om hulp bij het verbeteren van de lichamelijke situatie (bv. coaching op het gebied van beweging en voeding), maar ook om het verbeteren van de sociale contacten.  &#xD;&#xA;Veiligheid en bewaking: hieronder verstaan we diensten die bijdragen aan het veiligheidsgevoel van mensen, doordat ze bijvoorbeeld in geval van nood makkelijker iemand kunnen waarschuwen. &#xD;&#xA;Behandeling en verzorging: hiermee bedoelen we diensten die te maken hebben met medische begeleiding en/of bevorderen van zelfmanagement door patiënten, zoals het doen van thuismetingen.&quot;">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

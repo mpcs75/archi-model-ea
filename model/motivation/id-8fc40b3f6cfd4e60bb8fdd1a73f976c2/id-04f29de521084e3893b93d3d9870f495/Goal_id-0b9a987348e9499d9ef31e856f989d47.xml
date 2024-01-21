@@ -1,9 +1,0 @@
-<archimate:Goal
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Afremmen van medicalisering"
-    id="id-0b9a987348e9499d9ef31e856f989d47"
-    documentation="Niet bij alle zorgvragen past een medisch antwoord. Zorg kán een antwoord zijn, maar ook hulp in het sociale domein, ondersteuning door lotgenoten, beweegaanbod of een combinatie.">
-  <properties
-      key="Classificatie"
-      value="IZA"/>
-</archimate:Goal>

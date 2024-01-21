@@ -1,8 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Terminology"
-    id="id-c871a6ae9520441aabb09cbf0eb51e0f">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:Grouping>

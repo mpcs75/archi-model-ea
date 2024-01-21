@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toedienen medicatie"
-    id="id-34ea1cf63aae4f14a11e78ca7eda3ddd"
-    documentation="Verstrekken en/of inbrengen van medicatie ter inname op één bepaald moment, volgens voorschrift en toedieningsweg (oraal, injectie, anaal etc.). Kan ook betreffen het toedienen van medicatie via een infuus.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

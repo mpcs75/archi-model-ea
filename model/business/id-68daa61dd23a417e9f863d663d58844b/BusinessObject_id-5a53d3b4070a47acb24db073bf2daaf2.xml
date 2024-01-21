@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procesbeschrijving"
-    id="id-5a53d3b4070a47acb24db073bf2daaf2"
-    documentation="Een beschrijving van zorgprocessen en ondersteunende processen, vanuit het oogpunt van de informatievoorziening.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren contracten"
-    id="id-d42e524ff1df4194865f7ab1be64abbd"
-    documentation="Alle activiteiten die erop gericht zijn om contracten met leveranciers af te sluiten, inclusief activiteiten rondom het verlengen van contracten en het inschakelen van de juiste expertise hierbij.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

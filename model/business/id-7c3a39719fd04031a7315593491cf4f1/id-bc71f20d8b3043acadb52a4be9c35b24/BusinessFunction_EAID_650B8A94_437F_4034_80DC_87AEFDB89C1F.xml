@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Personeel &amp; Organisatie"
-    id="EAID_650B8A94_437F_4034_80DC_87AEFDB89C1F"
-    documentation="Het management van personeelszaken binnen het ziekenhuis.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

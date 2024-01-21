@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="StructureMap"
-    id="id-71741b38568040b186337ae7e98cfa6a"
-    documentation="A Map of relationships between 2 structures that can be used to transform data.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/structuremap.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

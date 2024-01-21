@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Activiteit"
-    id="EAID_A46B78C7_91B1_4b72_BF12_0FBECFD258C9"
-    documentation="Er zijn 2 soorten activiteiten, namelijk georderde en niet geordered.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

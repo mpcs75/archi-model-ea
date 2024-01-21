@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Storing"
-    id="EAID_6B2DE59B_D507_4d3c_A88F_59616B1E220B"
-    documentation="Beschrijving van de aard van de storing en afhandeling daarvan">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

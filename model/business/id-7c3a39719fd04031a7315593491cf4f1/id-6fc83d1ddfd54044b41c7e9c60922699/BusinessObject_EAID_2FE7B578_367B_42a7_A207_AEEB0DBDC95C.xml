@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Minor"
-    id="EAID_2FE7B578_367B_42a7_A207_AEEB0DBDC95C"
-    documentation="Een verzameling van onderwijseenheden die als geheel worden aangeboden. (bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

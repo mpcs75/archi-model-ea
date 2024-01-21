@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technische installatie"
-    id="EAID_C2F971CC_B189_4a43_8986_A5FCCB5F3251"
-    documentation="Technische voorzieningen incl. specificaties (beschrijvingen, instructie, handleidingen, etc.) zoals verwarming, airconditioning, waterleidingen, etc.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

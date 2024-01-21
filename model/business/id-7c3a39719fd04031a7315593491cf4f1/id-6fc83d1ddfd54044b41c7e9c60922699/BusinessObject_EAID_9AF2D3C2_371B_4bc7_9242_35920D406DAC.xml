@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgkennis"
-    id="EAID_9AF2D3C2_371B_4bc7_9242_35920D406DAC"
-    documentation="Publicaties, vakliteratuur, kennis over zorg">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

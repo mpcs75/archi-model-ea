@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Octrooi"
-    id="EAID_AFFB426A_9716_4ee1_998B_FEC10D7EADC7"
-    documentation="Een exclusief eigendomsrecht voor de uitvinding van een technisch product of proces">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

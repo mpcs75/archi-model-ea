@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Twiin Portaal"
-    id="id-2f2aa525230b4ff4a108d1fb6b7ad6ab"
-    documentation="Het Twiin Portaal vervangt de DVD binnen de zorg. Voorheen werden radiologische beelden en verslagen uitgewisseld op een DVD. Het project 'DVDexit' heeft ervoor gezorgd dat er een landelijk dekkend netwerk is tussen zorginstellingen waardoor het radiologisch onderzoek gemakkelijk verzonden kan worden naar andere zorgverleners en patiënten middels het Twiin Portaal. Het Twiin Portaal zorgt ervoor dat radiologische beelden veilig, sneller, efficiënter en goedkoper bij de ontvangende zorgverlener zijn.&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten/gemeenschappelijke-diensten/twiin-portaal">
-  <properties
-      key="Classificatie"
-      value="Gegevensdienst"/>
-</archimate:ApplicationService>

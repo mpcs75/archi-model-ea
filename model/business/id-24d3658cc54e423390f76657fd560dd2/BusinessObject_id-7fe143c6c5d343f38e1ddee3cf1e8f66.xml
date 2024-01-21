@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ZorgAfspraak"
-    id="id-7fe143c6c5d343f38e1ddee3cf1e8f66"
-    documentation="Documentatie van afspraken tussen patiënt, evt. contactpersonen van de patiënt en zorgprofessional(s) over, zorg, behandeling of activiteiten gericht op iets doen of juist nalaten. De zorgafspraak richt zich op een specifieke actie die wordt uitgevoerd in het kader van behandeling en zorg.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/ZorgAfspraak-v1.0(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

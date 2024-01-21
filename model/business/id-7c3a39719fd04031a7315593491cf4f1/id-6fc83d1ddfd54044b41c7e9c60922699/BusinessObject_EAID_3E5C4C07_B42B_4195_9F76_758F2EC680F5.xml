@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatiebulletin of nieuwsbericht"
-    id="EAID_3E5C4C07_B42B_4195_9F76_758F2EC680F5"
-    documentation="Interne of externe berichten/mededelingen die gecommuniceerd kunnen worden door middel van persberichten, email, intranet, website, organisatiemagazines, personeelskrant, etc.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

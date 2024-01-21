@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maatschappelijke verantwoording afleggen"
-    id="id-5a69c57235424f43a5b76304c7ac47e1"
-    documentation="Verantwoording afleggen over maatschappelijke onderwerpen zoals duurzaamheid, mobiliteit en bijdrage aan de maatschappij.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

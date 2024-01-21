@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorglogistiek"
-    id="EAID_37075BDD_E694_4dbd_85E0_D95D39F72B97"
-    documentation="Daadwerkelijk verplaatsen van personen en middelen.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verpleging"
-    id="EAID_4C3C030B_C75C_4991_BC6C_575A4A83B3B0"
-    documentation="Behandeling van de patiënt doormiddel van verpleegkundige interventies.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

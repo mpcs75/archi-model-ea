@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Medisch-wetenschappelijk onderzoek met mensen"
-    id="id-0d6d29b4ad7f4a2686898c21b0823c89"
-    documentation="- Bescherming van proefpersonen bij medisch-wetenschappelijk onderzoek.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: &#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0009408&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wet_medisch-wetenschappelijk_onderzoek_met_mensen">
-  <properties
-      key="Classificatie"
-      value="Specifieke zorgwet"/>
-</archimate:Constraint>

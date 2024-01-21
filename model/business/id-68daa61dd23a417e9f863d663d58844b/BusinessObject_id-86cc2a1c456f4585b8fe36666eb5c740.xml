@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klacht"
-    id="id-86cc2a1c456f4585b8fe36666eb5c740"
-    documentation="Alle meldingen die klachten betreffen over geleverde zorg of diensten.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

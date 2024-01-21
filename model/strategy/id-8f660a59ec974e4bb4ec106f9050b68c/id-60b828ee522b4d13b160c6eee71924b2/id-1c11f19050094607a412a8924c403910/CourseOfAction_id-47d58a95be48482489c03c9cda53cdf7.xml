@@ -1,9 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="m. Informatieparagraaf spoedzorgketen"
-    id="id-47d58a95be48482489c03c9cda53cdf7"
-    documentation="Het veld voegt een informatieparagraaf toe aan de kwaliteitsstandaard spoedzorgketen. Dit is uiterlijk 2022 gereed en vormt het sluitstuk van de implementatie van het programma ‘Met spoed beschikbaar’.">
-  <properties
-      key="Classificatie"
-      value="IZA"/>
-</archimate:CourseOfAction>

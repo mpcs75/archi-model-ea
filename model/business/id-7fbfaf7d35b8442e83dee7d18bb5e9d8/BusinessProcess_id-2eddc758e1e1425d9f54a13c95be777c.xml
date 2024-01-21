@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inrichten organisatie en beheersen beleid"
-    id="id-2eddc758e1e1425d9f54a13c95be777c"
-    documentation="Governance, Planning en Control. Inrichting van de besturing van de organisatie (verdeling van taken, bevoegdheden en verantwoordelijkheden) die nodig is om goede beslissingen te kunnen nemen, inclusief het toezicht op het functioneren ervan (trefzeker en aantoonbaar). Ook het realiseren, optimaliseren en onderhouden van de P&amp;C-cyclus.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

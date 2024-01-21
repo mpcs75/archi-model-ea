@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verpleegkundige Evaluatie"
-    id="EAID_E5BD178F_BEF0_4d9e_85D7_381EF1D3CF74"
-    documentation="Beoordeling van de geleverde verpleegkundige zorg, waarin ook de mening en ervaringen van de patiënt aan bod kunnen komen.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

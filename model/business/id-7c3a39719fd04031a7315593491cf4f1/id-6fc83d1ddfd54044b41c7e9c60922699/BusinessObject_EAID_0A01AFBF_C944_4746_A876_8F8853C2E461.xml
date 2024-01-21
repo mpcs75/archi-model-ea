@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plan"
-    id="EAID_0A01AFBF_C944_4746_A876_8F8853C2E461"
-    documentation="(Meerjaren)plan voor begroting en organisatie-activiteiten op basis van de doelstelling.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

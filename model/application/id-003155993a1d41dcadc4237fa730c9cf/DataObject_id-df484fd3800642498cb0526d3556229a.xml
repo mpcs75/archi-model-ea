@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PractitionerRole"
-    id="id-df484fd3800642498cb0526d3556229a"
-    documentation="A specific set of Roles/Locations/specialties/services that a practitioner may perform at an organization for a period of time.&#xD;&#xA;&#xD;&#xA;http://hl7.org/fhir/R4/practitionerrole.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

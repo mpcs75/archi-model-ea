@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LaboratoriumUitslag"
-    id="id-ad4ab2ccaee944ac8ec071b56083f079"
-    documentation="Een laboratoriumuitslag beschrijft het resultaat van een laboratoriumbepaling. Het gaat hierbij om monster-geörienteerde bepalingen zoals deze verricht worden in laboratoria als Klinische chemie, Serologie, Microbiologie etc.&#xD;&#xA;Behalve de uitkomsten van testen met een enkelvoudig resultaat kan dit concept ook de uitkomsten van meer complexe testen met meervoudige resultaten of 'panel' bevatten. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/LaboratoriumUitslag-v4.6(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

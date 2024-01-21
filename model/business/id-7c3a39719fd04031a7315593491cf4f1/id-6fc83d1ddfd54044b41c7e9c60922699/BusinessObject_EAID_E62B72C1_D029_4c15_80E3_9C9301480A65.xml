@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opleiding"
-    id="EAID_E62B72C1_D029_4c15_80E3_9C9301480A65"
-    documentation="Alle gegevens rondom opleiding en training die nodig zijn om aan de gekoppelde competenties te kunnen voldoen.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

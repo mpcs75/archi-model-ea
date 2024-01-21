@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Jaarplan"
-    id="EAID_7332A0A2_9DD0_483a_BB54_BB3033B7F8EC"
-    documentation="Verantwoording van het plan voor het komend (boek)jaar">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

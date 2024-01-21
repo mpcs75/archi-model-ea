@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Appointment"
-    id="id-aaf40464f904420da36d7e9761143d40"
-    documentation="A booking of a healthcare event among patient(s), practitioner(s), related person(s) and/or device(s) for a specific date/time. This may result in one or more Encounter(s).&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/appointment.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

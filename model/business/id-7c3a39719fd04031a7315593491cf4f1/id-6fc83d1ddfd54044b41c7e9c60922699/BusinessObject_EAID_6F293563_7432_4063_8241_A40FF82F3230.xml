@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innovatieagenda"
-    id="EAID_6F293563_7432_4063_8241_A40FF82F3230"
-    documentation="Strategisch plan met daarin de richting en alle bijbehorende activiteiten die gericht zijn op vernieuwing in een organisatie.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

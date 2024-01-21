@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inventaris"
-    id="EAID_1861B7F7_5474_42e4_BF80_FD055D9F09CD"
-    documentation="Inboedel">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

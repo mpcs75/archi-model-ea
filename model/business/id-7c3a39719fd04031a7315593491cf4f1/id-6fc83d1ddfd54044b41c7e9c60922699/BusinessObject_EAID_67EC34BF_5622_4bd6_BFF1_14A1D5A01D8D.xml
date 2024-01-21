@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hardware"
-    id="EAID_67EC34BF_5622_4bd6_BFF1_14A1D5A01D8D"
-    documentation="Alle fysieke (aanraakbare) onderdelen van een computer en de randapparatuur. Monitoren, routers, hubs, printers en scanners behoren onder andere tot de categorie hardware.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

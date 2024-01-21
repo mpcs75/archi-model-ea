@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Resource"
-    id="EAID_823AD3B0_A35B_4d54_90A5_0DB375A41DB6"
-    documentation="Mensen en andere immateriële activa die binnen een zorginstelling worden ingezet ter ondersteuning van het zorgproces">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verzorgplan"
-    id="EAID_A2F84D47_3045_49b6_9B75_D56A0FE7D317"
-    documentation="Verzorgplan bevat het Dieet">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

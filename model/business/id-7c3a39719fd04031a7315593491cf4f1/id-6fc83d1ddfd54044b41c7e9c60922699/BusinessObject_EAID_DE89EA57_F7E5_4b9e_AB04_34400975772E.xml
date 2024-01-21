@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Missie"
-    id="EAID_DE89EA57_F7E5_4b9e_AB04_34400975772E"
-    documentation="De missie van een organisatie is een relatief statische en bondige omschrijving van de primaire functie(s), de opdracht of de bestaansreden van de organisatie, die weinig of niet evolueert in de loop der jaren.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

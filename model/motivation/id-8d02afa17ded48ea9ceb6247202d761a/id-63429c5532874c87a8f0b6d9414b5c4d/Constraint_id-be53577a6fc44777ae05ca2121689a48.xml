@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wet foetaal weefsel (Wfw)"
-    id="id-be53577a6fc44777ae05ca2121689a48"
-    documentation="- Regelt het zorgvuldig gebruiken en bewaren van foetaal weefsel.&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/zorgwetten-2&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0012983&#xD;&#xA;&#xD;&#xA;Wikipedia: -">
-  <properties
-      key="Classificatie"
-      value="Specifieke zorgwet"/>
-</archimate:Constraint>

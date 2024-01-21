@@ -1,9 +1,0 @@
-<archimate:Goal
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Optimale inzet capaciteit"
-    id="id-6349aa1c95b042fcb2e4adf1c7d07849"
-    documentation="Optimaal inzetten van de beschikbare capaciteit de we hebben, zonder verspilling van tijd, energie en geld.">
-  <properties
-      key="Classificatie"
-      value="IZA"/>
-</archimate:Goal>

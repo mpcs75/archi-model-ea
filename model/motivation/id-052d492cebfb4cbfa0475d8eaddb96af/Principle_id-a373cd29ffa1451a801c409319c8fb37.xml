@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbare data"
-    id="id-a373cd29ffa1451a801c409319c8fb37"
-    documentation="Data is beschikbaar voor alle betrokkenen in het zorgnetwerkvan een burger en voor de burger zelf.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

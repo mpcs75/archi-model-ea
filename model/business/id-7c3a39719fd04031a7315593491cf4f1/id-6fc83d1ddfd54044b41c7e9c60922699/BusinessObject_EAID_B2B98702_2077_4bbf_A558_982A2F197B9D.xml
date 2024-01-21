@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verrichting"
-    id="EAID_B2B98702_2077_4bbf_A558_982A2F197B9D"
-    documentation="Administratieve code die informatie bevat over handelingen die zijn uitgevoerd door een zorgverlener in het kader van diagnose of behandeling.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

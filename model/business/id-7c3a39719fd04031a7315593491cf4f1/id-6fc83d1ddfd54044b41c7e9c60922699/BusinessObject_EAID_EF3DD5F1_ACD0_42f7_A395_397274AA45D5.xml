@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leverancier"
-    id="EAID_EF3DD5F1_ACD0_42f7_A395_397274AA45D5"
-    documentation="De natuurlijke of rechtspersoon die goederen levert">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

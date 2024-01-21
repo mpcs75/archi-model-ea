@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leergroep"
-    id="EAID_1B2D7EB1_1D0E_4aad_B741_D61812BD877E"
-    documentation="Een verzameling van deelnemers die gemeenschappelijk leeractiviteiten uitvoeren. (bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

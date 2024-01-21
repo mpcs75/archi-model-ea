@@ -1,5 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kwaliteitsbewaking"
-    id="id-2b5408ef48a84d6db53bbaaade00e159"
-    documentation="Functionaliteit voor de Bewaking en signalering van (mogelijke) fouten (verkeerde patient, verkeerde dosis, verkeerde tijd, verkeerde vervolgstap)"/>

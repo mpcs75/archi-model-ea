@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verstrekkingsverzoek"
-    id="EAID_5B8C6923_3EBE_4af2_BDF2_DF36051F660F"
-    documentation="Medicatievoorschrift van een arts aan een apotheker om de patiënt van een bepaald medicijn te voorzien.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

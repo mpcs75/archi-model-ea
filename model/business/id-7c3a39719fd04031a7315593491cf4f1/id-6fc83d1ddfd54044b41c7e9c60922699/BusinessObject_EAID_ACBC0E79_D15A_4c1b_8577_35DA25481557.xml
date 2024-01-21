@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Operatieverslag"
-    id="EAID_ACBC0E79_D15A_4c1b_8577_35DA25481557"
-    documentation="Vastlegging van het verloop van een uitgevoerde operatie, inclusief gebruikte materialen.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

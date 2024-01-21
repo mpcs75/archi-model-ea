@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leveringsovereenkomst"
-    id="EAID_7C54C1A2_3119_464a_9B17_8218A716C66F"
-    documentation="Beschrijving van de leveringsvoorwaarden">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

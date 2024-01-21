@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MMI Onderzoek"
-    id="EAID_8BF3D3B6_2125_4730_B431_C413E6874DC3"
-    documentation="Het uitvoeren en verslagleggen van microbiologisch en immunologisch labonderzoek.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

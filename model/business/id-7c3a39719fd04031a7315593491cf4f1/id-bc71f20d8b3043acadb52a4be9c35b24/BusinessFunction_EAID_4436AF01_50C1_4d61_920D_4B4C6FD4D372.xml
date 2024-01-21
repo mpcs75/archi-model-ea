@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Planning &amp; Control"
-    id="EAID_4436AF01_50C1_4d61_920D_4B4C6FD4D372"
-    documentation="Het geheel van activiteiten om te bepalen wat er in een bepaalde periode moet gebeuren (planning), de rapportage daarover en de benodigde bijsturing en uiteindelijke verantwoording over de behaalde resultaat (control).">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

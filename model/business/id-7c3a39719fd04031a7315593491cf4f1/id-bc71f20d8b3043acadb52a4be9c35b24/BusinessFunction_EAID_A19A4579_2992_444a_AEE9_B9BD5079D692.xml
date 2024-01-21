@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Financiële administratie"
-    id="EAID_A19A4579_2992_444a_AEE9_B9BD5079D692"
-    documentation="Het zorgdragen voor alle inkomende en uitgaande financiële stromen.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

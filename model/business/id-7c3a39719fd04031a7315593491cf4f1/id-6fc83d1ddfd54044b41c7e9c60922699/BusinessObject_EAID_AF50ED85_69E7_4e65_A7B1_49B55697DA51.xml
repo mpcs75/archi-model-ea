@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verslag"
-    id="EAID_AF50ED85_69E7_4e65_A7B1_49B55697DA51"
-    documentation="Registratie van een specifiek aanvullend diagnostisch onderzoek">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

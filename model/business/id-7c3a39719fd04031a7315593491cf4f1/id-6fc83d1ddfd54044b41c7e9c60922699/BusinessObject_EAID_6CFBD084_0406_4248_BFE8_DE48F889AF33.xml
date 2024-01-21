@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Juridisch advies"
-    id="EAID_6CFBD084_0406_4248_BFE8_DE48F889AF33"
-    documentation="Adviseren op juridisch vlak over medisch-ethische kwesties en het afhandelen van schadeclaims en klachten">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

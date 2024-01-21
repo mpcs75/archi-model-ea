@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Algemene Gegevens Verordening (AVG)"
-    id="id-9f0359280b554166b536dfce1f14a5d5"
-    documentation="De AVG regelt de privacy rechten van burgers.&#xD;&#xA;&#xD;&#xA;- Inzage: u heeft het recht om te zien welke gegevens van u worden verzameld.&#xD;&#xA;- Correctie: u kunt vragen om gegevens die niet kloppen, te laten aanpassen.&#xD;&#xA;- Verwijdering: u heeft het recht gegevens die niet (meer) van belang zijn, te laten wissen.&#xD;&#xA;- Beperking: u kunt vragen om minder gegevens te verzamelen, bijvoorbeeld als er meer gegevens worden gevraagd dan nodig is.&#xD;&#xA;- Overdraagbaarheid: u kunt vragen om uw gegevens door te geven aan een andere organisatie.&#xD;&#xA;- Bezwaar: u kunt bezwaar maken tegen het gebruik van bepaalde gegevens.&#xD;&#xA;- Informatie: u heeft recht op duidelijke informatie over wat een organisatie met uw persoonsgegevens doet en waarom.&#xD;&#xA; &#xD;&#xA;bron: https://www.rijksoverheid.nl/onderwerpen/privacy-en-persoonsgegevens/privacyregels-beschermen-persoonsgegevens&#xD;&#xA;&#xD;&#xA;AVG: https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&amp;qid=1685451198313&#xD;&#xA;UAVG: https://wetten.overheid.nl/BWBR0040940/2021-07-01 (Nederlandse nadere invulling)">
-  <properties
-      key="Classificatie"
-      value="Europese regelgeving"/>
-</archimate:Constraint>

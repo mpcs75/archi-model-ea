@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BEHANDELING"
-    id="EAID_29EEDB30_1821_4b61_80C9_F8CEF513BED3"
-    documentation="Behandeling van de patiënt">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

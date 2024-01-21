@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Software"
-    id="EAID_8159C1A2_77ED_4ecf_AE0B_57783DAD0DC0"
-    documentation="De besturings- en toepassingsprogramma`s, procedures en bijbehorende documentatie die betrekking hebben op de werking van een computersysteem.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

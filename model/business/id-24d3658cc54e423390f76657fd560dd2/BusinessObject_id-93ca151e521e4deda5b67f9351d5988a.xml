@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DrugsGebruik"
-    id="id-93ca151e521e4deda5b67f9351d5988a"
-    documentation="Drugs (ook wel: verdovende middelen, stimulerende middelen, bedwelmingsmiddelen, roesmiddelen, geestverruimende middelen, verboden middelen of dope) is een verzamelnaam voor geneesmiddelen en genotsmiddelen die een meer of minder 'drogerende' (verdovende, opwekkende en/of hallucinogene) werking hebben en die tot verslaving kunnen leiden. Drug [Online] Beschikbaar op: nl.Wikipedia.org/wiki/drug [Geraadpleegd: 11 februari 2015].&#xD;&#xA;&#xD;&#xA;Deze bouwsteen beschrijft de bij de patiënt uitgevraagde gegevens over het gebruik van drugs. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/DrugsGebruik-v3.3(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

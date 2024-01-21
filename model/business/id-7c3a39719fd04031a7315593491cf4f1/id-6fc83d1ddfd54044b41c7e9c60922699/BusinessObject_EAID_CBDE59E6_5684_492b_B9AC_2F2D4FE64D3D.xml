@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adviesverslag"
-    id="EAID_CBDE59E6_5684_492b_B9AC_2F2D4FE64D3D"
-    documentation="Vastlegging van het gegeven advies.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

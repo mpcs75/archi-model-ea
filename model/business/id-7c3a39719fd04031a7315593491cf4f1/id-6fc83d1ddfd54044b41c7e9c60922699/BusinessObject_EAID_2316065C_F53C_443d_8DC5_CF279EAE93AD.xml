@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Privacybeleid"
-    id="EAID_2316065C_F53C_443d_8DC5_CF279EAE93AD"
-    documentation="Beschrijving van de wijze waarop informatie over personen of groepen wordt medegedeeld aan anderen en hoe de persoonlijke vrijheid wordt geborgd.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

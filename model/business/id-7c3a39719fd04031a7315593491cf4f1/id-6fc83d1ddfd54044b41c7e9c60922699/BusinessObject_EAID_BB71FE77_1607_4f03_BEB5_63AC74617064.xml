@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgaanbieder"
-    id="EAID_BB71FE77_1607_4f03_BEB5_63AC74617064"
-    documentation="Organisatie die zorg verleent uit hoofde van een bepaalde kwalificatie en/of goedkeuring hiertoe van een bevoegde instantie.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

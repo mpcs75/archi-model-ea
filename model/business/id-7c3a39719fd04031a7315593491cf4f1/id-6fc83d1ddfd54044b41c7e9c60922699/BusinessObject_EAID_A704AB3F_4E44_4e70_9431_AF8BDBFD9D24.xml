@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Decursus"
-    id="EAID_A704AB3F_4E44_4e70_9431_AF8BDBFD9D24"
-    documentation="Beschrijving van het chronologisch verloop van het ziekteproces van een pati?nt en van de voortgang van de behandeling, opgeschreven/samengevat door de arts.&#xA;NB: Er bestaan verschillende opvattingen/invullingen van het begrip decursus.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgverzekeringswet (Zvw)"
-    id="id-e8f90e71fedf429a910d23e03ec3ae17"
-    documentation="- Basisaanspraken op zorg&#xD;&#xA;- Verplichting van basiszorgverzekering&#xD;&#xA;- Toelating tot basiszorgverzekering&#xD;&#xA;- Financiering van basiszorgverzekering&#xD;&#xA;&#xD;&#xA;Publicatie: https://wetten.overheid.nl/BWBR0018450">
-  <properties
-      key="Classificatie"
-      value="Stelselwet"/>
-</archimate:Constraint>

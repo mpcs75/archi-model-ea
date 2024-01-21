@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAS"
-    id="id-3dd52aaab8da4e6c9ebc1e44a1b1f35a"
-    documentation="De Disease Activity Score (DAS) is een gecombineerde index die rond 1990 in Nijmegen is ontwikkeld om de ziekteactiviteit bij patiënten met reumatoïde artritis (RA) te meten. Het betreft een formule met 28 of 44 pijnlijke en gezwollen gewrichten, een bloedwaarde voor ontsteking (BSE of CRP) en de globale beleving van ziekteactiviteit door de patiënt. De DAS geeft een getal tussen 0 en 10, waarmee wordt aangegeven hoe actief de reumatoïde artritis op dit moment is. De score is gevalideerd voor gebruik in klinische trials in combinatie met de EULAR-responscriteria. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/DAS-v1.0(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

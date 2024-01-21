@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identificatie applicatie"
-    id="id-8fdb5e310e854e2aa093b94f767c8825"
-    documentation="Het overleggen van een geldig identiteitsbewijs waarmee de identiteit van een applicatie kan worden vastgesteld (zelf toegevoegd)&#xD;&#xA;&#xD;&#xA;Handmatige controle Digitale controle (DigiD (evt. via TVS), IRMA)">
-  <properties
-      key="Classificatie"
-      value="Generieke functie"/>
-</archimate:Capability>

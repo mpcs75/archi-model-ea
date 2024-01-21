@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Medicatiegegevens"
-    id="id-92c50cfcbaea4771b138299aa50a408f"
-    documentation="Apotheken kunnen via het Landelijk Schakelpunt medische gegevens van patiënten delen met andere zorgverleners. Dat gaat om medicatiegegevens: medicijnen die aan de patiënten zijn verstrekt en gegevens over zijn intoleranties, contra-indicaties en allergieën.&#xD;&#xA;&#xD;&#xA;https://www.aorta-lsp.nl/zorgtoepassingen/medicatiegegevens">
-  <properties
-      key="Classificatie"
-      value="Gegevensdienst"/>
-</archimate:ApplicationService>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overige P&amp;O"
-    id="EAID_98075FEF_A483_4bf0_9096_9B2FACE74D39"
-    documentation="Overige informatieobjecten voor P&amp;O omvat o.a. vacature, sollicitant, vrijwilliger en competentie.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

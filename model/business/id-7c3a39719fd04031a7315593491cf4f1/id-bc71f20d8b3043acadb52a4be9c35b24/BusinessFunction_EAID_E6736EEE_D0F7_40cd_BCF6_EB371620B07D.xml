@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Therapie"
-    id="EAID_E6736EEE_D0F7_40cd_BCF6_EB371620B07D"
-    documentation="Vorm van behandeling dat zich bezighoudt met behandeling of genezing van ziekten of de verlichting van symptomen.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

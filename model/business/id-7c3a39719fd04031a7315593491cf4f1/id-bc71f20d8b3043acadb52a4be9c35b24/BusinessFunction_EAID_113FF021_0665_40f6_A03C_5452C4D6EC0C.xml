@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderzoeksontwikkeling"
-    id="EAID_113FF021_0665_40f6_A03C_5452C4D6EC0C"
-    documentation="Het zorgen voor een geaccepteerd onderzoeksvoorstel.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

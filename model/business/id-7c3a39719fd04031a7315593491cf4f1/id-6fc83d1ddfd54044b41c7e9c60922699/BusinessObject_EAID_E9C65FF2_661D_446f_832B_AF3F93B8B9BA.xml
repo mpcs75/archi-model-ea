@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prestatie-indicator"
-    id="EAID_E9C65FF2_661D_446f_832B_AF3F93B8B9BA"
-    documentation="Een kwantificeerbare, meetbare indicatie die laat zien of een organisatie of organisatie-eenheid erin geslaagd is een bepaalde doelstelling te bereiken.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

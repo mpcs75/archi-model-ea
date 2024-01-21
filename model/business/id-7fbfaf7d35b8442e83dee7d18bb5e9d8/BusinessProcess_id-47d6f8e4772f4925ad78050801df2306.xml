@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren behandeling"
-    id="id-47d6f8e4772f4925ad78050801df2306"
-    documentation="Het uitvoeren van de behandeling van een patiënt op basis van een behandelplan, gericht op herstel, voorkoming van verergering van een aandoening of de verlichting van symptomen. Het toepassen van zowel middelen en maatregelen als somatische zorg gerelateerd aan verblijf valt ook binnen deze bedrijfsactiviteit.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

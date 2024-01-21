@@ -1,9 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgondersteuning"
-    id="id-445b3b955c334b58bc07c85430d1bec6"
-    documentation="Activiteiten die de zorg ondersteunen">
-  <properties
-      key="Classificatie"
-      value="RDC"/>
-</archimate:Grouping>

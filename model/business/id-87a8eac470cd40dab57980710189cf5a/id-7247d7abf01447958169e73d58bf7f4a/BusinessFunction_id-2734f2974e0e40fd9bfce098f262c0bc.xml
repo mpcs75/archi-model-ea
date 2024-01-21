@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanvullend onderzoek"
-    id="id-2734f2974e0e40fd9bfce098f262c0bc"
-    documentation="Dit domein bevat de activiteiten op het gebied van het doen van intern of extern aanvullend onderzoek ten behoeve van toeleiding of behandeling van de patiënt.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessFunction>

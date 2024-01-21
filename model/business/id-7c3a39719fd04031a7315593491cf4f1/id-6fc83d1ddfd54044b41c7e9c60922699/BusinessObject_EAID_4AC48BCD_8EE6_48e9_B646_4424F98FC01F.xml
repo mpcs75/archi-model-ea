@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Therapieplan"
-    id="EAID_4AC48BCD_8EE6_48e9_B646_4424F98FC01F"
-    documentation="Vastlegging van het plan t.a.v. de te leveren paramedische zorg aan de patiënt, met als doel het verlichten of wegnemen van  gezondheidsklachten of gebreken..">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

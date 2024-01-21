@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderzoeksdata"
-    id="EAID_12D4E35C_4E7F_47d2_95C2_BBA8D0FB63BE"
-    documentation="De tijdens het onderzoek verzamelde data.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

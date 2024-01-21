@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architectuurmethode structureel volgen"
-    id="id-1d9b8349d9ab46f58b53991b665ed48b"
-    documentation="Er is een samenhangende architectuurmethode die door alle architecten gedeeld wordt. De methode is gebaseerd op een raamwerk of model.&#xD;&#xA;&#xD;&#xA;Controlepunten&#xD;&#xA;- Er is een gedeelde architectuurmethode binnen de organisatie.&#xD;&#xA;- Bij het opstellen van een architectuur wordt de voorgeschreven architectuurmethode op hoofdlijnen gevolgd.&#xD;&#xA;- Bij het opstellen van een architectuur worden de eventuele afwijkingen op de voorgeschreven architectuurmethode beargumenteerd en gedocumenteerd.&#xD;&#xA;&#xD;&#xA;Verbetersuggesties&#xD;&#xA;- Architectuurmethode invoeren. Voer een organisatiebrede architectuurmethode in. Dat wil zeggen dat er afspraken worden gemaakt over welke architecturen onderscheiden worden, hoe die architecturen worden vastgelegd en hoe ze tot stand komen. Er kan gekozen worden voor een standaard modelleertaal of de architecten kunnen hun eigen conventies afspreken op basis van goede eigen voorbeelden."/>

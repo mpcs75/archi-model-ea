@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VermogenTotUiterlijkeVerzorging"
-    id="id-1d66a0159e30450e8a793e6a104b099f"
-    documentation="Onder uiterlijk verzorging wordt verstaan het schoonhouden/verzorgen van huid (make-up), haar (en indien van toepassing baard/snor) en nagels. En dit is een is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied. Het wassen van het haar valt hier niet onder, dit valt onder vermogen om zich te wassen.&#xD;&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere eten, zich kleden en zich wassen, ook aangeduid als algemene dagelijkse levensverrichtingen (ADL). Dit zijn de handelingen die mensen dagelijks in het gewone leven verrichten. De mate waarin een persoon al deze activiteiten zelfstandig kan verrichten zijn een maat voor de totale zelfredzaamheid.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VermogenTotUiterlijkeVerzorging-v1.0.1(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

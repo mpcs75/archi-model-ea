@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lichaamstemperatuur"
-    id="id-071fb36480284f3e8ad95ad37099349e"
-    documentation="Het meten en vastleggen van de lichaamstemperatuur van een persoon als surrogaat voor de centrale lichaamstemperatuur (de hoogste temperatuur midden in de romp) van een persoon &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Lichaamstemperatuur-v3.1.2(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wet op de medische keuringen"
-    id="id-a925c0685c2546549aa4fedfdb045f1e"
-    documentation="- &#xD;&#xA;Zo werkt de zorg: &#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0008819&#xD;&#xA;&#xD;&#xA;Wikipedia: ">
-  <properties
-      key="Classificatie"
-      value="Specifieke zorgwet"/>
-</archimate:Constraint>

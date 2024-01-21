@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vervoersmiddel"
-    id="id-6ca4634f07204ed7ba6eedfa7203c9ea"
-    documentation="Vervoersmiddel met onderhoudstatus, type, identificatienummer, stalling/parkeergegevens, leasecontract">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

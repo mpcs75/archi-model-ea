@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toetsactiviteit"
-    id="EAID_E5DB5E99_3C48_4c18_9DF3_0305DBE380B8"
-    documentation="Een deelnemeractiviteit die de kennis, het inzicht en de vaardigheden van een deelnemer onderzoekt en die dient te leiden tot een toetsresultaat. (bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

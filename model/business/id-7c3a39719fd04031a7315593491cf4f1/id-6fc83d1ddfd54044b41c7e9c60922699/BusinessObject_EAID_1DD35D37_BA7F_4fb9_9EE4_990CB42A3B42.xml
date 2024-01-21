@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zelfmanagementinformatie"
-    id="EAID_1DD35D37_BA7F_4fb9_9EE4_990CB42A3B42"
-    documentation="Nog door de behandelend arts te valideren informatie verkregen van de pati?nt als resultaat van zijn eigen zorgproces bijvoorbeeld meting, dagboek, foto, etc. Dit kan worden verkregen uit bijvoorbeeld ingevulde vragenlijsten of een persoonlijk gezondheidsdossier.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

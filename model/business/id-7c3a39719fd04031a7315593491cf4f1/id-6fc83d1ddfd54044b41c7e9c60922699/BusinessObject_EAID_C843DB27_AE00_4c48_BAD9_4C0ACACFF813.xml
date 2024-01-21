@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadata"
-    id="EAID_C843DB27_AE00_4c48_BAD9_4C0ACACFF813"
-    documentation="Informatie over de gegevens. Definitie van gegevens(entiteiten). Alle informatie benodigd voor management van gegevens">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

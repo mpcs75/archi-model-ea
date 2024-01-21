@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klacht"
-    id="EAID_F3CEC31C_CF8D_470e_BCEB_D07A6156AE93"
-    documentation="Een subjectieve, als negatief ervaren waarneming van de gezondheid.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

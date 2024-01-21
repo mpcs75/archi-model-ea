@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Valorisatie onderzoek"
-    id="EAID_0153A5BB_C264_40e9_99B8_EA98C192C4F6"
-    documentation="Het beschikbaar en geschikt maken van onderzoeksresultaten (publicaties, onderzoeksgegevens) voor de toepassing in producten, processen en diensten zoals interactie met de maatschappij en private organisaties.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

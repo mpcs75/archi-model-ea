@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ZORG-ID"
-    id="id-3446aae5a09e40d0a2c16afa91becb39"
-    documentation="Werkt u met een UZI-pas? Dan is ZORG-ID ook voor u hét authenticatieplatform in de zorg! ZORG-ID stelt softwareleveranciers in staat om hun klanten - zorgaanbieders die gebruikmaken van UZI-passen - zich snel en veilig te identificeren en authenticeren. Naast de functionaliteit van ZORG-ID met de UZI-pas en paslezer, is er nu ook de mogelijkheid van het gebruik van ZORG-ID op de smartphone (ZORG-ID Smart). Dit werkt veilig, snel en met minder UZI-passen tijdens het zorgproces.&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten/gemeenschappelijke-diensten/zorg-id&#xD;&#xA;">
-  <properties
-      key="Classificatie"
-      value="Gegevensdienst"/>
-</archimate:ApplicationService>

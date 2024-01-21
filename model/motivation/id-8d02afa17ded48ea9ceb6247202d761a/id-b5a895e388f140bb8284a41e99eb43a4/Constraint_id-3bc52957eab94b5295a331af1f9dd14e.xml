@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wetboek van strafrecht (WvSr)"
-    id="id-3bc52957eab94b5295a331af1f9dd14e"
-    documentation="- Strafbare gedragingen voor hulpverleners&#xD;&#xA;&#xD;&#xA;Zo werkt de zorg: https://app.zwdz.nl/algemene-wetten&#xD;&#xA;&#xD;&#xA;Publicatie van de wet: https://wetten.overheid.nl/BWBR0001854&#xD;&#xA;&#xD;&#xA;Wikipedia: https://nl.wikipedia.org/wiki/Wetboek_van_Strafrecht_(Nederland)">
-  <properties
-      key="Classificatie"
-      value="Algemene wet"/>
-</archimate:Constraint>

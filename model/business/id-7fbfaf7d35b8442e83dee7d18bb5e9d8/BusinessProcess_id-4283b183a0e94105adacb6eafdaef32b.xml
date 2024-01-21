@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plannen personen"
-    id="id-4283b183a0e94105adacb6eafdaef32b"
-    documentation="Vaststellen en plannen van gewenste inzet van personen.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

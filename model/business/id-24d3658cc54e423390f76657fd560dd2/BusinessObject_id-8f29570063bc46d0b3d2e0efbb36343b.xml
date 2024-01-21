@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VerpleegkundigeInterventie"
-    id="id-8f29570063bc46d0b3d2e0efbb36343b"
-    documentation="Een verpleegkundige interventie is de verzorging en/of behandeling die een verpleegkundige uitvoert op basis van een deskundig oordeel en klinische kennis. Het is een onderdeel van het verpleegkundige proces; interventies worden bepaald naar aanleiding van geïndiceerde zorgproblemen (verpleegkundige diagnoses) en op grond van behandeldoelen. In de lijn van de NEN-EN-ISO 18104 norm is het mogelijk om verpleegkundige interventies in een hiërarchie te structureren, waarbij de ene interventie deel uitmaakt van een ander.&#xD;&#xA;In de thuiszorg situatie kunnen na instructie sommige acties ook door de patient zelf of door een mantelzorger verricht worden. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/VerpleegkundigeInterventie-v3.2(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

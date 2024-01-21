@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toedieningsafspraak"
-    id="EAID_7AF9D019_1628_4b2c_819F_048CFC6E7767"
-    documentation="De levering van een medicatieproduct aan een specifieke patiënt (of de toediener of een vertegenwoordiger), met de bedoeling dat het gebruikt wordt volgens een meegeleverde instructie (meestal als uitvoering van het verstrekkingsverzoek in een medicatievoorschrift).">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

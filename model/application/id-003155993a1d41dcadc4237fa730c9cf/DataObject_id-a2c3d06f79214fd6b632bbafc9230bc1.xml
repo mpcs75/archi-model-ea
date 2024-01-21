@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ClaimResponse"
-    id="id-a2c3d06f79214fd6b632bbafc9230bc1"
-    documentation="This resource provides the adjudication details from the processing of a Claim resource.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/claimresponse.html&#xD;&#xA;">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

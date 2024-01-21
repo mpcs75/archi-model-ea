@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vaststellen zorgbehoefte"
-    id="EAID_8656A828_2F50_4ec0_A143_745A42B2E599"
-    documentation="Pre-conditie: verwijzing&#xA;Post-conditie: er is een contact gepland">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessProcess>

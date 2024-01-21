@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Personeel en organisatie"
-    id="id-43322ae637d741f69d60649bc6e27dcc"
-    documentation="De activiteiten en informatie nodig voor een kwalitatief goed personeelsbeheer&#xD;&#xA;">
-  <properties
-      key="Classificatie"
-      value="RDC"/>
-</archimate:BusinessFunction>

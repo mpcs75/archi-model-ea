@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Voortgangsrapportage"
-    id="EAID_D1E4B3D1_1003_4101_94D8_09B4775C3951"
-    documentation="De voortgangsrapportage is een periodieke rapportage van een opdrachtnemer aan de opdrachtgever. De rapportage beschrijft de status en de voortgang van een bepaalde afspraak/opdracht.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

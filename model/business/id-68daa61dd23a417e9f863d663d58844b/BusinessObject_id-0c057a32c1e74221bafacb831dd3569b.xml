@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatieplan"
-    id="id-0c057a32c1e74221bafacb831dd3569b"
-    documentation="Beschrijft, afgeleid van de businessstrategie, de gewenste inrichting van de informatievoorziening (informatiehuishouding) in relatie tot de business, het migratiepad om de gewenste situatie te bereiken en de gehanteerde inrichtingskeuzes en principes.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

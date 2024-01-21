@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overzicht studies"
-    id="EAID_9E4ADDA4_3B3A_4d87_ACAE_7BB5B3C4EC0B"
-    documentation="Een compleet overzicht van alle binnen de zorginstelling lopende onderzoeken.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

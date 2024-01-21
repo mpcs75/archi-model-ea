@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Agenda"
-    id="EAID_C8B083B7_4D1A_4438_B35A_7D219BA2ADC3"
-    documentation="Een overzicht met data en tijdstippen waarin de geplande afspraken van één specifieke resource (persoon of middel) zijn vastgelegd. Een groepsagenda is een aggregatie van meerdere agenda's.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verantwoording"
-    id="EAID_70BF4586_8DFF_4cf2_B88B_0785028D90E4"
-    documentation="Verantwoording van het ziekenhuis aan zijn omgeving.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Volgjezorg"
-    id="id-752983fcdbed402cae9e583b4d673a6f"
-    documentation="Volgjezorg maakt voor een patiënt zichtbaar welke gegevens er met toestemming van de patiënt via het Landelijk Schakelpunt zijn gedeeld.&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten/gemeenschappelijke-diensten/volgjezorg">
-  <properties
-      key="Classificatie"
-      value="Gegevensdienst"/>
-</archimate:ApplicationService>

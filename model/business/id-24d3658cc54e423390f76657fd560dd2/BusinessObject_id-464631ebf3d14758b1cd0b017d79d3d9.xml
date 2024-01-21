@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Huidaandoening"
-    id="id-464631ebf3d14758b1cd0b017d79d3d9"
-    documentation="Een huidaandoening is een door een nader aan te duiden oorzaak ontstane verstoring van het orgaan huid.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Huidaandoening-v3.3(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

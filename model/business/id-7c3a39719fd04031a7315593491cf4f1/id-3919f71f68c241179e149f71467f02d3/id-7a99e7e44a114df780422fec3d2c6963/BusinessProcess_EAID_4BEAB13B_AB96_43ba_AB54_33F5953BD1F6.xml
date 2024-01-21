@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inhoudelijk ondersteunen van het onderzoek (assistentie)"
-    id="EAID_4BEAB13B_AB96_43ba_AB54_33F5953BD1F6"
-    documentation="Hulp bij onderzoek omvat literatuuronderzoek, laboratoriumvoorbereiding, werving van onderwerpen, analyse van bevindingen, voorbereiding van manuscripten en andere werkproducten, enz.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessProcess>

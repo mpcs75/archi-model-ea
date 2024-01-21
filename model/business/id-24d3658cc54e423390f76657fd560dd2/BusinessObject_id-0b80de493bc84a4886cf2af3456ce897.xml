@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ademhaling"
-    id="id-0b80de493bc84a4886cf2af3456ce897"
-    documentation="Bij de ademhaling of respiratie stroomt er lucht naar en van de longen, waar de gasuitwisseling plaatsvindt, waarbij zuurstof vanuit de lucht wordt opgenomen in het bloed en koolstofdioxide wordt afgegeven aan de lucht. Observaties van de spontane ademhaling zoals deze meestal geregistreerd worden als onderdeel van de observatie van de vitale functies. &#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Ademhaling-v3.2(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

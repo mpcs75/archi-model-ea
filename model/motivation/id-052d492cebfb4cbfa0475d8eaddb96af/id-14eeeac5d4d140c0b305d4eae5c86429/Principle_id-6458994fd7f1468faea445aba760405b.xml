@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontwikkeling gericht op werkproces"
-    id="id-6458994fd7f1468faea445aba760405b"
-    documentation="Zorgverleners kunnen toepassingen (laten) ontwikkelen die gericht zijn op hun werkproces zonder daarbij afhankelijk te zijn van de primaire leveranciers van het informatiesysteem van de zorgaanbieder.">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

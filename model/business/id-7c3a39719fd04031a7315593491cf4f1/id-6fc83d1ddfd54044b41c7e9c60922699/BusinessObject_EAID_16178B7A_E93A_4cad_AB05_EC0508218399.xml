@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Medicatieverstrekking"
-    id="EAID_16178B7A_E93A_4cad_AB05_EC0508218399"
-    documentation="Beschrijving van het ter hand stellen van een geneesmiddel.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

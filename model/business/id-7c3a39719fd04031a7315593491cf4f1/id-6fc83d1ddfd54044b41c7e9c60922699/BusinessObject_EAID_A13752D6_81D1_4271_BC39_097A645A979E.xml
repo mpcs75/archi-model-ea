@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanvraag/planning klinische beweging"
-    id="EAID_A13752D6_81D1_4271_BC39_097A645A979E"
-    documentation="Verzoek tot planning en uitvoering van een klinische beweging (opname/ontslag/overplaatsing) zorgtraject.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

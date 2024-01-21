@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Geen beperking op toegankelijkheid"
-    id="id-f7050f5cfd4e403aaa57fe87577fa921"
-    documentation="Bestaande leveranciers mogen de toegankelijkheid van data niet beperken anders dan vereist door het gezondheidsinformatiestelsel;">
-  <properties
-      key="Classificatie"
-      value="NVS"/>
-</archimate:Principle>

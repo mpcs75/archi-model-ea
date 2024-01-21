@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EpisodeOfCare"
-    id="id-851b618dfbaa4b3bb5e13d9a8878c428"
-    documentation="An association between a patient and an organization / healthcare provider(s) during which time encounters may occur. The managing organization assumes a level of responsibility for the patient during this time.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/episodeofcare.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

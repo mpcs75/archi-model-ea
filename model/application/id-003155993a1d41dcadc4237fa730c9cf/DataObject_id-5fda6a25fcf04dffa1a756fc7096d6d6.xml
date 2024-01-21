@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MeasureReport"
-    id="id-5fda6a25fcf04dffa1a756fc7096d6d6"
-    documentation="The MeasureReport resource contains the results of the calculation of a measure; and optionally a reference to the resources involved in that calculation.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/measurereport.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

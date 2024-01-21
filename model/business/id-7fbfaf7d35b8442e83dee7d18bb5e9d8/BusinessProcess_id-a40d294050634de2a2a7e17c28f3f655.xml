@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plannen middelen"
-    id="id-a40d294050634de2a2a7e17c28f3f655"
-    documentation="Vaststellen en plannen van gewenste inzet van middelen (medisch en niet medisch) zoals bedden, apparatuur, diagnostische instrumenten en voeding.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

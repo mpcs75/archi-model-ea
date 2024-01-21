@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Patient"
-    id="EAID_9AC10705_F70B_4aac_88ED_50EC3ACD1B53"
-    documentation="Administratieve informatie over een patiënt. Dit is een persoon die zorg (bv. medisch, paramedisch of verpleegkundig) ontvangt van een zorgverlener.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

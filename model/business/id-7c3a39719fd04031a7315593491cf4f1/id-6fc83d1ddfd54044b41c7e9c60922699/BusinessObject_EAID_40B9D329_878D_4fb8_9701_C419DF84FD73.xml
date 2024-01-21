@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Locatie"
-    id="EAID_40B9D329_878D_4fb8_9701_C419DF84FD73"
-    documentation="Plaats of ruimte waar patiëntenzorg (bijv. consultatie, behandeling en diagnostiek) plaatsvindt.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

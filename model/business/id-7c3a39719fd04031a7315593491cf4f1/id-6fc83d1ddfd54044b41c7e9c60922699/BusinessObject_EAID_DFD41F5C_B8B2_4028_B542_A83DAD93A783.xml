@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Competentie"
-    id="EAID_DFD41F5C_B8B2_4028_B542_A83DAD93A783"
-    documentation="Een geïntegreerd geheel van kennis, vaardigheden, inzicht en houding, dat nodig is om in een beroepscontext beroepsproducten te realiseren die aan de geldende kwaliteitseisen voldoen. Competenties zijn samengesteld van karakter, verwijzen naar onderliggende vaardigheids-, kennis- en houdingsdomeinen en worden in een context toegepast en ontwikkeld (COLO, 2007). (bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

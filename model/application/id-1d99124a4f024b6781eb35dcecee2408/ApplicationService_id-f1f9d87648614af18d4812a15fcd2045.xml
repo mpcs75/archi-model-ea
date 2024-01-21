@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LSP+"
-    id="id-f1f9d87648614af18d4812a15fcd2045"
-    documentation="LSP+ is de dienst voor zorgaanbieders die het Landelijk Schakelpunt (LSP) koppelt met MedMij. MedMij zorgt ervoor dat iedereen die dat wil, kan beschikken over zijn gezondheidsgegevens in een zelfgekozen persoonlijke gezondheidsomgeving (PGO). De patiënt vraagt via zijn PGO gegevens op. Deze vraag wordt door LSP+ aan het zorginformatiesysteem van de zorgaanbieder, die op het LSP is aangesloten, gesteld.&#xD;&#xA;&#xD;&#xA;https://www.vzvz.nl/diensten/gemeenschappelijke-diensten/lsp">
-  <properties
-      key="Classificatie"
-      value="Gegevensdienst"/>
-</archimate:ApplicationService>

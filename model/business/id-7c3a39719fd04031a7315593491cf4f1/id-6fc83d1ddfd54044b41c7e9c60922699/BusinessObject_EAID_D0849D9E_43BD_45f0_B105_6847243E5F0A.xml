@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgverlener"
-    id="EAID_D0849D9E_43BD_45f0_B105_6847243E5F0A"
-    documentation="Persoon die beroepsmatig zorg verleent uit hoofde van een bepaalde kwalificatie en/of goedkeuring hiertoe van een bevoegde instantie..">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

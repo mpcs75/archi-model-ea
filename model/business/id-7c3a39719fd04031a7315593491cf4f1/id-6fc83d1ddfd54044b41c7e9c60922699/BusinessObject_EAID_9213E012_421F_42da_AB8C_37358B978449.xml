@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgverzekeraar"
-    id="EAID_9213E012_421F_42da_AB8C_37358B978449"
-    documentation="Aanbieder van zorgverzekering, contractpartij voor zorgaanbieder/zorgverlener.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

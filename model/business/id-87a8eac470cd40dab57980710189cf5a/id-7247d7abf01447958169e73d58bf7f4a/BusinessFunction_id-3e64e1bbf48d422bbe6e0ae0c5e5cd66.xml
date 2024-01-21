@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toeleiding"
-    id="id-3e64e1bbf48d422bbe6e0ae0c5e5cd66"
-    documentation="Dit domein bevat de activiteiten op het gebied van het bepalen van de noodzakelijke zorg op basis van een gestelde diagnose en de vaststelling daarvan in de vorm van een behandelplan.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessFunction>

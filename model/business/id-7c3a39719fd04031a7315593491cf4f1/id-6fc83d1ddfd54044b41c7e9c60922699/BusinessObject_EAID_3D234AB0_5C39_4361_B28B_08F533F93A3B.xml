@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitslag eigen onderzoek"
-    id="EAID_3D234AB0_5C39_4361_B28B_08F533F93A3B"
-    documentation="Bevindingen van het onderzoek dat door de zorgverlener zelf is uitgevoerd.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

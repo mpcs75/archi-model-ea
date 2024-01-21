@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Molecular-Sequence"
-    id="id-b1511198643041a68b7a8a0e889cf1a6"
-    documentation="Raw data describing a biological sequence.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/molecularsequence.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

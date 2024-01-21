@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Projectplan"
-    id="EAID_C6A4C8C6_AFF0_40ed_A890_5606C75D0667"
-    documentation="Overzichten van de stappen die gezet moeten worden om een project uit te voeren.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

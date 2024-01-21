@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FarmaceutischProduct"
-    id="id-4cbbf34b06a34b68b6fe8b8021154a3a"
-    documentation="Het voorgeschreven middel is vrijwel steeds een geneesmiddel. Hulp- en verbandmiddelen kunnen echter ook voorgeschreven en via de apotheek geleverd worden. Voedingsmiddelen en bloedproducten vallen strikt genomen niet onder de categorie geneesmiddelen, maar kunnen worden voorgeschreven, en door een apotheek geleverd worden.&#xD;&#xA;&#xD;&#xA;Het is mogelijk om met één enkele code een medicatiesoort aan te duiden, waarbij die code gekozen kan zijn uit meerdere mogelijke coderingssystemen (concreet GPK, PRK, HPK of artikelnummers). Door een juiste toepassing van deze codes in de softwaresystemen leggen deze codes de samenstelling van het gebruikte middel voldoende vast en is een complete productspecificatie niet nodig.&#xD;&#xA;&#xD;&#xA;Het is mogelijk om naast een primaire code ook alternatieve codes uit andere coderingssystemen aan te duiden (zodat bijvoorbeeld de GPK kan worden meegestuurd als is geregistreerd op basis van PRK).&#xD;&#xA;&#xD;&#xA;Door meerdere ingrediënten op te geven wordt het mogelijk om een samengesteld product weer te geven.&#xD;&#xA;Het is dan mogelijk om zowel impliciet te specificeren (door een medicatiecode te gebruiken) als expliciet de samenstelling van de medicatie aan te duiden, bijvoorbeeld door de (actieve) ingrediënt(en) van de medicatie te benoemen.&#xD;&#xA;&#xD;&#xA;Het is mogelijk om magistrale receptuur door te geven. Dit kan door bovenbedoelde mogelijkheid om gecodeerd ingrediënten aan te duiden en/of door de samenstelling en bereidingswijze als vrije tekst door te geven.Dit is een subbouwsteen&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/FarmaceutischProduct-v2.1.2(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

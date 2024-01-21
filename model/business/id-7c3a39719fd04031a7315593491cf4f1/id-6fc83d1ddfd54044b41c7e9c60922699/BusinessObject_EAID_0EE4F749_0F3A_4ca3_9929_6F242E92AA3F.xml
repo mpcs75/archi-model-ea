@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interventie"
-    id="EAID_0EE4F749_0F3A_4ca3_9929_6F242E92AA3F"
-    documentation="Interventie is een conditionele Activiteit.&#xA;E.g. in het verpleegplan staat bijvoorbeeld:&#xA;Als patient hoofdpijn heeft, geef hem dan paracetamol.&#xA;Als de patient dan hoofdpijn heeft en je geeft paracetamol, dan is dat een Interventie.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

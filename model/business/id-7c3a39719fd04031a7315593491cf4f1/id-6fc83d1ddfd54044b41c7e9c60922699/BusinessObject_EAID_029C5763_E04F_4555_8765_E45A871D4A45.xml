@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Waardedocument"
-    id="EAID_029C5763_E04F_4555_8765_E45A871D4A45"
-    documentation="Het bewijsstuk van een eindoordeel over het voltooien van een promotie, opleiding, minor of onderwijseenheid door een instelling. (bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

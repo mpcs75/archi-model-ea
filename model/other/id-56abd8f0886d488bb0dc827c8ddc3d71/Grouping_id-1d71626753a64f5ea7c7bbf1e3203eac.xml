@@ -1,9 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsondersteuning"
-    id="id-1d71626753a64f5ea7c7bbf1e3203eac"
-    documentation="Bedrijfsondersteunende activiteiten.">
-  <properties
-      key="Classificatie"
-      value="RDC"/>
-</archimate:Grouping>

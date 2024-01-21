@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ResearchElementDefinition"
-    id="id-98aa7fd167214f6b8e19317ea396e6b0"
-    documentation="The ResearchElementDefinition resource describes a &quot;PICO&quot; element that knowledge (evidence, assertion, recommendation) is about.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/researchelementdefinition.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

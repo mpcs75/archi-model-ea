@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verzorgingsverslag"
-    id="EAID_C79128E3_847A_4b62_A27B_321AB712C0D7"
-    documentation="Vastleggen van observaties van de patiënt door de zorgverlener.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

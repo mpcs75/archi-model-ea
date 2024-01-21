@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijsmateriaal"
-    id="EAID_D4216A98_211A_46a2_910B_8834C378B0E9"
-    documentation="Materiaal dat gebruikt wordt bij het overdragen of toetsen van kennis en competenties. (bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

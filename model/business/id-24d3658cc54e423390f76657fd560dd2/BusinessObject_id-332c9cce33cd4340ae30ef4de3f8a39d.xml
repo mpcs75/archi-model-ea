@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgverlener"
-    id="id-332c9cce33cd4340ae30ef4de3f8a39d"
-    documentation="Een zorgverlener is een persoon die bevoegd is om handelingen uit te voeren op het gebied van de individuele gezondheidszorg.&#xD;&#xA;&#xD;&#xA;bron en meer info: https://zibs.nl/wiki/Zorgverlener-v3.5(2020NL)">
-  <properties
-      key="Classificatie"
-      value="Zib 2020"/>
-</archimate:BusinessObject>

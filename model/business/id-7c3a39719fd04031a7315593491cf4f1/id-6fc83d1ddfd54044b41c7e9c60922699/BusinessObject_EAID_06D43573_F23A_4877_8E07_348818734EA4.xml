@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Services"
-    id="EAID_06D43573_F23A_4877_8E07_348818734EA4"
-    documentation="Aangeboden dienst of product zoals parkeergelegenheid, catering, winkels, (vergader)ruimte, telecomfaciliteiten, mobiliteitsmiddelen, afval, sterilisatie, repro, post, etc.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

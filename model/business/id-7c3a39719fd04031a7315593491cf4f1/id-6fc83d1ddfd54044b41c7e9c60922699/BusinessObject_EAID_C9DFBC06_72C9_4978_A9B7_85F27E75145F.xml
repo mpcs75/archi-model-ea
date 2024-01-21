@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijseenheidresultaat"
-    id="EAID_C9DFBC06_72C9_4978_A9B7_85F27E75145F"
-    documentation="Het samengestelde resultaat van een onderwijseenheid gebaseerd op onderliggende toetsresultaten.(bron HORA)">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

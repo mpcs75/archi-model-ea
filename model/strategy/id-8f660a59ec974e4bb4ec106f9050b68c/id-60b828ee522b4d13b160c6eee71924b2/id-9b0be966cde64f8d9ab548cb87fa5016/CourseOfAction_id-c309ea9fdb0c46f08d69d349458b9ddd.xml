@@ -1,9 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="d. Beschikbaarheid zorgidentiteit"
-    id="id-c309ea9fdb0c46f08d69d349458b9ddd"
-    documentation="Uiterlijk in de eerste helft van 2025 kan de zorgidentiteit van zorgverleners uit het UZI-register worden opgehaald met verschillende erkende inlogmiddelen. Het register kan breed worden ingezet voor identificatie en authenticatie in de zorg, ook voor niet BIG-geregistreerde zorgprofessionals.">
-  <properties
-      key="Classificatie"
-      value="IZA"/>
-</archimate:CourseOfAction>

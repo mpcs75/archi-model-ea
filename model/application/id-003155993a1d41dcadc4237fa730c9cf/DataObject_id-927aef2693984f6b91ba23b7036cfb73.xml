@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ResearchDefinition"
-    id="id-927aef2693984f6b91ba23b7036cfb73"
-    documentation="The ResearchDefinition resource describes the conditional state (population and any exposures being compared within the population) and outcome (if specified) that the knowledge (evidence, assertion, recommendation) is about&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/researchdefinition.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

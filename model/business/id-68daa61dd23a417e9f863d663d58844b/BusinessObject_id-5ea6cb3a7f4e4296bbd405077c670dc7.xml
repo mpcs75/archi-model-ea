@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VKAM-advies"
-    id="id-5ea6cb3a7f4e4296bbd405077c670dc7"
-    documentation="Adviseren op VKAM-vakgebied, zoals bij de aanschaf en implementatie van nieuwe apparatuur en hulpmiddelen, (verzuim)preventie, et cetera.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessObject>

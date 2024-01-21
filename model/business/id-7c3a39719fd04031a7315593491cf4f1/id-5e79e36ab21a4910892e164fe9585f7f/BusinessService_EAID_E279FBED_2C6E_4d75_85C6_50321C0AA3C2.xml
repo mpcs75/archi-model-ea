@@ -1,8 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandelplan"
-    id="EAID_E279FBED_2C6E_4d75_85C6_50321C0AA3C2">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessService>

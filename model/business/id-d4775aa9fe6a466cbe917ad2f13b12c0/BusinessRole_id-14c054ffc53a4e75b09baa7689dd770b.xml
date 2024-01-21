@@ -1,8 +1,0 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zorgverlener GGZ"
-    id="id-14c054ffc53a4e75b09baa7689dd770b">
-  <properties
-      key="Classificatie"
-      value="Use Case"/>
-</archimate:BusinessRole>

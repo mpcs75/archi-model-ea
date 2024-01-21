@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RequestGroup"
-    id="id-d97cd303add84763843b91957e4fc918"
-    documentation="A group of related requests that can be used to capture intended activities that have inter-dependencies such as &quot;give this medication after that one&quot;.&#xD;&#xA;&#xD;&#xA;https://hl7.org/fhir/R4/requestgroup.html">
-  <properties
-      key="Classificatie"
-      value="FHIR R4"/>
-</archimate:DataObject>

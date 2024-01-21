@@ -1,9 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="b. (open) internationale standaarden"
-    id="id-0dbb60b064ed4b60b4ef9127c642a2b4"
-    documentation="Bij het uitwisselen van gegevens en het ontwikkelen van nieuwe informatiestandaarden wordt, waar mogelijk, gebruik gemaakt van (open) internationale informatiestandaarden. Dit komt de interoperabiliteit en daarmee kwaliteit van zorg ten goede en helpt tegen verdere vendor lock-in.">
-  <properties
-      key="Classificatie"
-      value="IZA"/>
-</archimate:CourseOfAction>

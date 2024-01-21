@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vaststellen overlijden"
-    id="id-29aebaea81a54983a1816868d4fd2ea7"
-    documentation="Vaststellen van het overlijden van een patiënt en de verdere afhandeling van een sterfgeval.">
-  <properties
-      key="Classificatie"
-      value="RDG"/>
-</archimate:BusinessProcess>

@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toetsing onderwijs"
-    id="EAID_3895D5AF_2109_49e8_A3BA_A2A294173D84"
-    documentation="Het testen van de resultaten van het onderwijs.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessFunction>

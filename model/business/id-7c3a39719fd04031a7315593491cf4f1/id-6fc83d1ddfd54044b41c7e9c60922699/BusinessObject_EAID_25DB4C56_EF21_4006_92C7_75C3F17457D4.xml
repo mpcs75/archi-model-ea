@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wettelijke VKAM-registraties"
-    id="EAID_25DB4C56_EF21_4006_92C7_75C3F17457D4"
-    documentation="Vastlegging van gegevens op basis van wettelijke verplichtingen voor VKAM zoals gevaarlijke stoffenregistratie, stralingshygi?ne en milieuregistratie.">
-  <properties
-      key="Classificatie"
-      value="ZIRA 1.3"/>
-</archimate:BusinessObject>

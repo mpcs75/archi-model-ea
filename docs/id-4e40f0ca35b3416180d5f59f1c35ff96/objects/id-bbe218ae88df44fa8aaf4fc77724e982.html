@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>FHIR R4 Resources</title>
+	<title>Informatiestandaard(en)</title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,11 +21,11 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>FHIR R4 Resources</b>
+               <b>Informatiestandaard(en)</b>
 
             <!-- If a View with Viewpoint -->
-			   (<span class="i18n-elementtype-Grouping"></span>)
-			   <a class="glyphicon glyphicon-info-sign" id="hint-Grouping" target="hint"></a>
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
 		</div>
 
 		<div class="panel-body root-panel-body">
@@ -41,8 +41,10 @@
                     <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
 
                     <!-- Analysis -->
-                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
 
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
 				</ul>
 
 				<!-- Tab panes -->
@@ -59,7 +61,6 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr><td>Classificatie</td><td class="convertlinks no-margin" style="white-space:pre-wrap">FHIR R4</td></tr>
 							</tbody>
 						</table>
 					</div>
@@ -73,10 +74,6 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr id="used-in-views-id-207d44bb61b2450c81c383d83011f9f9">
-																	<td><a href="../views/id-207d44bb61b2450c81c383d83011f9f9.html" target="view" title="01. FHIR resource datamodel [v4.0.1]"> 01. FHIR resource datamodel [v4.0.1] </a></td>
-																	<td><span class="i18n-viewpoint-" /></td>
-																</tr>
 							</tbody>
 						</table>
 						<table class="table table-striped table-hover table-condensed" id="model-relations">
@@ -90,35 +87,43 @@
 								</tr>
 							</thead>
 							<tbody>
-									<tr>
-											<td><a href="../elements/id-27a034b64a83465fa2818679fa5a2542.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
-											<td><a href="../elements/id-57be02843c7847cabc7a8c3d1a4fd564.html" target="element"> FHIR R4 Resources</a></td>
-											<td><a href="../elements/id-c673abd98ec84503a39997225d006f02.html" target="element"> Specialized</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-2abc6ec00059436086977ddbbc1bddf1.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
-											<td><a href="../elements/id-57be02843c7847cabc7a8c3d1a4fd564.html" target="element"> FHIR R4 Resources</a></td>
-											<td><a href="../elements/id-67bb8357fe1246daa982dcd4299e738c.html" target="element"> Financial</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-4296ed7454e549f783305b851abd0461.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
-											<td><a href="../elements/id-57be02843c7847cabc7a8c3d1a4fd564.html" target="element"> FHIR R4 Resources</a></td>
-											<td><a href="../elements/id-4349ad70ec314bdd8d5348960f615191.html" target="element"> Foundation</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-588c971d6cfb435a88cd19de1fd71035.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
-											<td><a href="../elements/id-57be02843c7847cabc7a8c3d1a4fd564.html" target="element"> FHIR R4 Resources</a></td>
-											<td><a href="../elements/id-82cd533bc73d46aead53da728413310d.html" target="element"> Clinical</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-6a888d44d2494e36a01cfe577696dc5a.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
-											<td><a href="../elements/id-57be02843c7847cabc7a8c3d1a4fd564.html" target="element"> FHIR R4 Resources</a></td>
-											<td><a href="../elements/id-b963526bc60d4fbf85eb3b70d44869bc.html" target="element"> Base</a></td>
-										</tr>
 							</tbody>
 						</table>
 					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+									        <tr>
+									           <td> <a href="../objects/id-9e47e65fa204460bb626bfec36b9ec08.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-9e47e65fa204460bb626bfec36b9ec08.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+
+								</tbody>
+							</table>
+						</div>
 			  </div>
 			</div>
 		</div>

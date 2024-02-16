@@ -4455,11 +4455,17 @@
 											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-e6fbb187c81b444fa2f78a23d08465fd", contenttype:"BusinessProcess"});
 												dataElements.push({id:"id-e6fbb187c81b444fa2f78a23d08465fd", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Beschikbaarstellen+ICA+informatie"), documentation:decodeURL("ICA+%28intoleranties%2C+contra-indicaties+en+allergie%C3%ABn%29+informatie+beschikbaar+stellen+aan+andere+zorgaanbieders.")});
 											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-8224fa6f61e841f2b60581f5a42bcd69", contenttype:"BusinessProcess"});
-												dataElements.push({id:"id-8224fa6f61e841f2b60581f5a42bcd69", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Beschkbaarstellen+verstrekte+medicatie+informatie"), documentation:decodeURL("Verstrekte+%28baxter%29medicatie+en+beschikbaar+stellen+aan+andere+zorgaanbieders.")});
+												dataElements.push({id:"id-8224fa6f61e841f2b60581f5a42bcd69", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Beschikbaarstellen+verstrekte+medicatie+informatie"), documentation:decodeURL("Verstrekte+%28baxter%29medicatie+beschikbaar+stellen+aan+andere+zorgaanbieders.")});
 											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-9ed6cd6ea04e4516b57f028271ac2ca1", contenttype:"BusinessProcess"});
 												dataElements.push({id:"id-9ed6cd6ea04e4516b57f028271ac2ca1", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Opvragen+ICA+informatie"), documentation:decodeURL("ICA-gegevens+opvragen+bij+andere+zorgaanbieders.")});
 											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-f80ea3078c3146f98570f88d14e534b2", contenttype:"BusinessProcess"});
 												dataElements.push({id:"id-f80ea3078c3146f98570f88d14e534b2", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Opvragen+verstrekte+medicatie+informatie"), documentation:decodeURL("Verstrekte+medicatie+opvragen+bij+andere+zorgaanbieders.")});
+											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-df7e4eada0a14787a9a357cb3a9d73fc", contenttype:"BusinessProcess"});
+												dataElements.push({id:"id-df7e4eada0a14787a9a357cb3a9d73fc", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Digitale+interventies+toewijzen"), documentation:decodeURL("Als+zorgverlener+kan+ik+digitale+interventies+toewijzen+aan+mijn+pati%C3%ABnt.")});
+											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-2579b8fa534941709f120acdca18ce41", contenttype:"BusinessProcess"});
+												dataElements.push({id:"id-2579b8fa534941709f120acdca18ce41", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Digitale+interventies+uitvoeren"), documentation:decodeURL("Als+pati%C3%ABnt+kan+ik+de+door+mijn+zorverlener+aan+mij+toegewezen+interventies+uitvoeren.")});
+											dataFoldersContent.push({folderid:"id-30fc0df28d4442ad955086a1dba04996", contentid:"id-ad18b3dc19634b5fa66527494bc5d060", contenttype:"BusinessProcess"});
+												dataElements.push({id:"id-ad18b3dc19634b5fa66527494bc5d060", type:"BusinessProcess", specialization:decodeURL(""), name:decodeURL("Voortgang+volgen+van+digitale+interventies."), documentation:decodeURL("Als+zorgverlener+kan+ik+het+uitvoeren+van+digitale+interventies+door+mijn+pati%C3%ABnt+volgen.")});
 
 										dataFoldersContent.push({folderid:"id-a22183a7f42842d68e2293467a246fb4", contentid:"id-33fb7035514f449bbfee98b679c50942", contenttype:"Folder"});
 										dataFolders.push({id:"id-33fb7035514f449bbfee98b679c50942", type:"Folder", name:decodeURL("Informatie"), documentation:decodeURL("")});
@@ -10912,6 +10918,12 @@
 											dataRelationships.push({id:"id-013aba77cd054f79a61ba548ca96730b", type:"AssignmentRelationship", specialization:decodeURL(""), name:decodeURL("voert+uit"), documentation:decodeURL(""), sourceid:"id-2afb4ad2ce154dcfa996b9e446370a92", targetid:"id-9ed6cd6ea04e4516b57f028271ac2ca1"});
 
 
+									dataFoldersContent.push({folderid:"id-1bc81b087c024580abf5fe7b350de4c4", contentid:"id-1a9a0f09b1d6472087832e4f766bb5a3", contenttype:"AggregationRelationship"});
+										dataRelationships.push({id:"id-1a9a0f09b1d6472087832e4f766bb5a3", type:"AggregationRelationship", specialization:decodeURL(""), name:decodeURL(""), documentation:decodeURL(""), sourceid:"id-fb1040b4a3ea4eca8561827f8029a5a2", targetid:"id-df7e4eada0a14787a9a357cb3a9d73fc"});
+									dataFoldersContent.push({folderid:"id-1bc81b087c024580abf5fe7b350de4c4", contentid:"id-dd27ebcf28d74e248976800187b12aac", contenttype:"AggregationRelationship"});
+										dataRelationships.push({id:"id-dd27ebcf28d74e248976800187b12aac", type:"AggregationRelationship", specialization:decodeURL(""), name:decodeURL(""), documentation:decodeURL(""), sourceid:"id-fb1040b4a3ea4eca8561827f8029a5a2", targetid:"id-2579b8fa534941709f120acdca18ce41"});
+									dataFoldersContent.push({folderid:"id-1bc81b087c024580abf5fe7b350de4c4", contentid:"id-5a25a1823a36402083ffafe04ec69fcf", contenttype:"AggregationRelationship"});
+										dataRelationships.push({id:"id-5a25a1823a36402083ffafe04ec69fcf", type:"AggregationRelationship", specialization:decodeURL(""), name:decodeURL(""), documentation:decodeURL(""), sourceid:"id-fb1040b4a3ea4eca8561827f8029a5a2", targetid:"id-ad18b3dc19634b5fa66527494bc5d060"});
 
 								dataFoldersContent.push({folderid:"id-4e40f0ca35b3416180d5f59f1c35ff96", contentid:"id-ac5cde4c2bba49dc94a097aa2fc54794", contenttype:"Folder"});
 								dataFolders.push({id:"id-ac5cde4c2bba49dc94a097aa2fc54794", type:"Folder", name:decodeURL("Views"), documentation:decodeURL("")});
@@ -17825,6 +17837,13 @@
 															dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-fb1040b4a3ea4eca8561827f8029a5a2", contenttype:"BusinessFunction"});
 																	dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-59afffa77d23413f87f39db3c2b6a921", contenttype:"ArchimateDiagramModel"});
 															
+															dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-df7e4eada0a14787a9a357cb3a9d73fc", contenttype:"BusinessProcess"});
+															dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-2579b8fa534941709f120acdca18ce41", contenttype:"BusinessProcess"});
+															dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-ad18b3dc19634b5fa66527494bc5d060", contenttype:"BusinessProcess"});
+
+																					dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-1a9a0f09b1d6472087832e4f766bb5a3", contenttype:"AggregationRelationship"});
+																					dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-dd27ebcf28d74e248976800187b12aac", contenttype:"AggregationRelationship"});
+																					dataViewsContent.push({viewid:"id-06e17849831d4705af2020603f5c3a88", contentid:"id-5a25a1823a36402083ffafe04ec69fcf", contenttype:"AggregationRelationship"});
 
 															
 
@@ -18986,6 +19005,7 @@
 													dataViewsContent.push({viewid:"id-7baa2e9bbeeb44e587ed02251e5b4d3e", contentid:"id-58e3e03072e145a08c3ef010ede3f500", contenttype:"SketchModel"});
 													dataViewsContent.push({viewid:"id-7baa2e9bbeeb44e587ed02251e5b4d3e", contentid:"id-6bfa0abe1076494f9e869d78b299bbc3", contenttype:"SketchModel"});
 													dataViewsContent.push({viewid:"id-7baa2e9bbeeb44e587ed02251e5b4d3e", contentid:"id-05761d6d45034e8bb17cdacdab67aedf", contenttype:"ArchimateDiagramModel"});
+													dataViewsContent.push({viewid:"id-7baa2e9bbeeb44e587ed02251e5b4d3e", contentid:"id-3c6cc57da26a4821b81e43659ecdc15c", contenttype:"SketchModel"});
 
 										dataFoldersContent.push({folderid:"id-ce7d2e84e5854318861d73c40fb4bf62", contentid:"id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f", contenttype:"SketchModel"});
 											dataViews.push({id:"id-c96a3ce3e4ce4e03bf0ce28e43f6ca7f", type:"SketchModel", name:decodeURL("02.+5-lagenmodel+als+indeling"), documentation:decodeURL("Bij+het+samenstellen+van+het+model+en+de+weergaven+neem+ik+het+5-lagenmodel+van+Nictiz+als+uitgangspunt.+Het+model+heb+ik+echter+wel+een+beetje+aangepast+zodat+deze+beter+overeenkomt+met+hoe+ikzelf+tegen+de+lagen+aankijk.+Niet+iedereen+hoeft+het+daar+mee+eens+te+zijn%2C+het+is+tenslotte+een+persoonlijke+weergave+van+een+architectuur+waar+je+verder+niets+mee+hoeft+te+doen.%0D%0A%0D%0A%3E%3E+Klik+op+de+diverse+lagen+in+het+model+voor+een+toelichting")});
@@ -19001,11 +19021,31 @@
 
 									dataFoldersContent.push({folderid:"id-ac5cde4c2bba49dc94a097aa2fc54794", contentid:"id-5c1dea77db6d460388f23496a04d8023", contenttype:"Folder"});
 									dataFolders.push({id:"id-5c1dea77db6d460388f23496a04d8023", type:"Folder", name:decodeURL("04.+Gezondheidsinformatiestelsel"), documentation:decodeURL("")});
-										dataFoldersContent.push({folderid:"id-5c1dea77db6d460388f23496a04d8023", contentid:"id-3f876e53383b4521a5e0fab14feec220", contenttype:"SketchModel"});
-											dataViews.push({id:"id-3f876e53383b4521a5e0fab14feec220", type:"SketchModel", name:decodeURL("Gezondheidsinformatiestelsel"), documentation:decodeURL("")});
-														dataProperties.push({conceptid:"id-3f876e53383b4521a5e0fab14feec220", propkey:decodeURL("_hide_from_export_"), propvalue:decodeURL("true")});
+										dataFoldersContent.push({folderid:"id-5c1dea77db6d460388f23496a04d8023", contentid:"id-4130c949f4e749a2bfd53b4bcea2cc86", contenttype:"Folder"});
+										dataFolders.push({id:"id-4130c949f4e749a2bfd53b4bcea2cc86", type:"Folder", name:decodeURL("01.+Afsprakenstelsel"), documentation:decodeURL("")});
+											dataFoldersContent.push({folderid:"id-4130c949f4e749a2bfd53b4bcea2cc86", contentid:"id-1d2349a181554a28b1c18bd9fa7e6fbf", contenttype:"SketchModel"});
+												dataViews.push({id:"id-1d2349a181554a28b1c18bd9fa7e6fbf", type:"SketchModel", name:decodeURL("00.+Afsprakenstelsel"), documentation:decodeURL("")});
+														dataViewsContent.push({viewid:"id-1d2349a181554a28b1c18bd9fa7e6fbf", contentid:"id-3c6cc57da26a4821b81e43659ecdc15c", contenttype:"SketchModel"});
+														
+														
+														
 
-													dataViewsContent.push({viewid:"id-3f876e53383b4521a5e0fab14feec220", contentid:"id-7baa2e9bbeeb44e587ed02251e5b4d3e", contenttype:"SketchModel"});
+														
+														
+														
+
+											dataFoldersContent.push({folderid:"id-4130c949f4e749a2bfd53b4bcea2cc86", contentid:"id-0b28be6607b1415f9aee81d7a4f908ce", contenttype:"SketchModel"});
+												dataViews.push({id:"id-0b28be6607b1415f9aee81d7a4f908ce", type:"SketchModel", name:decodeURL("01.+Voorziening"), documentation:decodeURL("")});
+											dataFoldersContent.push({folderid:"id-4130c949f4e749a2bfd53b4bcea2cc86", contentid:"id-ad509f7772044cccbd3204f2ef592953", contenttype:"SketchModel"});
+												dataViews.push({id:"id-ad509f7772044cccbd3204f2ef592953", type:"SketchModel", name:decodeURL("02.+Besturing"), documentation:decodeURL("")});
+											dataFoldersContent.push({folderid:"id-4130c949f4e749a2bfd53b4bcea2cc86", contentid:"id-1fd6a031c14a4d37aaa9aa25989eb92b", contenttype:"SketchModel"});
+												dataViews.push({id:"id-1fd6a031c14a4d37aaa9aa25989eb92b", type:"SketchModel", name:decodeURL("03.+Samenwerking"), documentation:decodeURL("")});
+
+
+										dataFoldersContent.push({folderid:"id-5c1dea77db6d460388f23496a04d8023", contentid:"id-3c6cc57da26a4821b81e43659ecdc15c", contenttype:"SketchModel"});
+											dataViews.push({id:"id-3c6cc57da26a4821b81e43659ecdc15c", type:"SketchModel", name:decodeURL("Gezondheidsinformatiestelsel"), documentation:decodeURL("")});
+													dataViewsContent.push({viewid:"id-3c6cc57da26a4821b81e43659ecdc15c", contentid:"id-7baa2e9bbeeb44e587ed02251e5b4d3e", contenttype:"SketchModel"});
+													dataViewsContent.push({viewid:"id-3c6cc57da26a4821b81e43659ecdc15c", contentid:"id-1d2349a181554a28b1c18bd9fa7e6fbf", contenttype:"SketchModel"});
 
 
 
